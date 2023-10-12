@@ -53,6 +53,16 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-10-12】[fanmingming / live](https://github.com/fanmingming/live) - ✯ 一个国内可直连的直播源分享项目 ✯ 🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕
+* 【2023-10-12】[XuanchenLin / NanUI](https://github.com/XuanchenLin/NanUI) - NanUI is an open source .NET project for .NET developers who want to create desktop applications with HTML, CSS and JavaScript.
+* 【2023-10-12】[kepano / flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
+* 【2023-10-12】[chao325 / MaoTai_GUIT](https://github.com/chao325/MaoTai_GUIT) - JD京东抢购、京东抢茅台Windows端、开箱即用无需配置环境。开发在即（开源协议采用Apache License）抢茅台外挂，茅台脚本
+* 【2023-10-12】[ros-planning / moveit2](https://github.com/ros-planning/moveit2) - 🤖 MoveIt for ROS 2
+* 【2023-10-12】[karpathy / nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
+* 【2023-10-12】[microsoft / TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+* 【2023-10-12】[doocs / leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
+* 【2023-10-12】[hashicorp / consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+* 【2023-10-12】[kubernetes / ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes
 * 【2023-10-11】[MetaGLM / FinGLM](https://github.com/MetaGLM/FinGLM) - 
 * 【2023-10-11】[binary-husky / gpt_academic](https://github.com/binary-husky/gpt_academic) - 为ChatGPT/GLM提供实用化交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。
 * 【2023-10-11】[Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
@@ -112,6 +122,22 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[microsoft / promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 ## Go
 
+* 【2023-10-12】[robfig / cron](https://github.com/robfig/cron) - a cron library for go
+* 【2023-10-12】[sourcegraph / conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
+* 【2023-10-12】[wux1an / wxapkg](https://github.com/wux1an/wxapkg) - 微信小程序 .wxapkg 文件扫描 + 解密 + 解包工具
+* 【2023-10-12】[Mrs4s / go-cqhttp](https://github.com/Mrs4s/go-cqhttp) - cqhttp的golang实现，轻量、原生跨平台.
+* 【2023-10-12】[kubernetes / kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
+* 【2023-10-12】[apache / incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth.
+* 【2023-10-12】[onsi / ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
+* 【2023-10-12】[docker / compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
+* 【2023-10-12】[gogs / gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+* 【2023-10-12】[securego / gosec](https://github.com/securego/gosec) - Golang security checker
+* 【2023-10-12】[pressly / goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
+* 【2023-10-12】[containers / skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
+* 【2023-10-12】[grpc-ecosystem / grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
+* 【2023-10-12】[google / cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
+* 【2023-10-12】[deepmap / oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
+* 【2023-10-12】[IBM / sarama](https://github.com/IBM/sarama) - Sarama is a Go library for Apache Kafka.
 * 【2023-10-11】[bytebase / bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for Developer, DBA and Platform Engineering team.
 * 【2023-10-11】[Azure / azure-container-networking](https://github.com/Azure/azure-container-networking) - Azure Container Networking Solutions for Linux and Windows Containers
 * 【2023-10-11】[gitleaks / gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
@@ -187,6 +213,18 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[labstack / echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 ## Python
 
+* 【2023-10-12】[nerfstudio-project / nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
+* 【2023-10-12】[huggingface / trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
+* 【2023-10-12】[ansible / ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+* 【2023-10-12】[n0a / telegram-get-remote-ip](https://github.com/n0a/telegram-get-remote-ip) - Get IP address on other side audio call in Telegram.
+* 【2023-10-12】[XPixelGroup / DiffBIR](https://github.com/XPixelGroup/DiffBIR) - 
+* 【2023-10-12】[chao325 / QmaoTai](https://github.com/chao325/QmaoTai) - 抢茅台2023最新，京东抢茅台，淘宝抢茅台 QmaoTai
+* 【2023-10-12】[Azure / azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.
+* 【2023-10-12】[pytorch / pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+* 【2023-10-12】[ultralytics / yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
+* 【2023-10-12】[recommenders-team / recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
+* 【2023-10-12】[eric-ai-lab / MiniGPT-5](https://github.com/eric-ai-lab/MiniGPT-5) - Official implementation of paper "MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens"
+* 【2023-10-12】[AlaaLab / InstructCV](https://github.com/AlaaLab/InstructCV) - Codebase for "InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists"
 * 【2023-10-11】[dvlab-research / LongLoRA](https://github.com/dvlab-research/LongLoRA) - Code and documents of LongLoRA and LongAlpaca
 * 【2023-10-11】[wkentaro / labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 * 【2023-10-11】[microsoft / DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
@@ -230,6 +268,20 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[guibacellar / TEx](https://github.com/guibacellar/TEx) - Telegram Monitor
 ## Javascript
 
+* 【2023-10-12】[MetaMask / metamask-extension](https://github.com/MetaMask/metamask-extension) - 🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+* 【2023-10-12】[bradtraversy / vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+* 【2023-10-12】[MetaMask / metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain
+* 【2023-10-12】[processing / p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
+* 【2023-10-12】[chinese-poetry / chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+* 【2023-10-12】[microsoft / Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
+* 【2023-10-12】[jgraph / drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
+* 【2023-10-12】[marcotcr / lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
+* 【2023-10-12】[sadanandpai / frontend-mini-challenges](https://github.com/sadanandpai/frontend-mini-challenges) - Collection of frontend challenges for learning and interviews
+* 【2023-10-12】[zenoamaro / react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
+* 【2023-10-12】[501351981 / vue-office](https://github.com/501351981/vue-office) - 支持word(.docx)、excel(.xlsx)、pdf等各类型office文件预览的vue组件集合，提供一站式office文件预览方案，支持vue2和3，也支持React等非Vue框架。Web-based pdf, excel, word preview library
+* 【2023-10-12】[Automattic / node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
+* 【2023-10-12】[prettier / prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+* 【2023-10-12】[exceljs / exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
 * 【2023-10-11】[vercel / next.js](https://github.com/vercel/next.js) - The React Framework
 * 【2023-10-11】[iamadamdev / bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 * 【2023-10-11】[diegomura / react-pdf](https://github.com/diegomura/react-pdf) - 📄 Create PDF files using React
@@ -303,6 +355,22 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[AbhishekSuresh2 / ABHISHEK-SER](https://github.com/AbhishekSuresh2/ABHISHEK-SER) - ABHISHEK-SER Is A WhatsApp Bot With 300+ Cool Features🎯
 ## C
 
+* 【2023-10-12】[nothings / stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
+* 【2023-10-12】[libevent / libevent](https://github.com/libevent/libevent) - Event notification library
+* 【2023-10-12】[civetweb / civetweb](https://github.com/civetweb/civetweb) - Embedded C/C++ web server
+* 【2023-10-12】[postgres / postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
+* 【2023-10-12】[pgvector / pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
+* 【2023-10-12】[haproxy / haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
+* 【2023-10-12】[torvalds / linux](https://github.com/torvalds/linux) - Linux kernel source tree
+* 【2023-10-12】[mit-pdos / xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - Xv6 for RISC-V
+* 【2023-10-12】[redis / redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+* 【2023-10-12】[gentilkiwi / mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
+* 【2023-10-12】[ValdikSS / GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
+* 【2023-10-12】[apache / age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
+* 【2023-10-12】[jemalloc / jemalloc](https://github.com/jemalloc/jemalloc) - 
+* 【2023-10-12】[cloudwu / skynet](https://github.com/cloudwu/skynet) - A lightweight online game framework
+* 【2023-10-12】[riscv-software-src / riscv-isa-sim](https://github.com/riscv-software-src/riscv-isa-sim) - Spike, a RISC-V ISA Simulator
+* 【2023-10-12】[microsoft / msquic](https://github.com/microsoft/msquic) - Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.
 * 【2023-10-11】[reduz / larvita3](https://github.com/reduz/larvita3) - Larvita 3 Game Engine
 * 【2023-10-11】[kingToolbox / WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
 * 【2023-10-11】[DPDK / dpdk](https://github.com/DPDK/dpdk) - Data Plane Development Kit
@@ -375,6 +443,18 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[flipperdevices / flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 ## C++
 
+* 【2023-10-12】[o3de / o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
+* 【2023-10-12】[facebookincubator / velox](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.
+* 【2023-10-12】[ceph / ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform
+* 【2023-10-12】[Ardour / ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code
+* 【2023-10-12】[finos / perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
+* 【2023-10-12】[google / perfetto](https://github.com/google/perfetto) - Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)
+* 【2023-10-12】[google / googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
+* 【2023-10-12】[zrax / pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
+* 【2023-10-12】[danmar / cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
+* 【2023-10-12】[fmtlib / fmt](https://github.com/fmtlib/fmt) - A modern formatting library
+* 【2023-10-12】[project-chip / connectedhomeip](https://github.com/project-chip/connectedhomeip) - Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.
+* 【2023-10-12】[loveBabbar / CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series) - This repo is creating providing students easy access to all the programs taught under Codehelp's DSA Busted Series.
 * 【2023-10-11】[openvinotoolkit / openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference
 * 【2023-10-11】[raulmur / ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
 * 【2023-10-11】[AngusJohnson / Clipper2](https://github.com/AngusJohnson/Clipper2) - Polygon Clipping and Offsetting - C++, C# and Delphi
@@ -446,6 +526,22 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[carla-simulator / carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 ## Typescript
 
+* 【2023-10-12】[storybookjs / storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+* 【2023-10-12】[toeverything / AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+* 【2023-10-12】[ant-design / pro-components](https://github.com/ant-design/pro-components) - 🏆 Use Ant Design like a Pro!
+* 【2023-10-12】[apache / echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
+* 【2023-10-12】[actions / checkout](https://github.com/actions/checkout) - Action for checking out a repo
+* 【2023-10-12】[TabbyML / tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
+* 【2023-10-12】[streetwriters / notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
+* 【2023-10-12】[Renumics / spotlight](https://github.com/Renumics/spotlight) - Interactively explore unstructured datasets from your dataframe.
+* 【2023-10-12】[NetEase / tango](https://github.com/NetEase/tango) - A source code based low-code builder. Integrate low-code experience into your local development workflow seamlessly.
+* 【2023-10-12】[grafana / grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+* 【2023-10-12】[microsoft / azurechat](https://github.com/microsoft/azurechat) - 🤖 💼 Azure Chat Solution Accelerator powered by Azure Open AI Service
+* 【2023-10-12】[vuejs / vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
+* 【2023-10-12】[video-dev / hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
+* 【2023-10-12】[angular / angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
+* 【2023-10-12】[open-telemetry / opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) - OpenTelemetry JavaScript Client
+* 【2023-10-12】[FlowiseAI / Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 * 【2023-10-11】[DefinitelyTyped / DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 * 【2023-10-11】[payloadcms / payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 * 【2023-10-11】[PostHog / posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
