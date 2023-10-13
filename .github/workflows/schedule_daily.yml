@@ -3,9 +3,9 @@
 name: Daily Github Trending
 
 on:
-  # schedule:
-  #   - cron: "0 1 * * *"
-  workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * *"
+  # workflow_dispatch:
 
 jobs:
   build:
@@ -38,7 +38,7 @@ jobs:
     
     # Runs a set of commands using the runners shell
     - name: Push to origin master
-      if: steps.git-status.outputs.changed != 'true'
+      if: steps.git-status.outputs.changed == 'true'
       run: |
         echo start push
         git config --global user.name "zengzzzzz"
