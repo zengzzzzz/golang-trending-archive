@@ -53,6 +53,22 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-10-14】[bcdannyboy / CVE-2023-44487](https://github.com/bcdannyboy/CVE-2023-44487) - Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487
+* 【2023-10-14】[spacedriveapp / spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+* 【2023-10-14】[public-apis / public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+* 【2023-10-14】[THUDM / CogVLM](https://github.com/THUDM/CogVLM) - a state-of-the-art-level open visual language model
+* 【2023-10-14】[LazyVim / LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
+* 【2023-10-14】[fastfire / deepdarkCTI](https://github.com/fastfire/deepdarkCTI) - Collection of Cyber Threat Intelligence sources from the deep and dark web
+* 【2023-10-14】[stas00 / ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Guides and Tools
+* 【2023-10-14】[flutter / flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+* 【2023-10-14】[microsoft / autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
+* 【2023-10-14】[huggingface / transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+* 【2023-10-14】[Cysharp / UniTask](https://github.com/Cysharp/UniTask) - Provides an efficient allocation free async/await integration for Unity.
+* 【2023-10-14】[metabase / metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋
+* 【2023-10-14】[krishnaik06 / The-Grand-Complete-Data-Science-Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials) - 
+* 【2023-10-14】[stride3d / stride](https://github.com/stride3d/stride) - Stride Game Engine (formerly Xenko)
+* 【2023-10-14】[moby / moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+* 【2023-10-14】[homanp / superagent](https://github.com/homanp/superagent) - 🥷 The open framework for building AI Assistants
 * 【2023-10-12】[fanmingming / live](https://github.com/fanmingming/live) - ✯ 一个国内可直连的直播源分享项目 ✯ 🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕
 * 【2023-10-12】[XuanchenLin / NanUI](https://github.com/XuanchenLin/NanUI) - NanUI is an open source .NET project for .NET developers who want to create desktop applications with HTML, CSS and JavaScript.
 * 【2023-10-12】[kepano / flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
@@ -122,6 +138,20 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[microsoft / promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 ## Go
 
+* 【2023-10-14】[ccfos / nightingale](https://github.com/ccfos/nightingale) - An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
+* 【2023-10-14】[traefik / traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+* 【2023-10-14】[milvus-io / milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
+* 【2023-10-14】[etcd-io / etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
+* 【2023-10-14】[kubernetes / autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
+* 【2023-10-14】[HACKERALERT / Picocrypt](https://github.com/HACKERALERT/Picocrypt) - A very small, very simple, yet very secure encryption tool.
+* 【2023-10-14】[istio / istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
+* 【2023-10-14】[uber-go / zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
+* 【2023-10-14】[volatiletech / sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
+* 【2023-10-14】[prometheus / prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+* 【2023-10-14】[argoproj / argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
+* 【2023-10-14】[google / go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
+* 【2023-10-14】[moby / buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+* 【2023-10-14】[aws / aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language.
 * 【2023-10-12】[robfig / cron](https://github.com/robfig/cron) - a cron library for go
 * 【2023-10-12】[sourcegraph / conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
 * 【2023-10-12】[wux1an / wxapkg](https://github.com/wux1an/wxapkg) - 微信小程序 .wxapkg 文件扫描 + 解密 + 解包工具
@@ -213,6 +243,17 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[labstack / echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 ## Python
 
+* 【2023-10-14】[modelscope / facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
+* 【2023-10-14】[sml2h3 / ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
+* 【2023-10-14】[pyg-team / pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) - Graph Neural Network Library for PyTorch
+* 【2023-10-14】[hezarai / hezar](https://github.com/hezarai/hezar) - The all-in-one AI library for Persian, supporting a wide variety of tasks and modalities!
+* 【2023-10-14】[cvg / LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed (ICCV 2023)
+* 【2023-10-14】[Ebazhanov / linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2023 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers
+* 【2023-10-14】[bokeh / bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from Python
+* 【2023-10-14】[aigc-apps / sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto) - 📷 EasyPhoto | Your Smart AI Photo Generator.
+* 【2023-10-14】[stanfordnlp / dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming with foundation models
+* 【2023-10-14】[LibreTranslate / LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
+* 【2023-10-14】[FlagOpen / FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - Open-source Embedding Models and Ranking Models
 * 【2023-10-12】[nerfstudio-project / nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
 * 【2023-10-12】[huggingface / trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 * 【2023-10-12】[ansible / ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
@@ -268,6 +309,24 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[guibacellar / TEx](https://github.com/guibacellar/TEx) - Telegram Monitor
 ## Javascript
 
+* 【2023-10-14】[algorithm-visualizer / algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - 🎆Interactive Online Platform that Visualizes Algorithms from Code
+* 【2023-10-14】[antonioru / beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
+* 【2023-10-14】[30-seconds / 30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
+* 【2023-10-14】[anuraghazra / github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - ⚡ Dynamically generated stats for your github readmes
+* 【2023-10-14】[SuhailTechInfo / Suhail-Md](https://github.com/SuhailTechInfo/Suhail-Md) - meet Suhail-Md, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail-Md brings a world of excitement and joy to your chats ✨🤖
+* 【2023-10-14】[strapi / strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
+* 【2023-10-14】[adrianhajdin / project_syncfusion_dashboard](https://github.com/adrianhajdin/project_syncfusion_dashboard) - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a an admin dashboard app using React.js and Syncfusion
+* 【2023-10-14】[antimatter15 / splat](https://github.com/antimatter15/splat) - WebGL 3D Gaussian Splat Viewer
+* 【2023-10-14】[midudev / curso-node-js](https://github.com/midudev/curso-node-js) - Curso de Node.js desde cero
+* 【2023-10-14】[parcel-bundler / parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
+* 【2023-10-14】[pmndrs / drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
+* 【2023-10-14】[mailcow / mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
+* 【2023-10-14】[aframevr / aframe](https://github.com/aframevr/aframe) - 🅰️Web framework for building virtual reality experiences.
+* 【2023-10-14】[easychen / CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个和自架服务器同步Cookie的小工具，可以将浏览器的Cookie及Local storage同步到手机和云端，它支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。
+* 【2023-10-14】[sudheerj / reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+* 【2023-10-14】[appium / appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
+* 【2023-10-14】[john-smilga / react-course-v3](https://github.com/john-smilga/react-course-v3) - 
+* 【2023-10-14】[fabricjs / fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 * 【2023-10-12】[MetaMask / metamask-extension](https://github.com/MetaMask/metamask-extension) - 🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 * 【2023-10-12】[bradtraversy / vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 * 【2023-10-12】[MetaMask / metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain
@@ -355,6 +414,22 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[AbhishekSuresh2 / ABHISHEK-SER](https://github.com/AbhishekSuresh2/ABHISHEK-SER) - ABHISHEK-SER Is A WhatsApp Bot With 300+ Cool Features🎯
 ## C
 
+* 【2023-10-14】[chompie1337 / Windows_MSKSSRV_LPE_CVE-2023-36802](https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802) - LPE exploit for CVE-2023-36802
+* 【2023-10-14】[brunodev85 / winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
+* 【2023-10-14】[CTCaer / hekate](https://github.com/CTCaer/hekate) - hekate - A GUI based Nintendo Switch Bootloader
+* 【2023-10-14】[pocoproject / poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
+* 【2023-10-14】[ThrowTheSwitch / Unity](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C
+* 【2023-10-14】[tianocore / edk2](https://github.com/tianocore/edk2) - EDK II
+* 【2023-10-14】[gcc-mirror / gcc](https://github.com/gcc-mirror/gcc) - 
+* 【2023-10-14】[sqlite / sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
+* 【2023-10-14】[arthenica / ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
+* 【2023-10-14】[apache / nuttx](https://github.com/apache/nuttx) - Apache NuttX is a mature, real-time embedded operating system (RTOS)
+* 【2023-10-14】[remzi-arpacidusseau / ostep-code](https://github.com/remzi-arpacidusseau/ostep-code) - Code from various chapters in OSTEP (http://www.ostep.org)
+* 【2023-10-14】[tursodatabase / libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+* 【2023-10-14】[memcached / memcached](https://github.com/memcached/memcached) - memcached development tree
+* 【2023-10-14】[jedisct1 / libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
+* 【2023-10-14】[sonic-net / sonic-buildimage](https://github.com/sonic-net/sonic-buildimage) - Scripts which perform an installable binary image build for SONiC
+* 【2023-10-14】[ggerganov / ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 * 【2023-10-12】[nothings / stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 * 【2023-10-12】[libevent / libevent](https://github.com/libevent/libevent) - Event notification library
 * 【2023-10-12】[civetweb / civetweb](https://github.com/civetweb/civetweb) - Embedded C/C++ web server
@@ -443,6 +518,21 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[flipperdevices / flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 ## C++
 
+* 【2023-10-14】[Atmosphere-NX / Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
+* 【2023-10-14】[NVIDIA / nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication
+* 【2023-10-14】[envoyproxy / envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
+* 【2023-10-14】[AcademySoftwareFoundation / OpenImageIO](https://github.com/AcademySoftwareFoundation/OpenImageIO) - Reading, writing, and processing images in a wide variety of file formats, using a format-agnostic API, aimed at VFX applications.
+* 【2023-10-14】[wang-xinyu / tensorrtx](https://github.com/wang-xinyu/tensorrtx) - Implementation of popular deep learning networks with TensorRT network definition API
+* 【2023-10-14】[nghttp2 / nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
+* 【2023-10-14】[google / filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
+* 【2023-10-14】[R3nzTheCodeGOD / R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin) - Skin changer for League of Legends (LOL)
+* 【2023-10-14】[hamed-deriv / flutter_tearable_cloth](https://github.com/hamed-deriv/flutter_tearable_cloth) - Implementation of tearable cloth in Flutter.
+* 【2023-10-14】[google / re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+* 【2023-10-14】[facebookresearch / faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
+* 【2023-10-14】[google / skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
+* 【2023-10-14】[juce-framework / JUCE](https://github.com/juce-framework/JUCE) - JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.
+* 【2023-10-14】[nomic-ai / gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
+* 【2023-10-14】[ztxz16 / fastllm](https://github.com/ztxz16/fastllm) - 纯c++的全平台llm加速库，支持python调用，chatglm-6B级模型单卡可达10000+token / s，支持glm, llama, moss基座，手机端流畅运行
 * 【2023-10-12】[o3de / o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
 * 【2023-10-12】[facebookincubator / velox](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.
 * 【2023-10-12】[ceph / ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform
@@ -526,6 +616,23 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[carla-simulator / carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 ## Typescript
 
+* 【2023-10-14】[elsoul / skeet-cli](https://github.com/elsoul/skeet-cli) - 🚀 Open-Source Serverless Framework for full-stack apps on Firebase and Google Cloud.
+* 【2023-10-14】[rjsf-team / react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
+* 【2023-10-14】[tradingview / lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
+* 【2023-10-14】[kriasoft / react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
+* 【2023-10-14】[BloopAI / bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
+* 【2023-10-14】[configu / configu](https://github.com/configu/configu) - a simple, modern, and generic standard for managing and collaborating software configurations ⚙️✨.
+* 【2023-10-14】[epicweb-dev / epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
+* 【2023-10-14】[remix-run / react-router](https://github.com/remix-run/react-router) - Declarative routing for React
+* 【2023-10-14】[book-searcher-org / book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute, and search in 30µs.
+* 【2023-10-14】[subsquid-quests / cryptopunks-subgraph-migration](https://github.com/subsquid-quests/cryptopunks-subgraph-migration) - A quest to migrate CryptoPunks subgraph to Subsquid
+* 【2023-10-14】[n8n-io / n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+* 【2023-10-14】[microsoft / playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+* 【2023-10-14】[triggerdotdev / trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
+* 【2023-10-14】[Tencent / wujie](https://github.com/Tencent/wujie) - 极致的微前端框架
+* 【2023-10-14】[katspaugh / wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
+* 【2023-10-14】[dorny / paths-filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits
+* 【2023-10-14】[ionic-team / ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 * 【2023-10-12】[storybookjs / storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 * 【2023-10-12】[toeverything / AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 * 【2023-10-12】[ant-design / pro-components](https://github.com/ant-design/pro-components) - 🏆 Use Ant Design like a Pro!
