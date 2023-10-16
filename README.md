@@ -53,6 +53,23 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-10-16】[PWhiddy / PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning
+* 【2023-10-16】[ton-community / tact-challenge](https://github.com/ton-community/tact-challenge) - 
+* 【2023-10-16】[iam-veeramalla / python-for-devops](https://github.com/iam-veeramalla/python-for-devops) - Learn Python from DevOps Engineer point of you.
+* 【2023-10-16】[spdustin / ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
+* 【2023-10-16】[nsacyber / ELITEWOLF](https://github.com/nsacyber/ELITEWOLF) - OT security monitoring #nsacyber
+* 【2023-10-16】[topjohnwu / Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
+* 【2023-10-16】[hyprwm / Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+* 【2023-10-16】[uBlockOrigin / uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
+* 【2023-10-16】[MatsuriDayo / nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
+* 【2023-10-16】[adrianhajdin / travel_ui_ux](https://github.com/adrianhajdin/travel_ui_ux) - Build and Deploy a Fully Responsive Modern UI/UX Website, React.js, Next.js 13, Tailwind CSS
+* 【2023-10-16】[mfussenegger / nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
+* 【2023-10-16】[Sangwan5688 / BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
+* 【2023-10-16】[pi-hole / pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+* 【2023-10-16】[TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+* 【2023-10-16】[facebookresearch / xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
+* 【2023-10-16】[yuzu-emu / yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
+* 【2023-10-16】[nvim-lua / kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 * 【2023-10-15】[roboflow / supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 * 【2023-10-15】[AntonioErdeljac / notion-clone-tutorial](https://github.com/AntonioErdeljac/notion-clone-tutorial) - 
 * 【2023-10-15】[lobehub / lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.
@@ -146,6 +163,22 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[microsoft / promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 ## Go
 
+* 【2023-10-16】[slackhq / nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
+* 【2023-10-16】[dolthub / dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
+* 【2023-10-16】[v2fly / domain-list-community](https://github.com/v2fly/domain-list-community) - Community managed domain list. Generate geosite.dat for V2Ray.
+* 【2023-10-16】[BishopFox / sliver](https://github.com/BishopFox/sliver) - Adversary Emulation Framework
+* 【2023-10-16】[aws / aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
+* 【2023-10-16】[dustin / go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
+* 【2023-10-16】[livekit / livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
+* 【2023-10-16】[gofiber / fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
+* 【2023-10-16】[qdm12 / gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+* 【2023-10-16】[iyear / tdl](https://github.com/iyear/tdl) - 📥 A Telegram downloader/tools written in Golang
+* 【2023-10-16】[navidrome / navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
+* 【2023-10-16】[go-skynet / LocalAI](https://github.com/go-skynet/LocalAI) - 🤖 The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
+* 【2023-10-16】[jesseduffield / lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
+* 【2023-10-16】[matrix-org / dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
+* 【2023-10-16】[99designs / gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library
+* 【2023-10-16】[circled-me / server](https://github.com/circled-me/server) - Photo backup and sharing server
 * 【2023-10-15】[photoprism / photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 * 【2023-10-15】[harness / gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 * 【2023-10-15】[yonahd / kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
@@ -265,6 +298,19 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[labstack / echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 ## Python
 
+* 【2023-10-16】[home-assistant / core](https://github.com/home-assistant/core) - 🏡 Open source home automation that puts local control and privacy first.
+* 【2023-10-16】[RedisVentures / ArXivChatGuru](https://github.com/RedisVentures/ArXivChatGuru) - Use ArXiv ChatGuru to talk to research papers. This app uses LangChain, OpenAI, Streamlit, and Redis as a vector database/semantic cache.
+* 【2023-10-16】[Link-AGI / AutoAgents](https://github.com/Link-AGI/AutoAgents) - Generate different roles for GPTs to form a collaborative entity for complex tasks.
+* 【2023-10-16】[ossamamehmood / Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023) - About Make your Pull Request on Hacktoberfest 2023. Don't forget to spread love and if you like give us a ⭐️
+* 【2023-10-16】[zhiyiYo / PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) - A fluent design widgets library based on Qt/PyQt/PySide. Make Qt Great Again.
+* 【2023-10-16】[Vision-CAIR / MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2
+* 【2023-10-16】[spesmilo / electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
+* 【2023-10-16】[Stability-AI / stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools) - Generative models for conditional audio generation
+* 【2023-10-16】[tobymao / sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
+* 【2023-10-16】[comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI with a graph/nodes interface.
+* 【2023-10-16】[KurtBestor / Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - 🍰 Desktop utility to download images/videos/music/text from various websites, and more.
+* 【2023-10-16】[swirlai / swirl-search](https://github.com/swirlai/swirl-search) - Swirl is open-source software that uses AI to simultaneously search multiple content and data sources and return AI ranked results which can be used to prompt Generative AI, enabling you to get answers based on your own data.
+* 【2023-10-16】[Z4nzu / hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 * 【2023-10-15】[python / typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
 * 【2023-10-15】[langchain-ai / langserve](https://github.com/langchain-ai/langserve) - LangServe
 * 【2023-10-15】[showlab / Show-1](https://github.com/showlab/Show-1) - Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation
@@ -348,6 +394,21 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[guibacellar / TEx](https://github.com/guibacellar/TEx) - Telegram Monitor
 ## Javascript
 
+* 【2023-10-16】[namastedev / namaste-react](https://github.com/namastedev/namaste-react) - 
+* 【2023-10-16】[Anarios / return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
+* 【2023-10-16】[is-a-dev / register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
+* 【2023-10-16】[leonardomso / 33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
+* 【2023-10-16】[go-shiori / shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
+* 【2023-10-16】[obsidianmd / obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
+* 【2023-10-16】[soumyajit4419 / Portfolio](https://github.com/soumyajit4419/Portfolio) - My self coded personal website build with React.js
+* 【2023-10-16】[AkankshaAI / Hacktoberfest2023-Beginners-New](https://github.com/AkankshaAI/Hacktoberfest2023-Beginners-New) - This repository accepts PRs for Hacktoberfest2023
+* 【2023-10-16】[github / docs](https://github.com/github/docs) - The open-source repo for docs.github.com
+* 【2023-10-16】[agalwood / Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
+* 【2023-10-16】[lyfe00011 / whatsapp-bot-md](https://github.com/lyfe00011/whatsapp-bot-md) - A whatsapp Multi Device bot based on baileys
+* 【2023-10-16】[jonasschmedtmann / ultimate-react-course](https://github.com/jonasschmedtmann/ultimate-react-course) - Starter files, final projects, and FAQ for my Ultimate React course
+* 【2023-10-16】[vernesong / OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+* 【2023-10-16】[jellyfin / jellyfin-web](https://github.com/jellyfin/jellyfin-web) - Web Client for Jellyfin
+* 【2023-10-16】[openwrt / luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface
 * 【2023-10-15】[skofkyo / AutoPager](https://github.com/skofkyo/AutoPager) - 
 * 【2023-10-15】[OpenIntroStat / ims](https://github.com/OpenIntroStat/ims) - 📚 Introduction to Modern Statistics - A college-level open-source textbook with a modern approach highlighting multivariable relationships and simulation-based inference. For v1, see https://openintro-ims.netlify.app.
 * 【2023-10-15】[jaywcjlove / awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -468,6 +529,20 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[AbhishekSuresh2 / ABHISHEK-SER](https://github.com/AbhishekSuresh2/ABHISHEK-SER) - ABHISHEK-SER Is A WhatsApp Bot With 300+ Cool Features🎯
 ## C
 
+* 【2023-10-16】[OneOfEleven / uv-k5-firmware-custom](https://github.com/OneOfEleven/uv-k5-firmware-custom) - A customized version of https://github.com/DualTachyon/uv-k5-firmware
+* 【2023-10-16】[xperiments-in / xtouch](https://github.com/xperiments-in/xtouch) - 
+* 【2023-10-16】[qmk / qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
+* 【2023-10-16】[koekeishiya / yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+* 【2023-10-16】[pret / pokeemerald](https://github.com/pret/pokeemerald) - Decompilation of Pokémon Emerald
+* 【2023-10-16】[pgbouncer / pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL
+* 【2023-10-16】[betaflight / betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware
+* 【2023-10-16】[prusa3d / Prusa-Firmware-Buddy](https://github.com/prusa3d/Prusa-Firmware-Buddy) - Firmware for the Original Prusa MINI, Original Prusa MK4 and the Original Prusa XL 3D printers by Prusa Research.
+* 【2023-10-16】[pygame / pygame](https://github.com/pygame/pygame) - 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
+* 【2023-10-16】[RfidResearchGroup / proxmark3](https://github.com/RfidResearchGroup/proxmark3) - Iceman Fork - Proxmark3
+* 【2023-10-16】[immortalwrt / immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
+* 【2023-10-16】[istoreos / istoreos](https://github.com/istoreos/istoreos) - 提供一个人人会用的的路由、NAS系统
+* 【2023-10-16】[HarshwardhanPatil07 / HactoberFest2023](https://github.com/HarshwardhanPatil07/HactoberFest2023) - A Simple😉 beginner friendly😊 Repo for all programmers and coders. All contributors are requested to star🌟this repo and and folllllow me. Contribute to start your journey with hacktoberfest. Happy Hacking💻!!!
+* 【2023-10-16】[sandboxie-plus / Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 * 【2023-10-15】[Flipper-XFW / Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
 * 【2023-10-15】[hfiref0x / UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
 * 【2023-10-15】[paranoidninja / Cobaltstrike-Detection](https://github.com/paranoidninja/Cobaltstrike-Detection) - This repo will contain the core detection, only for Cobaltstrike's leaked versions. Non-leaked version detections wont be shared
@@ -584,6 +659,23 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[flipperdevices / flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 ## C++
 
+* 【2023-10-16】[telegramdesktop / tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
+* 【2023-10-16】[LizardByte / Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
+* 【2023-10-16】[CleverRaven / Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
+* 【2023-10-16】[Alexays / Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. ✌️ 🎉
+* 【2023-10-16】[aria2 / aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+* 【2023-10-16】[pineappleEA / pineapple-src](https://github.com/pineappleEA/pineapple-src) - yuzu Early Access source code
+* 【2023-10-16】[aseprite / aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+* 【2023-10-16】[oceanbase / miniob](https://github.com/oceanbase/miniob) - MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.
+* 【2023-10-16】[RPCS3 / rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
+* 【2023-10-16】[zhongyang219 / TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+* 【2023-10-16】[ethereum / solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
+* 【2023-10-16】[dolphin-emu / dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
+* 【2023-10-16】[PCSX2 / pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
+* 【2023-10-16】[esp8266 / Arduino](https://github.com/esp8266/Arduino) - ESP8266 core for Arduino
+* 【2023-10-16】[upx / upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
+* 【2023-10-16】[diasurgical / devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
+* 【2023-10-16】[Vita3K / Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
 * 【2023-10-15】[musescore / MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
 * 【2023-10-15】[mavlink / qgroundcontrol](https://github.com/mavlink/qgroundcontrol) - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)
 * 【2023-10-15】[pard0p / Cordyceps](https://github.com/pard0p/Cordyceps) - C++ self-Injecting dropper based on various EDR evasion techniques.
@@ -692,6 +784,20 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[carla-simulator / carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 ## Typescript
 
+* 【2023-10-16】[formbricks / formbricks](https://github.com/formbricks/formbricks) - Open Source Surveys & Experience Management Solution
+* 【2023-10-16】[nulla2011 / bluearchive-logo](https://github.com/nulla2011/bluearchive-logo) - A Blue Archive logo generater.
+* 【2023-10-16】[calcom / cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+* 【2023-10-16】[panaverse / learn-nextjs](https://github.com/panaverse/learn-nextjs) - Learn Modern Full Stack Web 2 and Web 3 Development using Typescript, Next.js 13 Apps, Tailwind CSS, Shadcn UI, Neon, Drizzle ORM, and Sanity
+* 【2023-10-16】[oramasearch / orama](https://github.com/oramasearch/orama) - 🌌 Fast, in-memory, typo-tolerant, full-text and vector search engine in <2kb.
+* 【2023-10-16】[ByteGrad / portfolio-website](https://github.com/ByteGrad/portfolio-website) - Build & Deploy a modern React / Next.js portfolio website from scratch!
+* 【2023-10-16】[baptisteArno / typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
+* 【2023-10-16】[reactjs / react.dev](https://github.com/reactjs/react.dev) - The React documentation website
+* 【2023-10-16】[yesmore / inke](https://github.com/yesmore/inke) - 📖 A markdown-like web editor with AI-powered, store data locally.
+* 【2023-10-16】[AntonioErdeljac / next13-ecommerce-admin](https://github.com/AntonioErdeljac/next13-ecommerce-admin) - 
+* 【2023-10-16】[zzzgydi / clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
+* 【2023-10-16】[upscayl / upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
+* 【2023-10-16】[nodejs / nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
+* 【2023-10-16】[freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 * 【2023-10-15】[web-infra-dev / rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator.
 * 【2023-10-15】[angular / components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
 * 【2023-10-15】[Ironclad / rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
