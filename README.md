@@ -53,6 +53,17 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-10-20】[OpenBMB / XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
+* 【2023-10-20】[Alex313031 / thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
+* 【2023-10-20】[Alex313031 / Thorium-Win](https://github.com/Alex313031/Thorium-Win) - Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium
+* 【2023-10-20】[imteekay / programming-language-research](https://github.com/imteekay/programming-language-research) - Programming Language Research, Applied PLT & Compilers
+* 【2023-10-20】[Azure-Samples / azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.
+* 【2023-10-20】[felipemotarocha / fullstackweek-store](https://github.com/felipemotarocha/fullstackweek-store) - 
+* 【2023-10-20】[Azure / azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) - This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.
+* 【2023-10-20】[Kong / kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
+* 【2023-10-20】[nextauthjs / next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
+* 【2023-10-20】[mkkellogg / GaussianSplats3D](https://github.com/mkkellogg/GaussianSplats3D) - Three.js-based implementation of the 3D Gaussian splat viewer
+* 【2023-10-20】[nodejs / node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 * 【2023-10-19】[ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 * 【2023-10-19】[JonathonLuiten / Dynamic3DGaussians](https://github.com/JonathonLuiten/Dynamic3DGaussians) - 
 * 【2023-10-19】[cloudcommunity / Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
@@ -185,6 +196,20 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[microsoft / promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 ## Go
 
+* 【2023-10-20】[runatlantis / atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
+* 【2023-10-20】[minio / minio](https://github.com/minio/minio) - High Performance Object Storage for AI
+* 【2023-10-20】[trpc-group / trpc-go](https://github.com/trpc-group/trpc-go) - A pluggable, high-performance RPC framework written in golang
+* 【2023-10-20】[argoproj / argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
+* 【2023-10-20】[lima-vm / lima](https://github.com/lima-vm/lima) - Linux virtual machines
+* 【2023-10-20】[kubernetes / client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
+* 【2023-10-20】[rs / zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
+* 【2023-10-20】[git-lfs / git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
+* 【2023-10-20】[fullstorydev / grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
+* 【2023-10-20】[aquasecurity / trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+* 【2023-10-20】[sashabaranov / go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+* 【2023-10-20】[thanos-io / thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+* 【2023-10-20】[apache / incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Answer.
+* 【2023-10-20】[astaxie / build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 * 【2023-10-19】[devfullcycle / imersao15](https://github.com/devfullcycle/imersao15) - 
 * 【2023-10-19】[trufflesecurity / trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
 * 【2023-10-19】[open-telemetry / opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
@@ -360,6 +385,20 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[labstack / echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 ## Python
 
+* 【2023-10-20】[SigmaHQ / sigma](https://github.com/SigmaHQ/sigma) - Main Sigma Rule Repository
+* 【2023-10-20】[huggingface / peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
+* 【2023-10-20】[NVIDIA / Stable-Diffusion-WebUI-TensorRT](https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT) - TensorRT Extension for Stable Diffusion Web UI
+* 【2023-10-20】[ScaledFoundations / GRID-playground](https://github.com/ScaledFoundations/GRID-playground) - Platform for General Robot Intelligence Development
+* 【2023-10-20】[chengzeyi / stable-fast](https://github.com/chengzeyi/stable-fast) - An ultra lightweight inference performance optimization library for HuggingFace Diffusers on NVIDIA GPUs.
+* 【2023-10-20】[EleutherAI / math-lm](https://github.com/EleutherAI/math-lm) - 
+* 【2023-10-20】[GreyDGL / PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
+* 【2023-10-20】[llmware-ai / llmware](https://github.com/llmware-ai/llmware) - Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models.
+* 【2023-10-20】[acl-org / aclpubcheck](https://github.com/acl-org/aclpubcheck) - Tools for checking ACL paper submissions
+* 【2023-10-20】[demisto / content](https://github.com/demisto/content) - Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!
+* 【2023-10-20】[onnx / onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
+* 【2023-10-20】[localstack / localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+* 【2023-10-20】[zhouhaoyi / Informer2020](https://github.com/zhouhaoyi/Informer2020) - The GitHub repository for the paper "Informer" accepted by AAAI 2021.
+* 【2023-10-20】[Baekalfen / PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
 * 【2023-10-19】[apache / airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 * 【2023-10-19】[commaai / openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 * 【2023-10-19】[gradio-app / gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -485,6 +524,14 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[guibacellar / TEx](https://github.com/guibacellar/TEx) - Telegram Monitor
 ## Javascript
 
+* 【2023-10-20】[badges / shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+* 【2023-10-20】[chartjs / Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag
+* 【2023-10-20】[electron / electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
+* 【2023-10-20】[lohls / Api-Correios](https://github.com/lohls/Api-Correios) - 
+* 【2023-10-20】[carbon-design-system / carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
+* 【2023-10-20】[sinonjs / sinon](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks for JavaScript.
+* 【2023-10-20】[swagger-api / swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+* 【2023-10-20】[MHSanaei / 3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vmess & Vless & Trojan & ShadowSocks)
 * 【2023-10-19】[BrasilAPI / BrasilAPI](https://github.com/BrasilAPI/BrasilAPI) - Vamos transformar o Brasil em uma API?
 * 【2023-10-19】[wangwc18 / mygoFlaskProject](https://github.com/wangwc18/mygoFlaskProject) - 第一次提交版本
 * 【2023-10-19】[hiteshchoudhary / js-hindi-youtube](https://github.com/hiteshchoudhary/js-hindi-youtube) - A code repo for javascript series at Chai aur code youtube channel
@@ -656,6 +703,15 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[AbhishekSuresh2 / ABHISHEK-SER](https://github.com/AbhishekSuresh2/ABHISHEK-SER) - ABHISHEK-SER Is A WhatsApp Bot With 300+ Cool Features🎯
 ## C
 
+* 【2023-10-20】[nanopb / nanopb](https://github.com/nanopb/nanopb) - Protocol Buffers with small code size
+* 【2023-10-20】[RediSearch / RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.
+* 【2023-10-20】[warmcat / libwebsockets](https://github.com/warmcat/libwebsockets) - canonical libwebsockets.org networking library
+* 【2023-10-20】[attractivechaos / klib](https://github.com/attractivechaos/klib) - A standalone and lightweight C library
+* 【2023-10-20】[cnlohr / mini-rv32ima](https://github.com/cnlohr/mini-rv32ima) - A tiny C header-only risc-v emulator.
+* 【2023-10-20】[devbis / z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware
+* 【2023-10-20】[intel / RealTimePathTracingResearchFramework](https://github.com/intel/RealTimePathTracingResearchFramework) - 
+* 【2023-10-20】[egzumer / uv-k5-firmware-custom](https://github.com/egzumer/uv-k5-firmware-custom) - A merge between https://github.com/OneOfEleven/uv-k5-firmware-custom and https://github.com/fagci/uv-k5-firmware-fagci-mod
+* 【2023-10-20】[binbyu / Reader](https://github.com/binbyu/Reader) - A win32 txt file reader
 * 【2023-10-19】[wazuh / wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 * 【2023-10-19】[emscripten-core / emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 * 【2023-10-19】[redis / hiredis](https://github.com/redis/hiredis) - Minimalistic C client for Redis >= 1.2
@@ -816,6 +872,16 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[flipperdevices / flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 ## C++
 
+* 【2023-10-20】[pytorch / executorch](https://github.com/pytorch/executorch) - End-to-end solution for enabling on-device AI across mobile and edge devices for PyTorch models
+* 【2023-10-20】[google-deepmind / mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
+* 【2023-10-20】[kimci86 / bkcrack](https://github.com/kimci86/bkcrack) - Crack legacy zip encryption with Biham and Kocher's known plaintext attack.
+* 【2023-10-20】[ApolloAuto / apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
+* 【2023-10-20】[TileDB-Inc / TileDB](https://github.com/TileDB-Inc/TileDB) - The Universal Storage Engine
+* 【2023-10-20】[lballabio / QuantLib](https://github.com/lballabio/QuantLib) - The QuantLib C++ library
+* 【2023-10-20】[openxla / xla](https://github.com/openxla/xla) - A machine learning compiler for GPUs, CPUs, and ML accelerators
+* 【2023-10-20】[typesense / typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+* 【2023-10-20】[zxing-cpp / zxing-cpp](https://github.com/zxing-cpp/zxing-cpp) - C++ port of ZXing
+* 【2023-10-20】[notepad-plus-plus / notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 * 【2023-10-19】[wolfpld / tracy](https://github.com/wolfpld/tracy) - Frame profiler
 * 【2023-10-19】[taskflow / taskflow](https://github.com/taskflow/taskflow) - A General-purpose Parallel and Heterogeneous Task Programming System
 * 【2023-10-19】[SpiderLabs / ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
@@ -974,6 +1040,17 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[carla-simulator / carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 ## Typescript
 
+* 【2023-10-20】[hoppscotch / hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+* 【2023-10-20】[nuxt / nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
+* 【2023-10-20】[ag-grid / ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
+* 【2023-10-20】[labs42io / clean-code-typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript
+* 【2023-10-20】[material-components / material-web](https://github.com/material-components/material-web) - Material Design Web Components
+* 【2023-10-20】[epicweb-dev / full-stack-foundations](https://github.com/epicweb-dev/full-stack-foundations) - Learn the foundational skills of building full stack web applications.
+* 【2023-10-20】[lyswhut / lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) - 一个基于 React native 开发的音乐软件
+* 【2023-10-20】[steven-tey / novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
+* 【2023-10-20】[typeorm / typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+* 【2023-10-20】[software-mansion / react-native-screens](https://github.com/software-mansion/react-native-screens) - Native navigation primitives for your React Native app.
+* 【2023-10-20】[firecamp-dev / firecamp](https://github.com/firecamp-dev/firecamp) - vscode for apis, open-source postman/insomnia alternative
 * 【2023-10-19】[remix-run / remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 * 【2023-10-19】[desktop / desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 * 【2023-10-19】[yangshun / tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
