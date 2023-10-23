@@ -53,6 +53,13 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-10-23】[termux / termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+* 【2023-10-23】[EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books) - 📚 Freely available programming books
+* 【2023-10-23】[KillianLucas / open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
+* 【2023-10-23】[modularml / mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+* 【2023-10-23】[alex-xu-system / bytebytego](https://github.com/alex-xu-system/bytebytego) - 
+* 【2023-10-23】[ethereum / EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
+* 【2023-10-23】[FalconForceTeam / FalconHound](https://github.com/FalconForceTeam/FalconHound) - FalconHound is a blue team multi-tool. It allows you to utilize and enhance the power of BloodHound in a more automated fashion. It is designed to be used in conjunction with a SIEM or other log aggregation tool.
 * 【2023-10-22】[NVIDIA / TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.
 * 【2023-10-22】[WisdomShell / codeshell](https://github.com/WisdomShell/codeshell) - A series of code large language models developed by PKU-KCL
 * 【2023-10-22】[WisdomShell / codeshell-vscode](https://github.com/WisdomShell/codeshell-vscode) - An intelligent coding assistant plugin for Visual Studio Code, developed based on CodeShell
@@ -214,6 +221,14 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[microsoft / promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 ## Go
 
+* 【2023-10-23】[sundowndev / phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
+* 【2023-10-23】[a-h / templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
+* 【2023-10-23】[D00Movenok / BounceBack](https://github.com/D00Movenok/BounceBack) - ↕️🤫 Stealth redirector for your red team operation security
+* 【2023-10-23】[go-task / task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
+* 【2023-10-23】[v2ray / v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
+* 【2023-10-23】[stealthrocket / coroutine](https://github.com/stealthrocket/coroutine) - Durable coroutines for Go
+* 【2023-10-23】[wailsapp / wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+* 【2023-10-23】[ProudMuBai / GoFilm](https://github.com/ProudMuBai/GoFilm) - 多播放源自动采集在线影视网站 golang vue
 * 【2023-10-22】[JanDeDobbeleer / oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 * 【2023-10-22】[dapr / dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 * 【2023-10-22】[dexidp / dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
@@ -421,6 +436,15 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[labstack / echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 ## Python
 
+* 【2023-10-23】[BerriAI / litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
+* 【2023-10-23】[NVIDIA-Omniverse / IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs) - Isaac Gym Reinforcement Learning Environments
+* 【2023-10-23】[sherlock-project / sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+* 【2023-10-23】[dataelement / bisheng](https://github.com/dataelement/bisheng) - Bisheng is an open LLM devops platform for next generation AI applications.
+* 【2023-10-23】[LondheShubham153 / 90DaysOfDevOps](https://github.com/LondheShubham153/90DaysOfDevOps) - This repository is a Challenge for the DevOps Community to get stronger in DevOps. This challenge starts on the 1st January 2023 and in the next 90 Days we promise ourselves to become better at DevOps. The reason for making this Public is so that others can learn from the community and help each other grow.
+* 【2023-10-23】[AkariAsai / self-rag](https://github.com/AkariAsai/self-rag) - 
+* 【2023-10-23】[facebookresearch / habitat-lab](https://github.com/facebookresearch/habitat-lab) - A modular high-level library to train embodied AI agents across a variety of tasks and environments.
+* 【2023-10-23】[svc-develop-team / so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
+* 【2023-10-23】[microsoft / pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
 * 【2023-10-22】[facebookresearch / llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 * 【2023-10-22】[tairov / llama2.mojo](https://github.com/tairov/llama2.mojo) - Inference Llama 2 in one file of pure 🔥
 * 【2023-10-22】[waymo-research / waymax](https://github.com/waymo-research/waymax) - A JAX-based simulator for autonomous driving research.
@@ -583,6 +607,14 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[guibacellar / TEx](https://github.com/guibacellar/TEx) - Telegram Monitor
 ## Javascript
 
+* 【2023-10-23】[brave / brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
+* 【2023-10-23】[bchiang7 / v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby
+* 【2023-10-23】[SillyTavern / SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
+* 【2023-10-23】[yonggekkk / Cloudflare-workers-pages-vless](https://github.com/yonggekkk/Cloudflare-workers-pages-vless) - cf-worker-pages-vless脚本，支持workers与pages两种形式部署。CF优选域名、优选反代IP多平台一键脚本。懒人小白必备的vless代理神器
+* 【2023-10-23】[MetaMask / eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect) - Utility for detecting phishing domains targeting Web3 users
+* 【2023-10-23】[typescript-cheatsheets / react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
+* 【2023-10-23】[Guru322 / GURU-BOT](https://github.com/Guru322/GURU-BOT) - A SIMPLE YET COMPLICATED WHATSAPP BOT <DO STAR THE REPO>
+* 【2023-10-23】[chetannada / Namaste-React](https://github.com/chetannada/Namaste-React) - ❤ Namaste React Live Course from Zero to Hero 🚀 by Akshay Saini(Founder of NamasteDev). This repository for Assignment & Class Notes taken during Namaste React Live Course #namaste #javascript #react
 * 【2023-10-22】[umami-software / umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 * 【2023-10-22】[Dabble-Studio / 3d-to-photo](https://github.com/Dabble-Studio/3d-to-photo) - 3D to Photo is an open-source package by Dabble, that combines threeJS and Stable diffusion to build a virtual photo studio for product photography. Load a 3D model into the browser and virtual shoot it in any kind of scene you can imagine
 * 【2023-10-22】[thomasjacquin / allsky](https://github.com/thomasjacquin/allsky) - A Raspberry Pi operated Wireless Allsky Camera
@@ -782,6 +814,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[AbhishekSuresh2 / ABHISHEK-SER](https://github.com/AbhishekSuresh2/ABHISHEK-SER) - ABHISHEK-SER Is A WhatsApp Bot With 300+ Cool Features🎯
 ## C
 
+* 【2023-10-23】[sleirsgoevy / ps4jb-payloads](https://github.com/sleirsgoevy/ps4jb-payloads) - Extracted payloads from the main repo
+* 【2023-10-23】[surge-synthesizer / surge](https://github.com/surge-synthesizer/surge) - Synthesizer plug-in (previously released as Vember Audio Surge)
+* 【2023-10-23】[axboe / liburing](https://github.com/axboe/liburing) - 
+* 【2023-10-23】[wine-mirror / wine](https://github.com/wine-mirror/wine) - 
+* 【2023-10-23】[ntop / n2n](https://github.com/ntop/n2n) - Peer-to-peer VPN
+* 【2023-10-23】[SanderMertens / flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C & C++
+* 【2023-10-23】[openshwprojects / OpenBK7231T_App](https://github.com/openshwprojects/OpenBK7231T_App) - Open source firmware (Tasmota/Esphome replacement) for BK7231T, BK7231N, BL2028N, T34, XR809, W800/W801, W600/W601 and BL602
 * 【2023-10-22】[unicorn-engine / unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 * 【2023-10-22】[eclipse / mosquitto](https://github.com/eclipse/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 * 【2023-10-22】[yugabyte / yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
@@ -968,6 +1007,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[flipperdevices / flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 ## C++
 
+* 【2023-10-23】[Roblox / luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
+* 【2023-10-23】[prusa3d / PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
+* 【2023-10-23】[official-stockfish / Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine
+* 【2023-10-23】[OpenRCT2 / OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
+* 【2023-10-23】[facebookresearch / habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
+* 【2023-10-23】[me-no-dev / ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) - Async Web Server for ESP8266 and ESP32
 * 【2023-10-22】[BlueMatthew / WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
 * 【2023-10-22】[cameron314 / concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 * 【2023-10-22】[pybind / pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
@@ -1149,6 +1194,18 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[carla-simulator / carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 ## Typescript
 
+* 【2023-10-23】[nocodb / nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+* 【2023-10-23】[kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+* 【2023-10-23】[ethereum / remix-project](https://github.com/ethereum/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
+* 【2023-10-23】[hjdhjd / homebridge-myq](https://github.com/hjdhjd/homebridge-myq) - 🚗 myQ Liftmaster and Chamberlain Plugin for Homebridge https://github.com/nfarina/homebridge
+* 【2023-10-23】[raycast / extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
+* 【2023-10-23】[JessYan0913 / pictode](https://github.com/JessYan0913/pictode) - 🎨 Pictode最方便集成的绘图工具
+* 【2023-10-23】[siyuan-note / siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+* 【2023-10-23】[emilkowalski / sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
+* 【2023-10-23】[BishopFox / unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
+* 【2023-10-23】[actions / starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
+* 【2023-10-23】[enricoros / big-agi](https://github.com/enricoros/big-agi) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.
+* 【2023-10-23】[heyxyz / hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 * 【2023-10-22】[open-metadata / OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
 * 【2023-10-22】[pixijs / pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 * 【2023-10-22】[facebook / docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
