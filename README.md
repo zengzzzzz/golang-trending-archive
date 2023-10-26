@@ -53,6 +53,15 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-10-26】[ErickWendel / semana-javascript-expert08](https://github.com/ErickWendel/semana-javascript-expert08) - JS Expert Week 8.0 - 🎥Pre processing videos before uploading in the browser 😏
+* 【2023-10-26】[psf / black](https://github.com/psf/black) - The uncompromising Python code formatter
+* 【2023-10-26】[hehonghui / awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
+* 【2023-10-26】[ripienaar / free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+* 【2023-10-26】[daveshap / SparsePrimingRepresentations](https://github.com/daveshap/SparsePrimingRepresentations) - Public repo to document some SPR stuff
+* 【2023-10-26】[yarnpkg / berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
+* 【2023-10-26】[bugen / pypipe](https://github.com/bugen/pypipe) - Python pipe command line tool
+* 【2023-10-26】[pmndrs / react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
+* 【2023-10-26】[getmoto / moto](https://github.com/getmoto/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
 * 【2023-10-25】[eureka-research / Eureka](https://github.com/eureka-research/Eureka) - Official Repository for "Eureka: Human-Level Reward Design via Coding Large Language Models"
 * 【2023-10-25】[ZachGoldberg / Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 * 【2023-10-25】[sindresorhus / awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -240,6 +249,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[microsoft / promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 ## Go
 
+* 【2023-10-26】[prometheus / alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
+* 【2023-10-26】[joho / godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from .env files)
+* 【2023-10-26】[keyval-dev / odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
+* 【2023-10-26】[loft-sh / vcluster](https://github.com/loft-sh/vcluster) - vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
+* 【2023-10-26】[loft-sh / devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+* 【2023-10-26】[amitshekhariitbhu / go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
+* 【2023-10-26】[golang / go](https://github.com/golang/go) - The Go programming language
 * 【2023-10-25】[klauspost / compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
 * 【2023-10-25】[go-gost / gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
 * 【2023-10-25】[aperturerobotics / bifrost](https://github.com/aperturerobotics/bifrost) - Cross-platform p2p daemon and library with pluggable transports and WebAssembly support.
@@ -472,6 +488,16 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[labstack / echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 ## Python
 
+* 【2023-10-26】[hmaverickadams / DeHashed-API-Tool](https://github.com/hmaverickadams/DeHashed-API-Tool) - A command-line tool to query the DeHashed API. Easily search for various parameters like usernames, emails, hashed passwords, IP addresses, and more.
+* 【2023-10-26】[kedro-org / kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.
+* 【2023-10-26】[UKPLab / sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
+* 【2023-10-26】[aws-samples / aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
+* 【2023-10-26】[0xbitches / sd-webui-lcm](https://github.com/0xbitches/sd-webui-lcm) - Latent Consistency Model for AUTOMATIC1111 Stable Diffusion WebUI
+* 【2023-10-26】[langchain-ai / chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
+* 【2023-10-26】[iperov / DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
+* 【2023-10-26】[fox-it / cisco-ios-xe-implant-detection](https://github.com/fox-it/cisco-ios-xe-implant-detection) - Cisco IOS XE implant scanning & detection
+* 【2023-10-26】[rizkydermawan1992 / Face-Detection](https://github.com/rizkydermawan1992/Face-Detection) - 
+* 【2023-10-26】[JoeanAmier / XHS_Downloader](https://github.com/JoeanAmier/XHS_Downloader) - 完全开源，基于 Requests 模块实现：小红书图文/视频作品采集工具
 * 【2023-10-25】[mouredev / python-web](https://github.com/mouredev/python-web) - Curso para aprender desarrollo frontend Web con Python puro desde cero. Elaborado durante las emisiones en directo desde Twitch de MoureDev.
 * 【2023-10-25】[mlflow / mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 * 【2023-10-25】[vllm-project / vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -656,6 +682,16 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[guibacellar / TEx](https://github.com/guibacellar/TEx) - Telegram Monitor
 ## Javascript
 
+* 【2023-10-26】[xenova / transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
+* 【2023-10-26】[academind / react-complete-guide-course-resources](https://github.com/academind/react-complete-guide-course-resources) - React - The Complete Guide Course Resources (Code, Attachments, Slides)
+* 【2023-10-26】[shuttlenetwork / shuttle](https://github.com/shuttlenetwork/shuttle) - Experience the global internet using Shuttle, the swiftest and most uncluttered proxy solution. Relish a heightened level of privacy during your online sessions, free from censorship.
+* 【2023-10-26】[lodash / lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
+* 【2023-10-26】[vuejs / vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
+* 【2023-10-26】[bradtraversy / proshop-v2](https://github.com/bradtraversy/proshop-v2) - ProShop ecommerce website built with MERN & Redux Toolkit
+* 【2023-10-26】[GoogleChrome / lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
+* 【2023-10-26】[DevCaress / guia-entrevistas-de-programacion](https://github.com/DevCaress/guia-entrevistas-de-programacion) - 
+* 【2023-10-26】[quasarframework / quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
+* 【2023-10-26】[docker / getting-started](https://github.com/docker/getting-started) - Getting started with Docker
 * 【2023-10-25】[zadam / trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 * 【2023-10-25】[stylelint / stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 * 【2023-10-25】[azukaar / Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability (Authentication, anti-DDOS, anti-bot)
@@ -885,6 +921,17 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[AbhishekSuresh2 / ABHISHEK-SER](https://github.com/AbhishekSuresh2/ABHISHEK-SER) - ABHISHEK-SER Is A WhatsApp Bot With 300+ Cool Features🎯
 ## C
 
+* 【2023-10-26】[sumatrapdfreader / sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
+* 【2023-10-26】[bilibili / ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
+* 【2023-10-26】[audacity / audacity](https://github.com/audacity/audacity) - Audio Editor
+* 【2023-10-26】[stas00 / the-art-of-debugging](https://github.com/stas00/the-art-of-debugging) - The Art of Debugging
+* 【2023-10-26】[Bodmer / TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) - Arduino and PlatformIO IDE compatible TFT library optimised for the Raspberry Pi Pico (RP2040), STM32, ESP8266 and ESP32 that supports different driver chips
+* 【2023-10-26】[OpenEtherCATsociety / SOEM](https://github.com/OpenEtherCATsociety/SOEM) - Simple Open Source EtherCAT Master
+* 【2023-10-26】[signalwire / freeswitch](https://github.com/signalwire/freeswitch) - FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.
+* 【2023-10-26】[kleiton0x00 / Proxy-DLL-Loads](https://github.com/kleiton0x00/Proxy-DLL-Loads) - A proof of concept demonstrating the DLL-load proxying using undocumented Syscalls.
+* 【2023-10-26】[0Nera / BMOSP](https://github.com/0Nera/BMOSP) - БМПОС - Базовая Модульная Платформа Операционных Систем для платформы x86_64
+* 【2023-10-26】[github / securitylab](https://github.com/github/securitylab) - Resources related to GitHub Security Lab
+* 【2023-10-26】[evilashz / PigScheduleTask](https://github.com/evilashz/PigScheduleTask) - 添加计划任务方法集合
 * 【2023-10-25】[kokke / tiny-AES-c](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C
 * 【2023-10-25】[microsoft / mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
 * 【2023-10-25】[tsoding / musializer](https://github.com/tsoding/musializer) - Music Visualizer
@@ -1091,6 +1138,15 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[flipperdevices / flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 ## C++
 
+* 【2023-10-26】[singhhdev / cs2-external-source-kernel](https://github.com/singhhdev/cs2-external-source-kernel) - 
+* 【2023-10-26】[luigifreda / plvs](https://github.com/luigifreda/plvs) - PLVS is a real-time SLAM system with points, lines, volumetric mapping and 3D unsupervised incremental segmentation.
+* 【2023-10-26】[yuzu-emu / yuzu-android](https://github.com/yuzu-emu/yuzu-android) - 
+* 【2023-10-26】[emilybache / GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) - Starting code for the GildedRose Refactoring Kata in many programming languages.
+* 【2023-10-26】[colmap / colmap](https://github.com/colmap/colmap) - COLMAP - Structure-from-Motion and Multi-View Stereo
+* 【2023-10-26】[electronicarts / CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) - 
+* 【2023-10-26】[focus-creative-games / hybridclr](https://github.com/focus-creative-games/hybridclr) - HybridCLR是一个特性完整、零成本、高性能、低内存的Unity全平台原生c#热更方案。 HybridCLR is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotupdate.
+* 【2023-10-26】[microsoft / react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
+* 【2023-10-26】[nikohoffren / fork-commit-merge](https://github.com/nikohoffren/fork-commit-merge) - Fork, Commit, Merge. A project designed to help you familiarize yourself with the open source contribution workflow on GitHub!
 * 【2023-10-25】[openai / triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 * 【2023-10-25】[InternLM / lmdeploy](https://github.com/InternLM/lmdeploy) - LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
 * 【2023-10-25】[google / flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
@@ -1293,6 +1349,14 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[carla-simulator / carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 ## Typescript
 
+* 【2023-10-26】[subsquid-quests / snapshot-squid](https://github.com/subsquid-quests/snapshot-squid) - Migration of the Snapshot subgraph adapted for use a network launch quest
+* 【2023-10-26】[nicoalbanese / kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps faster
+* 【2023-10-26】[anymaniax / orval](https://github.com/anymaniax/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
+* 【2023-10-26】[gkd-kit / subscription](https://github.com/gkd-kit/subscription) - GKD 默认订阅规则
+* 【2023-10-26】[fullcalendar / fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
+* 【2023-10-26】[nocobase / nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
+* 【2023-10-26】[taskforcesh / bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
+* 【2023-10-26】[electron-vite / electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) - 🥳 Really simple Electron + Vite + Vue boilerplate.
 * 【2023-10-25】[aws-samples / bedrock-claude-chat](https://github.com/aws-samples/bedrock-claude-chat) - AWS-native chatbot using Bedrock + Claude 2
 * 【2023-10-25】[analogjs / analog](https://github.com/analogjs/analog) - Build and ship applications and websites faster with Angular
 * 【2023-10-25】[tamagui / tamagui](https://github.com/tamagui/tamagui) - A style library, UI kit, and optimizing compiler that makes React run faster - on both native and web
