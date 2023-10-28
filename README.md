@@ -53,6 +53,13 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-10-28】[eylonmiz / react-agent](https://github.com/eylonmiz/react-agent) - The open-source React.js Autonomous LLM Agent
+* 【2023-10-28】[AndrewWalsh / openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Effortlessly discover API behaviour with a Chrome extension that automatically generates OpenAPI specifications in real time for any app or website
+* 【2023-10-28】[Chuny1 / 3DGPT](https://github.com/Chuny1/3DGPT) - 
+* 【2023-10-28】[vercel / next-learn](https://github.com/vercel/next-learn) - Learn Next.js Starter Code
+* 【2023-10-28】[ashishps1 / awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) - This repository contains LeetCode articles which are very useful during the interview preparation.
+* 【2023-10-28】[juspay / hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+* 【2023-10-28】[frida / frida](https://github.com/frida/frida) - Clone this repo to build Frida
 * 【2023-10-27】[Vendicated / Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 * 【2023-10-27】[SUDO-AI-3D / zero123plus](https://github.com/SUDO-AI-3D/zero123plus) - Code repository for Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model.
 * 【2023-10-27】[xiaye13579 / BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
@@ -258,6 +265,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[microsoft / promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 ## Go
 
+* 【2023-10-28】[grpc / grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
+* 【2023-10-28】[rebuy-de / aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
+* 【2023-10-28】[opentofu / opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
+* 【2023-10-28】[sigstore / cosign](https://github.com/sigstore/cosign) - Container Signing
+* 【2023-10-28】[marcel-dempers / docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series) - 
+* 【2023-10-28】[vitessio / vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
+* 【2023-10-28】[coreybutler / nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 * 【2023-10-27】[spf13 / viper](https://github.com/spf13/viper) - Go configuration with fangs
 * 【2023-10-27】[helm / helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 * 【2023-10-27】[go-gorm / gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
@@ -505,6 +519,16 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[labstack / echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 ## Python
 
+* 【2023-10-28】[dagster-io / dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
+* 【2023-10-28】[bentoml / OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
+* 【2023-10-28】[codefuse-ai / Test-Agent](https://github.com/codefuse-ai/Test-Agent) - 国内首个测试行业大模型工具，体验AIGC为测试领域带来的变革！
+* 【2023-10-28】[AlbusSec / Penetration-List](https://github.com/AlbusSec/Penetration-List) - Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information.
+* 【2023-10-28】[nazavod777 / memeland_auto_reger](https://github.com/nazavod777/memeland_auto_reger) - 
+* 【2023-10-28】[huggingface / text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
+* 【2023-10-28】[mne-tools / mne-python](https://github.com/mne-tools/mne-python) - MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python
+* 【2023-10-28】[openai / gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
+* 【2023-10-28】[goauthentik / authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
+* 【2023-10-28】[hpcaitech / ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 * 【2023-10-27】[bytedance / SALMONN](https://github.com/bytedance/SALMONN) - SALMONN: Speech Audio Language Music Open Neural Network
 * 【2023-10-27】[N1k0la-T / CVE-2023-36745](https://github.com/N1k0la-T/CVE-2023-36745) - 
 * 【2023-10-27】[firmai / financial-machine-learning](https://github.com/firmai/financial-machine-learning) - A curated list of practical financial machine learning tools and applications.
@@ -709,6 +733,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[guibacellar / TEx](https://github.com/guibacellar/TEx) - Telegram Monitor
 ## Javascript
 
+* 【2023-10-28】[BetterDiscord / BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
+* 【2023-10-28】[LinaYorda / OSINTko](https://github.com/LinaYorda/OSINTko) - OSINTk.o is a customized Kali Linux-based ISO image with pre-installed packages and scripts
+* 【2023-10-28】[jbaysolutions / vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
+* 【2023-10-28】[idurar / idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR Open Source ERP CRM Node Js React AntD MERN
+* 【2023-10-28】[sequelize / sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
+* 【2023-10-28】[mozilla / pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 * 【2023-10-27】[ryanmcdermott / clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - 🛁 Clean Code concepts adapted for JavaScript
 * 【2023-10-27】[trekhleb / javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 * 【2023-10-27】[Mintplex-Labs / anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces.
@@ -958,6 +988,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[AbhishekSuresh2 / ABHISHEK-SER](https://github.com/AbhishekSuresh2/ABHISHEK-SER) - ABHISHEK-SER Is A WhatsApp Bot With 300+ Cool Features🎯
 ## C
 
+* 【2023-10-28】[palera1n / palera1n](https://github.com/palera1n/palera1n) - Jailbreak for arm64 devices on iOS 15.0+
+* 【2023-10-28】[ttttupup / wxhelper](https://github.com/ttttupup/wxhelper) - Hook WeChat / 微信逆向
+* 【2023-10-28】[neutrinolabs / xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
+* 【2023-10-28】[guanzhi / GmSSL](https://github.com/guanzhi/GmSSL) - 支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱
+* 【2023-10-28】[FreeRTOS / FreeRTOS-Kernel](https://github.com/FreeRTOS/FreeRTOS-Kernel) - FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.
+* 【2023-10-28】[ThrowTheSwitch / CMock](https://github.com/ThrowTheSwitch/CMock) - CMock - Mock/stub generator for C
+* 【2023-10-28】[jjwbruijn / OpenEPaperLink](https://github.com/jjwbruijn/OpenEPaperLink) - 
 * 【2023-10-27】[jgamblin / Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - Leaked Mirai Source Code for Research/IoC Development Purposes
 * 【2023-10-27】[zlib-ng / zlib-ng](https://github.com/zlib-ng/zlib-ng) - zlib replacement with optimizations for "next generation" systems.
 * 【2023-10-27】[systemd / systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
@@ -1183,6 +1220,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[flipperdevices / flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 ## C++
 
+* 【2023-10-28】[recastnavigation / recastnavigation](https://github.com/recastnavigation/recastnavigation) - Navigation-mesh Toolset for Games
+* 【2023-10-28】[Project-OSRM / osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
+* 【2023-10-28】[DRCL-USC / Hector_Simulation](https://github.com/DRCL-USC/Hector_Simulation) - Simulation Software for HECTOR Humanoid Robot (ROS/MATLAB)
+* 【2023-10-28】[OpenNMT / CTranslate2](https://github.com/OpenNMT/CTranslate2) - Fast inference engine for Transformer models
 * 【2023-10-27】[nmslib / hnswlib](https://github.com/nmslib/hnswlib) - Header-only C++/python library for fast approximate nearest neighbors
 * 【2023-10-27】[autowarefoundation / autoware.universe](https://github.com/autowarefoundation/autoware.universe) - 
 * 【2023-10-27】[jbeder / yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++
@@ -1402,6 +1443,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[carla-simulator / carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 ## Typescript
 
+* 【2023-10-28】[directus / directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+* 【2023-10-28】[ixahmedxi / noodle](https://github.com/ixahmedxi/noodle) - Open Source Education Platform
+* 【2023-10-28】[aws / aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 * 【2023-10-27】[InkTimeRecord / TTime](https://github.com/InkTimeRecord/TTime) - 🚀 A concise, efficient, good-looking input, screenshot, and word translation software
 * 【2023-10-27】[honojs / hono](https://github.com/honojs/hono) - Lightweight, Ultrafast, Web Standards
 * 【2023-10-27】[openai / openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
