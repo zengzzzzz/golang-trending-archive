@@ -53,6 +53,13 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-10-30】[THUDM / ChatGLM3](https://github.com/THUDM/ChatGLM3) - ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型
+* 【2023-10-30】[Las-Fuerzas-Del-Cielo / Sistema-Anti-Fraude-Electoral](https://github.com/Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral) - Sistema Open Source para Identificar potenciales fraudes electorales, minimizar su ocurrencia e impacto.
+* 【2023-10-30】[ossu / computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
+* 【2023-10-30】[leerob / leerob.io](https://github.com/leerob/leerob.io) - ✨ My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
+* 【2023-10-30】[leanprover / lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
+* 【2023-10-30】[RsaCtfTool / RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) - RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data
+* 【2023-10-30】[facebookresearch / llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model
 * 【2023-10-29】[xxlong0 / Wonder3D](https://github.com/xxlong0/Wonder3D) - A cross-domain diffusion model for 3D reconstruction from a single image
 * 【2023-10-29】[deepseek-ai / DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D) - Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior
 * 【2023-10-29】[PowerShell / PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
@@ -274,6 +281,19 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[microsoft / promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 ## Go
 
+* 【2023-10-30】[SidraChain / go-ethereum](https://github.com/SidraChain/go-ethereum) - Forked Golang execution layer implementation of the Ethereum protocol.
+* 【2023-10-30】[scratchdata / ScratchDB](https://github.com/scratchdata/ScratchDB) - Scratch is an open-source alternative to BigQuery, Redshift, and Snowflake. Runs on Clickhouse.
+* 【2023-10-30】[aandrew-me / tgpt](https://github.com/aandrew-me/tgpt) - ChatGPT in terminal without needing API keys
+* 【2023-10-30】[getlantern / lantern](https://github.com/getlantern/lantern) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، امن، قابل اعتماد و پرسرعت
+* 【2023-10-30】[hashicorp / nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+* 【2023-10-30】[hr3lxphr6j / bililive-go](https://github.com/hr3lxphr6j/bililive-go) - 一个直播录制工具
+* 【2023-10-30】[dunglas / frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server
+* 【2023-10-30】[cerbos / cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.
+* 【2023-10-30】[iDvel / rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
+* 【2023-10-30】[tmc / langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go
+* 【2023-10-30】[kubefirst / kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform
+* 【2023-10-30】[golang / tools](https://github.com/golang/tools) - [mirror] Go Tools
+* 【2023-10-30】[superseriousbusiness / gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
 * 【2023-10-29】[beego / beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 * 【2023-10-29】[ent / ent](https://github.com/ent/ent) - An entity framework for Go
 * 【2023-10-29】[kopia / kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
@@ -531,6 +551,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[labstack / echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 ## Python
 
+* 【2023-10-30】[Rapptz / discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
+* 【2023-10-30】[karfly / chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) - 
+* 【2023-10-30】[LmeSzinc / AzurLaneAutoScript](https://github.com/LmeSzinc/AzurLaneAutoScript) - Azur Lane bot (CN/EN/JP/TW) 碧蓝航线脚本 | 无缝委托科研，全自动大世界
+* 【2023-10-30】[reflex-dev / reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
+* 【2023-10-30】[max32002 / tixcraft_bot](https://github.com/max32002/tixcraft_bot) - Max搶票機器人(maxbot) help you quickly buy your tickets
+* 【2023-10-30】[mikf / gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
+* 【2023-10-30】[SkunkworksAI / BakLLaVA](https://github.com/SkunkworksAI/BakLLaVA) - 
 * 【2023-10-29】[streamlit / streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 * 【2023-10-29】[logspace-ai / langflow](https://github.com/logspace-ai/langflow) - ⛓️ Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 * 【2023-10-29】[nadermx / backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
@@ -756,6 +783,14 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[guibacellar / TEx](https://github.com/guibacellar/TEx) - Telegram Monitor
 ## Javascript
 
+* 【2023-10-30】[marktext / marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+* 【2023-10-30】[adrianhajdin / project_3D_developer_portfolio](https://github.com/adrianhajdin/project_3D_developer_portfolio) - The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today!
+* 【2023-10-30】[modood / Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
+* 【2023-10-30】[Clooos / Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.
+* 【2023-10-30】[souravkl11 / raganork-md](https://github.com/souravkl11/raganork-md) - Multi-functional WhatsApp bot project
+* 【2023-10-30】[spicetify / spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+* 【2023-10-30】[A-d-i-t-h-y-a-n / hermit-md](https://github.com/A-d-i-t-h-y-a-n/hermit-md) - Hermit-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys
+* 【2023-10-30】[sseezov / l5-validator-test-v2](https://github.com/sseezov/l5-validator-test-v2) - Аналог аттестационного проекта для 2 курса 1 семестра в Хекслет колледж
 * 【2023-10-29】[louislam / uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 * 【2023-10-29】[hackforla / website](https://github.com/hackforla/website) - Hack for LA's website
 * 【2023-10-29】[TheOdinProject / javascript-exercises](https://github.com/TheOdinProject/javascript-exercises) - 
@@ -1018,6 +1053,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[AbhishekSuresh2 / ABHISHEK-SER](https://github.com/AbhishekSuresh2/ABHISHEK-SER) - ABHISHEK-SER Is A WhatsApp Bot With 300+ Cool Features🎯
 ## C
 
+* 【2023-10-30】[TheAlgorithms / C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
+* 【2023-10-30】[dune3d / dune3d](https://github.com/dune3d/dune3d) - 3D CAD application
 * 【2023-10-29】[videolan / vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
 * 【2023-10-29】[citusdata / pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
 * 【2023-10-29】[greenplum-db / gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.
@@ -1258,6 +1295,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[flipperdevices / flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 ## C++
 
+* 【2023-10-30】[Lyall / MGSHDFix](https://github.com/Lyall/MGSHDFix) - A work-in-progress fix that aims to add custom resolutions and ultrawide support to Metal Gear Solid Master Collection.
+* 【2023-10-30】[SoftFever / OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
+* 【2023-10-30】[stenzek / duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
+* 【2023-10-30】[rathena / rathena](https://github.com/rathena/rathena) - rAthena is an open-source cross-platform MMORPG server.
 * 【2023-10-29】[PurpleI2P / i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 * 【2023-10-29】[halpz / re3](https://github.com/halpz/re3) - 
 * 【2023-10-29】[PX4 / PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) - PX4 Autopilot Software
@@ -1488,6 +1529,18 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-10-08】[carla-simulator / carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 ## Typescript
 
+* 【2023-10-30】[vercel / commerce](https://github.com/vercel/commerce) - Next.js Commerce
+* 【2023-10-30】[adrianhajdin / social_media_app](https://github.com/adrianhajdin/social_media_app) - Build a modern social app with a stunning UI with a native mobile feel, a special tech stack, an infinite scroll feature, and amazing performance using React JS, Appwrite, TypeScript, and more.
+* 【2023-10-30】[actualbudget / actual](https://github.com/actualbudget/actual) - A local-first personal finance app
+* 【2023-10-30】[Vencord / Vesktop](https://github.com/Vencord/Vesktop) - Vesktop gives you the performance of web Discord and the comfort of Discord Desktop
+* 【2023-10-30】[Wu-Jinzhou / protocol-oracle](https://github.com/Wu-Jinzhou/protocol-oracle) - 
+* 【2023-10-30】[Aylur / ags](https://github.com/Aylur/ags) - A customizable and extensible shell
+* 【2023-10-30】[microsoft / vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+* 【2023-10-30】[darshanpawar101 / Coffee-Shop-App](https://github.com/darshanpawar101/Coffee-Shop-App) - 
+* 【2023-10-30】[Orillusion / orillusion](https://github.com/Orillusion/orillusion) - Orillusion is a pure Web3D rendering engine which is fully developed based on the WebGPU standard.
+* 【2023-10-30】[Blazity / next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development.
+* 【2023-10-30】[catppuccin / catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
+* 【2023-10-30】[smogon / pokemon-showdown](https://github.com/smogon/pokemon-showdown) - Pokémon battle simulator.
 * 【2023-10-29】[Unleash / unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
 * 【2023-10-29】[boxyhq / saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
 * 【2023-10-29】[red-ninjas / himalaya-ui](https://github.com/red-ninjas/himalaya-ui) - Elevate your Next.js web development with our open-source UI library, offering a comprehensive suite of customizable components for building modern and user-friendly interfaces.
