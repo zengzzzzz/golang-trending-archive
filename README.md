@@ -53,6 +53,13 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-11-03】[huggingface / distil-whisper](https://github.com/huggingface/distil-whisper) - 
+* 【2023-11-03】[public-apis-dev / public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers
+* 【2023-11-03】[jeycaarce / flowers](https://github.com/jeycaarce/flowers) - 
+* 【2023-11-03】[AILab-CVC / VideoCrafter](https://github.com/AILab-CVC/VideoCrafter) - VideoCrafter1: Open Diffusion Models for High-Quality Video Generation
+* 【2023-11-03】[lapce / lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+* 【2023-11-03】[yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS
+* 【2023-11-03】[artichokeee / test-assignments](https://github.com/artichokeee/test-assignments) - Список тестовых заданий для ручных тестировщиков и автоматизаторов
 * 【2023-11-02】[php-youtubers / directory](https://github.com/php-youtubers/directory) - Curated a list of PHP YouTubers. 📋
 * 【2023-11-02】[projectdiscovery / nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 * 【2023-11-02】[1c7 / chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
@@ -68,6 +75,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[Azure / Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 ## Go
 
+* 【2023-11-03】[cilium / tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
+* 【2023-11-03】[googleapis / google-cloud-go](https://github.com/googleapis/google-cloud-go) - Google Cloud Client Libraries for Go.
+* 【2023-11-03】[golang / mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 * 【2023-11-02】[prometheus / node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 * 【2023-11-02】[elastic / go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch
 * 【2023-11-02】[miekg / dns](https://github.com/miekg/dns) - DNS library in Go
@@ -86,6 +96,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[go-co-op / gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 ## Python
 
+* 【2023-11-03】[gto76 / python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
+* 【2023-11-03】[facebookresearch / fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
+* 【2023-11-03】[tatsu-lab / stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
+* 【2023-11-03】[minimaxir / big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+* 【2023-11-03】[safevideo / autollm](https://github.com/safevideo/autollm) - Ship RAG based LLM web apps in seconds.
 * 【2023-11-02】[iam-veeramalla / aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero) - AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.
 * 【2023-11-02】[lm-sys / FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 * 【2023-11-02】[togethercomputer / RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
@@ -102,6 +117,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[deepset-ai / haystack](https://github.com/deepset-ai/haystack) - 🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 ## Javascript
 
+* 【2023-11-03】[MobSF / Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
+* 【2023-11-03】[evilsocket / pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
+* 【2023-11-03】[ddupont808 / GPT-4V-Act](https://github.com/ddupont808/GPT-4V-Act) - AI agent using GPT-4V(ision) capable of using a mouse/keyboard to interact with web UI
+* 【2023-11-03】[preactjs / preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 * 【2023-11-02】[Automattic / mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 * 【2023-11-01】[sveltejs / kit](https://github.com/sveltejs/kit) - web development, streamlined
 * 【2023-11-01】[xnl-h4ck3r / XnlReveal](https://github.com/xnl-h4ck3r/XnlReveal) - A Chrome/Firefox browser extension to show alerts for relfected query params, show hidden elements and enable disabled elements.
@@ -115,6 +134,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[elnardu / react-use-c](https://github.com/elnardu/react-use-c) - Use C in your React!
 ## C
 
+* 【2023-11-03】[ElliotKillick / LdrLockLiberator](https://github.com/ElliotKillick/LdrLockLiberator) - For when DLLMain is the only way
+* 【2023-11-03】[cozis / microtcp](https://github.com/cozis/microtcp) - A minimal TCP/IP stack
+* 【2023-11-03】[axboe / fio](https://github.com/axboe/fio) - Flexible I/O Tester
+* 【2023-11-03】[libusb / hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
+* 【2023-11-03】[jart / cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 * 【2023-11-02】[ARMmbed / mbed-os](https://github.com/ARMmbed/mbed-os) - Arm Mbed OS is a platform operating system designed for the internet of things
 * 【2023-11-02】[libfuse / sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
 * 【2023-11-02】[c-ares / c-ares](https://github.com/c-ares/c-ares) - A C library for asynchronous DNS requests
@@ -125,6 +149,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[robertdavidgraham / masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 ## C++
 
+* 【2023-11-03】[rwengine / openrw](https://github.com/rwengine/openrw) - OpenRW "Open ReWrite" is an un-official open source recreation of the classic Grand Theft Auto III game executable
+* 【2023-11-03】[myhhub / qtPluginApp](https://github.com/myhhub/qtPluginApp) - Qt Plugin.QT插件框架
+* 【2023-11-03】[weidai11 / cryptopp](https://github.com/weidai11/cryptopp) - free C++ class library of cryptographic schemes
+* 【2023-11-03】[carbon-language / carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
+* 【2023-11-03】[alibaba / MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
 * 【2023-11-02】[google / sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
 * 【2023-11-02】[ckcr4lyf / EvilAppleJuice-ESP32](https://github.com/ckcr4lyf/EvilAppleJuice-ESP32) - Spam Apple Proximity Messages via an ESP32
 * 【2023-11-02】[progschj / ThreadPool](https://github.com/progschj/ThreadPool) - A simple C++11 Thread Pool implementation
@@ -139,6 +168,14 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[microsoft / LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 ## Typescript
 
+* 【2023-11-03】[mswjs / msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
+* 【2023-11-03】[expo / expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
+* 【2023-11-03】[starknet-io / starknet-website](https://github.com/starknet-io/starknet-website) - The main repo for starknet.io
+* 【2023-11-03】[mui / material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+* 【2023-11-03】[TypeCellOS / BlockNote](https://github.com/TypeCellOS/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
+* 【2023-11-03】[shadcn-ui / taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
+* 【2023-11-03】[bitwarden / clients](https://github.com/bitwarden/clients) - Bitwarden client applications (web, browser extension, desktop, and cli)
+* 【2023-11-03】[OHIF / Viewers](https://github.com/OHIF/Viewers) - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages
 * 【2023-11-02】[prisma / prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 * 【2023-11-02】[run-llama / chat-llamaindex](https://github.com/run-llama/chat-llamaindex) - 
 * 【2023-11-02】[imgly / background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
