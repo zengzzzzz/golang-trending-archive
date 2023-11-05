@@ -53,6 +53,14 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-11-05】[bensadeh / tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
+* 【2023-11-05】[MatsuriDayo / NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
+* 【2023-11-05】[simondankelmann / Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) - 
+* 【2023-11-05】[2dust / v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
+* 【2023-11-05】[MetaCubeX / metacubexd](https://github.com/MetaCubeX/metacubexd) - Clash.Meta Dashboard, The Official One, XD
+* 【2023-11-05】[shadowsocks / shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
+* 【2023-11-05】[2dust / clashN](https://github.com/2dust/clashN) - A clash client for Windows, support clash core and Clash.Meta core
+* 【2023-11-05】[jianchang512 / pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音
 * 【2023-11-04】[microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 12 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
 * 【2023-11-04】[evilsocket / legba](https://github.com/evilsocket/legba) - A multiprotocol credentials bruteforcer / password sprayer and enumerator.
 * 【2023-11-04】[gedoor / legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
@@ -81,6 +89,15 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[Azure / Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 ## Go
 
+* 【2023-11-05】[daeuniverse / dae](https://github.com/daeuniverse/dae) - A Linux high-performance transparent proxy solution based on eBPF.
+* 【2023-11-05】[v2rayA / v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
+* 【2023-11-05】[MetaCubeX / Clash.Mini](https://github.com/MetaCubeX/Clash.Mini) - Clash.Mini
+* 【2023-11-05】[charmbracelet / lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
+* 【2023-11-05】[determined-ai / determined](https://github.com/determined-ai/determined) - Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.
+* 【2023-11-05】[Jrohy / trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
+* 【2023-11-05】[XTLS / REALITY](https://github.com/XTLS/REALITY) - THE NEXT FUTURE
+* 【2023-11-05】[XrayR-project / XrayR](https://github.com/XrayR-project/XrayR) - A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接
+* 【2023-11-05】[runfinch / finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
 * 【2023-11-04】[EndlessCheng / codeforces-go](https://github.com/EndlessCheng/codeforces-go) - 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
 * 【2023-11-04】[shortlink-org / shortlink](https://github.com/shortlink-org/shortlink) - Shortlink service (Microservice example)
 * 【2023-11-04】[X1r0z / ActiveMQ-RCE](https://github.com/X1r0z/ActiveMQ-RCE) - ActiveMQ RCE (CVE-2023-46604) 漏洞利用工具, 基于 Go 语言
@@ -110,6 +127,17 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[go-co-op / gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 ## Python
 
+* 【2023-11-05】[spack / spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+* 【2023-11-05】[tigerlab-ai / tiger](https://github.com/tigerlab-ai/tiger) - Open Source LLM toolkit to build LLM applications. TigerRag (embedding, RAG), TigerTune (fine-tuning), TigerArmor (AI safety)
+* 【2023-11-05】[pydantic / pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
+* 【2023-11-05】[LorenEteval / Furious](https://github.com/LorenEteval/Furious) - A PySide6-based cross platform GUI client that launches your beloved GFW to outer space. Support Xray-core and hysteria.
+* 【2023-11-05】[Kav-K / GPTDiscord](https://github.com/Kav-K/GPTDiscord) - A robust, all-in-one GPT3 interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
+* 【2023-11-05】[WilliamStar007 / ClashX-V2Ray-TopFreeProxy](https://github.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy) - Top free VPN (ClashX & V2Ray proxy) with subscription links. [免费VPN、免费梯子、免费科学上网、免费订阅链接、免费节点、精选、ClashX & V2Ray 教程]
+* 【2023-11-05】[shadowsocks / shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
+* 【2023-11-05】[hiyouga / LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Easy-to-use LLM fine-tuning framework (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, ChatGLM3)
+* 【2023-11-05】[helblazer811 / ManimML](https://github.com/helblazer811/ManimML) - ManimML is a project focused on providing animations and visualizations of common machine learning concepts with the Manim Community Library.
+* 【2023-11-05】[continue-revolution / sd-webui-animatediff](https://github.com/continue-revolution/sd-webui-animatediff) - AnimateDiff for AUTOMATIC1111 Stable Diffusion WebUI
+* 【2023-11-05】[noamgat / lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer) - Enforce the output format (JSON Schema, Regex etc) of a language model
 * 【2023-11-04】[pytorch / examples](https://github.com/pytorch/examples) - A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
 * 【2023-11-04】[RekhuGopal / PythonHacks](https://github.com/RekhuGopal/PythonHacks) - This repo contains some solved python hacker codes
 * 【2023-11-04】[vivo-ai-lab / BlueLM](https://github.com/vivo-ai-lab/BlueLM) - BlueLM(蓝心大模型): Open large language models developed by vivo AI Lab
@@ -139,6 +167,18 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[deepset-ai / haystack](https://github.com/deepset-ai/haystack) - 🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 ## Javascript
 
+* 【2023-11-05】[codrops / SlideshowAnimations](https://github.com/codrops/SlideshowAnimations) - A collection of ideas for slideshow animations.
+* 【2023-11-05】[tangyoha / telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
+* 【2023-11-05】[vaxilu / x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
+* 【2023-11-05】[sve1r / Rules-For-Quantumult-X](https://github.com/sve1r/Rules-For-Quantumult-X) - 适用于 Quantumult X 规则整理集合. 所有内容源自 互联网,仅作为收集和整理
+* 【2023-11-05】[MuhammedKalkan / OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository
+* 【2023-11-05】[jackocnr / intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers
+* 【2023-11-05】[lovell / sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
+* 【2023-11-05】[eslint-stylistic / eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic) - Monorepo for ESLint Stylistic plugins and configs
+* 【2023-11-05】[woowacourse-precourse / javascript-lotto-6](https://github.com/woowacourse-precourse/javascript-lotto-6) - 
+* 【2023-11-05】[semantic-release / semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
+* 【2023-11-05】[crossutility / Quantumult-X](https://github.com/crossutility/Quantumult-X) - 
+* 【2023-11-05】[downshift-js / downshift](https://github.com/downshift-js/downshift) - 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.
 * 【2023-11-04】[pinokiocomputer / pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 * 【2023-11-04】[atlassian / react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 * 【2023-11-04】[actuallymentor / battery](https://github.com/actuallymentor/battery) - CLI for managing the battery charging status for M1 Macs
@@ -161,6 +201,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[elnardu / react-use-c](https://github.com/elnardu/react-use-c) - Use C in your React!
 ## C
 
+* 【2023-11-05】[ibireme / yyjson](https://github.com/ibireme/yyjson) - The fastest JSON library in C
+* 【2023-11-05】[libusb / libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
+* 【2023-11-05】[libbpf / libbpf-bootstrap](https://github.com/libbpf/libbpf-bootstrap) - Scaffolding for BPF application development with libbpf and BPF CO-RE
 * 【2023-11-04】[s0lst1c3 / eaphammer](https://github.com/s0lst1c3/eaphammer) - Targeted evil twin attacks against WPA2-Enterprise networks. Indirect wireless pivots using hostile portal attacks.
 * 【2023-11-04】[grafana / pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 * 【2023-11-04】[Manawyrm / nvme-int13h-optionrom](https://github.com/Manawyrm/nvme-int13h-optionrom) - Option ROM to boot x86 PCs from NVMe drives (legacy BIOS, INT 13h)
@@ -181,6 +224,16 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[robertdavidgraham / masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 ## C++
 
+* 【2023-11-05】[Norbyte / bg3se](https://github.com/Norbyte/bg3se) - Baldur's Gate 3 Script Extender
+* 【2023-11-05】[Qv2ray / Qv2ray](https://github.com/Qv2ray/Qv2ray) - ⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 ⭐
+* 【2023-11-05】[klzgrad / naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
+* 【2023-11-05】[pxmkv / Balance-Tech](https://github.com/pxmkv/Balance-Tech) - Self Balancing Bicycle using LQR controller
+* 【2023-11-05】[mmp / pbrt-v4](https://github.com/mmp/pbrt-v4) - Source code to pbrt, the ray tracer described in the forthcoming 4th edition of the "Physically Based Rendering: From Theory to Implementation" book.
+* 【2023-11-05】[taichi-dev / taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
+* 【2023-11-05】[rhasspy / piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
+* 【2023-11-05】[zeux / meshoptimizer](https://github.com/zeux/meshoptimizer) - Mesh optimization library that makes meshes smaller and faster to render
+* 【2023-11-05】[googleapis / google-cloud-cpp](https://github.com/googleapis/google-cloud-cpp) - C++ Client Libraries for Google Cloud Services
+* 【2023-11-05】[ArthurSonzogni / FTXUI](https://github.com/ArthurSonzogni/FTXUI) - 💻 C++ Functional Terminal User Interface. ❤️
 * 【2023-11-04】[casper-hansen / AutoAWQ](https://github.com/casper-hansen/AutoAWQ) - AutoAWQ implements the AWQ algorithm for 4-bit quantization with a 2x speedup during inference.
 * 【2023-11-04】[microsoft / IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
 * 【2023-11-03】[rwengine / openrw](https://github.com/rwengine/openrw) - OpenRW "Open ReWrite" is an un-official open source recreation of the classic Grand Theft Auto III game executable
@@ -202,6 +255,14 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[microsoft / LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 ## Typescript
 
+* 【2023-11-05】[containers / podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes
+* 【2023-11-05】[tinymce / tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
+* 【2023-11-05】[AntonioErdeljac / next13-lms-platform](https://github.com/AntonioErdeljac/next13-lms-platform) - 
+* 【2023-11-05】[BabylonJS / Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
+* 【2023-11-05】[ocodista / trampar-de-casa](https://github.com/ocodista/trampar-de-casa) - Apoiamos o trabalho remoto e divulgamos vagas semanalmente para inscritos.
+* 【2023-11-05】[antvis / X6](https://github.com/antvis/X6) - 🚀 JavaScript diagramming library that uses SVG and HTML for rendering.
+* 【2023-11-05】[react-hook-form / react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
+* 【2023-11-05】[ferdikoomen / openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
 * 【2023-11-04】[ykhli / local-ai-stack](https://github.com/ykhli/local-ai-stack) - A starter kit to build *local-only* AI apps that cost $0 to run -- starting with document Q&A. Written in Javascript
 * 【2023-11-04】[a16z-infra / ai-getting-started](https://github.com/a16z-infra/ai-getting-started) - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs
 * 【2023-11-04】[gristlabs / grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
