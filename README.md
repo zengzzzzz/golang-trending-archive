@@ -53,6 +53,11 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-11-06】[Kuingsmile / clash-core](https://github.com/Kuingsmile/clash-core) - backup of clash core
+* 【2023-11-06】[nz-m / SocialEcho](https://github.com/nz-m/SocialEcho) - Social networking platform with automated content moderation and context-based authentication system
+* 【2023-11-06】[girafe-ai / ml-course](https://github.com/girafe-ai/ml-course) - Open Machine Learning course
+* 【2023-11-06】[chronark / highstorm](https://github.com/chronark/highstorm) - Open Source Event Monitoring
+* 【2023-11-06】[Ieooo / clash](https://github.com/Ieooo/clash) - fork from clash
 * 【2023-11-05】[bensadeh / tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 * 【2023-11-05】[MatsuriDayo / NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
 * 【2023-11-05】[simondankelmann / Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) - 
@@ -89,6 +94,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[Azure / Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 ## Go
 
+* 【2023-11-06】[championswimmer / onepixel_backend](https://github.com/championswimmer/onepixel_backend) - 
 * 【2023-11-05】[daeuniverse / dae](https://github.com/daeuniverse/dae) - A Linux high-performance transparent proxy solution based on eBPF.
 * 【2023-11-05】[v2rayA / v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
 * 【2023-11-05】[MetaCubeX / Clash.Mini](https://github.com/MetaCubeX/Clash.Mini) - Clash.Mini
@@ -127,6 +133,15 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[go-co-op / gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 ## Python
 
+* 【2023-11-06】[deepseek-ai / DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
+* 【2023-11-06】[pytube / pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+* 【2023-11-06】[tiangolo / sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
+* 【2023-11-06】[vveg26 / chromego_merge](https://github.com/vveg26/chromego_merge) - 免费节点
+* 【2023-11-06】[ranaroussi / yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
+* 【2023-11-06】[jxnl / instructor](https://github.com/jxnl/instructor) - openai function calls for humans
+* 【2023-11-06】[PrefectHQ / marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
+* 【2023-11-06】[microsoft / CodeT](https://github.com/microsoft/CodeT) - 
+* 【2023-11-06】[lukas-blecher / LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 * 【2023-11-05】[spack / spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 * 【2023-11-05】[tigerlab-ai / tiger](https://github.com/tigerlab-ai/tiger) - Open Source LLM toolkit to build LLM applications. TigerRag (embedding, RAG), TigerTune (fine-tuning), TigerArmor (AI safety)
 * 【2023-11-05】[pydantic / pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
@@ -167,6 +182,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[deepset-ai / haystack](https://github.com/deepset-ai/haystack) - 🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 ## Javascript
 
+* 【2023-11-06】[flybywiresim / aircraft](https://github.com/flybywiresim/aircraft) - The A32NX & A380X Project are community driven open source projects to create a free airbus aircraft in Microsoft Flight Simulator that is as close to reality as possible.
+* 【2023-11-06】[Hackl0us / SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
+* 【2023-11-06】[rolling-scopes-school / tasks](https://github.com/rolling-scopes-school/tasks) - 
+* 【2023-11-06】[sub-store-org / Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash and ShadowRocket!
+* 【2023-11-06】[mifi / lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
+* 【2023-11-06】[docmirror / dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
+* 【2023-11-06】[gitdagray / react_redux_toolkit](https://github.com/gitdagray/react_redux_toolkit) - 
 * 【2023-11-05】[codrops / SlideshowAnimations](https://github.com/codrops/SlideshowAnimations) - A collection of ideas for slideshow animations.
 * 【2023-11-05】[tangyoha / telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
 * 【2023-11-05】[vaxilu / x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
@@ -201,6 +223,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[elnardu / react-use-c](https://github.com/elnardu/react-use-c) - Use C in your React!
 ## C
 
+* 【2023-11-06】[acidanthera / OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
+* 【2023-11-06】[mgba-emu / mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
+* 【2023-11-06】[ProtonVPN / android-app](https://github.com/ProtonVPN/android-app) - Official ProtonVPN Android app
+* 【2023-11-06】[MicroLua / MicroLua](https://github.com/MicroLua/MicroLua) - Lua for the RP2040 microcontroller
 * 【2023-11-05】[ibireme / yyjson](https://github.com/ibireme/yyjson) - The fastest JSON library in C
 * 【2023-11-05】[libusb / libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
 * 【2023-11-05】[libbpf / libbpf-bootstrap](https://github.com/libbpf/libbpf-bootstrap) - Scaffolding for BPF application development with libbpf and BPF CO-RE
@@ -224,6 +250,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[robertdavidgraham / masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 ## C++
 
+* 【2023-11-06】[trojan-gfw / trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
+* 【2023-11-06】[FlaxEngine / FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - Flax Engine – multi-platform 3D game engine
+* 【2023-11-06】[nefarius / ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
+* 【2023-11-06】[tdlib / td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
+* 【2023-11-06】[ExpressLRS / ExpressLRS](https://github.com/ExpressLRS/ExpressLRS) - STM32/ESP32/ESP8285-based High-Performance Radio Link for RC applications
 * 【2023-11-05】[Norbyte / bg3se](https://github.com/Norbyte/bg3se) - Baldur's Gate 3 Script Extender
 * 【2023-11-05】[Qv2ray / Qv2ray](https://github.com/Qv2ray/Qv2ray) - ⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 ⭐
 * 【2023-11-05】[klzgrad / naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
@@ -255,6 +286,14 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[microsoft / LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 ## Typescript
 
+* 【2023-11-06】[total-typescript / total-typescript-book](https://github.com/total-typescript/total-typescript-book) - The companion repo for the upcoming Total TypeScript book
+* 【2023-11-06】[pingdotgg / uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
+* 【2023-11-06】[bufferhead-code / nextjs-use-php](https://github.com/bufferhead-code/nextjs-use-php) - Use PHP code right within your React / Next.js App. With "use php";
+* 【2023-11-06】[atomicals / atomicals-js](https://github.com/atomicals/atomicals-js) - Atomicals CLI and Javascript Library
+* 【2023-11-06】[nextui-org / nextui](https://github.com/nextui-org/nextui) - 🚀 Beautiful, fast and modern React UI library.
+* 【2023-11-06】[ghostfolio / ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
+* 【2023-11-06】[garden-io / garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching
+* 【2023-11-06】[homebridge / homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 * 【2023-11-05】[containers / podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes
 * 【2023-11-05】[tinymce / tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 * 【2023-11-05】[AntonioErdeljac / next13-lms-platform](https://github.com/AntonioErdeljac/next13-lms-platform) - 
