@@ -53,6 +53,14 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-11-07】[TeamNewPipe / NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
+* 【2023-11-07】[bevyengine / bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
+* 【2023-11-07】[TheChance101 / beep-beep](https://github.com/TheChance101/beep-beep) - 
+* 【2023-11-07】[milanm / DotNet-Developer-Roadmap](https://github.com/milanm/DotNet-Developer-Roadmap) - The comprehensive .NET Developer Roadmap by seniority level.
+* 【2023-11-07】[qdrant / qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+* 【2023-11-07】[LayerZero-Labs / solidity-examples](https://github.com/LayerZero-Labs/solidity-examples) - example contracts
+* 【2023-11-07】[google / jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+* 【2023-11-07】[openwrt / packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
 * 【2023-11-06】[Kuingsmile / clash-core](https://github.com/Kuingsmile/clash-core) - backup of clash core
 * 【2023-11-06】[nz-m / SocialEcho](https://github.com/nz-m/SocialEcho) - Social networking platform with automated content moderation and context-based authentication system
 * 【2023-11-06】[girafe-ai / ml-course](https://github.com/girafe-ai/ml-course) - Open Machine Learning course
@@ -94,6 +102,16 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[Azure / Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 ## Go
 
+* 【2023-11-07】[xmdhs / clash2singbox](https://github.com/xmdhs/clash2singbox) - 将 clash.meta 格式的配置文件或链接转换为 sing-box 格式
+* 【2023-11-07】[AlexxIT / go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+* 【2023-11-07】[Jinnrry / PMail](https://github.com/Jinnrry/PMail) - Private EMail Server
+* 【2023-11-07】[rclone / rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+* 【2023-11-07】[tailscale / tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+* 【2023-11-07】[cli / cli](https://github.com/cli/cli) - GitHub’s official command line tool
+* 【2023-11-07】[portainer / portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
+* 【2023-11-07】[techschool / simplebank](https://github.com/techschool/simplebank) - Backend master class: build a simple bank service in Go
+* 【2023-11-07】[bettercap / bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
+* 【2023-11-07】[trustwallet / assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 * 【2023-11-06】[championswimmer / onepixel_backend](https://github.com/championswimmer/onepixel_backend) - 
 * 【2023-11-05】[daeuniverse / dae](https://github.com/daeuniverse/dae) - A Linux high-performance transparent proxy solution based on eBPF.
 * 【2023-11-05】[v2rayA / v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
@@ -133,6 +151,17 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[go-co-op / gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 ## Python
 
+* 【2023-11-07】[dreamgaussian / dreamgaussian](https://github.com/dreamgaussian/dreamgaussian) - Generative Gaussian Splatting for Efficient 3D Content Creation
+* 【2023-11-07】[kovidgoyal / calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
+* 【2023-11-07】[imoneoi / openchat](https://github.com/imoneoi/openchat) - OpenChat: Advancing Open-source Language Models with Imperfect Data
+* 【2023-11-07】[MorvanZhou / Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow) - Simple Reinforcement learning tutorials, 莫烦Python 中文AI教学
+* 【2023-11-07】[yihong0618 / tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle) - Telegram bing bot DALL-E 3
+* 【2023-11-07】[microsoft / DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) - MII makes low-latency and high-throughput inference possible, powered by DeepSpeed.
+* 【2023-11-07】[aladdinpersson / Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) - A resource for learning about Machine learning & Deep Learning
+* 【2023-11-07】[kivy / python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
+* 【2023-11-07】[521xueweihan / HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+* 【2023-11-07】[reactive-python / reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
+* 【2023-11-07】[drivendata / cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 * 【2023-11-06】[deepseek-ai / DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 * 【2023-11-06】[pytube / pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 * 【2023-11-06】[tiangolo / sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
@@ -182,6 +211,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[deepset-ai / haystack](https://github.com/deepset-ai/haystack) - 🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 ## Javascript
 
+* 【2023-11-07】[advplyr / audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
+* 【2023-11-07】[pat-jj / TextbookKG](https://github.com/pat-jj/TextbookKG) - TxBKG - Knowledge Graph Generation for Any PDFs
+* 【2023-11-07】[koodo-reader / koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
+* 【2023-11-07】[adrianhajdin / project_react_native_jobs](https://github.com/adrianhajdin/project_react_native_jobs) - 
+* 【2023-11-07】[USTC-Hackergame / hackergame2023-writeups](https://github.com/USTC-Hackergame/hackergame2023-writeups) - 中国科学技术大学第十届信息安全大赛的官方与非官方题解
+* 【2023-11-07】[elrebelde21 / NovaBot-MD](https://github.com/elrebelde21/NovaBot-MD) - ʜᴏʟᴀ 👋 ʙɪᴇɴᴠᴇɴɪᴅᴏ 💫 ᴀʟ ʀᴇᴘᴏsɪᴛᴏʀɪᴏ ᴏғɪᴄɪᴀʟ ᴅᴇʟ ɴᴏᴠᴀʙᴏᴛ-ᴍᴅ, ᴇs ᴜɴ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ ғᴜɴᴄɪᴏɴᴀʟ ᴄᴏɴ ʟᴀ ᴠᴇʀsɪᴏɴ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ, ᴀǫᴜɪ sᴇ ʀᴇᴀʟɪᴢᴀʀᴀɴ ᴀᴄᴛᴜʟɪᴢᴀᴄɪᴏɴᴇs, sɪ ᴛᴇ ᴀɢʀᴀᴅᴀ ᴇʟ ʙᴏᴛ ᴍᴇ ᴘᴜᴇᴅᴇ ʀᴇɢᴀʟᴀs ᴜɴᴀ 🌟?, ᴇsᴘᴇʀᴏ ᴛᴇ ɢᴜsᴛᴇ 🤗
+* 【2023-11-07】[UnblockNeteaseMusic / server](https://github.com/UnblockNeteaseMusic/server) - Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
 * 【2023-11-06】[flybywiresim / aircraft](https://github.com/flybywiresim/aircraft) - The A32NX & A380X Project are community driven open source projects to create a free airbus aircraft in Microsoft Flight Simulator that is as close to reality as possible.
 * 【2023-11-06】[Hackl0us / SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
 * 【2023-11-06】[rolling-scopes-school / tasks](https://github.com/rolling-scopes-school/tasks) - 
@@ -223,6 +259,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[elnardu / react-use-c](https://github.com/elnardu/react-use-c) - Use C in your React!
 ## C
 
+* 【2023-11-07】[ish-app / ish](https://github.com/ish-app/ish) - Linux shell for iOS
+* 【2023-11-07】[n64decomp / sm64](https://github.com/n64decomp/sm64) - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
 * 【2023-11-06】[acidanthera / OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
 * 【2023-11-06】[mgba-emu / mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
 * 【2023-11-06】[ProtonVPN / android-app](https://github.com/ProtonVPN/android-app) - Official ProtonVPN Android app
@@ -250,6 +288,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[robertdavidgraham / masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 ## C++
 
+* 【2023-11-07】[tdlib / telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server
+* 【2023-11-07】[simdjson / simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, StarRocks
+* 【2023-11-07】[godotengine / godot-cpp](https://github.com/godotengine/godot-cpp) - C++ bindings for the Godot script API
+* 【2023-11-07】[minetest / minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
+* 【2023-11-07】[SFML / SFML](https://github.com/SFML/SFML) - Simple and Fast Multimedia Library
+* 【2023-11-07】[nillerusr / source-engine](https://github.com/nillerusr/source-engine) - Modified source engine (2017) developed by valve and leaked in 2020. Not for commercial purporses
+* 【2023-11-07】[hrydgard / ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org.
 * 【2023-11-06】[trojan-gfw / trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
 * 【2023-11-06】[FlaxEngine / FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - Flax Engine – multi-platform 3D game engine
 * 【2023-11-06】[nefarius / ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
@@ -286,6 +331,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[microsoft / LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 ## Typescript
 
+* 【2023-11-07】[victordibia / autogen-ui](https://github.com/victordibia/autogen-ui) - Web UI for AutoGen (A Framework Multi-Agent LLM Applications)
+* 【2023-11-07】[vercel / nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
+* 【2023-11-07】[vuejs / core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+* 【2023-11-07】[jackyzha0 / quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+* 【2023-11-07】[hinterdupfinger / obsidian-ollama](https://github.com/hinterdupfinger/obsidian-ollama) - 
+* 【2023-11-07】[aave / aave-v3-core](https://github.com/aave/aave-v3-core) - This repository contains the core smart contracts of the Aave V3 protocol.
 * 【2023-11-06】[total-typescript / total-typescript-book](https://github.com/total-typescript/total-typescript-book) - The companion repo for the upcoming Total TypeScript book
 * 【2023-11-06】[pingdotgg / uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
 * 【2023-11-06】[bufferhead-code / nextjs-use-php](https://github.com/bufferhead-code/nextjs-use-php) - Use PHP code right within your React / Next.js App. With "use php";
