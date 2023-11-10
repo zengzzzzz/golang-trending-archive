@@ -53,6 +53,14 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-11-10】[VinAIResearch / PhoGPT](https://github.com/VinAIResearch/PhoGPT) - PhoGPT: Generative Pre-training for Vietnamese
+* 【2023-11-10】[Deci-AI / super-gradients](https://github.com/Deci-AI/super-gradients) - Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.
+* 【2023-11-10】[SimplifyJobs / New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions) - A collection of New Grad full time roles in SWE, Quant, and PM.
+* 【2023-11-10】[daveshap / ChatGPT_Custom_Instructions](https://github.com/daveshap/ChatGPT_Custom_Instructions) - Repo of custom instructions that you can use for ChatGPT
+* 【2023-11-10】[ko-build / ko](https://github.com/ko-build/ko) - Build and deploy Go applications
+* 【2023-11-10】[TheoKanning / openai-java](https://github.com/TheoKanning/openai-java) - OpenAI Api Client in Java
+* 【2023-11-10】[primefaces / primeng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library
+* 【2023-11-10】[Niek / chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
 * 【2023-11-09】[ekzhang / sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 * 【2023-11-09】[files-community / Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 * 【2023-11-09】[langchain-ai / opengpts](https://github.com/langchain-ai/opengpts) - 
@@ -122,6 +130,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[Azure / Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 ## Go
 
+* 【2023-11-10】[avelino / awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+* 【2023-11-10】[hyperledger / fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
+* 【2023-11-10】[tsenart / vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
+* 【2023-11-10】[uber-go / automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
+* 【2023-11-10】[caarlos0 / env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs
 * 【2023-11-09】[krya-kryak / y-y-devops-trainings-cloud-1](https://github.com/krya-kryak/y-y-devops-trainings-cloud-1) - Домашнее задание для DevOps-тренировок в Яндексе, лекция "Облако. Кто виноват и что делать."
 * 【2023-11-09】[uber-go / goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
 * 【2023-11-09】[csyezheng / a2fa](https://github.com/csyezheng/a2fa) - a2fa is a command line tool for generating and validating one-time password. Its purpose is to get rid of phones and be able to authenticate easily.
@@ -183,6 +196,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[go-co-op / gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 ## Python
 
+* 【2023-11-10】[chtmp223 / topicGPT](https://github.com/chtmp223/topicGPT) - Code & Prompts for TopicGPT paper (Pham et al. 2023)
+* 【2023-11-10】[locustio / locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
+* 【2023-11-10】[roboflow / webcamGPT](https://github.com/roboflow/webcamGPT) - webcamGPT - chat with video stream 💬 + 📸
+* 【2023-11-10】[0-8-4 / miui-auto-tasks](https://github.com/0-8-4/miui-auto-tasks) - 一个自动化完成小米社区任务的脚本
+* 【2023-11-10】[tiangolo / full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
+* 【2023-11-10】[MrSaighnal / GCR-Google-Calendar-RAT](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT) - Google Calendar RAT is a PoC of Command&Control over Google Calendar Events
 * 【2023-11-09】[fortra / impacket](https://github.com/fortra/impacket) - Impacket is a collection of Python classes for working with network protocols.
 * 【2023-11-09】[PyGithub / PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 * 【2023-11-09】[microsoft / playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
@@ -252,6 +271,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[deepset-ai / haystack](https://github.com/deepset-ai/haystack) - 🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 ## Javascript
 
+* 【2023-11-10】[Chalarangelo / 30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+* 【2023-11-10】[webrtc / samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
+* 【2023-11-10】[jonasschmedtmann / complete-node-bootcamp](https://github.com/jonasschmedtmann/complete-node-bootcamp) - Starter files, final projects and FAQ for my Complete Node.js Bootcamp
+* 【2023-11-10】[OAI / OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 * 【2023-11-09】[facebook / create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 * 【2023-11-09】[brianc / node-postgres](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js.
 * 【2023-11-08】[openspug / spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
@@ -309,6 +332,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[elnardu / react-use-c](https://github.com/elnardu/react-use-c) - Use C in your React!
 ## C
 
+* 【2023-11-10】[microsoft / Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) - This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
+* 【2023-11-10】[FeijiangHan / dead_code_analyzer](https://github.com/FeijiangHan/dead_code_analyzer) - Using DynamoRIO and XED to find redundant executions (Dead code)
+* 【2023-11-10】[fortra / No-Consolation](https://github.com/fortra/No-Consolation) - A BOF that runs unmanaged PEs inline
+* 【2023-11-10】[Battelle / movfuscator](https://github.com/Battelle/movfuscator) - The single instruction C compiler
+* 【2023-11-10】[containers / crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
+* 【2023-11-10】[ufrisk / pcileech](https://github.com/ufrisk/pcileech) - Direct Memory Access (DMA) Attack Software
+* 【2023-11-10】[chiteroman / PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix) - Fix Play Integrity (and SafetyNet) verdicts.
 * 【2023-11-09】[Cracked5pider / LdrLibraryEx](https://github.com/Cracked5pider/LdrLibraryEx) - A small x64 library to load dll's into memory.
 * 【2023-11-09】[id-Software / DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 * 【2023-11-09】[ph1p / ikea-led-obegraensad](https://github.com/ph1p/ikea-led-obegraensad) - ESP32/Arduino hack for the ikea OBEGRÄNSAD led wall lamp
@@ -353,6 +383,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[robertdavidgraham / masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 ## C++
 
+* 【2023-11-10】[KanatnikovMax / znanie-drevnix](https://github.com/KanatnikovMax/znanie-drevnix) - 
+* 【2023-11-10】[CoatiSoftware / Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
+* 【2023-11-10】[dragonflydb / dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
+* 【2023-11-10】[rapidsai / cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 * 【2023-11-09】[Tripouille / libftTester](https://github.com/Tripouille/libftTester) - Tester for the libft project of 42 school
 * 【2023-11-09】[SatDump / SatDump](https://github.com/SatDump/SatDump) - A generic satellite data processing software.
 * 【2023-11-08】[decoder-it / LocalPotato](https://github.com/decoder-it/LocalPotato) - 
@@ -404,6 +438,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[microsoft / LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 ## Typescript
 
+* 【2023-11-10】[ixartz / Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.3 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + Jest + Testing Library + Cypress + Storybook + Commitlint + VSCode + Netlify + PostCSS + Tailwind CSS
+* 【2023-11-10】[t3-oss / create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native
 * 【2023-11-09】[mckaywrigley / chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
 * 【2023-11-09】[dylanebert / gsplat.js](https://github.com/dylanebert/gsplat.js) - JavaScript Gaussian Splatting library.
 * 【2023-11-09】[microsoft / inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
