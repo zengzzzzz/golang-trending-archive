@@ -53,6 +53,14 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-11-12】[ishan0102 / vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium
+* 【2023-11-12】[jbranchaud / til](https://github.com/jbranchaud/til) - 📝 Today I Learned
+* 【2023-11-12】[githubnext / monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
+* 【2023-11-12】[Developer-Y / cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
+* 【2023-11-12】[Azure / azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js) - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
+* 【2023-11-12】[lapce / floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
+* 【2023-11-12】[chatwoot / chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+* 【2023-11-12】[dortania / OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 * 【2023-11-11】[daveshap / OpenAI_Agent_Swarm](https://github.com/daveshap/OpenAI_Agent_Swarm) - Early experiment to create fully autonomous agent swarms
 * 【2023-11-11】[SawyerHood / draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 * 【2023-11-11】[roboflow / awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI Vision API 🔥
@@ -138,6 +146,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[Azure / Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 ## Go
 
+* 【2023-11-12】[cosmos / cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - ⛓️ A Framework for Building High Value Public Blockchains ✨
+* 【2023-11-12】[ethereum-optimism / optimism](https://github.com/ethereum-optimism/optimism) - Optimism is Ethereum, scaled.
+* 【2023-11-12】[valyala / fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
+* 【2023-11-12】[Melkeydev / go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
+* 【2023-11-12】[grafana / tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 * 【2023-11-11】[evmos / evmos](https://github.com/evmos/evmos) - Evmos is the first decentralized EVM chain on the Cosmos Network. It's implementing the first EVM stack focused on native, cross-chain applications. Evmos is the flagship implementation of Ethermint, an EVM library built for the Cosmos Network by the Evmos Core Developement Team.
 * 【2023-11-11】[shadow1ng / fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
 * 【2023-11-11】[gitpod-io / gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
@@ -208,6 +221,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[go-co-op / gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 ## Python
 
+* 【2023-11-12】[guoyww / AnimateDiff](https://github.com/guoyww/AnimateDiff) - Official implementation of AnimateDiff.
+* 【2023-11-12】[huggingface / diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
+* 【2023-11-12】[edmund-code / muse-eeg](https://github.com/edmund-code/muse-eeg) - 
+* 【2023-11-12】[gventuri / pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is the Python library that integrates Gen AI into pandas, making data analysis conversational
 * 【2023-11-11】[JayZeeDesign / openai-experiments](https://github.com/JayZeeDesign/openai-experiments) - 
 * 【2023-11-11】[modelscope / modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
 * 【2023-11-11】[elebumm / RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
@@ -288,6 +305,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[deepset-ai / haystack](https://github.com/deepset-ai/haystack) - 🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 ## Javascript
 
+* 【2023-11-12】[projectdiscovery / nuclei-ai-extension](https://github.com/projectdiscovery/nuclei-ai-extension) - Nuclei AI - Browser Extension for Rapid Nuclei Template Generation
+* 【2023-11-12】[studio-freight / lenis](https://github.com/studio-freight/lenis) - How smooth scroll should be
+* 【2023-11-12】[wechat-miniprogram / miniprogram-demo](https://github.com/wechat-miniprogram/miniprogram-demo) - 微信小程序组件 / API / 云开发示例
+* 【2023-11-12】[node-red / node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
+* 【2023-11-12】[invertase / react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
+* 【2023-11-12】[100xDevs-hkirat / all-assignments](https://github.com/100xDevs-hkirat/all-assignments) - 
 * 【2023-11-11】[safak / nextadmin](https://github.com/safak/nextadmin) - 
 * 【2023-11-11】[lmsqueezy / nextjs-billing](https://github.com/lmsqueezy/nextjs-billing) - A Next.js billing app with Lemon Squeezy
 * 【2023-11-11】[playcanvas / engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
@@ -353,6 +376,14 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[elnardu / react-use-c](https://github.com/elnardu/react-use-c) - Use C in your React!
 ## C
 
+* 【2023-11-12】[php / php-src](https://github.com/php/php-src) - The PHP Interpreter
+* 【2023-11-12】[blender / blender](https://github.com/blender/blender) - Official mirror of Blender
+* 【2023-11-12】[Tencent / xLua](https://github.com/Tencent/xLua) - xLua is a lua programming solution for C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.
+* 【2023-11-12】[xdp-project / xdp-tutorial](https://github.com/xdp-project/xdp-tutorial) - XDP tutorial
+* 【2023-11-12】[54zorb / Zorb-Framework](https://github.com/54zorb/Zorb-Framework) - 一个轻量级嵌入式框架
+* 【2023-11-12】[glennrp / libpng](https://github.com/glennrp/libpng) - LIBPNG: Portable Network Graphics support, official libpng repository
+* 【2023-11-12】[DragonQuestHero / Medusa](https://github.com/DragonQuestHero/Medusa) - Radical Windows ARK
+* 【2023-11-12】[Azure / azure-iot-sdk-c](https://github.com/Azure/azure-iot-sdk-c) - A C99 SDK for connecting devices to Microsoft Azure IoT services
 * 【2023-11-11】[freebsd / freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
 * 【2023-11-11】[eclipse / paho.mqtt.c](https://github.com/eclipse/paho.mqtt.c) - An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse.github.io/paho.mqtt.c/
 * 【2023-11-11】[baidu / dperf](https://github.com/baidu/dperf) - dperf is a 100Gbps network load tester.
@@ -408,6 +439,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[robertdavidgraham / masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 ## C++
 
+* 【2023-11-12】[pixie-io / pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
+* 【2023-11-12】[efchatz / pandora](https://github.com/efchatz/pandora) - A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.
 * 【2023-11-11】[Abhishek-Saini / educational](https://github.com/Abhishek-Saini/educational) - Educational Codes
 * 【2023-11-11】[risc0 / risc0](https://github.com/risc0/risc0) - RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.
 * 【2023-11-11】[p-ranav / argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++
@@ -467,6 +500,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[microsoft / LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 ## Typescript
 
+* 【2023-11-12】[activepieces / activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / ChatBot / Zapier Alternative
+* 【2023-11-12】[StaticMania / keep-react](https://github.com/StaticMania/keep-react) - Keep React is an open-source component library built on Tailwind CSS and React.js. It provides a versatile set of pre-designed UI components to build modern web applications.
+* 【2023-11-12】[Hacker-GPT / HackerGPT](https://github.com/Hacker-GPT/HackerGPT) - 
+* 【2023-11-12】[rsuite / rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
+* 【2023-11-12】[conventional-changelog / commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 * 【2023-11-11】[mui / mui-x](https://github.com/mui/mui-x) - MUI X: Build data-rich applications using a growing list of advanced React components.
 * 【2023-11-11】[nftblackmagic / GptAssist-starter](https://github.com/nftblackmagic/GptAssist-starter) - 
 * 【2023-11-11】[ztjhz / BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
