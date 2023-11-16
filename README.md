@@ -53,6 +53,12 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-11-16】[craftzdog / dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
+* 【2023-11-16】[netbootxyz / netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE.
+* 【2023-11-16】[pandora-next / deploy](https://github.com/pandora-next/deploy) - PandoraNext部署文档仓库。
+* 【2023-11-16】[MerlinKodo / clash-rev](https://github.com/MerlinKodo/clash-rev) - Continuation of Clash core project
+* 【2023-11-16】[rust-lang / rustlings](https://github.com/rust-lang/rustlings) - 🦀 Small exercises to get you used to reading and writing Rust code!
+* 【2023-11-16】[chenzomi12 / DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) - Deep Learning System core principles introduction.
 * 【2023-11-15】[disler / multi-agent-postgres-data-analytics](https://github.com/disler/multi-agent-postgres-data-analytics) - The way we interact with our data is changing.
 * 【2023-11-15】[ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems
 * 【2023-11-15】[ai-boost / Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
@@ -159,6 +165,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[Azure / Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 ## Go
 
+* 【2023-11-16】[libp2p / go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
+* 【2023-11-16】[OwO-Network / DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
+* 【2023-11-16】[cert-manager / cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 * 【2023-11-15】[hashicorp / terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider
 * 【2023-11-15】[seaweedfs / seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
 * 【2023-11-15】[casbin / casdoor](https://github.com/casbin/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS
@@ -256,6 +265,14 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[go-co-op / gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 ## Python
 
+* 【2023-11-16】[daveshap / ACE_Framework](https://github.com/daveshap/ACE_Framework) - ACE (Autonomous Cognitive Entities) - 100% local and open source autonomous agents
+* 【2023-11-16】[dmlc / dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
+* 【2023-11-16】[sockysec / Telerecon](https://github.com/sockysec/Telerecon) - A reconnaissance framework for researching and investigating Telegram.
+* 【2023-11-16】[python / cpython](https://github.com/python/cpython) - The Python programming language
+* 【2023-11-16】[cloud804d / mirrors-pengzhile-pandora](https://github.com/cloud804d/mirrors-pengzhile-pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
+* 【2023-11-16】[turboderp / exllamav2](https://github.com/turboderp/exllamav2) - A fast inference library for running LLMs locally on modern consumer-class GPUs
+* 【2023-11-16】[thewhiteh4t / FinalRecon](https://github.com/thewhiteh4t/FinalRecon) - All In One Web Recon
+* 【2023-11-16】[deepinsight / insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 * 【2023-11-15】[unifyai / ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 * 【2023-11-15】[outlines-dev / outlines](https://github.com/outlines-dev/outlines) - Guided Text Generation
 * 【2023-11-15】[eriklindernoren / ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
@@ -357,6 +374,14 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[deepset-ai / haystack](https://github.com/deepset-ai/haystack) - 🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 ## Javascript
 
+* 【2023-11-16】[FortAwesome / Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
+* 【2023-11-16】[plankanban / planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
+* 【2023-11-16】[dejwid / food-ordering](https://github.com/dejwid/food-ordering) - 
+* 【2023-11-16】[johnfactotum / foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
+* 【2023-11-16】[3Kmfi6HP / EDtunnel](https://github.com/3Kmfi6HP/EDtunnel) - Use Cloudflare pages and worker serverless to implement VLESS protocol
+* 【2023-11-16】[hiteshchoudhary / apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.
+* 【2023-11-16】[twbs / bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+* 【2023-11-16】[parallax / jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 * 【2023-11-15】[facebook / lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 * 【2023-11-15】[chetanverma16 / react-portfolio-template](https://github.com/chetanverma16/react-portfolio-template) - Modern React Portfolio Template (FREE)
 * 【2023-11-15】[goldfire / howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
@@ -449,6 +474,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[elnardu / react-use-c](https://github.com/elnardu/react-use-c) - Use C in your React!
 ## C
 
+* 【2023-11-16】[libbpf / libbpf](https://github.com/libbpf/libbpf) - Automated upstream mirror for libbpf stand-alone build.
+* 【2023-11-16】[AprilRobotics / apriltag](https://github.com/AprilRobotics/apriltag) - AprilTag is a visual fiducial system popular for robotics research.
+* 【2023-11-16】[lem0nSec / ShellGhost](https://github.com/lem0nSec/ShellGhost) - A memory-based evasion technique which makes shellcode invisible from process start to end.
+* 【2023-11-16】[Foundry376 / Mailspring](https://github.com/Foundry376/Mailspring) - 💌 A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 * 【2023-11-15】[umlaeute / v4l2loopback](https://github.com/umlaeute/v4l2loopback) - v4l2-loopback device
 * 【2023-11-15】[hathach / tinyusb](https://github.com/hathach/tinyusb) - An open source cross-platform USB stack for embedded system
 * 【2023-11-15】[gojue / ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/Aarch64.
@@ -524,6 +553,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[robertdavidgraham / masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 ## C++
 
+* 【2023-11-16】[IntelRealSense / librealsense](https://github.com/IntelRealSense/librealsense) - Intel® RealSense™ SDK
+* 【2023-11-16】[open-telemetry / opentelemetry-cpp](https://github.com/open-telemetry/opentelemetry-cpp) - The OpenTelemetry C++ Client
+* 【2023-11-16】[open-source-parsers / jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
+* 【2023-11-16】[cyberbotics / webots](https://github.com/cyberbotics/webots) - Webots Robot Simulator
+* 【2023-11-16】[facontidavide / PlotJuggler](https://github.com/facontidavide/PlotJuggler) - The Time Series Visualization Tool that you deserve.
+* 【2023-11-16】[nuggslet / MGSM2Fix](https://github.com/nuggslet/MGSM2Fix) - A fix that adds pixel perfect scaling, scanlines and a script debugger to the original Metal Gear Solid within the Master Collection.
+* 【2023-11-16】[wangyu- / udp2raw](https://github.com/wangyu-/udp2raw) - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
 * 【2023-11-15】[OSGeo / gdal](https://github.com/OSGeo/gdal) - GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.
 * 【2023-11-15】[WasmEdge / WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 * 【2023-11-15】[uNetworking / uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
@@ -596,6 +632,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[microsoft / LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 ## Typescript
 
+* 【2023-11-16】[callstack / react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
+* 【2023-11-16】[chakra-ui / ark](https://github.com/chakra-ui/ark) - A headless library for building reusable, scalable design systems that works for a wide range of JS frameworks.
+* 【2023-11-16】[unkeyed / unkey](https://github.com/unkeyed/unkey) - Open Source API Key Management
+* 【2023-11-16】[wix / react-native-calendars](https://github.com/wix/react-native-calendars) - React Native Calendar Components 🗓️ 📆
+* 【2023-11-16】[AbdullahAlfaraj / Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.
+* 【2023-11-16】[AntonioErdeljac / next13-airbnb-clone](https://github.com/AntonioErdeljac/next13-airbnb-clone) - 
+* 【2023-11-16】[alura / techguide](https://github.com/alura/techguide) - TechGuide main repository with the code that guides your tech career!
 * 【2023-11-15】[NG-ZORRO / ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) - Angular UI Component Library based on Ant Design
 * 【2023-11-15】[fingerprintjs / fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Accuracy of this version is 40-60%, accuracy of the commercial Fingerprint Identification is 99.5%. V4 of this library is BSL licensed.
 * 【2023-11-15】[vitejs / vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
