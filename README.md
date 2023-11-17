@@ -53,6 +53,19 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-11-17】[microsoft / ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+* 【2023-11-17】[loro-dev / loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Make your app collaborative effortlessly.
+* 【2023-11-17】[dotnet / core](https://github.com/dotnet/core) - Home repository for .NET Core
+* 【2023-11-17】[dotnet / eShop](https://github.com/dotnet/eShop) - A reference .NET application implementing an eCommerce site
+* 【2023-11-17】[BuilderIO / gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
+* 【2023-11-17】[google-deepmind / graphcast](https://github.com/google-deepmind/graphcast) - 
+* 【2023-11-17】[dotnet / aspire](https://github.com/dotnet/aspire) - .NET Aspire
+* 【2023-11-17】[udlbook / udlbook](https://github.com/udlbook/udlbook) - Understanding Deep Learning - Simon J.D. Prince
+* 【2023-11-17】[all-in-aigc / gpts-works](https://github.com/all-in-aigc/gpts-works) - A Third-party GPTs store
+* 【2023-11-17】[vectara / hallucination-leaderboard](https://github.com/vectara/hallucination-leaderboard) - Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents
+* 【2023-11-17】[AntonioErdeljac / next13-trello](https://github.com/AntonioErdeljac/next13-trello) - 
+* 【2023-11-17】[LouisShark / chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - store all chatgpt's system prompt
+* 【2023-11-17】[hyperium / hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 * 【2023-11-16】[craftzdog / dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 * 【2023-11-16】[netbootxyz / netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE.
 * 【2023-11-16】[pandora-next / deploy](https://github.com/pandora-next/deploy) - PandoraNext部署文档仓库。
@@ -165,6 +178,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[Azure / Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 ## Go
 
+* 【2023-11-17】[kubernetes-sigs / aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) - A Kubernetes controller for Elastic Load Balancers
+* 【2023-11-17】[spiffe / spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment
+* 【2023-11-17】[NVIDIA / k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes
+* 【2023-11-17】[metallb / metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
+* 【2023-11-17】[google / go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
+* 【2023-11-17】[grpc-ecosystem / go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
 * 【2023-11-16】[libp2p / go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
 * 【2023-11-16】[OwO-Network / DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
 * 【2023-11-16】[cert-manager / cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
@@ -265,6 +284,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[go-co-op / gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 ## Python
 
+* 【2023-11-17】[cubiq / ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus) - 
+* 【2023-11-17】[guillaumekln / faster-whisper](https://github.com/guillaumekln/faster-whisper) - Faster Whisper transcription with CTranslate2
+* 【2023-11-17】[martinvigo / email2phonenumber](https://github.com/martinvigo/email2phonenumber) - A OSINT tool to obtain a target's phone number just by having his email address
+* 【2023-11-17】[S-LoRA / S-LoRA](https://github.com/S-LoRA/S-LoRA) - S-LoRA: Serving Thousands of Concurrent LoRA Adapters
+* 【2023-11-17】[openai / evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
+* 【2023-11-17】[shashankvemuri / Finance](https://github.com/shashankvemuri/Finance) - 150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data
+* 【2023-11-17】[crynux-ai / h-node](https://github.com/crynux-ai/h-node) - Crynux Node for the Hydrogen(H) Network
 * 【2023-11-16】[daveshap / ACE_Framework](https://github.com/daveshap/ACE_Framework) - ACE (Autonomous Cognitive Entities) - 100% local and open source autonomous agents
 * 【2023-11-16】[dmlc / dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
 * 【2023-11-16】[sockysec / Telerecon](https://github.com/sockysec/Telerecon) - A reconnaissance framework for researching and investigating Telegram.
@@ -374,6 +400,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[deepset-ai / haystack](https://github.com/deepset-ai/haystack) - 🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 ## Javascript
 
+* 【2023-11-17】[bypassiwastaken / skiovox-helper](https://github.com/bypassiwastaken/skiovox-helper) - An extension to make the browsing experience in the Skiovox exploit smoother.
+* 【2023-11-17】[InterstellarNetwork / Interstellar](https://github.com/InterstellarNetwork/Interstellar) - Interstellar is one of the best proxies with blazing fast speeds and tons of games.
+* 【2023-11-17】[electerm / electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/sftp client(linux, mac, win)
+* 【2023-11-17】[DataDog / documentation](https://github.com/DataDog/documentation) - The source for Datadog's documentation site.
 * 【2023-11-16】[FortAwesome / Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 * 【2023-11-16】[plankanban / planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 * 【2023-11-16】[dejwid / food-ordering](https://github.com/dejwid/food-ordering) - 
@@ -474,6 +504,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[elnardu / react-use-c](https://github.com/elnardu/react-use-c) - Use C in your React!
 ## C
 
+* 【2023-11-17】[torproject / tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
+* 【2023-11-17】[esnet / iperf](https://github.com/esnet/iperf) - iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool
+* 【2023-11-17】[eunomia-bpf / bpftime](https://github.com/eunomia-bpf/bpftime) - Userspace eBPF runtime for fast Uprobe & Syscall hook & Plugins
 * 【2023-11-16】[libbpf / libbpf](https://github.com/libbpf/libbpf) - Automated upstream mirror for libbpf stand-alone build.
 * 【2023-11-16】[AprilRobotics / apriltag](https://github.com/AprilRobotics/apriltag) - AprilTag is a visual fiducial system popular for robotics research.
 * 【2023-11-16】[lem0nSec / ShellGhost](https://github.com/lem0nSec/ShellGhost) - A memory-based evasion technique which makes shellcode invisible from process start to end.
@@ -553,6 +586,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[robertdavidgraham / masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 ## C++
 
+* 【2023-11-17】[Tencent / puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
+* 【2023-11-17】[qt / qtbase](https://github.com/qt/qtbase) - Qt Base (Core, Gui, Widgets, Network, ...)
+* 【2023-11-17】[commaai / opendbc](https://github.com/commaai/opendbc) - democratize access to car decoder rings
+* 【2023-11-17】[Brendan-Kirtlan / Video-Encode](https://github.com/Brendan-Kirtlan/Video-Encode) - Encodes a file into a video format to store on a cloud video hosting service
 * 【2023-11-16】[IntelRealSense / librealsense](https://github.com/IntelRealSense/librealsense) - Intel® RealSense™ SDK
 * 【2023-11-16】[open-telemetry / opentelemetry-cpp](https://github.com/open-telemetry/opentelemetry-cpp) - The OpenTelemetry C++ Client
 * 【2023-11-16】[open-source-parsers / jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
@@ -632,6 +669,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[microsoft / LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 ## Typescript
 
+* 【2023-11-17】[FuelLabs / fuels-ts](https://github.com/FuelLabs/fuels-ts) - Fuel Network Typescript SDK
+* 【2023-11-17】[taiga-family / taiga-ui](https://github.com/taiga-family/taiga-ui) - Angular UI Kit and components library for awesome people
+* 【2023-11-17】[amannn / next-intl](https://github.com/amannn/next-intl) - Internationalization (i18n) for Next.js that gets out of your way. 🌐
 * 【2023-11-16】[callstack / react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
 * 【2023-11-16】[chakra-ui / ark](https://github.com/chakra-ui/ark) - A headless library for building reusable, scalable design systems that works for a wide range of JS frameworks.
 * 【2023-11-16】[unkeyed / unkey](https://github.com/unkeyed/unkey) - Open Source API Key Management
