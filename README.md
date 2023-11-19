@@ -53,6 +53,12 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-11-19】[twostraws / Inferno](https://github.com/twostraws/Inferno) - Metal shaders for SwiftUI.
+* 【2023-11-19】[microsoft / hack-together-dotnet](https://github.com/microsoft/hack-together-dotnet) - HackTogether: The Microsoft .NET 8 Global Hack | Register, Hack, Win
+* 【2023-11-19】[kubeshark / kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes
+* 【2023-11-19】[flutter / games](https://github.com/flutter/games) - Home of the Flutter Casual Games Toolkit and other Flutter gaming templates
+* 【2023-11-19】[aws-samples / amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop) - This is a workshop designed for Amazon Bedrock a foundational model service.
+* 【2023-11-19】[microsoft / SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
 * 【2023-11-18】[cbh123 / narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
 * 【2023-11-18】[abi / screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean HTML/Tailwind/JS code
 * 【2023-11-18】[kilimchoi / engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
@@ -185,6 +191,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[Azure / Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 ## Go
 
+* 【2023-11-19】[uber-go / nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code
+* 【2023-11-19】[segmentio / kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
+* 【2023-11-19】[grafana / agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines.
 * 【2023-11-18】[Permify / permify](https://github.com/Permify/permify) - Permify is an open-source authorization service inspired by Google Zanzibar.
 * 【2023-11-18】[canonical / microcloud](https://github.com/canonical/microcloud) - Automated private cloud based on LXD, Ceph and OVN
 * 【2023-11-18】[google / wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
@@ -296,6 +305,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[go-co-op / gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 ## Python
 
+* 【2023-11-19】[CVHub520 / X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Effortless data labeling with AI support from Segment Anything and other awesome models.
+* 【2023-11-19】[ShishirPatil / gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
+* 【2023-11-19】[wtfloris / hestia](https://github.com/wtfloris/hestia) - Hestia scrapes real estate websites for new rental listings
+* 【2023-11-19】[Alb-310 / Geogramint](https://github.com/Alb-310/Geogramint) - An OSINT Geolocalization tool for Telegram that find nearby users and groups 📡🌍🔍
+* 【2023-11-19】[jumpserver / jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
+* 【2023-11-19】[pandas-dev / pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 * 【2023-11-18】[iam-veeramalla / Jenkins-Zero-To-Hero](https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero) - Install Jenkins, configure Docker as slave, set up cicd, deploy applications to k8s using Argo CD in GitOps way.
 * 【2023-11-18】[adap / flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
 * 【2023-11-18】[DLR-RM / stable-baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
@@ -417,6 +432,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[deepset-ai / haystack](https://github.com/deepset-ai/haystack) - 🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 ## Javascript
 
+* 【2023-11-19】[JoeyGambler / youtube-ad-skip](https://github.com/JoeyGambler/youtube-ad-skip) - 
+* 【2023-11-19】[rahuldkjain / github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
+* 【2023-11-19】[processing / p5.js-web-editor](https://github.com/processing/p5.js-web-editor) - p5.js Web Editor, officially launched!
+* 【2023-11-19】[nerfies / nerfies.github.io](https://github.com/nerfies/nerfies.github.io) - 
 * 【2023-11-18】[salman0ansari / whatsapp-api-nodejs](https://github.com/salman0ansari/whatsapp-api-nodejs) - RESTful WhatsApp API with Multiple Device Support
 * 【2023-11-18】[jerosoler / Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
 * 【2023-11-18】[potree / potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets
@@ -527,6 +546,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[elnardu / react-use-c](https://github.com/elnardu/react-use-c) - Use C in your React!
 ## C
 
+* 【2023-11-19】[FreeRDP / FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
+* 【2023-11-19】[lambertjamesd / portal64](https://github.com/lambertjamesd/portal64) - A demake of Portal for the Nintendo 64
+* 【2023-11-19】[FWGS / xash3d-fwgs](https://github.com/FWGS/xash3d-fwgs) - Xash3D FWGS engine.
+* 【2023-11-19】[bellard / quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
 * 【2023-11-18】[zetaloop / ExplorerPatcher](https://github.com/zetaloop/ExplorerPatcher) - ExplorerPatcher Chinese Localization - 在 Windows 11 上恢复高效的工作环境
 * 【2023-11-18】[shauninman / MinUI](https://github.com/shauninman/MinUI) - A custom launcher for the RGB30, Trimui Smart (and Pro), Miyoo Mini(s), and Anbernic RG35XX with more to come...
 * 【2023-11-18】[meetecho / janus-gateway](https://github.com/meetecho/janus-gateway) - Janus WebRTC Server
@@ -612,6 +635,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[robertdavidgraham / masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 ## C++
 
+* 【2023-11-19】[Tencent / tgfx](https://github.com/Tencent/tgfx) - A lightweight 2D graphics library for rendering texts, geometries, and images with high-performance APIs that work across various platforms.
+* 【2023-11-19】[maxbbraun / llama4micro](https://github.com/maxbbraun/llama4micro) - A "large" language model running on a microcontroller
+* 【2023-11-19】[Tencent / libpag](https://github.com/Tencent/libpag) - The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.
+* 【2023-11-19】[capnproto / capnproto](https://github.com/capnproto/capnproto) - Cap'n Proto serialization/RPC system - core tools and C++ library
+* 【2023-11-19】[hoffstadt / DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
+* 【2023-11-19】[ros-perception / vision_opencv](https://github.com/ros-perception/vision_opencv) - 
 * 【2023-11-18】[tandasat / CVE-2023-36427](https://github.com/tandasat/CVE-2023-36427) - Report and exploit of CVE-2023-36427
 * 【2023-11-18】[COVESA / vsomeip](https://github.com/COVESA/vsomeip) - An implementation of Scalable service-Oriented MiddlewarE over IP
 * 【2023-11-18】[microsoft / cpprestsdk](https://github.com/microsoft/cpprestsdk) - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
@@ -699,6 +728,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[microsoft / LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 ## Typescript
 
+* 【2023-11-19】[withastro / starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
+* 【2023-11-19】[transitive-bullshit / OpenOpenAI](https://github.com/transitive-bullshit/OpenOpenAI) - Self-hosted version of OpenAI’s new stateful Assistants API
 * 【2023-11-18】[Tohrusky / Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution ☢️
 * 【2023-11-18】[lucia-auth / lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 * 【2023-11-17】[FuelLabs / fuels-ts](https://github.com/FuelLabs/fuels-ts) - Fuel Network Typescript SDK
