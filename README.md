@@ -53,6 +53,19 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-11-22】[zoonk / uneebee](https://github.com/zoonk/uneebee) - Platform for creating interactive courses.
+* 【2023-11-22】[AppFlowy-IO / AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+* 【2023-11-22】[cxli233 / FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) - Friends don't let friends make certain types of data visualization - What are they and why are they bad.
+* 【2023-11-22】[yl4579 / StyleTTS2](https://github.com/yl4579/StyleTTS2) - StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
+* 【2023-11-22】[lxfater / inpaint-web](https://github.com/lxfater/inpaint-web) - A free and open-source inpainting tool powered by webgpu and wasm on the browser.
+* 【2023-11-22】[roc-lang / roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. Work in progress!
+* 【2023-11-22】[louislam / dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
+* 【2023-11-22】[thewh1teagle / mobslide](https://github.com/thewh1teagle/mobslide) - 
+* 【2023-11-22】[jordansinger / build-it-figma-ai](https://github.com/jordansinger/build-it-figma-ai) - 
+* 【2023-11-22】[trungdq88 / Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.
+* 【2023-11-22】[sickcodes / Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+* 【2023-11-22】[rsms / inter](https://github.com/rsms/inter) - The Inter font family
+* 【2023-11-22】[emilwallner / Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 * 【2023-11-20】[jerryjliu / create_llama_projects](https://github.com/jerryjliu/create_llama_projects) - 
 * 【2023-11-20】[tldraw / make-real-starter](https://github.com/tldraw/make-real-starter) - Make it real
 * 【2023-11-20】[everywall / ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
@@ -197,6 +210,14 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[Azure / Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 ## Go
 
+* 【2023-11-22】[kubescape / kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
+* 【2023-11-22】[publicsuffix / list](https://github.com/publicsuffix/list) - The Public Suffix List
+* 【2023-11-22】[lib / pq](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql
+* 【2023-11-22】[google / pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
+* 【2023-11-22】[mikefarah / yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
+* 【2023-11-22】[helmfile / helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
+* 【2023-11-22】[coder / coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
+* 【2023-11-22】[benthosdev / benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
 * 【2023-11-20】[zyedidia / micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 * 【2023-11-20】[kubernetes / kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 * 【2023-11-20】[twpayne / chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -314,6 +335,14 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[go-co-op / gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 ## Python
 
+* 【2023-11-22】[apache / tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
+* 【2023-11-22】[KoljaB / RealtimeTTS](https://github.com/KoljaB/RealtimeTTS) - 👄⚡ Converts text to speech in realtime by identifying sentence fragments for immediate auditory feedback. Ideal for applications requiring instant audio responses.
+* 【2023-11-22】[nathan31337 / Splunk-RCE-poc](https://github.com/nathan31337/Splunk-RCE-poc) - 
+* 【2023-11-22】[JoshuaKasa / van-gonography](https://github.com/JoshuaKasa/van-gonography) - Hide 🕵️‍♂️ your files of any type inside a image of your choice using steganography
+* 【2023-11-22】[kserve / kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
+* 【2023-11-22】[yihong0618 / xiaogpt](https://github.com/yihong0618/xiaogpt) - Play ChatGPT and other LLM with Xiaomi AI Speaker
+* 【2023-11-22】[Sanster / lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+* 【2023-11-22】[modelscope / modelscope-agent](https://github.com/modelscope/modelscope-agent) - ModelScope-Agent: An agent framework connecting models in ModelScope with the world
 * 【2023-11-20】[spm81 / Quansheng_UV-K5](https://github.com/spm81/Quansheng_UV-K5) - Quansheng UV-K5
 * 【2023-11-20】[TheR1D / shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by GPT-3 and GPT-4, will help you accomplish your tasks faster and more efficiently.
 * 【2023-11-20】[Acly / krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
@@ -449,6 +478,14 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[deepset-ai / haystack](https://github.com/deepset-ai/haystack) - 🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 ## Javascript
 
+* 【2023-11-22】[codehub666 / 94list](https://github.com/codehub666/94list) - 百度网盘分享链接分析渲染列表辅助下载开源程序
+* 【2023-11-22】[BrowserBox / BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 BrowserBox is Web application virtualization via zero trust remote browser isolation and secure document gateway technology. Embed secure unrestricted webviews on any device in a regular webpage. Multiplayer embeddable browsers, open source! ⭐️ Star to support our work!
+* 【2023-11-22】[rkk3 / ad-accelerator](https://github.com/rkk3/ad-accelerator) - 
+* 【2023-11-22】[leafTheFish / DeathNote](https://github.com/leafTheFish/DeathNote) - 
+* 【2023-11-22】[typicode / json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+* 【2023-11-22】[l0o0 / translators_CN](https://github.com/l0o0/translators_CN) - Zotero translator中文网页抓取翻译器🎉This is Zotero translators for Chinese Sites(beta), not the official Zotero repo
+* 【2023-11-22】[evershopcommerce / evershop](https://github.com/evershopcommerce/evershop) - 🛍️ NodeJS E-commerce Platform
+* 【2023-11-22】[localForage / localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 * 【2023-11-20】[actualbudget / actual-server](https://github.com/actualbudget/actual-server) - Actual's server
 * 【2023-11-20】[ed-roh / react-admin-dashboard](https://github.com/ed-roh/react-admin-dashboard) - Complete React Admin Dashboard
 * 【2023-11-19】[JoeyGambler / youtube-ad-skip](https://github.com/JoeyGambler/youtube-ad-skip) - 
@@ -565,6 +602,14 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[elnardu / react-use-c](https://github.com/elnardu/react-use-c) - Use C in your React!
 ## C
 
+* 【2023-11-22】[rui314 / chibicc](https://github.com/rui314/chibicc) - A small C compiler
+* 【2023-11-22】[RIOT-OS / RIOT](https://github.com/RIOT-OS/RIOT) - RIOT - The friendly OS for IoT
+* 【2023-11-22】[SchedMD / slurm](https://github.com/SchedMD/slurm) - Slurm: A Highly Scalable Workload Manager
+* 【2023-11-22】[ysanatomic / io_uring_LPE-CVE-2023-2598](https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598) - LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.
+* 【2023-11-22】[wolfSSL / wolfssl](https://github.com/wolfSSL/wolfssl) - The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud. wolfSSL supports up to TLS 1.3!
+* 【2023-11-22】[allinurl / goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+* 【2023-11-22】[premake / premake-core](https://github.com/premake/premake-core) - Premake
+* 【2023-11-22】[id-Software / Quake](https://github.com/id-Software/Quake) - Quake GPL Source Release
 * 【2023-11-20】[ruby / prism](https://github.com/ruby/prism) - Prism Ruby parser
 * 【2023-11-20】[foobnix / LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android
 * 【2023-11-20】[Perfare / Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper) - Using Zygisk to dump il2cpp data at runtime
@@ -657,6 +702,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[robertdavidgraham / masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 ## C++
 
+* 【2023-11-22】[NVIDIA / FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
+* 【2023-11-22】[microsoft / calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
+* 【2023-11-22】[idaholab / moose](https://github.com/idaholab/moose) - Multiphysics Object Oriented Simulation Environment
+* 【2023-11-22】[WinMerge / winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
+* 【2023-11-22】[gnuradio / gnuradio](https://github.com/gnuradio/gnuradio) - GNU Radio – the Free and Open Software Radio Ecosystem
+* 【2023-11-22】[aristocratos / btop](https://github.com/aristocratos/btop) - A monitor of resources
 * 【2023-11-20】[CuarzoSoftware / Louvre](https://github.com/CuarzoSoftware/Louvre) - C++ library for building Wayland compositors.
 * 【2023-11-20】[changkun / modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
 * 【2023-11-20】[f4exb / sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay RSP1 and FunCube
@@ -754,6 +805,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[microsoft / LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 ## Typescript
 
+* 【2023-11-22】[makeplane / plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+* 【2023-11-22】[jyjblrd / Mocap-Drones](https://github.com/jyjblrd/Mocap-Drones) - Low cost motion capture system for room scale tracking
+* 【2023-11-22】[Benjamin-Code-YouTube / boumboum-back](https://github.com/Benjamin-Code-YouTube/boumboum-back) - 
 * 【2023-11-20】[coder / code-server](https://github.com/coder/code-server) - VS Code in the browser
 * 【2023-11-20】[zidoro / pomatez](https://github.com/zidoro/pomatez) - Stay Focused. Take a Break.
 * 【2023-11-20】[unisat-wallet / extension](https://github.com/unisat-wallet/extension) - The first open-source browser extension wallet for Bitcoin NFTs
