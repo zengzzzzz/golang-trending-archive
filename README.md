@@ -53,6 +53,9 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-11-24】[run-llama / rags](https://github.com/run-llama/rags) - 
+* 【2023-11-24】[MrNeRF / awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) - Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.
+* 【2023-11-24】[mRs- / Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software & Books
 * 【2023-11-23】[flowtyone / flowty-realtime-lcm-canvas](https://github.com/flowtyone/flowty-realtime-lcm-canvas) - A realtime sketch to image demo using LCM and the gradio library.
 * 【2023-11-23】[joschan21 / digitalhippo](https://github.com/joschan21/digitalhippo) - A Modern Fullstack E-Commerce Marketplace for Digital Products
 * 【2023-11-23】[Stability-AI / generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
@@ -215,6 +218,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[Azure / Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 ## Go
 
+* 【2023-11-24】[youshandefeiyang / LiveRedirect](https://github.com/youshandefeiyang/LiveRedirect) - LiveRedirect
+* 【2023-11-24】[prometheus-community / windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines
+* 【2023-11-24】[panjf2000 / ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go./ ants 是一个高性能且低损耗的 goroutine 池。
+* 【2023-11-24】[gruntwork-io / terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 * 【2023-11-23】[riverqueue / river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
 * 【2023-11-23】[grafana / mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 * 【2023-11-23】[open-policy-agent / opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
@@ -345,6 +352,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[go-co-op / gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 ## Python
 
+* 【2023-11-24】[ticarpi / jwt_tool](https://github.com/ticarpi/jwt_tool) - 🐍 A toolkit for testing, tweaking and cracking JSON Web Tokens
+* 【2023-11-24】[NeumTry / NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.
+* 【2023-11-24】[cleanlab / cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
+* 【2023-11-24】[deepseagirl / easylkb](https://github.com/deepseagirl/easylkb) - easylkb - Easy Linux Kernel Builder
+* 【2023-11-24】[matterport / Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
 * 【2023-11-23】[PKU-YuanGroup / Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA) - Video-LLaVA: Learning United Visual Representation by Alignment Before Projection
 * 【2023-11-23】[OpenBMB / ProAgent](https://github.com/OpenBMB/ProAgent) - An LLM-based Agent for the New Automation Paradigm - Agentic Process Automation
 * 【2023-11-23】[Clouditera / secgpt](https://github.com/Clouditera/secgpt) - secgpt网络安全大模型
@@ -495,6 +507,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[deepset-ai / haystack](https://github.com/deepset-ai/haystack) - 🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 ## Javascript
 
+* 【2023-11-24】[Dong-learn9 / TVBox-zyjk](https://github.com/Dong-learn9/TVBox-zyjk) - TVBox自用接口
+* 【2023-11-24】[qist / tvbox](https://github.com/qist/tvbox) - FongMi影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。 apk 下载地址: https://github.com/o0HalfLife0o/TVBoxOSC 选择q215613905 apk
+* 【2023-11-24】[markdown-it / markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
+* 【2023-11-24】[airbnb / lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
+* 【2023-11-24】[layui / layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
+* 【2023-11-24】[OCA / web](https://github.com/OCA/web) - Odoo web client UI related addons
+* 【2023-11-24】[sweetalert2 / sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
 * 【2023-11-23】[2hacc / TVBox](https://github.com/2hacc/TVBox) - TVBox 网络接口，更新速度快，接口访问速度快且稳定！
 * 【2023-11-23】[xianyuyimu / TVBOX-](https://github.com/xianyuyimu/TVBOX-) - 一木TVBOX自用仓库
 * 【2023-11-23】[jhu-ep-coursera / fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
@@ -624,6 +643,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[elnardu / react-use-c](https://github.com/elnardu/react-use-c) - Use C in your React!
 ## C
 
+* 【2023-11-24】[CANopenNode / CANopenNode](https://github.com/CANopenNode/CANopenNode) - CANopen protocol stack
+* 【2023-11-24】[rswier / c4](https://github.com/rswier/c4) - C in four functions
+* 【2023-11-24】[mcu-tools / mcuboot](https://github.com/mcu-tools/mcuboot) - Secure boot for 32-bit Microcontrollers!
 * 【2023-11-23】[RalfHacker / Kerbeus-BOF](https://github.com/RalfHacker/Kerbeus-BOF) - BOF for Kerberos abuse (an implementation of some important features of the Rubeus).
 * 【2023-11-23】[FRRouting / frr](https://github.com/FRRouting/frr) - The FRRouting Protocol Suite
 * 【2023-11-23】[miloyip / json-tutorial](https://github.com/miloyip/json-tutorial) - 从零开始的 JSON 库教程
@@ -728,6 +750,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[robertdavidgraham / masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 ## C++
 
+* 【2023-11-24】[endless-sky / endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
+* 【2023-11-24】[Bill-Haku / kawaii-gcc](https://github.com/Bill-Haku/kawaii-gcc) - GCCコンパイラーを可愛くしましょう！Make your GCC compiler kawaii.
+* 【2023-11-24】[Green-bms / SmartBMS](https://github.com/Green-bms/SmartBMS) - Open source Smart Battery Management System
 * 【2023-11-23】[libcpr / cpr](https://github.com/libcpr/cpr) - C++ Requests: Curl for People, a spiritual port of Python Requests.
 * 【2023-11-23】[dmlc / xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 * 【2023-11-23】[official-pikafish / Pikafish](https://github.com/official-pikafish/Pikafish) - UCI xiangqi engine
@@ -834,6 +859,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[microsoft / LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 ## Typescript
 
+* 【2023-11-24】[keiko233 / clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) - Clash Nyanpasu!
+* 【2023-11-24】[wagmi-dev / wagmi](https://github.com/wagmi-dev/wagmi) - React Hooks for Ethereum
+* 【2023-11-24】[ivanfioravanti / chatbot-ollama](https://github.com/ivanfioravanti/chatbot-ollama) - Chatbot Ollama is an open source chat UI for Ollama.
+* 【2023-11-24】[AmruthPillai / Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 * 【2023-11-23】[apify / crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 * 【2023-11-23】[botpress / botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 * 【2023-11-23】[BuilderIO / builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
