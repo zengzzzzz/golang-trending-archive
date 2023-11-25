@@ -53,6 +53,13 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-11-25】[StarRocks / starrocks](https://github.com/StarRocks/starrocks) - StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries. InfoWorld’s 2023 BOSSIE Award for best open source software.
+* 【2023-11-25】[spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
+* 【2023-11-25】[fffaraz / awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+* 【2023-11-25】[AabyssZG / WebShell-Bypass-Guide](https://github.com/AabyssZG/WebShell-Bypass-Guide) - 从零学习Webshell免杀手册
+* 【2023-11-25】[Morakito / Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN) - 《Real-Time Rendering 4th》 (RTR4) 中文翻译
+* 【2023-11-25】[teslamotors / roadster](https://github.com/teslamotors/roadster) - 2008-2012 Roadster Development and Diagnostic Software files
+* 【2023-11-25】[CatVodTVOfficial / TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC) - 真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。
 * 【2023-11-24】[run-llama / rags](https://github.com/run-llama/rags) - 
 * 【2023-11-24】[MrNeRF / awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) - Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.
 * 【2023-11-24】[mRs- / Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software & Books
@@ -218,6 +225,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[Azure / Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 ## Go
 
+* 【2023-11-25】[kubernetes-sigs / karpenter](https://github.com/kubernetes-sigs/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+* 【2023-11-25】[team-ide / teamide](https://github.com/team-ide/teamide) - Team IDE 工具 集成MySql、Oracle、金仓、达梦、神通等数据库、SSH、FTP、Redis、Zookeeper、Kafka、Elasticsearch等管理工具
+* 【2023-11-25】[go-resty / resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
+* 【2023-11-25】[TykTechnologies / tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 * 【2023-11-24】[youshandefeiyang / LiveRedirect](https://github.com/youshandefeiyang/LiveRedirect) - LiveRedirect
 * 【2023-11-24】[prometheus-community / windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines
 * 【2023-11-24】[panjf2000 / ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go./ ants 是一个高性能且低损耗的 goroutine 池。
@@ -352,6 +363,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[go-co-op / gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 ## Python
 
+* 【2023-11-25】[netbox-community / netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
+* 【2023-11-25】[InternLM / InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer) - 
+* 【2023-11-25】[lllyasviel / ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
+* 【2023-11-25】[hao-ai-lab / LookaheadDecoding](https://github.com/hao-ai-lab/LookaheadDecoding) - 
+* 【2023-11-25】[SkalskiP / awesome-foundation-and-multimodal-models](https://github.com/SkalskiP/awesome-foundation-and-multimodal-models) - 👁️ + 💬 + 🎧 = 🤖 Curated list of top foundation and multimodal models! [Paper + Code]
+* 【2023-11-25】[pyca / cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
 * 【2023-11-24】[ticarpi / jwt_tool](https://github.com/ticarpi/jwt_tool) - 🐍 A toolkit for testing, tweaking and cracking JSON Web Tokens
 * 【2023-11-24】[NeumTry / NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.
 * 【2023-11-24】[cleanlab / cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
@@ -507,6 +524,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[deepset-ai / haystack](https://github.com/deepset-ai/haystack) - 🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 ## Javascript
 
+* 【2023-11-25】[radian-software / riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language.
+* 【2023-11-25】[XPandora / PhysGaussian](https://github.com/XPandora/PhysGaussian) - 
+* 【2023-11-25】[conanak99 / sample-gpt-local](https://github.com/conanak99/sample-gpt-local) - 
+* 【2023-11-25】[catvod / CatVodOpen](https://github.com/catvod/CatVodOpen) - Open version of catvod.
+* 【2023-11-25】[clientIO / joint](https://github.com/clientIO/joint) - A proven SVG-based JavaScript diagramming library powering exceptional UIs
 * 【2023-11-24】[Dong-learn9 / TVBox-zyjk](https://github.com/Dong-learn9/TVBox-zyjk) - TVBox自用接口
 * 【2023-11-24】[qist / tvbox](https://github.com/qist/tvbox) - FongMi影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。 apk 下载地址: https://github.com/o0HalfLife0o/TVBoxOSC 选择q215613905 apk
 * 【2023-11-24】[markdown-it / markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
@@ -643,6 +665,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[elnardu / react-use-c](https://github.com/elnardu/react-use-c) - Use C in your React!
 ## C
 
+* 【2023-11-25】[azure-rtos / threadx](https://github.com/azure-rtos/threadx) - Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
+* 【2023-11-25】[UncleRus / esp-idf-lib](https://github.com/UncleRus/esp-idf-lib) - Component library for ESP32-xx and ESP8266
+* 【2023-11-25】[EQMOD / EQM_OBDWEB](https://github.com/EQMOD/EQM_OBDWEB) - A WEB Based OBDII Dongle Platform using the ESP32 WROVER Module
+* 【2023-11-25】[antirez / botlib](https://github.com/antirez/botlib) - C Telegram bot framework
 * 【2023-11-24】[CANopenNode / CANopenNode](https://github.com/CANopenNode/CANopenNode) - CANopen protocol stack
 * 【2023-11-24】[rswier / c4](https://github.com/rswier/c4) - C in four functions
 * 【2023-11-24】[mcu-tools / mcuboot](https://github.com/mcu-tools/mcuboot) - Secure boot for 32-bit Microcontrollers!
@@ -750,6 +776,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[robertdavidgraham / masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 ## C++
 
+* 【2023-11-25】[spotify / voyager](https://github.com/spotify/voyager) - 🛰️ Voyager is an approximate nearest-neighbor search library for Python and Java with a focus on ease of use, simplicity, and deployability.
+* 【2023-11-25】[ssloy / tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course
+* 【2023-11-25】[eProsima / Fast-DDS](https://github.com/eProsima/Fast-DDS) - The most complete DDS - Proven: Plenty of success cases.
 * 【2023-11-24】[endless-sky / endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 * 【2023-11-24】[Bill-Haku / kawaii-gcc](https://github.com/Bill-Haku/kawaii-gcc) - GCCコンパイラーを可愛くしましょう！Make your GCC compiler kawaii.
 * 【2023-11-24】[Green-bms / SmartBMS](https://github.com/Green-bms/SmartBMS) - Open source Smart Battery Management System
@@ -859,6 +888,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[microsoft / LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 ## Typescript
 
+* 【2023-11-25】[vectorisvector / inscription](https://github.com/vectorisvector/inscription) - 
+* 【2023-11-25】[WalletConnect / web3modal](https://github.com/WalletConnect/web3modal) - A single Web3 provider solution for all Wallets
+* 【2023-11-25】[alovajs / alova](https://github.com/alovajs/alova) - Request strategy library for MVVM libraries such as Vue.js, React.js and Svelte.js
 * 【2023-11-24】[keiko233 / clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) - Clash Nyanpasu!
 * 【2023-11-24】[wagmi-dev / wagmi](https://github.com/wagmi-dev/wagmi) - React Hooks for Ethereum
 * 【2023-11-24】[ivanfioravanti / chatbot-ollama](https://github.com/ivanfioravanti/chatbot-ollama) - Chatbot Ollama is an open source chat UI for Ollama.
