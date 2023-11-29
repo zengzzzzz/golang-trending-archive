@@ -53,6 +53,17 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-11-29】[opa334 / TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
+* 【2023-11-29】[jordan-cutler / path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond
+* 【2023-11-29】[BurntSushi / ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+* 【2023-11-29】[Ftindy / IPTV-URL](https://github.com/Ftindy/IPTV-URL) - 
+* 【2023-11-29】[yairm210 / Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
+* 【2023-11-29】[pointfreeco / swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+* 【2023-11-29】[Ma-Lab-Berkeley / CRATE](https://github.com/Ma-Lab-Berkeley/CRATE) - Code for CRATE (Coding RAte reduction TransformEr).
+* 【2023-11-29】[ShinoKana / multipleWindow3dScene](https://github.com/ShinoKana/multipleWindow3dScene) - based on bgstaal/multipleWindow3dScene
+* 【2023-11-29】[goniszewski / grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
+* 【2023-11-29】[zennomi / Seg-Mirror](https://github.com/zennomi/Seg-Mirror) - Kính chiếu yêuuuu quỷ seg hiện raaa
+* 【2023-11-29】[googleapis / google-api-php-client](https://github.com/googleapis/google-api-php-client) - A PHP client library for accessing Google APIs
 * 【2023-11-26】[bgstaal / multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 * 【2023-11-26】[linexjlin / GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 * 【2023-11-26】[wesbos / hot-tips](https://github.com/wesbos/hot-tips) - The code behind my hot tips
@@ -230,6 +241,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[Azure / Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 ## Go
 
+* 【2023-11-29】[minchenzz / ierc-miner](https://github.com/minchenzz/ierc-miner) - 
+* 【2023-11-29】[tidwall / gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
+* 【2023-11-29】[xataio / pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
+* 【2023-11-29】[tektoncd / pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
+* 【2023-11-29】[opencontainers / runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
+* 【2023-11-29】[bnb-chain / bsc](https://github.com/bnb-chain/bsc) - A BNB Smart Chain client based on the go-ethereum fork
+* 【2023-11-29】[stefanprodan / podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 * 【2023-11-26】[jpillora / chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 * 【2023-11-26】[ngoduykhanh / wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface
 * 【2023-11-26】[teslamotors / vehicle-command](https://github.com/teslamotors/vehicle-command) - 
@@ -374,6 +392,18 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[go-co-op / gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 ## Python
 
+* 【2023-11-29】[adidas / lakehouse-engine](https://github.com/adidas/lakehouse-engine) - The Lakehouse Engine is a configuration driven Spark framework, written in Python, serving as a scalable and distributed engine for several lakehouse algorithms, data flows and utilities for Data Products.
+* 【2023-11-29】[bmaltais / kohya_ss](https://github.com/bmaltais/kohya_ss) - 
+* 【2023-11-29】[pennersr / django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+* 【2023-11-29】[Yvictor / TradingGym](https://github.com/Yvictor/TradingGym) - Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo.
+* 【2023-11-29】[crytic / slither](https://github.com/crytic/slither) - Static Analyzer for Solidity and Vyper
+* 【2023-11-29】[SpecterOps / Nemesis](https://github.com/SpecterOps/Nemesis) - An offensive data enrichment pipeline
+* 【2023-11-29】[yule-BUAA / MergeLM](https://github.com/yule-BUAA/MergeLM) - Codebase for Merging Language Models
+* 【2023-11-29】[patrickloeber / snake-ai-pytorch](https://github.com/patrickloeber/snake-ai-pytorch) - 
+* 【2023-11-29】[LiLittleCat / awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
+* 【2023-11-29】[mkshing / ziplora-pytorch](https://github.com/mkshing/ziplora-pytorch) - Implementation of "ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs"
+* 【2023-11-29】[kagisearch / vectordb](https://github.com/kagisearch/vectordb) - A minimal Python package for storing and retrieving text using chunking, embeddings, and vector search.
+* 【2023-11-29】[voicepaw / so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
 * 【2023-11-26】[sh-lee-prml / HierSpeechpp](https://github.com/sh-lee-prml/HierSpeechpp) - The official implementation of HierSpeech++
 * 【2023-11-26】[hylarucoder / svd-webui](https://github.com/hylarucoder/svd-webui) - 
 * 【2023-11-26】[passivestar / quickmenu](https://github.com/passivestar/quickmenu) - Blender addon that simplifies access to useful operators and adds missing functionality
@@ -542,6 +572,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[deepset-ai / haystack](https://github.com/deepset-ai/haystack) - 🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 ## Javascript
 
+* 【2023-11-29】[plotly / plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
+* 【2023-11-29】[jason5ng32 / MyIP](https://github.com/jason5ng32/MyIP) - IP 工具箱。可以查看本机IP、挂代理后的IP信息、检查 DNS 泄露、检查 WebRTC 连接、测试网站可用性等。An alternative to ip.skk.moe service.
+* 【2023-11-29】[brix / crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 * 【2023-11-26】[friuns2 / BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 * 【2023-11-26】[ascoders / weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 * 【2023-11-26】[sampotts / plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
@@ -689,6 +722,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[elnardu / react-use-c](https://github.com/elnardu/react-use-c) - Use C in your React!
 ## C
 
+* 【2023-11-29】[naev / naev](https://github.com/naev/naev) - Naev is a 2d action/rpg space game that combines elements from the action, rpg and simulation genres.
+* 【2023-11-29】[Monster-GM / NewBlackbox](https://github.com/Monster-GM/NewBlackbox) - new Blackbox
+* 【2023-11-29】[haiwen / seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
+* 【2023-11-29】[factionsecurity / faction](https://github.com/factionsecurity/faction) - Pen Test Report Generation and Assessment Collaboration
+* 【2023-11-29】[nanomsg / nng](https://github.com/nanomsg/nng) - nanomsg-next-generation -- light-weight brokerless messaging
+* 【2023-11-29】[fontforge / fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
+* 【2023-11-29】[tinyproxy / tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
 * 【2023-11-26】[radareorg / radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 * 【2023-11-26】[pgbackrest / pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
 * 【2023-11-25】[azure-rtos / threadx](https://github.com/azure-rtos/threadx) - Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
@@ -802,6 +842,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[robertdavidgraham / masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 ## C++
 
+* 【2023-11-29】[bitcookies / winrar-keygen](https://github.com/bitcookies/winrar-keygen) - Principle of WinRAR key generation.
+* 【2023-11-29】[BehaviorTree / BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) - Behavior Trees Library in C++. Batteries included.
+* 【2023-11-29】[epezent / implot](https://github.com/epezent/implot) - Immediate Mode Plotting
 * 【2023-11-26】[cisco / openh264](https://github.com/cisco/openh264) - Open Source H.264 Codec
 * 【2023-11-25】[spotify / voyager](https://github.com/spotify/voyager) - 🛰️ Voyager is an approximate nearest-neighbor search library for Python and Java with a focus on ease of use, simplicity, and deployability.
 * 【2023-11-25】[ssloy / tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course
@@ -915,6 +958,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[microsoft / LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 ## Typescript
 
+* 【2023-11-29】[shivammathur / setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
+* 【2023-11-29】[fal-ai / tldraw-fal](https://github.com/fal-ai/tldraw-fal) - 
+* 【2023-11-29】[pnpm / pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
+* 【2023-11-29】[RocketChat / Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative) - Rocket.Chat mobile clients
+* 【2023-11-29】[mostafasadeghi97 / design2code](https://github.com/mostafasadeghi97/design2code) - Convert any web design screenshot to clean HTML/CSS code
 * 【2023-11-26】[IErcOrg / ierc-miner-js](https://github.com/IErcOrg/ierc-miner-js) - ierc-miner-tools
 * 【2023-11-26】[wonfen / clash-verge-rev](https://github.com/wonfen/clash-verge-rev) - 
 * 【2023-11-26】[medusajs / nextjs-starter-medusa](https://github.com/medusajs/nextjs-starter-medusa) - A performant frontend ecommerce starter template with Next.js 14 and Medusa.
