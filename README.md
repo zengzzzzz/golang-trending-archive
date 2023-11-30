@@ -53,6 +53,14 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-11-30】[OthersideAI / self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - 
+* 【2023-11-30】[NVIDIA / Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
+* 【2023-11-30】[atomone-hub / genesis](https://github.com/atomone-hub/genesis) - declaration of genesis
+* 【2023-11-30】[fastlane / fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+* 【2023-11-30】[Azure / azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
+* 【2023-11-30】[brianvoe / gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go
+* 【2023-11-30】[DrKLO / Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
+* 【2023-11-30】[Melledy / LunarCore](https://github.com/Melledy/LunarCore) - 
 * 【2023-11-29】[opa334 / TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 * 【2023-11-29】[jordan-cutler / path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond
 * 【2023-11-29】[BurntSushi / ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -241,6 +249,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[Azure / Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 ## Go
 
+* 【2023-11-30】[evanw / esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
+* 【2023-11-30】[secengjeff / awskillswitch](https://github.com/secengjeff/awskillswitch) - Lambda function that streamlines containment of an AWS account compromise
+* 【2023-11-30】[bepass-org / smartSNI](https://github.com/bepass-org/smartSNI) - A simple single file smart sni proxy with doh and dot written in go
+* 【2023-11-30】[Masterminds / squirrel](https://github.com/Masterminds/squirrel) - Fluent SQL generation for golang
 * 【2023-11-29】[minchenzz / ierc-miner](https://github.com/minchenzz/ierc-miner) - 
 * 【2023-11-29】[tidwall / gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 * 【2023-11-29】[xataio / pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
@@ -392,6 +404,14 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[go-co-op / gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 ## Python
 
+* 【2023-11-30】[yogeshojha / rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface. reNgine makes it easy for penetration testers to gather reconnaissance with…
+* 【2023-11-30】[IEIT-Yuan / Yuan-2.0](https://github.com/IEIT-Yuan/Yuan-2.0) - Yuan 2.0 Large Language Model
+* 【2023-11-30】[EnVision-Research / LucidDreamer](https://github.com/EnVision-Research/LucidDreamer) - Official implementation of "LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching"
+* 【2023-11-30】[mit-han-lab / streaming-llm](https://github.com/mit-han-lab/streaming-llm) - Efficient Streaming Language Models with Attention Sinks
+* 【2023-11-30】[xinntao / Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
+* 【2023-11-30】[kormax / apple-home-key-reader](https://github.com/kormax/apple-home-key-reader) - Apple Home Key Reader Implementation
+* 【2023-11-30】[Textualize / rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+* 【2023-11-30】[Frix-x / klippain-shaketune](https://github.com/Frix-x/klippain-shaketune) - Klippain streamlined input shaper workflow and calibration tools
 * 【2023-11-29】[adidas / lakehouse-engine](https://github.com/adidas/lakehouse-engine) - The Lakehouse Engine is a configuration driven Spark framework, written in Python, serving as a scalable and distributed engine for several lakehouse algorithms, data flows and utilities for Data Products.
 * 【2023-11-29】[bmaltais / kohya_ss](https://github.com/bmaltais/kohya_ss) - 
 * 【2023-11-29】[pennersr / django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
@@ -572,6 +592,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[deepset-ai / haystack](https://github.com/deepset-ai/haystack) - 🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 ## Javascript
 
+* 【2023-11-30】[jsdom / jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
+* 【2023-11-30】[francoischalifour / medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium
+* 【2023-11-30】[denysdovhan / wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
 * 【2023-11-29】[plotly / plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 * 【2023-11-29】[jason5ng32 / MyIP](https://github.com/jason5ng32/MyIP) - IP 工具箱。可以查看本机IP、挂代理后的IP信息、检查 DNS 泄露、检查 WebRTC 连接、测试网站可用性等。An alternative to ip.skk.moe service.
 * 【2023-11-29】[brix / crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
@@ -722,6 +745,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[elnardu / react-use-c](https://github.com/elnardu/react-use-c) - Use C in your React!
 ## C
 
+* 【2023-11-30】[raspberrypi / firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi kernel and modules, userspace libraries, and bootloader/GPU firmware.
+* 【2023-11-30】[rofl0r / proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
+* 【2023-11-30】[opa334 / ChOma](https://github.com/opa334/ChOma) - C library for manipulating MachO/FAT files and their code signatures
+* 【2023-11-30】[pvvx / ZigbeeTLc](https://github.com/pvvx/ZigbeeTLc) - Custom firmware for Zigbee 3.0 IoT devices on the TLSR825x chip
+* 【2023-11-30】[Dav1dde / glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
 * 【2023-11-29】[naev / naev](https://github.com/naev/naev) - Naev is a 2d action/rpg space game that combines elements from the action, rpg and simulation genres.
 * 【2023-11-29】[Monster-GM / NewBlackbox](https://github.com/Monster-GM/NewBlackbox) - new Blackbox
 * 【2023-11-29】[haiwen / seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
@@ -842,6 +870,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[robertdavidgraham / masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 ## C++
 
+* 【2023-11-30】[buaacyw / GaussianEditor](https://github.com/buaacyw/GaussianEditor) - 
+* 【2023-11-30】[wesnoth / wesnoth](https://github.com/wesnoth/wesnoth) - An open source, turn-based strategy game with a high fantasy theme.
+* 【2023-11-30】[CrowCpp / Crow](https://github.com/CrowCpp/Crow) - A Fast and Easy to use microframework for the web.
+* 【2023-11-30】[microsoft / DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler) - This repo hosts the source for the DirectX Shader Compiler which is based on LLVM/Clang.
+* 【2023-11-30】[ros-planning / moveit](https://github.com/ros-planning/moveit) - 🤖 The MoveIt motion planning framework
+* 【2023-11-30】[cmderdev / cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
+* 【2023-11-30】[Blueforcer / awtrix-light](https://github.com/Blueforcer/awtrix-light) - Custom firmware for the Ulanzi Smart Pixel clock or self made awtrix. Getting started is easy as 1-2-3
 * 【2023-11-29】[bitcookies / winrar-keygen](https://github.com/bitcookies/winrar-keygen) - Principle of WinRAR key generation.
 * 【2023-11-29】[BehaviorTree / BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) - Behavior Trees Library in C++. Batteries included.
 * 【2023-11-29】[epezent / implot](https://github.com/epezent/implot) - Immediate Mode Plotting
@@ -958,6 +993,15 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-11-01】[microsoft / LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 ## Typescript
 
+* 【2023-11-30】[unjs / nitro](https://github.com/unjs/nitro) - Create, build and deploy universal web servers. The open engine powering Nuxt and open to everyone.
+* 【2023-11-30】[dabit3 / react-native-ai](https://github.com/dabit3/react-native-ai) - Full stack framework for building cross-platform mobile AI apps
+* 【2023-11-30】[frangoteam / FUXA](https://github.com/frangoteam/FUXA) - Web-based Process Visualization (SCADA/HMI/Dashboard) software
+* 【2023-11-30】[Chocobozzz / PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
+* 【2023-11-30】[HuolalaTech / page-spy-web](https://github.com/HuolalaTech/page-spy-web) - Debug remotely and easily like chrome devtools.
+* 【2023-11-30】[BuilderIO / mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
+* 【2023-11-30】[DylanVann / react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - 🚩 FastImage, performant React Native image component.
+* 【2023-11-30】[facebook / flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
+* 【2023-11-30】[tj-actions / changed-files](https://github.com/tj-actions/changed-files) - Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
 * 【2023-11-29】[shivammathur / setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
 * 【2023-11-29】[fal-ai / tldraw-fal](https://github.com/fal-ai/tldraw-fal) - 
 * 【2023-11-29】[pnpm / pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
