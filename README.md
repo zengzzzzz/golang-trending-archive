@@ -53,6 +53,14 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-12-04】[laravel / pulse](https://github.com/laravel/pulse) - Laravel Pulse is a real-time application performance monitoring tool and dashboard for your Laravel application.
+* 【2023-12-04】[rust-lang / rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+* 【2023-12-04】[unslothai / unsloth](https://github.com/unslothai/unsloth) - 5X faster 50% less memory LLM finetuning
+* 【2023-12-04】[samuelcolvin / FastUI](https://github.com/samuelcolvin/FastUI) - Build better UIs faster.
+* 【2023-12-04】[apple / swift-aoc-starter-example](https://github.com/apple/swift-aoc-starter-example) - Swift starter project for solving Advent of Code challenges.
+* 【2023-12-04】[ThePrimeagen / harpoon](https://github.com/ThePrimeagen/harpoon) - 
+* 【2023-12-04】[ExpLangcn / NucleiTP](https://github.com/ExpLangcn/NucleiTP) - 自动整合全网Nuclei的漏洞POC，实时同步更新最新POC！
+* 【2023-12-04】[ChristopherBiscardi / advent-of-code](https://github.com/ChristopherBiscardi/advent-of-code) - 
 * 【2023-12-03】[pytorch-labs / gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.
 * 【2023-12-03】[dangeng / visual_anagrams](https://github.com/dangeng/visual_anagrams) - Code for the paper "Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models"
 * 【2023-12-03】[microsoft / TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.
@@ -72,6 +80,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[SamurAIGPT / Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) - Create Custom GPT and add/embed on your site using Assistants api
 ## Go
 
+* 【2023-12-04】[google / syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer
+* 【2023-12-04】[ViRb3 / wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
+* 【2023-12-04】[Consensys / gnark](https://github.com/Consensys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license
+* 【2023-12-04】[bookstairs / bookhunter](https://github.com/bookstairs/bookhunter) - A download tools for clawing the ebooks from internets.
+* 【2023-12-04】[turbot / steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
+* 【2023-12-04】[GoogleContainerTools / kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 * 【2023-12-03】[sqlc-dev / sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 * 【2023-12-03】[anchore / grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 * 【2023-12-03】[aquasecurity / kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
@@ -95,6 +109,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[F1bonacc1 / process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 ## Python
 
+* 【2023-12-04】[JayZeeDesign / research-agents-3.0](https://github.com/JayZeeDesign/research-agents-3.0) - Autogen + GPTs - build a swarm AI researchers
+* 【2023-12-04】[VikParuchuri / marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
+* 【2023-12-04】[cheshire-cat-ai / core](https://github.com/cheshire-cat-ai/core) - Production ready AI assistant framework
+* 【2023-12-04】[Vchitect / LaVie](https://github.com/Vchitect/LaVie) - LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models
+* 【2023-12-04】[microsoft / Olive](https://github.com/microsoft/Olive) - Olive is an easy-to-use hardware-aware model optimization tool that composes industry-leading techniques across model compression, optimization, and compilation.
+* 【2023-12-04】[3b1b / manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
+* 【2023-12-04】[Vchitect / SEINE](https://github.com/Vchitect/SEINE) - SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction
 * 【2023-12-03】[mlc-ai / mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 * 【2023-12-03】[QwenLM / Qwen-Audio](https://github.com/QwenLM/Qwen-Audio) - The official repo of Qwen-Audio (通义千问-Audio) chat & pretrained large audio language model proposed by Alibaba Cloud.
 * 【2023-12-02】[Avaiga / taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
@@ -110,6 +131,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[JoeanAmier / XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具
 ## Javascript
 
+* 【2023-12-04】[shadowcz007 / comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes) - 
+* 【2023-12-04】[goabstract / Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
+* 【2023-12-04】[qzz0518 / coss](https://github.com/qzz0518/coss) - 
+* 【2023-12-04】[AMAI-GmbH / AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
+* 【2023-12-04】[VincentGarreau / particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
+* 【2023-12-04】[caolan / async](https://github.com/caolan/async) - Async utilities for node and the browser
+* 【2023-12-04】[DustinWin / clash-tools](https://github.com/DustinWin/clash-tools) - 自动同步 Clash Premium 内核、Clash.Meta 内核、Clash dashboard 面板和 AdGuardHome 最新版
 * 【2023-12-03】[PavelDoGreat / WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 * 【2023-12-03】[aquasecurity / cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
 * 【2023-12-02】[elementor / elementor](https://github.com/elementor/elementor) - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
@@ -118,6 +146,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[sun0225SUN / Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆~谁说程序猿不懂浪漫❤️
 ## C
 
+* 【2023-12-04】[moonlight-stream / moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
+* 【2023-12-04】[yitter / IdGenerator](https://github.com/yitter/IdGenerator) - 💎多语言实现，高性能生成唯一数字ID。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/JavaScript/TypeScript/Python/Pascal 多语言，提供其它适用于其它语言的多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId ），单机或分布式唯一IdGenerator。💎顶尖优化，超强效能。
+* 【2023-12-04】[jakkra / ZSWatch](https://github.com/jakkra/ZSWatch) - ZSWatch - the Open Source Zephyr™ based Smartwatch, including both HW and FW.
+* 【2023-12-04】[TelegramMessenger / Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
 * 【2023-12-03】[henrypp / simplewall](https://github.com/henrypp/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
 * 【2023-12-03】[OP-TEE / optee_os](https://github.com/OP-TEE/optee_os) - Trusted side of the TEE
 * 【2023-12-02】[koekeishiya / skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
@@ -125,6 +157,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[wh1te4ever / TrollDecryptor](https://github.com/wh1te4ever/TrollDecryptor) - Decrypt iOS apps for TrollStore
 ## C++
 
+* 【2023-12-04】[mudler / LocalAI](https://github.com/mudler/LocalAI) - 🤖 The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
+* 【2023-12-04】[Warzone2100 / warzone2100](https://github.com/Warzone2100/warzone2100) - Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+
+* 【2023-12-04】[meshtastic / firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
+* 【2023-12-04】[mltframework / shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
+* 【2023-12-04】[OpenTTD / OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
+* 【2023-12-04】[FastLED / FastLED](https://github.com/FastLED/FastLED) - The FastLED library for colored LED animation on Arduino. Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r We'd like to use github "issues" just for tracking library bugs / enhancements.
 * 【2023-12-03】[IfcOpenShell / IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell) - Open source IFC library and geometry engine
 * 【2023-12-03】[AlibabaResearch / AdvancedLiterateMachinery](https://github.com/AlibabaResearch/AdvancedLiterateMachinery) - A collection of original, innovative ideas and algorithms towards Advanced Literate Machinery. This project is maintained by the OCR Team in the Language Technology Lab, Alibaba DAMO Academy.
 * 【2023-12-03】[MaorSabag / TrueSightKiller](https://github.com/MaorSabag/TrueSightKiller) - CPP AV/EDR Killer
@@ -139,6 +177,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[x64dbg / x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 ## Typescript
 
+* 【2023-12-04】[adrianhajdin / ecommerce](https://github.com/adrianhajdin/ecommerce) - Learn how to build an incredible e-commerce webshop with an admin dashboard and CMS using Next 14, Stripe, TypeScript, and Payload CMS.
+* 【2023-12-04】[mlc-ai / web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
+* 【2023-12-04】[statelyai / xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
+* 【2023-12-04】[webprodigies / webprodigies-cypress](https://github.com/webprodigies/webprodigies-cypress) - 
+* 【2023-12-04】[askrella / whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AI Assistant 🚀 🤖
 * 【2023-12-03】[clauderic / dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 * 【2023-12-03】[visgl / deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 * 【2023-12-03】[dorny / test-reporter](https://github.com/dorny/test-reporter) - Displays test results from popular testing frameworks directly in GitHub
