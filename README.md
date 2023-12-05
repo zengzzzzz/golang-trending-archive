@@ -80,6 +80,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[SamurAIGPT / Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) - Create Custom GPT and add/embed on your site using Assistants api
 ## Go
 
+* 【2023-12-05】[0xERR0R / blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
+* 【2023-12-05】[ffuf / ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
+* 【2023-12-05】[fyne-io / fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
+* 【2023-12-05】[zitadel / oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+* 【2023-12-05】[siglens / siglens](https://github.com/siglens/siglens) - Observability at 100x Efficiency
+* 【2023-12-05】[tomnomnom / gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
+* 【2023-12-05】[rqlite / rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 * 【2023-12-04】[google / syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer
 * 【2023-12-04】[ViRb3 / wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 * 【2023-12-04】[Consensys / gnark](https://github.com/Consensys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license
@@ -109,6 +116,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[F1bonacc1 / process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 ## Python
 
+* 【2023-12-05】[avgupta456 / github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
+* 【2023-12-05】[sagemath / sage](https://github.com/sagemath/sage) - Main repository of SageMath. Now open for Issues and Pull Requests.
 * 【2023-12-04】[JayZeeDesign / research-agents-3.0](https://github.com/JayZeeDesign/research-agents-3.0) - Autogen + GPTs - build a swarm AI researchers
 * 【2023-12-04】[VikParuchuri / marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 * 【2023-12-04】[cheshire-cat-ai / core](https://github.com/cheshire-cat-ai/core) - Production ready AI assistant framework
@@ -131,6 +140,14 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[JoeanAmier / XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具
 ## Javascript
 
+* 【2023-12-05】[popcorn-official / popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
+* 【2023-12-05】[andersontr15 / clean-code-javascript-es](https://github.com/andersontr15/clean-code-javascript-es) - Clean Code traducido al Español
+* 【2023-12-05】[neetcode-gh / leetcode](https://github.com/neetcode-gh/leetcode) - Leetcode solutions
+* 【2023-12-05】[LeCoupa / awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+* 【2023-12-05】[pythongosssss / ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) - Enhancements & experiments for ComfyUI, mostly focusing on UI features
+* 【2023-12-05】[kska32 / ebooks](https://github.com/kska32/ebooks) - 收藏的一些经典的历史、政治、心理、哲学、数学、计算机方面电子书(约10万本）
+* 【2023-12-05】[unconv / gpt4v-browsing](https://github.com/unconv/gpt4v-browsing) - Web Scraping with GPT-4 Vision API and Puppeteer
+* 【2023-12-05】[JannisX11 / blockbench](https://github.com/JannisX11/blockbench) - Blockbench - A low poly 3D model editor
 * 【2023-12-04】[shadowcz007 / comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes) - 
 * 【2023-12-04】[goabstract / Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 * 【2023-12-04】[qzz0518 / coss](https://github.com/qzz0518/coss) - 
@@ -146,6 +163,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[sun0225SUN / Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆~谁说程序猿不懂浪漫❤️
 ## C
 
+* 【2023-12-05】[streetpea / chiaki4deck](https://github.com/streetpea/chiaki4deck) - Fork of Chiaki (Open Source Playstation Remote Play) with Enhancements for Steam Deck and Documentation around how to use
+* 【2023-12-05】[hashcat / hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 * 【2023-12-04】[moonlight-stream / moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 * 【2023-12-04】[yitter / IdGenerator](https://github.com/yitter/IdGenerator) - 💎多语言实现，高性能生成唯一数字ID。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/JavaScript/TypeScript/Python/Pascal 多语言，提供其它适用于其它语言的多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId ），单机或分布式唯一IdGenerator。💎顶尖优化，超强效能。
 * 【2023-12-04】[jakkra / ZSWatch](https://github.com/jakkra/ZSWatch) - ZSWatch - the Open Source Zephyr™ based Smartwatch, including both HW and FW.
@@ -157,6 +176,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[wh1te4ever / TrollDecryptor](https://github.com/wh1te4ever/TrollDecryptor) - Decrypt iOS apps for TrollStore
 ## C++
 
+* 【2023-12-05】[CMU-Perceptual-Computing-Lab / openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+* 【2023-12-05】[StudioCherno / Walnut](https://github.com/StudioCherno/Walnut) - Walnut is a simple application framework for Vulkan and Dear ImGui apps
 * 【2023-12-04】[mudler / LocalAI](https://github.com/mudler/LocalAI) - 🤖 The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
 * 【2023-12-04】[Warzone2100 / warzone2100](https://github.com/Warzone2100/warzone2100) - Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+
 * 【2023-12-04】[meshtastic / firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
@@ -177,6 +198,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[x64dbg / x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 ## Typescript
 
+* 【2023-12-05】[outline / outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+* 【2023-12-05】[clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Clash.meta GUI: A sleek Tauri-based interface revolutionizing ease of use across Windows, macOS, and Linux, merging beauty with simplicity for an unparalleled user experience
+* 【2023-12-05】[openchatai / OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 AI Copilot for your own SaaS product. Shopify Sidekick alternative.
+* 【2023-12-05】[nukeop / nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
+* 【2023-12-05】[microsoft / azuredatastudio](https://github.com/microsoft/azuredatastudio) - Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capability to connect to Azure SQL and SQL Server. Browse the extension library for more database support options including MySQL, PostgreSQL, and MongoDB.
 * 【2023-12-04】[adrianhajdin / ecommerce](https://github.com/adrianhajdin/ecommerce) - Learn how to build an incredible e-commerce webshop with an admin dashboard and CMS using Next 14, Stripe, TypeScript, and Payload CMS.
 * 【2023-12-04】[mlc-ai / web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 * 【2023-12-04】[statelyai / xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
