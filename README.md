@@ -53,6 +53,13 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-12-06】[xaoyaoo / PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
+* 【2023-12-06】[100xdevs-cohort-2 / assignments](https://github.com/100xdevs-cohort-2/assignments) - 
+* 【2023-12-06】[bbycroft / llm-viz](https://github.com/bbycroft/llm-viz) - 3D Visualization of an GPT-style LLM
+* 【2023-12-06】[AmrDeveloper / GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
+* 【2023-12-06】[stevearc / oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
+* 【2023-12-06】[TheRamU / Fay](https://github.com/TheRamU/Fay) - Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、现场推销货、商品导购、语音助理、远程语音助理、数字人互动、数字人面试官及心理测评、贾维斯、Her。 开源项目，非产品试用！！！
+* 【2023-12-06】[YueChan / Live](https://github.com/YueChan/Live) - 收集于互联网的一些高清直播源。
 * 【2023-12-04】[laravel / pulse](https://github.com/laravel/pulse) - Laravel Pulse is a real-time application performance monitoring tool and dashboard for your Laravel application.
 * 【2023-12-04】[rust-lang / rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 * 【2023-12-04】[unslothai / unsloth](https://github.com/unslothai/unsloth) - 5X faster 50% less memory LLM finetuning
@@ -80,6 +87,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[SamurAIGPT / Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) - Create Custom GPT and add/embed on your site using Assistants api
 ## Go
 
+* 【2023-12-06】[gosom / google-maps-scraper](https://github.com/gosom/google-maps-scraper) - scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place
+* 【2023-12-06】[dub-flow / sessionprobe](https://github.com/dub-flow/sessionprobe) - SessionProbe is a multi-threaded tool designed for penetration testing and bug bounty hunting. It evaluates user privileges in web applications by taking a session token and checking access across a list of URLs, highlighting potential authorization issues.
+* 【2023-12-06】[containerd / nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
+* 【2023-12-06】[kubernetes / minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 * 【2023-12-05】[0xERR0R / blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 * 【2023-12-05】[ffuf / ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 * 【2023-12-05】[fyne-io / fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
@@ -116,6 +127,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[F1bonacc1 / process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 ## Python
 
+* 【2023-12-06】[wearecaster / Above](https://github.com/wearecaster/Above) - Invisible network protocol sniffer
+* 【2023-12-06】[karpathy / minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
+* 【2023-12-06】[lucidrains / meshgpt-pytorch](https://github.com/lucidrains/meshgpt-pytorch) - Implementation of MeshGPT, SOTA Mesh generation using Attention, in Pytorch
+* 【2023-12-06】[HumanAIGC / Cloth2Tex](https://github.com/HumanAIGC/Cloth2Tex) - Cloth2Tex: A Customized Cloth Texture Generation Pipeline for 3D Virtual Try-On
 * 【2023-12-05】[avgupta456 / github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 * 【2023-12-05】[sagemath / sage](https://github.com/sagemath/sage) - Main repository of SageMath. Now open for Issues and Pull Requests.
 * 【2023-12-04】[JayZeeDesign / research-agents-3.0](https://github.com/JayZeeDesign/research-agents-3.0) - Autogen + GPTs - build a swarm AI researchers
@@ -140,6 +155,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[JoeanAmier / XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具
 ## Javascript
 
+* 【2023-12-06】[zhimin-dev / iptv-checker](https://github.com/zhimin-dev/iptv-checker) - IPTV source checker tool for Docker to check if your playlist is available
+* 【2023-12-06】[typicode / lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
+* 【2023-12-06】[nasa / openmct](https://github.com/nasa/openmct) - A web based mission control framework.
+* 【2023-12-06】[SudhanPlayz / Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
+* 【2023-12-06】[Stuk / jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
 * 【2023-12-05】[popcorn-official / popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 * 【2023-12-05】[andersontr15 / clean-code-javascript-es](https://github.com/andersontr15/clean-code-javascript-es) - Clean Code traducido al Español
 * 【2023-12-05】[neetcode-gh / leetcode](https://github.com/neetcode-gh/leetcode) - Leetcode solutions
@@ -163,6 +183,15 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[sun0225SUN / Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆~谁说程序猿不懂浪漫❤️
 ## C
 
+* 【2023-12-06】[aws / s2n-tls](https://github.com/aws/s2n-tls) - An implementation of the TLS/SSL protocols
+* 【2023-12-06】[mitxela / candle](https://github.com/mitxela/candle) - 
+* 【2023-12-06】[greenbone / openvas-scanner](https://github.com/greenbone/openvas-scanner) - This repository contains the scanner component for Greenbone Community Edition.
+* 【2023-12-06】[winsiderss / systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
+* 【2023-12-06】[quelsolaar / makemake](https://github.com/quelsolaar/makemake) - 
+* 【2023-12-06】[tporadowski / redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.
+* 【2023-12-06】[microsoft / react-native-code-push](https://github.com/microsoft/react-native-code-push) - React Native module for CodePush
+* 【2023-12-06】[donato-fiore / TrollDecrypt](https://github.com/donato-fiore/TrollDecrypt) - iOS IPA Decrypter for TrollStore
+* 【2023-12-06】[Xilinx / Vitis-Tutorials](https://github.com/Xilinx/Vitis-Tutorials) - Vitis In-Depth Tutorials
 * 【2023-12-05】[streetpea / chiaki4deck](https://github.com/streetpea/chiaki4deck) - Fork of Chiaki (Open Source Playstation Remote Play) with Enhancements for Steam Deck and Documentation around how to use
 * 【2023-12-05】[hashcat / hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 * 【2023-12-04】[moonlight-stream / moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
@@ -176,6 +205,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[wh1te4ever / TrollDecryptor](https://github.com/wh1te4ever/TrollDecryptor) - Decrypt iOS apps for TrollStore
 ## C++
 
+* 【2023-12-06】[uNetworking / uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends 🤘
+* 【2023-12-06】[google / tcmalloc](https://github.com/google/tcmalloc) - 
 * 【2023-12-05】[CMU-Perceptual-Computing-Lab / openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 * 【2023-12-05】[StudioCherno / Walnut](https://github.com/StudioCherno/Walnut) - Walnut is a simple application framework for Vulkan and Dear ImGui apps
 * 【2023-12-04】[mudler / LocalAI](https://github.com/mudler/LocalAI) - 🤖 The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
@@ -198,6 +229,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[x64dbg / x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 ## Typescript
 
+* 【2023-12-06】[clairefro / obsidian-chat-cbt-plugin](https://github.com/clairefro/obsidian-chat-cbt-plugin) - AI-powered journaling plugin for your Obsidian notes, inspired by cognitive behavioral therapy
+* 【2023-12-06】[juice-shop / juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
+* 【2023-12-06】[027xiguapi / pear-rec](https://github.com/027xiguapi/pear-rec) - pear-rec is a screenshot, screen recording, audio recording, and video recording software based on Electron
 * 【2023-12-05】[outline / outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 * 【2023-12-05】[clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Clash.meta GUI: A sleek Tauri-based interface revolutionizing ease of use across Windows, macOS, and Linux, merging beauty with simplicity for an unparalleled user experience
 * 【2023-12-05】[openchatai / OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 AI Copilot for your own SaaS product. Shopify Sidekick alternative.
