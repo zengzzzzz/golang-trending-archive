@@ -53,6 +53,12 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-12-09】[ml-explore / mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
+* 【2023-12-09】[ml-explore / mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
+* 【2023-12-09】[CopilotKit / CopilotKit](https://github.com/CopilotKit/CopilotKit) - Build in-app AI chatbots 🤖, and AI-powered Textareas ✨, into react web apps.
+* 【2023-12-09】[huggingface / optimum-nvidia](https://github.com/huggingface/optimum-nvidia) - 
+* 【2023-12-09】[yformer / EfficientSAM](https://github.com/yformer/EfficientSAM) - EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything
+* 【2023-12-09】[ReactiveX / RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift
 * 【2023-12-08】[JJTech0130 / pypush](https://github.com/JJTech0130/pypush) - Cross-platform iMessage POC
 * 【2023-12-08】[google / style-aligned](https://github.com/google/style-aligned) - Official code for "Style Aligned Image Generation via Shared Attention"
 * 【2023-12-08】[ise-uiuc / magicoder](https://github.com/ise-uiuc/magicoder) - Magicoder: Source Code Is All You Need
@@ -99,6 +105,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[SamurAIGPT / Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) - Create Custom GPT and add/embed on your site using Assistants api
 ## Go
 
+* 【2023-12-09】[kubernetes-sigs / kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing
 * 【2023-12-08】[testcontainers / testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.
 * 【2023-12-08】[devfullcycle / imersao16](https://github.com/devfullcycle/imersao16) - 
 * 【2023-12-08】[open-telemetry / opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go.
@@ -150,6 +157,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[F1bonacc1 / process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 ## Python
 
+* 【2023-12-09】[great-expectations / great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
+* 【2023-12-09】[dsdanielpark / Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
+* 【2023-12-09】[abetlen / llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
+* 【2023-12-09】[xuebinqin / U-2-Net](https://github.com/xuebinqin/U-2-Net) - The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection."
+* 【2023-12-09】[zappa / Zappa](https://github.com/zappa/Zappa) - Serverless Python
+* 【2023-12-09】[duma-repo / ai_code_reader](https://github.com/duma-repo/ai_code_reader) - AI项目阅读器 by渡码
 * 【2023-12-08】[google-deepmind / uncertain_ground_truth](https://github.com/google-deepmind/uncertain_ground_truth) - 
 * 【2023-12-08】[chroma-core / chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 * 【2023-12-08】[spla-tam / SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM
@@ -192,6 +205,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[JoeanAmier / XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具
 ## Javascript
 
+* 【2023-12-09】[doublespeakgames / adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
+* 【2023-12-09】[h5bp / html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+* 【2023-12-09】[JetBrains / kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin programming language website
+* 【2023-12-09】[wanglin2 / mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
+* 【2023-12-09】[cure53 / DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
+* 【2023-12-09】[zfy666ci / ton-mint](https://github.com/zfy666ci/ton-mint) - 
 * 【2023-12-08】[decaporg / decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 * 【2023-12-08】[R-s0n / ars0n-framework](https://github.com/R-s0n/ars0n-framework) - A Modern Framework for Bug Bounty Hunting
 * 【2023-12-08】[dcloudio / uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
@@ -227,6 +246,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[sun0225SUN / Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆~谁说程序猿不懂浪漫❤️
 ## C
 
+* 【2023-12-09】[FeralInteractive / gamemode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
 * 【2023-12-08】[DoctorWkt / acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 * 【2023-12-08】[bsauce / kernel-exploit-factory](https://github.com/bsauce/kernel-exploit-factory) - Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore.
 * 【2023-12-08】[maximegmd / CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) - Cyberpunk 2077 tweaks, hacks and scripting framework
@@ -257,6 +277,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[wh1te4ever / TrollDecryptor](https://github.com/wh1te4ever/TrollDecryptor) - Decrypt iOS apps for TrollStore
 ## C++
 
+* 【2023-12-09】[tranek / GASDocumentation](https://github.com/tranek/GASDocumentation) - My understanding of Unreal Engine 5's GameplayAbilitySystem plugin with a simple multiplayer sample project.
+* 【2023-12-09】[OpenSalamander / salamander](https://github.com/OpenSalamander/salamander) - Open Salamander
+* 【2023-12-09】[google-deepmind / open_spiel](https://github.com/google-deepmind/open_spiel) - OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
+* 【2023-12-09】[ml-explore / mlx-data](https://github.com/ml-explore/mlx-data) - Efficient framework-agnostic data loading
+* 【2023-12-09】[couchbase / fleece](https://github.com/couchbase/fleece) - A super-fast, compact, JSON-equivalent binary data format
 * 【2023-12-08】[wkhtmltopdf / wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
 * 【2023-12-08】[strato-emu / strato](https://github.com/strato-emu/strato) - Run Nintendo Switch homebrew & games on your Android device!
 * 【2023-12-08】[microsoft / STL](https://github.com/microsoft/STL) - MSVC's implementation of the C++ Standard Library.
@@ -287,6 +312,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[x64dbg / x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 ## Typescript
 
+* 【2023-12-09】[Sairyss / domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
+* 【2023-12-09】[cypress-io / cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app) - A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
 * 【2023-12-08】[Kliton / yt_pageform](https://github.com/Kliton/yt_pageform) - Full stack DragAndDrop Page form builder with Nextjs, Typescript ( React ), Dnd-Kit, Prisma, Postgresql (Vercel)
 * 【2023-12-08】[marmelab / react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 * 【2023-12-08】[mfts / papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
