@@ -53,6 +53,12 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-12-10】[jmpoep / vmprotect-3.5.1](https://github.com/jmpoep/vmprotect-3.5.1) - 
+* 【2023-12-10】[facebookresearch / PurpleLlama](https://github.com/facebookresearch/PurpleLlama) - Set of tools to assess and improve LLM security.
+* 【2023-12-10】[anoma / namada-trusted-setup-claimer](https://github.com/anoma/namada-trusted-setup-claimer) - Sign arbitrary messages with keys obtained from Namada's trusted setup
+* 【2023-12-10】[MichaelYuhe / ai-group-tabs](https://github.com/MichaelYuhe/ai-group-tabs) - A Chrome extension helps you group your tabs with AI.
+* 【2023-12-10】[rmcelreath / stat_rethinking_2024](https://github.com/rmcelreath/stat_rethinking_2024) - 
+* 【2023-12-10】[firebase / firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) - Firebase SDK for Apple App Development
 * 【2023-12-09】[ml-explore / mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 * 【2023-12-09】[ml-explore / mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 * 【2023-12-09】[CopilotKit / CopilotKit](https://github.com/CopilotKit/CopilotKit) - Build in-app AI chatbots 🤖, and AI-powered Textareas ✨, into react web apps.
@@ -105,6 +111,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[SamurAIGPT / Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) - Create Custom GPT and add/embed on your site using Assistants api
 ## Go
 
+* 【2023-12-10】[k0sproject / k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes
+* 【2023-12-10】[cue-lang / cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
+* 【2023-12-10】[google / uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
+* 【2023-12-10】[linkerd / linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 * 【2023-12-09】[kubernetes-sigs / kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing
 * 【2023-12-08】[testcontainers / testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.
 * 【2023-12-08】[devfullcycle / imersao16](https://github.com/devfullcycle/imersao16) - 
@@ -157,6 +167,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[F1bonacc1 / process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 ## Python
 
+* 【2023-12-10】[havenhq / mamba-chat](https://github.com/havenhq/mamba-chat) - Mamba-Chat: A chat LLM based on the state-space model architecture 🐍
+* 【2023-12-10】[AIFSH / NativeSpeaker](https://github.com/AIFSH/NativeSpeaker) - make your Speaker talking as Native style with own voice！
+* 【2023-12-10】[luciddreamer-cvlab / LucidDreamer](https://github.com/luciddreamer-cvlab/LucidDreamer) - Official code for the paper "LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes".
+* 【2023-12-10】[sweepai / sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes.
+* 【2023-12-10】[Pennyw0rth / NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
+* 【2023-12-10】[kyegomez / Gemini](https://github.com/kyegomez/Gemini) - The open source implementation of Gemini, the model that will "eclipse ChatGPT" by Google
 * 【2023-12-09】[great-expectations / great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 * 【2023-12-09】[dsdanielpark / Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
 * 【2023-12-09】[abetlen / llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
@@ -205,6 +221,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[JoeanAmier / XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具
 ## Javascript
 
+* 【2023-12-10】[MostlyAdequate / mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
 * 【2023-12-09】[doublespeakgames / adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
 * 【2023-12-09】[h5bp / html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 * 【2023-12-09】[JetBrains / kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin programming language website
@@ -246,6 +263,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[sun0225SUN / Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆~谁说程序猿不懂浪漫❤️
 ## C
 
+* 【2023-12-10】[research-virus / stuxnet](https://github.com/research-virus/stuxnet) - Public open-source code of malware Stuxnet (aka MyRTUs).
+* 【2023-12-10】[linux-rdma / rdma-core](https://github.com/linux-rdma/rdma-core) - RDMA core userspace libraries and daemons
+* 【2023-12-10】[onyx-lang / onyx](https://github.com/onyx-lang/onyx) - A modern language for WebAssembly.
+* 【2023-12-10】[peng-zhihui / ElectronBot](https://github.com/peng-zhihui/ElectronBot) - 
+* 【2023-12-10】[telekom-security / tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Honeypot Platform 🐝
+* 【2023-12-10】[ColinIanKing / stress-ng](https://github.com/ColinIanKing/stress-ng) - This is the stress-ng upstream project git repository. stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces.
 * 【2023-12-09】[FeralInteractive / gamemode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
 * 【2023-12-08】[DoctorWkt / acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 * 【2023-12-08】[bsauce / kernel-exploit-factory](https://github.com/bsauce/kernel-exploit-factory) - Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore.
@@ -277,6 +300,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[wh1te4ever / TrollDecryptor](https://github.com/wh1te4ever/TrollDecryptor) - Decrypt iOS apps for TrollStore
 ## C++
 
+* 【2023-12-10】[es3n1n / obfuscator](https://github.com/es3n1n/obfuscator) - Native code PE bin2bin obfuscator
+* 【2023-12-10】[microsoft / winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
+* 【2023-12-10】[SafeBreach-Labs / PoolParty](https://github.com/SafeBreach-Labs/PoolParty) - A set of fully-undetectable process injection techniques abusing Windows Thread Pools
+* 【2023-12-10】[changh95 / fastcampus_slam_codes](https://github.com/changh95/fastcampus_slam_codes) - Code exercises for the SLAM course in 'Computer Vision, LiDAR processing, and Sensor Fusion for Autonomous Driving' lecture series
+* 【2023-12-10】[dogecoin / dogecoin](https://github.com/dogecoin/dogecoin) - very currency
+* 【2023-12-10】[dusty-nv / jetson-inference](https://github.com/dusty-nv/jetson-inference) - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
+* 【2023-12-10】[cocos2d / cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools utilized by millions of developers across the globe. Its core has evolved to serve as the foundation for Cocos Creator 1.x & 2.x.
 * 【2023-12-09】[tranek / GASDocumentation](https://github.com/tranek/GASDocumentation) - My understanding of Unreal Engine 5's GameplayAbilitySystem plugin with a simple multiplayer sample project.
 * 【2023-12-09】[OpenSalamander / salamander](https://github.com/OpenSalamander/salamander) - Open Salamander
 * 【2023-12-09】[google-deepmind / open_spiel](https://github.com/google-deepmind/open_spiel) - OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
@@ -312,6 +342,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[x64dbg / x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 ## Typescript
 
+* 【2023-12-10】[vectorisvector / Polaris](https://github.com/vectorisvector/Polaris) - 
+* 【2023-12-10】[openai-translator / openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+* 【2023-12-10】[didi / LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
+* 【2023-12-10】[balena-io / etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+* 【2023-12-10】[3rd / tsdiagram](https://github.com/3rd/tsdiagram) - Create diagrams and plan your code with TypeScript.
 * 【2023-12-09】[Sairyss / domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 * 【2023-12-09】[cypress-io / cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app) - A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
 * 【2023-12-08】[Kliton / yt_pageform](https://github.com/Kliton/yt_pageform) - Full stack DragAndDrop Page form builder with Nextjs, Typescript ( React ), Dnd-Kit, Prisma, Postgresql (Vercel)
