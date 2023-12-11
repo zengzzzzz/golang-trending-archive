@@ -53,6 +53,10 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-12-11】[prasanthrangan / hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
+* 【2023-12-11】[mli / paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
+* 【2023-12-11】[kgrzybek / modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
+* 【2023-12-11】[facebookresearch / Pearl](https://github.com/facebookresearch/Pearl) - A Production-ready Reinforcement Learning AI Agent Library brought by the Applied Reinforcement Learning team at Meta.
 * 【2023-12-10】[jmpoep / vmprotect-3.5.1](https://github.com/jmpoep/vmprotect-3.5.1) - 
 * 【2023-12-10】[facebookresearch / PurpleLlama](https://github.com/facebookresearch/PurpleLlama) - Set of tools to assess and improve LLM security.
 * 【2023-12-10】[anoma / namada-trusted-setup-claimer](https://github.com/anoma/namada-trusted-setup-claimer) - Sign arbitrary messages with keys obtained from Namada's trusted setup
@@ -111,6 +115,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[SamurAIGPT / Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) - Create Custom GPT and add/embed on your site using Assistants api
 ## Go
 
+* 【2023-12-11】[getsops / sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
+* 【2023-12-11】[mmcgrana / gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
+* 【2023-12-11】[github / gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
+* 【2023-12-11】[Jguer / yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
+* 【2023-12-11】[apecloud / kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s.
 * 【2023-12-10】[k0sproject / k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes
 * 【2023-12-10】[cue-lang / cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 * 【2023-12-10】[google / uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
@@ -167,6 +176,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[F1bonacc1 / process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 ## Python
 
+* 【2023-12-11】[shariqfarooq123 / LooseControl](https://github.com/shariqfarooq123/LooseControl) - Lifting ControlNet for Generalized Depth Conditioning
+* 【2023-12-11】[fishaudio / Bert-VITS2](https://github.com/fishaudio/Bert-VITS2) - vits2 backbone with multilingual-bert
+* 【2023-12-11】[PySimpleGUI / PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It's 2023 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive docs
+* 【2023-12-11】[prs-eth / Marigold](https://github.com/prs-eth/Marigold) - Marigold: Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation
+* 【2023-12-11】[stanford-futuredata / megablocks](https://github.com/stanford-futuredata/megablocks) - 
 * 【2023-12-10】[havenhq / mamba-chat](https://github.com/havenhq/mamba-chat) - Mamba-Chat: A chat LLM based on the state-space model architecture 🐍
 * 【2023-12-10】[AIFSH / NativeSpeaker](https://github.com/AIFSH/NativeSpeaker) - make your Speaker talking as Native style with own voice！
 * 【2023-12-10】[luciddreamer-cvlab / LucidDreamer](https://github.com/luciddreamer-cvlab/LucidDreamer) - Official code for the paper "LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes".
@@ -221,6 +235,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[JoeanAmier / XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具
 ## Javascript
 
+* 【2023-12-11】[end-4 / dots-hyprland](https://github.com/end-4/dots-hyprland) - Modern, accessible and flexible desktop configuration.
+* 【2023-12-11】[Aylur / dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
+* 【2023-12-11】[libccy / noname](https://github.com/libccy/noname) - 
 * 【2023-12-10】[MostlyAdequate / mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
 * 【2023-12-09】[doublespeakgames / adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
 * 【2023-12-09】[h5bp / html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
@@ -263,6 +280,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[sun0225SUN / Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆~谁说程序猿不懂浪漫❤️
 ## C
 
+* 【2023-12-11】[esp32-open-mac / esp32-open-mac](https://github.com/esp32-open-mac/esp32-open-mac) - Reverse engineered wifi driver for the ESP32
+* 【2023-12-11】[MarlinFirmware / Configurations](https://github.com/MarlinFirmware/Configurations) - Configurations for Marlin Firmware
+* 【2023-12-11】[jarun / nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+* 【2023-12-11】[raspberrypi / rpi-imager](https://github.com/raspberrypi/rpi-imager) - The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices.
 * 【2023-12-10】[research-virus / stuxnet](https://github.com/research-virus/stuxnet) - Public open-source code of malware Stuxnet (aka MyRTUs).
 * 【2023-12-10】[linux-rdma / rdma-core](https://github.com/linux-rdma/rdma-core) - RDMA core userspace libraries and daemons
 * 【2023-12-10】[onyx-lang / onyx](https://github.com/onyx-lang/onyx) - A modern language for WebAssembly.
@@ -300,6 +321,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[wh1te4ever / TrollDecryptor](https://github.com/wh1te4ever/TrollDecryptor) - Decrypt iOS apps for TrollStore
 ## C++
 
+* 【2023-12-11】[CowNowK / AimStar](https://github.com/CowNowK/AimStar) - Free and open-source external cheat for CS2, written in C++
+* 【2023-12-11】[microsoft / DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples) - This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.
 * 【2023-12-10】[es3n1n / obfuscator](https://github.com/es3n1n/obfuscator) - Native code PE bin2bin obfuscator
 * 【2023-12-10】[microsoft / winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 * 【2023-12-10】[SafeBreach-Labs / PoolParty](https://github.com/SafeBreach-Labs/PoolParty) - A set of fully-undetectable process injection techniques abusing Windows Thread Pools
@@ -342,6 +365,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[x64dbg / x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 ## Typescript
 
+* 【2023-12-11】[vn7n24fzkq / github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
+* 【2023-12-11】[gitname / react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
+* 【2023-12-11】[makenotion / notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
+* 【2023-12-11】[11cafe / comfyui-workspace-manager](https://github.com/11cafe/comfyui-workspace-manager) - A ComfyUI extension to centralize the management of all your workflows in one place. Seamlessly switch between workflows, as well as create, update, and delete them within a single workspace.
 * 【2023-12-10】[vectorisvector / Polaris](https://github.com/vectorisvector/Polaris) - 
 * 【2023-12-10】[openai-translator / openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 * 【2023-12-10】[didi / LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
