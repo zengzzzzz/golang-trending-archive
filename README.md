@@ -53,6 +53,13 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-12-12】[mapup / MapUp-Data-Assessment-F](https://github.com/mapup/MapUp-Data-Assessment-F) - 
+* 【2023-12-12】[linyiLYi / voice-assistant](https://github.com/linyiLYi/voice-assistant) - 一个简单的 Python 脚本，可以通过语音与本地大语言模型进行对话。
+* 【2023-12-12】[ast-grep / ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+* 【2023-12-12】[zhyever / PatchFusion](https://github.com/zhyever/PatchFusion) - An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation
+* 【2023-12-12】[SqueezeAILab / LLMCompiler](https://github.com/SqueezeAILab/LLMCompiler) - LLMCompiler: An LLM Compiler for Parallel Function Calling
+* 【2023-12-12】[wilsonfreitas / awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
+* 【2023-12-12】[asset-group / 5ghoul-5g-nr-attacks](https://github.com/asset-group/5ghoul-5g-nr-attacks) - 
 * 【2023-12-11】[prasanthrangan / hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
 * 【2023-12-11】[mli / paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
 * 【2023-12-11】[kgrzybek / modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
@@ -115,6 +122,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[SamurAIGPT / Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) - Create Custom GPT and add/embed on your site using Assistants api
 ## Go
 
+* 【2023-12-12】[chaseSpace / k8s-tutorial-cn](https://github.com/chaseSpace/k8s-tutorial-cn) - 
+* 【2023-12-12】[Loyalsoldier / geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，同时支持定制 V2Ray dat 格式路由规则文件 geoip.dat 和 MaxMind mmdb 格式文件 Country.mmdb。Enhanced edition of GeoIP files for V2Ray, Xray-core, Trojan-Go, Clash and Leaf, with replaced CN IPv4 CIDR available from ipip.net, appended CIDR lists and more.
+* 【2023-12-12】[wavetermdev / waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 * 【2023-12-11】[getsops / sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 * 【2023-12-11】[mmcgrana / gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
 * 【2023-12-11】[github / gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
@@ -176,6 +186,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[F1bonacc1 / process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 ## Python
 
+* 【2023-12-12】[Textualize / textual](https://github.com/Textualize/textual) - The lean application framework for Python. Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
+* 【2023-12-12】[LTH14 / rcg](https://github.com/LTH14/rcg) - PyTorch implementation of RCG https://arxiv.org/abs/2312.03701
+* 【2023-12-12】[spyboy-productions / CloakQuest3r](https://github.com/spyboy-productions/CloakQuest3r) - Uncover the true IP address of websites safeguarded by Cloudflare
 * 【2023-12-11】[shariqfarooq123 / LooseControl](https://github.com/shariqfarooq123/LooseControl) - Lifting ControlNet for Generalized Depth Conditioning
 * 【2023-12-11】[fishaudio / Bert-VITS2](https://github.com/fishaudio/Bert-VITS2) - vits2 backbone with multilingual-bert
 * 【2023-12-11】[PySimpleGUI / PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It's 2023 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive docs
@@ -235,6 +248,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[JoeanAmier / XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具
 ## Javascript
 
+* 【2023-12-12】[simple-icons / simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
+* 【2023-12-12】[AsmrProg-YT / 100-days-of-javascript](https://github.com/AsmrProg-YT/100-days-of-javascript) - AsmrProg Youtube Channel 100 days of javascript codes collection
+* 【2023-12-12】[6dylan6 / jdpro](https://github.com/6dylan6/jdpro) - 
+* 【2023-12-12】[GTNewHorizons / GT-New-Horizons-Modpack](https://github.com/GTNewHorizons/GT-New-Horizons-Modpack) - New Modpack with Gregtech, Thaumcraft and Witchery
 * 【2023-12-11】[end-4 / dots-hyprland](https://github.com/end-4/dots-hyprland) - Modern, accessible and flexible desktop configuration.
 * 【2023-12-11】[Aylur / dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 * 【2023-12-11】[libccy / noname](https://github.com/libccy/noname) - 
@@ -321,6 +338,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[wh1te4ever / TrollDecryptor](https://github.com/wh1te4ever/TrollDecryptor) - Decrypt iOS apps for TrollStore
 ## C++
 
+* 【2023-12-12】[Greedysky / TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer) - TTKMusicPlayer imitates Kugou UI, the music player uses of qmmp core library based on Qt for windows and linux.(支持网易云音乐、酷我音乐、酷狗音乐)
+* 【2023-12-12】[sqlitebrowser / sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
+* 【2023-12-12】[justcallmekoko / ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
 * 【2023-12-11】[CowNowK / AimStar](https://github.com/CowNowK/AimStar) - Free and open-source external cheat for CS2, written in C++
 * 【2023-12-11】[microsoft / DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples) - This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.
 * 【2023-12-10】[es3n1n / obfuscator](https://github.com/es3n1n/obfuscator) - Native code PE bin2bin obfuscator
@@ -365,6 +385,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[x64dbg / x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 ## Typescript
 
+* 【2023-12-12】[wasp-lang / wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
+* 【2023-12-12】[SnosMe / awakened-poe-trade](https://github.com/SnosMe/awakened-poe-trade) - 💲 🔨 Path of Exile trading app for price checking
+* 【2023-12-12】[DulLabs / bhai-lang](https://github.com/DulLabs/bhai-lang) - A toy programming language written in Typescript
+* 【2023-12-12】[eclipse-theia / theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 * 【2023-12-11】[vn7n24fzkq / github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
 * 【2023-12-11】[gitname / react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
 * 【2023-12-11】[makenotion / notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
