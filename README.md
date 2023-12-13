@@ -53,6 +53,9 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-12-13】[mistralai / mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model.
+* 【2023-12-13】[KovenYu / WonderJourney](https://github.com/KovenYu/WonderJourney) - 
+* 【2023-12-13】[allenai / papermage](https://github.com/allenai/papermage) - library supporting NLP and CV research on scientific papers
 * 【2023-12-12】[mapup / MapUp-Data-Assessment-F](https://github.com/mapup/MapUp-Data-Assessment-F) - 
 * 【2023-12-12】[linyiLYi / voice-assistant](https://github.com/linyiLYi/voice-assistant) - 一个简单的 Python 脚本，可以通过语音与本地大语言模型进行对话。
 * 【2023-12-12】[ast-grep / ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
@@ -122,6 +125,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[SamurAIGPT / Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) - Create Custom GPT and add/embed on your site using Assistants api
 ## Go
 
+* 【2023-12-13】[databus23 / helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change
 * 【2023-12-12】[chaseSpace / k8s-tutorial-cn](https://github.com/chaseSpace/k8s-tutorial-cn) - 
 * 【2023-12-12】[Loyalsoldier / geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，同时支持定制 V2Ray dat 格式路由规则文件 geoip.dat 和 MaxMind mmdb 格式文件 Country.mmdb。Enhanced edition of GeoIP files for V2Ray, Xray-core, Trojan-Go, Clash and Leaf, with replaced CN IPv4 CIDR available from ipip.net, appended CIDR lists and more.
 * 【2023-12-12】[wavetermdev / waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
@@ -186,6 +190,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[F1bonacc1 / process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 ## Python
 
+* 【2023-12-13】[cookiecutter / cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
+* 【2023-12-13】[guoqincode / AnimateAnyone-unofficial](https://github.com/guoqincode/AnimateAnyone-unofficial) - Unofficial Implementation of Animate Anyone
+* 【2023-12-13】[open-compass / MixtralKit](https://github.com/open-compass/MixtralKit) - A toolkit for inference and evaluation of 'mixtral-8x7b-32kseqlen' from Mistral AI
+* 【2023-12-13】[rushter / MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations
+* 【2023-12-13】[skypilot-org / skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
+* 【2023-12-13】[shidahuilang / shuyuan](https://github.com/shidahuilang/shuyuan) - 香色闺阁+阅读3.0书源+源阅读+爱阅书香+读不舍手+IPTV源+IPA巨魔应用=自动更新
 * 【2023-12-12】[Textualize / textual](https://github.com/Textualize/textual) - The lean application framework for Python. Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 * 【2023-12-12】[LTH14 / rcg](https://github.com/LTH14/rcg) - PyTorch implementation of RCG https://arxiv.org/abs/2312.03701
 * 【2023-12-12】[spyboy-productions / CloakQuest3r](https://github.com/spyboy-productions/CloakQuest3r) - Uncover the true IP address of websites safeguarded by Cloudflare
@@ -248,6 +258,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[JoeanAmier / XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具
 ## Javascript
 
+* 【2023-12-13】[grommet / grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
+* 【2023-12-13】[jhuckaby / Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI.
+* 【2023-12-13】[matter-labs / zksync-web-era-docs](https://github.com/matter-labs/zksync-web-era-docs) - zkSync Era Documentation
+* 【2023-12-13】[codeceptjs / CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Supercharged End 2 End Testing Framework for NodeJS
+* 【2023-12-13】[googleworkspace / apps-script-samples](https://github.com/googleworkspace/apps-script-samples) - Apps Script samples for Google Workspace products.
+* 【2023-12-13】[HabitRPG / habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 * 【2023-12-12】[simple-icons / simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 * 【2023-12-12】[AsmrProg-YT / 100-days-of-javascript](https://github.com/AsmrProg-YT/100-days-of-javascript) - AsmrProg Youtube Channel 100 days of javascript codes collection
 * 【2023-12-12】[6dylan6 / jdpro](https://github.com/6dylan6/jdpro) - 
@@ -297,6 +313,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[sun0225SUN / Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆~谁说程序猿不懂浪漫❤️
 ## C
 
+* 【2023-12-13】[vedderb / bldc](https://github.com/vedderb/bldc) - The VESC motor control firmware
+* 【2023-12-13】[m0nad / Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64)
+* 【2023-12-13】[linux-can / can-utils](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space applications
+* 【2023-12-13】[gspu / Coherent](https://github.com/gspu/Coherent) - Coherent OS
+* 【2023-12-13】[BUPT-OS / RROS](https://github.com/BUPT-OS/RROS) - RROS is a dual-kernel OS for satellites or other scenarios that need both real-time and general-purpose abilities. RROS = RTOS (Rust) + Linux (C).
 * 【2023-12-11】[esp32-open-mac / esp32-open-mac](https://github.com/esp32-open-mac/esp32-open-mac) - Reverse engineered wifi driver for the ESP32
 * 【2023-12-11】[MarlinFirmware / Configurations](https://github.com/MarlinFirmware/Configurations) - Configurations for Marlin Firmware
 * 【2023-12-11】[jarun / nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -338,6 +359,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[wh1te4ever / TrollDecryptor](https://github.com/wh1te4ever/TrollDecryptor) - Decrypt iOS apps for TrollStore
 ## C++
 
+* 【2023-12-13】[MihailRis / VoxelEngine-Cpp](https://github.com/MihailRis/VoxelEngine-Cpp) - Minecraft-like game engine in C++ with OpenGL
+* 【2023-12-13】[ratgdo / esphome-ratgdo](https://github.com/ratgdo/esphome-ratgdo) - ratgdo for ESPHome
+* 【2023-12-13】[trustwallet / wallet-core](https://github.com/trustwallet/wallet-core) - Cross-platform, cross-blockchain wallet library.
+* 【2023-12-13】[cartographer-project / cartographer](https://github.com/cartographer-project/cartographer) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
 * 【2023-12-12】[Greedysky / TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer) - TTKMusicPlayer imitates Kugou UI, the music player uses of qmmp core library based on Qt for windows and linux.(支持网易云音乐、酷我音乐、酷狗音乐)
 * 【2023-12-12】[sqlitebrowser / sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 * 【2023-12-12】[justcallmekoko / ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
@@ -385,6 +410,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[x64dbg / x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 ## Typescript
 
+* 【2023-12-13】[lumalabs / luma-web-examples](https://github.com/lumalabs/luma-web-examples) - Luma Web Examples, use lumalabs.ai captures directly in your three.js or other WebGL projects!
+* 【2023-12-13】[samchon / typia](https://github.com/samchon/typia) - Super-fast/easy runtime validations and serializations through transformation
+* 【2023-12-13】[SecureAI-Tools / SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools) - Private and secure AI tools for everyone's productivity.
+* 【2023-12-13】[googleapis / google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
+* 【2023-12-13】[vuejs / pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
 * 【2023-12-12】[wasp-lang / wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 * 【2023-12-12】[SnosMe / awakened-poe-trade](https://github.com/SnosMe/awakened-poe-trade) - 💲 🔨 Path of Exile trading app for price checking
 * 【2023-12-12】[DulLabs / bhai-lang](https://github.com/DulLabs/bhai-lang) - A toy programming language written in Typescript
