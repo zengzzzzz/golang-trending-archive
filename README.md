@@ -53,6 +53,15 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-12-15】[microsoft / promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering
+* 【2023-12-15】[nishuzumi / pow-erc20](https://github.com/nishuzumi/pow-erc20) - A minter for PowerERC20 by rust
+* 【2023-12-15】[krishnaik06 / Roadmap-To-Learn-Generative-AI-In-2024](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024) - 
+* 【2023-12-15】[dreamoving / dreamoving-project](https://github.com/dreamoving/dreamoving-project) - Official implementation of DreaMoving
+* 【2023-12-15】[The-Run-Philosophy-Organization / run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
+* 【2023-12-15】[nikolaydubina / go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
+* 【2023-12-15】[cg123 / mergekit](https://github.com/cg123/mergekit) - Tools for merging pretrained large language models.
+* 【2023-12-15】[elfvingralf / macOSpilot-ai-assistant](https://github.com/elfvingralf/macOSpilot-ai-assistant) - Voice + Vision powered AI assistant that answers questions about any application, in context and in audio.
+* 【2023-12-15】[AvaloniaUI / Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
 * 【2023-12-14】[amitsangani / Llama-2](https://github.com/amitsangani/Llama-2) - All the projects related to Llama
 * 【2023-12-14】[wy876 / POC](https://github.com/wy876/POC) - 2023HW漏洞整理，收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了100多个poc/exp
 * 【2023-12-14】[sdmg15 / Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - 🔗 Some useful websites for programmers.
@@ -130,6 +139,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[SamurAIGPT / Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) - Create Custom GPT and add/embed on your site using Assistants api
 ## Go
 
+* 【2023-12-15】[charmbracelet / gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
+* 【2023-12-15】[quic-go / quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go
 * 【2023-12-14】[charmbracelet / huh](https://github.com/charmbracelet/huh) - A simple, powerful library for forms and prompts in the terminal 🤷🏻‍♀️
 * 【2023-12-14】[hakluke / hakrevdns](https://github.com/hakluke/hakrevdns) - Small, fast tool for performing reverse DNS lookups en masse.
 * 【2023-12-14】[cilium / hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
@@ -198,6 +209,14 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[F1bonacc1 / process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 ## Python
 
+* 【2023-12-15】[mistralai / client-python](https://github.com/mistralai/client-python) - Python client library for Mistral AI platform
+* 【2023-12-15】[open-mmlab / mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab Detection Toolbox and Benchmark
+* 【2023-12-15】[NVIDIA / GenerativeAIExamples](https://github.com/NVIDIA/GenerativeAIExamples) - Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.
+* 【2023-12-15】[tlkh / asitop](https://github.com/tlkh/asitop) - Perf monitoring CLI tool for Apple Silicon
+* 【2023-12-15】[tgbot-collection / YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
+* 【2023-12-15】[brianfitzgerald / style_aligned_comfy](https://github.com/brianfitzgerald/style_aligned_comfy) - 
+* 【2023-12-15】[gitpython-developers / GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
+* 【2023-12-15】[triton-inference-server / server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 * 【2023-12-14】[confident-ai / deepeval](https://github.com/confident-ai/deepeval) - The Evaluation Framework for LLMs
 * 【2023-12-14】[DevilXD / TwitchDropsMiner](https://github.com/DevilXD/TwitchDropsMiner) - An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
 * 【2023-12-14】[dusty-nv / jetson-containers](https://github.com/dusty-nv/jetson-containers) - Machine Learning Containers for NVIDIA Jetson and JetPack-L4T
@@ -269,6 +288,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[JoeanAmier / XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具
 ## Javascript
 
+* 【2023-12-15】[Zack995 / web3_script](https://github.com/Zack995/web3_script) - 
+* 【2023-12-15】[derekantrican / GAS-ICS-Sync](https://github.com/derekantrican/GAS-ICS-Sync) - A Google Apps Script for syncing ICS/ICAL files faster than the current Google Calendar speed
 * 【2023-12-14】[morris / vanilla-todo](https://github.com/morris/vanilla-todo) - A case study on viable techniques for vanilla web development.
 * 【2023-12-14】[Asfak00 / DSA-learning](https://github.com/Asfak00/DSA-learning) - It is a document repository. I'm learning DSA so I created this repository to note down all the things, that might benefit many others. In this repository, I have tried to cover all the important topics of data structures and algorithms.
 * 【2023-12-14】[in28minutes / spring-microservices-v2](https://github.com/in28minutes/spring-microservices-v2) - Microservices + Spring Boot 2 + Spring Cloud + Docker + Kubernetes - https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/. Latest Repo - http://github.com/in28minutes/spring-microservices-v3
@@ -327,6 +348,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[sun0225SUN / Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆~谁说程序猿不懂浪漫❤️
 ## C
 
+* 【2023-12-15】[0xEr3bus / PoolPartyBof](https://github.com/0xEr3bus/PoolPartyBof) - A beacon object file implementation of PoolParty Process Injection Technique.
+* 【2023-12-15】[open62541 / open62541](https://github.com/open62541/open62541) - Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0
+* 【2023-12-15】[hfiref0x / KDU](https://github.com/hfiref0x/KDU) - Kernel Driver Utility
 * 【2023-12-14】[openssh / openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
 * 【2023-12-14】[TobyLobster / multiply_test](https://github.com/TobyLobster/multiply_test) - Comparing 6502 multiply routines
 * 【2023-12-14】[kamailio / kamailio](https://github.com/kamailio/kamailio) - Kamailio - The Open Source SIP Server for large VoIP and real-time communication platforms -
@@ -378,6 +402,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[wh1te4ever / TrollDecryptor](https://github.com/wh1te4ever/TrollDecryptor) - Decrypt iOS apps for TrollStore
 ## C++
 
+* 【2023-12-15】[Mes0903 / Cpp-Miner](https://github.com/Mes0903/Cpp-Miner) - 
+* 【2023-12-15】[chromiumembedded / cef](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.
+* 【2023-12-15】[bambulab / BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab's 3D printers
+* 【2023-12-15】[chdb-io / chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine 🚀 powered by ClickHouse
+* 【2023-12-15】[HKUST-Aerial-Robotics / VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) - An optimization-based multi-sensor state estimator
+* 【2023-12-15】[NVIDIA / cccl](https://github.com/NVIDIA/cccl) - CUDA C++ Core Libraries
 * 【2023-12-14】[YimMenu / YimMenu](https://github.com/YimMenu/YimMenu) - YimMenu, a GTA V menu protecting against a wide ranges of the public crashes and improving the overall experience.
 * 【2023-12-14】[PixarAnimationStudios / OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD) - Universal Scene Description
 * 【2023-12-14】[OpenXRay / xray-16](https://github.com/OpenXRay/xray-16) - Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World. Join OpenXRay! ;)
@@ -433,6 +463,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[x64dbg / x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 ## Typescript
 
+* 【2023-12-15】[ChatGPTNextWebTeam / ChatGPT-Next-Web](https://github.com/ChatGPTNextWebTeam/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+* 【2023-12-15】[AntonioErdeljac / next14-twitch-clone](https://github.com/AntonioErdeljac/next14-twitch-clone) - 
+* 【2023-12-15】[keep-starknet-strange / unruggable.meme](https://github.com/keep-starknet-strange/unruggable.meme) - ☣️ A framework for building safer memecoins 💸
+* 【2023-12-15】[radix-ui / primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
+* 【2023-12-15】[web3 / web3.js](https://github.com/web3/web3.js) - Ethereum JavaScript API
 * 【2023-12-14】[gregsadetsky / sagittarius](https://github.com/gregsadetsky/sagittarius) - A Remake of the Google Gemini Fake Demo, Except Using GPT-4 and It's Real
 * 【2023-12-14】[ykhli / AI-tamago](https://github.com/ykhli/AI-tamago) - A local-ready LLM-generated and LLM-driven virtual pet with thoughts and feelings. 100% Javascript.
 * 【2023-12-14】[cardano-foundation / cf-identity-wallet](https://github.com/cardano-foundation/cf-identity-wallet) - Identity Wallet is an open source mobile application developed by the Cardano Foundation. It provides a digital solution for users to securely store, manage, and share their identifiers and verifiable credentials.
