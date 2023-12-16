@@ -53,6 +53,12 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-12-16】[HumanAIGC / OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person
+* 【2023-12-16】[GoogleCloudPlatform / generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud
+* 【2023-12-16】[threestudio-project / threestudio](https://github.com/threestudio-project/threestudio) - A unified framework for 3D content generation.
+* 【2023-12-16】[Cyfrin / security-and-auditing-full-course-s23](https://github.com/Cyfrin/security-and-auditing-full-course-s23) - The ultimate, most advanced, security, DeFi, assembly, web3 auditor course ever created.
+* 【2023-12-16】[Alamofire / Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
+* 【2023-12-16】[sfter / evm-inscription-mint](https://github.com/sfter/evm-inscription-mint) - 兼容 evm 的铭文 Mint 工具
 * 【2023-12-15】[microsoft / promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering
 * 【2023-12-15】[nishuzumi / pow-erc20](https://github.com/nishuzumi/pow-erc20) - A minter for PowerERC20 by rust
 * 【2023-12-15】[krishnaik06 / Roadmap-To-Learn-Generative-AI-In-2024](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024) - 
@@ -139,6 +145,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[SamurAIGPT / Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) - Create Custom GPT and add/embed on your site using Assistants api
 ## Go
 
+* 【2023-12-16】[Snowflake-Labs / terraform-provider-snowflake](https://github.com/Snowflake-Labs/terraform-provider-snowflake) - Terraform provider for managing Snowflake accounts
+* 【2023-12-16】[expr-lang / expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
+* 【2023-12-16】[dgraph-io / badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 * 【2023-12-15】[charmbracelet / gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 * 【2023-12-15】[quic-go / quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go
 * 【2023-12-14】[charmbracelet / huh](https://github.com/charmbracelet/huh) - A simple, powerful library for forms and prompts in the terminal 🤷🏻‍♀️
@@ -209,6 +218,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[F1bonacc1 / process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 ## Python
 
+* 【2023-12-16】[Ucas-HaoranWei / Vary](https://github.com/Ucas-HaoranWei/Vary) - Official code implementation of Vary: Scaling Up the Vision Vocabulary of Large Vision Language Models.
+* 【2023-12-16】[damo-vilab / i2vgen-xl](https://github.com/damo-vilab/i2vgen-xl) - Official repo for VGen: a holistic video generation ecosystem for video generation building on diffusion models
+* 【2023-12-16】[cvlab-columbia / zero123](https://github.com/cvlab-columbia/zero123) - Zero-1-to-3: Zero-shot One Image to 3D Object (ICCV 2023)
+* 【2023-12-16】[Xunzi-LLM-of-Chinese-classics / XunziALLM](https://github.com/Xunzi-LLM-of-Chinese-classics/XunziALLM) - 
+* 【2023-12-16】[OpenLLMAI / OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF) - A Ray-based High-performance RLHF framework (for large models)
+* 【2023-12-16】[microsoft / Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A 6 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.
+* 【2023-12-16】[isocpp / CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 * 【2023-12-15】[mistralai / client-python](https://github.com/mistralai/client-python) - Python client library for Mistral AI platform
 * 【2023-12-15】[open-mmlab / mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab Detection Toolbox and Benchmark
 * 【2023-12-15】[NVIDIA / GenerativeAIExamples](https://github.com/NVIDIA/GenerativeAIExamples) - Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.
@@ -288,6 +304,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[JoeanAmier / XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具
 ## Javascript
 
+* 【2023-12-16】[BruceMacD / chatd](https://github.com/BruceMacD/chatd) - Chat with your documents using local AI
+* 【2023-12-16】[SBoudrias / Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 * 【2023-12-15】[Zack995 / web3_script](https://github.com/Zack995/web3_script) - 
 * 【2023-12-15】[derekantrican / GAS-ICS-Sync](https://github.com/derekantrican/GAS-ICS-Sync) - A Google Apps Script for syncing ICS/ICAL files faster than the current Google Calendar speed
 * 【2023-12-14】[morris / vanilla-todo](https://github.com/morris/vanilla-todo) - A case study on viable techniques for vanilla web development.
@@ -348,6 +366,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[sun0225SUN / Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆~谁说程序猿不懂浪漫❤️
 ## C
 
+* 【2023-12-16】[DummrenDuck / cgame](https://github.com/DummrenDuck/cgame) - 
+* 【2023-12-16】[rockchip-linux / rknn-toolkit2](https://github.com/rockchip-linux/rknn-toolkit2) - 
+* 【2023-12-16】[rochus-keller / CspChan](https://github.com/rochus-keller/CspChan) - A pure C (-std=c89) implementation of Go channels, including blocking and non-blocking selects.
+* 【2023-12-16】[ku1ik / stderred](https://github.com/ku1ik/stderred) - stderr in red
+* 【2023-12-16】[airockchip / rknn_model_zoo](https://github.com/airockchip/rknn_model_zoo) - 
 * 【2023-12-15】[0xEr3bus / PoolPartyBof](https://github.com/0xEr3bus/PoolPartyBof) - A beacon object file implementation of PoolParty Process Injection Technique.
 * 【2023-12-15】[open62541 / open62541](https://github.com/open62541/open62541) - Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0
 * 【2023-12-15】[hfiref0x / KDU](https://github.com/hfiref0x/KDU) - Kernel Driver Utility
@@ -402,6 +425,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[wh1te4ever / TrollDecryptor](https://github.com/wh1te4ever/TrollDecryptor) - Decrypt iOS apps for TrollStore
 ## C++
 
+* 【2023-12-16】[j-hc / zygisk-detach](https://github.com/j-hc/zygisk-detach) - Zygisk module to detach installed apps from Play Store
 * 【2023-12-15】[Mes0903 / Cpp-Miner](https://github.com/Mes0903/Cpp-Miner) - 
 * 【2023-12-15】[chromiumembedded / cef](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.
 * 【2023-12-15】[bambulab / BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab's 3D printers
@@ -463,6 +487,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[x64dbg / x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 ## Typescript
 
+* 【2023-12-16】[dubinc / dub](https://github.com/dubinc/dub) - Open-source link management infrastructure for modern marketing teams.
+* 【2023-12-16】[CaliCastle / cali.so](https://github.com/CaliCastle/cali.so) - Cali 的个人官网开源项目
+* 【2023-12-16】[remotion-dev / github-unwrapped-2023](https://github.com/remotion-dev/github-unwrapped-2023) - Your coding year in review
+* 【2023-12-16】[wevm / wagmi](https://github.com/wevm/wagmi) - React Hooks for Ethereum
+* 【2023-12-16】[dai-shi / waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework
+* 【2023-12-16】[rainbow-me / rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
 * 【2023-12-15】[ChatGPTNextWebTeam / ChatGPT-Next-Web](https://github.com/ChatGPTNextWebTeam/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 * 【2023-12-15】[AntonioErdeljac / next14-twitch-clone](https://github.com/AntonioErdeljac/next14-twitch-clone) - 
 * 【2023-12-15】[keep-starknet-strange / unruggable.meme](https://github.com/keep-starknet-strange/unruggable.meme) - ☣️ A framework for building safer memecoins 💸
