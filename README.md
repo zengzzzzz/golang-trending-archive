@@ -53,6 +53,13 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-12-18】[anoma / namada](https://github.com/anoma/namada) - Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy
+* 【2023-12-18】[ordinals / ord](https://github.com/ordinals/ord) - 👁‍🗨 Rare and exotic sats
+* 【2023-12-18】[adrianhajdin / event_platform](https://github.com/adrianhajdin/event_platform) - Build an event organization web app like Eventbrite or Meetup with authentication, event management, search, filtering, categories, checkout, and payments using Next JS 14, Tailwind CSS, Shadcn, React Hook Form, Zod, Uploadthing, React-Datepicker, Mongoose, Clerk, and Stripe.
+* 【2023-12-18】[robotics-survey / Awesome-Robotics-Foundation-Models](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) - 
+* 【2023-12-18】[google-deepmind / funsearch](https://github.com/google-deepmind/funsearch) - 
+* 【2023-12-18】[iv-org / invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
+* 【2023-12-18】[pheralb / svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 * 【2023-12-17】[google / generative-ai-swift](https://github.com/google/generative-ai-swift) - Google AI SDK for Swift
 * 【2023-12-17】[bleedline / aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。
 * 【2023-12-17】[oxc-project / oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
@@ -154,6 +161,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[SamurAIGPT / Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) - Create Custom GPT and add/embed on your site using Assistants api
 ## Go
 
+* 【2023-12-18】[lkarlslund / ldapnomnom](https://github.com/lkarlslund/ldapnomnom) - Quietly and anonymously bruteforce Active Directory usernames at insane speeds from Domain Controllers by (ab)using LDAP Ping requests (cLDAP)
+* 【2023-12-18】[gophish / gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
+* 【2023-12-18】[PRC20 / PRC20Miner](https://github.com/PRC20/PRC20Miner) - Blockchain PRC20 Mining Tool
+* 【2023-12-18】[tinode / chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 * 【2023-12-17】[google / generative-ai-go](https://github.com/google/generative-ai-go) - Go SDK for Google Generative AI
 * 【2023-12-17】[btcsuite / btcd](https://github.com/btcsuite/btcd) - An alternative full node bitcoin implementation written in Go (golang)
 * 【2023-12-17】[jwping / wxbot](https://github.com/jwping/wxbot) - PC微信Hook模块、Hook WeChat / 微信逆向、微信机器人、WeChatRobot
@@ -230,6 +241,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[F1bonacc1 / process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 ## Python
 
+* 【2023-12-18】[microsoft / promptbench](https://github.com/microsoft/promptbench) - A unified evaluation framework for large language models
+* 【2023-12-18】[ccxt / ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+* 【2023-12-18】[OpenBB-finance / OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
+* 【2023-12-18】[Fadi002 / de4py](https://github.com/Fadi002/de4py) - toolkit for python reverse engineering
+* 【2023-12-18】[resemble-ai / resemble-enhance](https://github.com/resemble-ai/resemble-enhance) - AI powered speech denoising and enhancement
+* 【2023-12-18】[soimort / you-get](https://github.com/soimort/you-get) - ⏬ Dumb downloader that scrapes the web
+* 【2023-12-18】[Stability-AI / stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 * 【2023-12-17】[openvinotoolkit / anomalib](https://github.com/openvinotoolkit/anomalib) - An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.
 * 【2023-12-17】[dgtlmoon / changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
 * 【2023-12-17】[kadirnar / whisper-plus](https://github.com/kadirnar/whisper-plus) - WhisperPlus: Advancing Speech-to-Text Processing 🚀
@@ -326,6 +344,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[JoeanAmier / XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具
 ## Javascript
 
+* 【2023-12-18】[0x01010110 / corecfxs](https://github.com/0x01010110/corecfxs) - 
+* 【2023-12-18】[yokoffing / Betterfox](https://github.com/yokoffing/Betterfox) - Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.
+* 【2023-12-18】[DIYgod / DPlayer](https://github.com/DIYgod/DPlayer) - 🍭 Wow, such a lovely HTML5 danmaku video player
+* 【2023-12-18】[egonSchiele / grokking_algorithms](https://github.com/egonSchiele/grokking_algorithms) - Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)
+* 【2023-12-18】[pulsar-edit / pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
 * 【2023-12-17】[Script-Hub-Org / Script-Hub](https://github.com/Script-Hub-Org/Script-Hub) - Advanced Script Converter for QX, Loon, Surge, Stash, Egern, LanceX and Shadowrocket - 重写 & 规则集转换
 * 【2023-12-17】[fosatech / STK-Sweep](https://github.com/fosatech/STK-Sweep) - Public STK-Sweep repo.
 * 【2023-12-16】[BruceMacD / chatd](https://github.com/BruceMacD/chatd) - Chat with your documents using local AI
@@ -390,6 +413,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[sun0225SUN / Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆~谁说程序猿不懂浪漫❤️
 ## C
 
+* 【2023-12-18】[paxo-phone / PaxOS-8](https://github.com/paxo-phone/PaxOS-8) - Code source du système d'exploitation du PaxoPhone
+* 【2023-12-18】[adafruit / Adafruit-GFX-Library](https://github.com/adafruit/Adafruit-GFX-Library) - Adafruit GFX graphics core Arduino library, this is the 'core' class that all our other graphics libraries derive from
+* 【2023-12-18】[SpacehuhnTech / esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
 * 【2023-12-17】[SiliconLabs / gecko_sdk](https://github.com/SiliconLabs/gecko_sdk) - The Gecko SDK (GSDK) combines all Silicon Labs 32-bit IoT product software development kits (SDKs) based on Gecko Platform into a single, integrated SDK.
 * 【2023-12-16】[DummrenDuck / cgame](https://github.com/DummrenDuck/cgame) - 
 * 【2023-12-16】[rockchip-linux / rknn-toolkit2](https://github.com/rockchip-linux/rknn-toolkit2) - 
@@ -450,6 +476,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[wh1te4ever / TrollDecryptor](https://github.com/wh1te4ever/TrollDecryptor) - Decrypt iOS apps for TrollStore
 ## C++
 
+* 【2023-12-18】[NixOS / nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
+* 【2023-12-18】[WayfireWM / wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 * 【2023-12-17】[GPUOpen-LibrariesAndSDKs / FidelityFX-SDK](https://github.com/GPUOpen-LibrariesAndSDKs/FidelityFX-SDK) - The main repository for the FidelityFX SDK.
 * 【2023-12-17】[ConfettiFX / The-Forge](https://github.com/ConfettiFX/The-Forge) - The Forge Cross-Platform Rendering Framework PC Windows, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2
 * 【2023-12-16】[j-hc / zygisk-detach](https://github.com/j-hc/zygisk-detach) - Zygisk module to detach installed apps from Play Store
@@ -514,6 +542,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[x64dbg / x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 ## Typescript
 
+* 【2023-12-18】[SylarLong / iztro](https://github.com/SylarLong/iztro) - ⭐A lightweight Open-Source javascript library of getting The Purple Star Astrology(Zi Wei Dou Shu) astrolabe information. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。
+* 【2023-12-18】[antfu / shikiji](https://github.com/antfu/shikiji) - An ESM-focused rewrite of shiki, and a little bit more.
+* 【2023-12-18】[civitai / civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
+* 【2023-12-18】[terobox / ChatGPT-API-Faucet](https://github.com/terobox/ChatGPT-API-Faucet) - AI 圈的水龙头网站，每24小时可领取一个令牌用于开发测试 AI 产品
+* 【2023-12-18】[lobehub / sd-webui-lobe-theme](https://github.com/lobehub/sd-webui-lobe-theme) - 🤯 Lobe theme - The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.
+* 【2023-12-18】[joaokristani / Discord-Server-Cloner-2x](https://github.com/joaokristani/Discord-Server-Cloner-2x) - A discord server cloner made for the infinite community
 * 【2023-12-17】[ChatGPTNextWeb / ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 * 【2023-12-17】[HerbertHe / iptv-sources](https://github.com/HerbertHe/iptv-sources) - 自动抓取更新iptv源 Autoupdate iptv sources
 * 【2023-12-17】[hrishioa / wishful-search](https://github.com/hrishioa/wishful-search) - Natural language search for complex JSON arrays, with AI Quickstart.
