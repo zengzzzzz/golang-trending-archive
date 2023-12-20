@@ -53,6 +53,11 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-12-20】[damo-vilab / AnyDoor](https://github.com/damo-vilab/AnyDoor) - Official implementations for paper: Anydoor: zero-shot object-level image customization
+* 【2023-12-20】[Project-DARC / DARC](https://github.com/Project-DARC/DARC) - Decentralized Autonomous Regulated Company (DARC), a company virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism.
+* 【2023-12-20】[ruanyf / weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
+* 【2023-12-20】[ActiveVisionLab / Awesome-LLM-3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D) - Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world Resources
+* 【2023-12-20】[microsoft / LLMLingua](https://github.com/microsoft/LLMLingua) - To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
 * 【2023-12-19】[Card-Forge / forge](https://github.com/Card-Forge/forge) - An unofficial rules engine for the world's greatest card game.
 * 【2023-12-19】[kwsch / PKHeX](https://github.com/kwsch/PKHeX) - Pokémon Save File Editor
 * 【2023-12-18】[anoma / namada](https://github.com/anoma/namada) - Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy
@@ -163,6 +168,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[SamurAIGPT / Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) - Create Custom GPT and add/embed on your site using Assistants api
 ## Go
 
+* 【2023-12-20】[celestiaorg / celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk
 * 【2023-12-19】[francoismichel / ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396
 * 【2023-12-19】[lichti / whats-spoofing](https://github.com/lichti/whats-spoofing) - Whatsapp Exploit to spoofing impersonate of reply message
 * 【2023-12-19】[gokcehan / lf](https://github.com/gokcehan/lf) - Terminal file manager
@@ -246,6 +252,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[F1bonacc1 / process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 ## Python
 
+* 【2023-12-20】[florestefano1975 / comfyui-portrait-master](https://github.com/florestefano1975/comfyui-portrait-master) - 
+* 【2023-12-20】[mouredev / Hello-Python](https://github.com/mouredev/Hello-Python) - Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 75 clases, 37 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...
+* 【2023-12-20】[aleju / imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments.
+* 【2023-12-20】[KHwang9883 / MobileModels](https://github.com/KHwang9883/MobileModels) - 手机品牌型号汇总 | Mobile Models | This repository is licensed under CC BY-NC-SA 4.0
+* 【2023-12-20】[microsoft / unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
+* 【2023-12-20】[fighting41love / funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…
+* 【2023-12-20】[aws-samples / serverless-patterns](https://github.com/aws-samples/serverless-patterns) - Serverless patterns. Learn more at the website: https://serverlessland.com/patterns.
 * 【2023-12-19】[StevenBlack / hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 * 【2023-12-19】[apple / ml-sigma-reparam](https://github.com/apple/ml-sigma-reparam) - 
 * 【2023-12-19】[h2oai / h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
@@ -354,6 +367,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[JoeanAmier / XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具
 ## Javascript
 
+* 【2023-12-20】[sfter / cias-mint](https://github.com/sfter/cias-mint) - Celestia(tia) 公链铭文 cias mint 脚本
+* 【2023-12-20】[ezshine / AwesomeSites](https://github.com/ezshine/AwesomeSites) - every websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as live-server to run the website offline.
+* 【2023-12-20】[SortableJS / Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
+* 【2023-12-20】[OptimalBits / bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 * 【2023-12-19】[beefproject / beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
 * 【2023-12-19】[shradha-khapra / JavaScriptSeries](https://github.com/shradha-khapra/JavaScriptSeries) - 
 * 【2023-12-19】[tejado / telegram-nearby-map](https://github.com/tejado/telegram-nearby-map) - Discover the location of nearby Telegram users 📡🌍
@@ -426,6 +443,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[sun0225SUN / Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆~谁说程序猿不懂浪漫❤️
 ## C
 
+* 【2023-12-20】[stephane / libmodbus](https://github.com/stephane/libmodbus) - A Modbus library for Linux, Mac OS, FreeBSD and Windows
+* 【2023-12-20】[cboxdoerfer / fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK3
+* 【2023-12-20】[cbwang505 / unicorn-whpx](https://github.com/cbwang505/unicorn-whpx) - 跨平台模拟执行unicorn框架基于Qemu的TCG模式(Tiny Code Generator),以无硬件虚拟化支持方式实现全系统的虚拟化,支持跨平台和架构的CPU指令模拟,本文讨论是一款笔者的实验性项目采用Windows Hypervisor Platform虚拟机模式提供了另一种CPU指令的模拟方式,在保持原有unicorn导出接口不变的情况下,采用Hyper-v支持带硬件虚拟化支持的Windows Hypervisor Platform API接口扩展了底层CPU模拟环境实现,支持X86指令集二进制程序模拟平台和调试器.
+* 【2023-12-20】[DualCoder / vgpu_unlock](https://github.com/DualCoder/vgpu_unlock) - Unlock vGPU functionality for consumer grade GPUs.
+* 【2023-12-20】[sabrogden / Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
 * 【2023-12-19】[BitMaker-hub / NerdMiner_v2](https://github.com/BitMaker-hub/NerdMiner_v2) - Improved version of first ESP32 NerdMiner
 * 【2023-12-19】[davatorium / rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 * 【2023-12-18】[paxo-phone / PaxOS-8](https://github.com/paxo-phone/PaxOS-8) - Code source du système d'exploitation du PaxoPhone
@@ -491,6 +513,14 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[wh1te4ever / TrollDecryptor](https://github.com/wh1te4ever/TrollDecryptor) - Decrypt iOS apps for TrollStore
 ## C++
 
+* 【2023-12-20】[Nukem9 / dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) - Adds AMD FSR3 Frame Generation to games by replacing Nvidia DLSS-G Frame Generation (nvngx_dlssg).
+* 【2023-12-20】[BlackINT3 / OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows.
+* 【2023-12-20】[arangodb / arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
+* 【2023-12-20】[iovisor / bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF
+* 【2023-12-20】[openMVG / openMVG](https://github.com/openMVG/openMVG) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
+* 【2023-12-20】[wxWidgets / wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
+* 【2023-12-20】[TokisanGames / Terrain3D](https://github.com/TokisanGames/Terrain3D) - A high performance, editable terrain system for Godot 4.
+* 【2023-12-20】[DISTRHO / Cardinal](https://github.com/DISTRHO/Cardinal) - Virtual modular synthesizer plugin
 * 【2023-12-19】[atcoder / ac-library](https://github.com/atcoder/ac-library) - AtCoder Library
 * 【2023-12-19】[kamyu104 / LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C++ Solutions of All 2968 LeetCode Problems (Weekly Update)
 * 【2023-12-18】[NixOS / nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -559,6 +589,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[x64dbg / x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 ## Typescript
 
+* 【2023-12-20】[date-fns / date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
+* 【2023-12-20】[actions / download-artifact](https://github.com/actions/download-artifact) - 
+* 【2023-12-20】[anoma / namada-interface](https://github.com/anoma/namada-interface) - 
+* 【2023-12-20】[reduxjs / redux-toolkit](https://github.com/reduxjs/redux-toolkit) - The official, opinionated, batteries-included toolset for efficient Redux development
+* 【2023-12-20】[liveblocks / liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is a real-time collaboration infrastructure for developers.
+* 【2023-12-20】[palantir / blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
+* 【2023-12-20】[nasan016 / webshell](https://github.com/nasan016/webshell) - Customizable Terminal Styled Website
 * 【2023-12-19】[babaohuang / GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
 * 【2023-12-19】[elysiajs / elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 * 【2023-12-19】[sourcegraph / cody](https://github.com/sourcegraph/cody) - AI that knows your entire codebase
