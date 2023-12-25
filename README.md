@@ -53,6 +53,11 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-12-25】[mnotgod96 / AppAgent](https://github.com/mnotgod96/AppAgent) - A novel LLM-based multimodal agent framework designed to operate smartphone applications
+* 【2023-12-25】[NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
+* 【2023-12-25】[heyman / heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
+* 【2023-12-25】[papers-we-love / papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+* 【2023-12-25】[firstcontributions / first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 * 【2023-12-24】[cumulo-autumn / StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
 * 【2023-12-24】[beeper / imessage](https://github.com/beeper/imessage) - A Matrix-iMessage puppeting bridge.
 * 【2023-12-24】[Anuken / Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
@@ -199,6 +204,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[SamurAIGPT / Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) - Create Custom GPT and add/embed on your site using Assistants api
 ## Go
 
+* 【2023-12-25】[lc / gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
+* 【2023-12-25】[ArtalkJS / Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 自托管评论系统 | Your self-hosted comment system
+* 【2023-12-25】[junegunn / fzf](https://github.com/junegunn/fzf) - 🌸 A command-line fuzzy finder
+* 【2023-12-25】[GoogleContainerTools / skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
+* 【2023-12-25】[cursusdb / cursusdb](https://github.com/cursusdb/cursusdb) - Light-weight highly performant, persistent, secure-by-default, in-memory, distributed document oriented database with an SQL like query language written in pure GO.
 * 【2023-12-24】[beeper / mac-registration-provider](https://github.com/beeper/mac-registration-provider) - A small service that generates iMessage registration data on a Mac
 * 【2023-12-24】[opencontainers / image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
 * 【2023-12-24】[go-rod / rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
@@ -295,6 +305,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[F1bonacc1 / process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 ## Python
 
+* 【2023-12-25】[VikParuchuri / texify](https://github.com/VikParuchuri/texify) - OCR model for math that outputs LaTeX and markdown
+* 【2023-12-25】[leeyuentuen / polestar_api](https://github.com/leeyuentuen/polestar_api) - Polestar Api - Home Assistant Component
+* 【2023-12-25】[google-deepmind / concordia](https://github.com/google-deepmind/concordia) - A library for generative social simulation
+* 【2023-12-25】[open-mmlab / PIA](https://github.com/open-mmlab/PIA) - 
+* 【2023-12-25】[Datalux / Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 * 【2023-12-24】[3DTopia / OpenLRM](https://github.com/3DTopia/OpenLRM) - An open-source impl. of Large Reconstruction Models
 * 【2023-12-24】[joaomdmoura / crewAI](https://github.com/joaomdmoura/crewAI) - 
 * 【2023-12-24】[speechbrain / speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
@@ -432,6 +447,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[JoeanAmier / XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具
 ## Javascript
 
+* 【2023-12-25】[casibase / casibase](https://github.com/casibase/casibase) - ⚡️Open-source LangChain-like AI knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, Google Gemini, HuggingFace, OpenRouter, ChatGLM and local models, chat demo: https://ai.casbin.com, admin portal demo: https://ai.casibase.com
+* 【2023-12-25】[fluid-dev / hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - 🌊 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
+* 【2023-12-25】[jerryc127 / hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) - 🦋 A Hexo Theme: Butterfly
 * 【2023-12-24】[moddio / moddio2](https://github.com/moddio/moddio2) - HTML5 multiplayer game engine
 * 【2023-12-24】[ruesandora / Kenshi](https://github.com/ruesandora/Kenshi) - 
 * 【2023-12-24】[szimek / sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
@@ -525,6 +543,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[sun0225SUN / Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆~谁说程序猿不懂浪漫❤️
 ## C
 
+* 【2023-12-25】[kindawindytoday / M](https://github.com/kindawindytoday/M) - new dynamically-loading tool for "园什“
+* 【2023-12-25】[FluidSynth / fluidsynth](https://github.com/FluidSynth/fluidsynth) - Software synthesizer based on the SoundFont 2 specifications
 * 【2023-12-24】[gtworek / PSBits](https://github.com/gtworek/PSBits) - Simple (relatively) things allowing you to dig a bit deeper than usual.
 * 【2023-12-24】[h2o / h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
 * 【2023-12-24】[RfidResearchGroup / ChameleonUltra](https://github.com/RfidResearchGroup/ChameleonUltra) - The new generation chameleon based on NRF52840 makes the performance of card emulation more stable. And gave the chameleon the ability to read, write, and decrypt cards.
@@ -604,6 +624,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[wh1te4ever / TrollDecryptor](https://github.com/wh1te4ever/TrollDecryptor) - Decrypt iOS apps for TrollStore
 ## C++
 
+* 【2023-12-25】[organicmaps / organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!
+* 【2023-12-25】[pbek / QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 * 【2023-12-24】[microsoft / Detours](https://github.com/microsoft/Detours) - Detours is a software package for monitoring and instrumenting API calls on Windows. It is distributed in source code form.
 * 【2023-12-24】[openframeworks / openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
 * 【2023-12-24】[wangzhaode / mnn-llm](https://github.com/wangzhaode/mnn-llm) - llm deploy project based mnn.
@@ -693,6 +715,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[x64dbg / x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 ## Typescript
 
+* 【2023-12-25】[gregberge / twc](https://github.com/gregberge/twc) - Create reusable React + Tailwind components in one line
+* 【2023-12-25】[Innei / Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
+* 【2023-12-25】[yoeven / ai-video-search-engine](https://github.com/yoeven/ai-video-search-engine) - 
+* 【2023-12-25】[davidjerleke / embla-carousel](https://github.com/davidjerleke/embla-carousel) - www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.
+* 【2023-12-25】[ant-design / ant-design-web3](https://github.com/ant-design/ant-design-web3) - 🥳 A React components collection for Web3!
 * 【2023-12-24】[wechaty / wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt
 * 【2023-12-23】[antergone / palm-proxy](https://github.com/antergone/palm-proxy) - Google PaLM API proxy on Vercel Edge
 * 【2023-12-23】[foxglove / studio](https://github.com/foxglove/studio) - Robotics visualization and debugging
