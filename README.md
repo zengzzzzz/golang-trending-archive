@@ -53,6 +53,13 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-12-26】[apple / ml-ferret](https://github.com/apple/ml-ferret) - 
+* 【2023-12-26】[Enraged-Rabbit-Community / ERCF_v2](https://github.com/Enraged-Rabbit-Community/ERCF_v2) - Community designed ERCF v2
+* 【2023-12-26】[Hillobar / Rope](https://github.com/Hillobar/Rope) - GUI-focused roop
+* 【2023-12-26】[JShollaj / awesome-llm-interpretability](https://github.com/JShollaj/awesome-llm-interpretability) - A curated list of Large Language Model (LLM) Interpretability resources.
+* 【2023-12-26】[Coder-World04 / Complete-System-Design](https://github.com/Coder-World04/Complete-System-Design) - This repository contains everything you need to become proficient in System Design
+* 【2023-12-26】[Z3Prover / z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
+* 【2023-12-26】[elifgazioglu / doyouwannagooutwithme](https://github.com/elifgazioglu/doyouwannagooutwithme) - 
 * 【2023-12-25】[mnotgod96 / AppAgent](https://github.com/mnotgod96/AppAgent) - A novel LLM-based multimodal agent framework designed to operate smartphone applications
 * 【2023-12-25】[NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 * 【2023-12-25】[heyman / heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
@@ -204,6 +211,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[SamurAIGPT / Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) - Create Custom GPT and add/embed on your site using Assistants api
 ## Go
 
+* 【2023-12-26】[maypok86 / otter](https://github.com/maypok86/otter) - Fastest golang in-memory cache library based on S3-FIFO algorithm. many times faster than Ristretto and friends
+* 【2023-12-26】[OffchainLabs / nitro](https://github.com/OffchainLabs/nitro) - Nitro goes vroom and fixes everything
+* 【2023-12-26】[gdy666 / lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
+* 【2023-12-26】[BishopFox / jsluice](https://github.com/BishopFox/jsluice) - Extract URLs, paths, secrets, and other interesting bits from JavaScript
+* 【2023-12-26】[mislav / hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
+* 【2023-12-26】[mathaou / termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
+* 【2023-12-26】[overflowy / spongebob-cli](https://github.com/overflowy/spongebob-cli) - SpongeBob delivered straight from your terminal
 * 【2023-12-25】[lc / gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 * 【2023-12-25】[ArtalkJS / Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 自托管评论系统 | Your self-hosted comment system
 * 【2023-12-25】[junegunn / fzf](https://github.com/junegunn/fzf) - 🌸 A command-line fuzzy finder
@@ -305,6 +319,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[F1bonacc1 / process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 ## Python
 
+* 【2023-12-26】[sympy / sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
+* 【2023-12-26】[atomicals / atomicals-electrumx](https://github.com/atomicals/atomicals-electrumx) - Electrumx Atomicals Indexer Server
+* 【2023-12-26】[apple / axlearn](https://github.com/apple/axlearn) - 
+* 【2023-12-26】[scikit-learn / scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
+* 【2023-12-26】[Gourieff / comfyui-reactor-node](https://github.com/Gourieff/comfyui-reactor-node) - Fast and Simple Face Swap Extension Node for ComfyUI
 * 【2023-12-25】[VikParuchuri / texify](https://github.com/VikParuchuri/texify) - OCR model for math that outputs LaTeX and markdown
 * 【2023-12-25】[leeyuentuen / polestar_api](https://github.com/leeyuentuen/polestar_api) - Polestar Api - Home Assistant Component
 * 【2023-12-25】[google-deepmind / concordia](https://github.com/google-deepmind/concordia) - A library for generative social simulation
@@ -447,6 +466,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[JoeanAmier / XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具
 ## Javascript
 
+* 【2023-12-26】[you-dont-need / You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
+* 【2023-12-26】[zeon-studio / hugoplate](https://github.com/zeon-studio/hugoplate) - Hugoplate is a free starter template built with Hugo and TailwindCSS that will save you hours of work.
+* 【2023-12-26】[betaflight / betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware
+* 【2023-12-26】[kovacsv / Online3DViewer](https://github.com/kovacsv/Online3DViewer) - A solution to visualize and explore 3D models in your browser.
 * 【2023-12-25】[casibase / casibase](https://github.com/casibase/casibase) - ⚡️Open-source LangChain-like AI knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, Google Gemini, HuggingFace, OpenRouter, ChatGLM and local models, chat demo: https://ai.casbin.com, admin portal demo: https://ai.casibase.com
 * 【2023-12-25】[fluid-dev / hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - 🌊 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
 * 【2023-12-25】[jerryc127 / hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) - 🦋 A Hexo Theme: Butterfly
@@ -543,6 +566,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[sun0225SUN / Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆~谁说程序猿不懂浪漫❤️
 ## C
 
+* 【2023-12-26】[ExistentialAudio / BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 * 【2023-12-25】[kindawindytoday / M](https://github.com/kindawindytoday/M) - new dynamically-loading tool for "园什“
 * 【2023-12-25】[FluidSynth / fluidsynth](https://github.com/FluidSynth/fluidsynth) - Software synthesizer based on the SoundFont 2 specifications
 * 【2023-12-24】[gtworek / PSBits](https://github.com/gtworek/PSBits) - Simple (relatively) things allowing you to dig a bit deeper than usual.
@@ -624,6 +648,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[wh1te4ever / TrollDecryptor](https://github.com/wh1te4ever/TrollDecryptor) - Decrypt iOS apps for TrollStore
 ## C++
 
+* 【2023-12-26】[Pagghiu / SaneCppLibraries](https://github.com/Pagghiu/SaneCppLibraries) - Sane C++ Libraries
+* 【2023-12-26】[cemu-project / Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 * 【2023-12-25】[organicmaps / organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!
 * 【2023-12-25】[pbek / QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 * 【2023-12-24】[microsoft / Detours](https://github.com/microsoft/Detours) - Detours is a software package for monitoring and instrumenting API calls on Windows. It is distributed in source code form.
@@ -715,6 +741,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[x64dbg / x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 ## Typescript
 
+* 【2023-12-26】[blacksev / Gemini-Next-Web](https://github.com/blacksev/Gemini-Next-Web) - A well-designed cross-platform Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 Gemini 应用。
+* 【2023-12-26】[danieleth2 / atomicals-js](https://github.com/danieleth2/atomicals-js) - 
+* 【2023-12-26】[gitdagray / csv-to-sql-insert](https://github.com/gitdagray/csv-to-sql-insert) - Provide table data as a CSV (comma-separated values) file and output a SQL insert statement for a table with the same name as the file.
 * 【2023-12-25】[gregberge / twc](https://github.com/gregberge/twc) - Create reusable React + Tailwind components in one line
 * 【2023-12-25】[Innei / Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 * 【2023-12-25】[yoeven / ai-video-search-engine](https://github.com/yoeven/ai-video-search-engine) - 
