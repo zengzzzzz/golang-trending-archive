@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2023-12-28】[Frooodle / Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
+* 【2023-12-28】[matt8707 / ha-fusion](https://github.com/matt8707/ha-fusion) - A modern, easy-to-use and performant custom Home Assistant dashboard
 * 【2023-12-26】[apple / ml-ferret](https://github.com/apple/ml-ferret) - 
 * 【2023-12-26】[Enraged-Rabbit-Community / ERCF_v2](https://github.com/Enraged-Rabbit-Community/ERCF_v2) - Community designed ERCF v2
 * 【2023-12-26】[Hillobar / Rope](https://github.com/Hillobar/Rope) - GUI-focused roop
@@ -211,6 +213,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[SamurAIGPT / Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) - Create Custom GPT and add/embed on your site using Assistants api
 ## Go
 
+* 【2023-12-28】[xrpinals / XrpinalsMintTool](https://github.com/xrpinals/XrpinalsMintTool) - 
+* 【2023-12-28】[goreleaser / goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
+* 【2023-12-28】[ConnectAI-E / feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书 ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+* 【2023-12-28】[coroot / coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes.
+* 【2023-12-28】[duke-git / lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
 * 【2023-12-26】[maypok86 / otter](https://github.com/maypok86/otter) - Fastest golang in-memory cache library based on S3-FIFO algorithm. many times faster than Ristretto and friends
 * 【2023-12-26】[OffchainLabs / nitro](https://github.com/OffchainLabs/nitro) - Nitro goes vroom and fixes everything
 * 【2023-12-26】[gdy666 / lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
@@ -319,6 +326,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[F1bonacc1 / process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 ## Python
 
+* 【2023-12-28】[prowler-cloud / prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more.
 * 【2023-12-26】[sympy / sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 * 【2023-12-26】[atomicals / atomicals-electrumx](https://github.com/atomicals/atomicals-electrumx) - Electrumx Atomicals Indexer Server
 * 【2023-12-26】[apple / axlearn](https://github.com/apple/axlearn) - 
@@ -466,6 +474,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[JoeanAmier / XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具
 ## Javascript
 
+* 【2023-12-28】[mouredev / roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion) - Ruta de estudio basada en ejercicios de código semanales en 2024 de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.
+* 【2023-12-28】[rphlr / 42-Evals](https://github.com/rphlr/42-Evals) - A curated collection of official 42 School evaluation sheets 📄✅, complete with a user-friendly web interface for streamlined navigation and self-assessment. 🖥️🚀 Explore, prepare, and excel in your peer evaluations. For the full experience, visit my web page!
+* 【2023-12-28】[naveeddogar / KING-MD](https://github.com/naveeddogar/KING-MD) - A Multi Device WhatsApp Bot Create By Naveed Dogar 🍁
 * 【2023-12-26】[you-dont-need / You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
 * 【2023-12-26】[zeon-studio / hugoplate](https://github.com/zeon-studio/hugoplate) - Hugoplate is a free starter template built with Hugo and TailwindCSS that will save you hours of work.
 * 【2023-12-26】[betaflight / betaflight-configurator](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware
@@ -566,6 +577,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[sun0225SUN / Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆~谁说程序猿不懂浪漫❤️
 ## C
 
+* 【2023-12-28】[KpwnZ / Def1nit3lyN0tAJa1lbr3akTool](https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool) - A jailbreak tool for all arm64 devices on iOS 16.0 to iOS 16.5
+* 【2023-12-28】[proh14 / ptext](https://github.com/proh14/ptext) - A nano like text editor built with pure C
+* 【2023-12-28】[lizongying / my-tv](https://github.com/lizongying/my-tv) - 安卓电视直播软件，内置直播源
 * 【2023-12-26】[ExistentialAudio / BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 * 【2023-12-25】[kindawindytoday / M](https://github.com/kindawindytoday/M) - new dynamically-loading tool for "园什“
 * 【2023-12-25】[FluidSynth / fluidsynth](https://github.com/FluidSynth/fluidsynth) - Software synthesizer based on the SoundFont 2 specifications
@@ -741,6 +755,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2023-12-01】[x64dbg / x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 ## Typescript
 
+* 【2023-12-28】[TanStack / router](https://github.com/TanStack/router) - 🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
+* 【2023-12-28】[Deeptrain-Community / chatnio](https://github.com/Deeptrain-Community/chatnio) - 🚀 强大精美的 AI 聚合聊天平台，适配OpenAI，Claude，讯飞星火，Midjourney，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Google Gemini (PaLM2)，LocalAI 等模型，支持分布式流式传输，图像生成，对话跨设备自动同步和分享功能，实现订阅和 Token 弹性计费系统，Key 中转服务，多模型聚合支持等。实现联网搜索功能，AI 卡片，AI 项目生成器，AI 批量文章生成等功能，引领开源聚合新时代。
+* 【2023-12-28】[unocss / unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 * 【2023-12-26】[blacksev / Gemini-Next-Web](https://github.com/blacksev/Gemini-Next-Web) - A well-designed cross-platform Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 Gemini 应用。
 * 【2023-12-26】[danieleth2 / atomicals-js](https://github.com/danieleth2/atomicals-js) - 
 * 【2023-12-26】[gitdagray / csv-to-sql-insert](https://github.com/gitdagray/csv-to-sql-insert) - Provide table data as a CSV (comma-separated values) file and output a SQL insert statement for a table with the same name as the file.
