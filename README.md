@@ -53,6 +53,12 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-01-03】[AntonioErdeljac / next-auth-v5-advanced-guide](https://github.com/AntonioErdeljac/next-auth-v5-advanced-guide) - 
+* 【2024-01-03】[firefly-iii / firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
+* 【2024-01-03】[UdaraJay / Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.
+* 【2024-01-03】[tailcallhq / tailcall](https://github.com/tailcallhq/tailcall) - A high-performance no-code GraphQL backend
+* 【2024-01-03】[ublue-os / bazzite](https://github.com/ublue-os/bazzite) - Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other handheld PCs.
+* 【2024-01-03】[tiann / KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 * 【2024-01-02】[hack-ink / atomicalsir](https://github.com/hack-ink/atomicalsir) - 
 * 【2024-01-02】[OwshenNetwork / genesis](https://github.com/OwshenNetwork/genesis) - Owshen rewards and airdrops
 * 【2024-01-02】[ossu / bioinformatics](https://github.com/ossu/bioinformatics) - 🔬 Path to a free self-taught education in Bioinformatics!
@@ -67,6 +73,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[nvim-tree / nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
 ## Go
 
+* 【2024-01-03】[googleapis / google-api-go-client](https://github.com/googleapis/google-api-go-client) - Auto-generated Google APIs for Go.
+* 【2024-01-03】[projectdiscovery / subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
+* 【2024-01-03】[assimon / epusdt](https://github.com/assimon/epusdt) - 开源优雅的跨平台usdt收付中间件 Easy Payment USDT——epsdt
+* 【2024-01-03】[projectdiscovery / katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
+* 【2024-01-03】[keybase / client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
+* 【2024-01-03】[gravitl / netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 * 【2024-01-02】[kubernetes-sigs / kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 * 【2024-01-02】[csnewman / dextk](https://github.com/csnewman/dextk) - Android dex file parser in Go
 * 【2024-01-01】[amir20 / dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
@@ -74,6 +86,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[aceberg / ExerciseDiary](https://github.com/aceberg/ExerciseDiary) - Workout diary with GitHub-style year visualization
 ## Python
 
+* 【2024-01-03】[yihong0618 / gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
+* 【2024-01-03】[jekalmin / extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
+* 【2024-01-03】[langroid / langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
+* 【2024-01-03】[kholia / OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 * 【2024-01-02】[theOneAndOnlyOne / BeReel](https://github.com/theOneAndOnlyOne/BeReel) - Generate a custom timelapse of all your memories from BeReal
 * 【2024-01-02】[joaomdmoura / crewAI-examples](https://github.com/joaomdmoura/crewAI-examples) - 
 * 【2024-01-02】[alibaba / animate-anything](https://github.com/alibaba/animate-anything) - Fine-Grained Open Domain Image Animation with Motion Guidance
@@ -100,6 +116,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[yonggekkk / openwrt_win64-ddns-cdnip](https://github.com/yonggekkk/openwrt_win64-ddns-cdnip) - OpenWrt软路由/Win64电脑专用优选IP一键脚本，支持ddns(批量IP解析同个域名，单个IP解析单个域名)与无域名模式，13个端口任意选，支持优选官方IP与反代IP切换，支持TG、Pushplus推送通知，软路由适配passwall、passwall2、ssr-plus、clash、openclash、bypass、v2raya、helloworld多种代理插件
 ## C
 
+* 【2024-01-03】[Gnucash / gnucash](https://github.com/Gnucash/gnucash) - GnuCash Double-Entry Accounting Program.
+* 【2024-01-03】[0015 / ThatProject](https://github.com/0015/ThatProject) - *That Project's project repository
+* 【2024-01-03】[Ralim / IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware
+* 【2024-01-03】[fastfetch-cli / fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
+* 【2024-01-03】[tsoding / nobuild](https://github.com/tsoding/nobuild) - Header only library for writing build recipes in C.
+* 【2024-01-03】[nesbox / TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
+* 【2024-01-03】[hackerhouse-opensource / Artillery](https://github.com/hackerhouse-opensource/Artillery) - CIA UAC bypass implementation that utilizes elevated COM object to write to System32 and an auto-elevated process to execute as administrator.
 * 【2024-01-02】[HansKristian-Work / vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) - Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
 * 【2024-01-02】[swaywm / sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 * 【2024-01-02】[ThirteenAG / GTAIV.EFLC.FusionFix](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix) - This project aims to fix or address some issues in Grand Theft Auto IV Complete Edition
@@ -107,6 +130,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[Maldev-Academy / Christmas](https://github.com/Maldev-Academy/Christmas) - 
 ## C++
 
+* 【2024-01-03】[praydog / UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4/5)
+* 【2024-01-03】[geode-sdk / geode](https://github.com/geode-sdk/geode) - The ultimate Geometry Dash modding toolkit
+* 【2024-01-03】[TobyAdd / GDH](https://github.com/TobyAdd/GDH) - Cheat menu for Geometry Dash. Powered by ImGui
 * 【2024-01-02】[thelastoutpostworkshop / gpio_viewer](https://github.com/thelastoutpostworkshop/gpio_viewer) - GPIOViewer Arduino Library to see live GPIO Pins on ESP32 boards
 * 【2024-01-02】[hackerhouse-opensource / WMIProcessWatcher](https://github.com/hackerhouse-opensource/WMIProcessWatcher) - A CIA tradecraft technique to asynchronously detect when a process is created using WMI.
 * 【2024-01-01】[hackerhouse-opensource / SignToolEx](https://github.com/hackerhouse-opensource/SignToolEx) - Patching "signtool.exe" to accept expired certificates for code-signing.
