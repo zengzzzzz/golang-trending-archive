@@ -53,6 +53,11 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-01-04】[gunnarmorling / 1brc](https://github.com/gunnarmorling/1brc) - 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
+* 【2024-01-04】[chiteroman / Reprogram-TEE-on-Qualcomm-devices](https://github.com/chiteroman/Reprogram-TEE-on-Qualcomm-devices) - Guide to reprogram the TEE on Qualcomm devices to fix lost attestation keys
+* 【2024-01-04】[felix-pb / kfd](https://github.com/felix-pb/kfd) - kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.
+* 【2024-01-04】[HACKE-RC / awesome-reversing](https://github.com/HACKE-RC/awesome-reversing) - A collection of resources to learn Reverse Engineering from start!
+* 【2024-01-04】[zigcc / zig-cookbook](https://github.com/zigcc/zig-cookbook) - Zig cookbook is a collection of simple Zig programs that demonstrate good practices to accomplish common programming tasks.
 * 【2024-01-03】[AntonioErdeljac / next-auth-v5-advanced-guide](https://github.com/AntonioErdeljac/next-auth-v5-advanced-guide) - 
 * 【2024-01-03】[firefly-iii / firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 * 【2024-01-03】[UdaraJay / Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.
@@ -73,6 +78,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[nvim-tree / nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
 ## Go
 
+* 【2024-01-04】[golangci / golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
 * 【2024-01-03】[googleapis / google-api-go-client](https://github.com/googleapis/google-api-go-client) - Auto-generated Google APIs for Go.
 * 【2024-01-03】[projectdiscovery / subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
 * 【2024-01-03】[assimon / epusdt](https://github.com/assimon/epusdt) - 开源优雅的跨平台usdt收付中间件 Easy Payment USDT——epsdt
@@ -86,6 +92,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[aceberg / ExerciseDiary](https://github.com/aceberg/ExerciseDiary) - Workout diary with GitHub-style year visualization
 ## Python
 
+* 【2024-01-04】[aurelio-labs / semantic-router](https://github.com/aurelio-labs/semantic-router) - 
+* 【2024-01-04】[wenquanlu / HandRefiner](https://github.com/wenquanlu/HandRefiner) - 
+* 【2024-01-04】[frappe / frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
+* 【2024-01-04】[Meituan-AutoML / MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) - MobileVLM: A Fast, Strong and Open Vision Language Assistant for Mobile Devices
+* 【2024-01-04】[OpenMotionLab / MotionGPT](https://github.com/OpenMotionLab/MotionGPT) - [NeurIPS 2023] MotionGPT: Human Motion as a Foreign Language, a unified motion-language generation model using LLMs
+* 【2024-01-04】[lucidrains / vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 * 【2024-01-03】[yihong0618 / gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
 * 【2024-01-03】[jekalmin / extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
 * 【2024-01-03】[langroid / langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
@@ -107,6 +119,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[lutris / lutris](https://github.com/lutris/lutris) - Lutris desktop client
 ## Javascript
 
+* 【2024-01-04】[pysunday / rs-reverse](https://github.com/pysunday/rs-reverse) - 瑞数,rs,rsvmp,瑞数逆向,逆向,瑞数反爬虫,website reverse engineering
 * 【2024-01-02】[Lyfhael / DeleteTweets](https://github.com/Lyfhael/DeleteTweets) - Delete / Remove all your tweets
 * 【2024-01-01】[ordinals-wallet / bellscriptions](https://github.com/ordinals-wallet/bellscriptions) - 
 * 【2024-01-01】[Ninjas-Code-official / Enatega-Multi-Vendor-Food-Delivery-System](https://github.com/Ninjas-Code-official/Enatega-Multi-Vendor-Food-Delivery-System) - Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: 🚀🛒📦🌐
@@ -116,6 +129,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[yonggekkk / openwrt_win64-ddns-cdnip](https://github.com/yonggekkk/openwrt_win64-ddns-cdnip) - OpenWrt软路由/Win64电脑专用优选IP一键脚本，支持ddns(批量IP解析同个域名，单个IP解析单个域名)与无域名模式，13个端口任意选，支持优选官方IP与反代IP切换，支持TG、Pushplus推送通知，软路由适配passwall、passwall2、ssr-plus、clash、openclash、bypass、v2raya、helloworld多种代理插件
 ## C
 
+* 【2024-01-04】[PureKFD / PureKFD](https://github.com/PureKFD/PureKFD) - A KFD Focused Package Manager that supports 14.0-16.6.1!
+* 【2024-01-04】[GStreamer / gstreamer](https://github.com/GStreamer/gstreamer) - GStreamer open-source multimedia framework
+* 【2024-01-04】[libffi / libffi](https://github.com/libffi/libffi) - A portable foreign-function interface library.
+* 【2024-01-04】[ioi / isolate](https://github.com/ioi/isolate) - Sandbox for securely executing untrusted programs
 * 【2024-01-03】[Gnucash / gnucash](https://github.com/Gnucash/gnucash) - GnuCash Double-Entry Accounting Program.
 * 【2024-01-03】[0015 / ThatProject](https://github.com/0015/ThatProject) - *That Project's project repository
 * 【2024-01-03】[Ralim / IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware
@@ -130,6 +147,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[Maldev-Academy / Christmas](https://github.com/Maldev-Academy/Christmas) - 
 ## C++
 
+* 【2024-01-04】[canonical / multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
+* 【2024-01-04】[Neargye / magic_enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
 * 【2024-01-03】[praydog / UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4/5)
 * 【2024-01-03】[geode-sdk / geode](https://github.com/geode-sdk/geode) - The ultimate Geometry Dash modding toolkit
 * 【2024-01-03】[TobyAdd / GDH](https://github.com/TobyAdd/GDH) - Cheat menu for Geometry Dash. Powered by ImGui
@@ -140,6 +159,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[hackerhouse-opensource / Marble](https://github.com/hackerhouse-opensource/Marble) - The CIA's Marble Framework is designed to allow for flexible and easy-to-use obfuscation when developing tools.
 ## Typescript
 
+* 【2024-01-04】[coral-xyz / backpack](https://github.com/coral-xyz/backpack) - 🎒 Next level crypto wallet
+* 【2024-01-04】[n4ze3m / dialoqbase](https://github.com/n4ze3m/dialoqbase) - Create chatbots with ease
+* 【2024-01-04】[yqcs / prismx](https://github.com/yqcs/prismx) - :: 棱镜 X · 一体化的轻量型跨平台渗透系统
+* 【2024-01-04】[tech-creative-club / disaster-posts](https://github.com/tech-creative-club/disaster-posts) - 
+* 【2024-01-04】[tokenami / tokenami](https://github.com/tokenami/tokenami) - Atomic CSS in the style attribute. Type-safe static styles with theming, responsive variant support, and no bundler integration.
+* 【2024-01-04】[xinyao27 / next-devtools](https://github.com/xinyao27/next-devtools) - Enhancement Next Developer Experience
+* 【2024-01-04】[iorate / ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 * 【2024-01-02】[movie-web / providers](https://github.com/movie-web/providers) - Package that contains all the providers of movie-web
 * 【2024-01-02】[webcrumbs-community / webcrumbs](https://github.com/webcrumbs-community/webcrumbs) - Create and modify Node.js websites and applications with a no-code interface and powerful plugins, enriched by the community. 🌟 Star to support our work!
 * 【2024-01-02】[neal-zhu / atomicals-miner](https://github.com/neal-zhu/atomicals-miner) - atomicals-js 挖矿优化版本持续更新
