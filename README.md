@@ -53,6 +53,14 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-01-07】[facebookresearch / audio2photoreal](https://github.com/facebookresearch/audio2photoreal) - Code and dataset for photorealistic Codec Avatars driven from audio
+* 【2024-01-07】[ubuygold / go-noss](https://github.com/ubuygold/go-noss) - 
+* 【2024-01-07】[MarkFzp / mobile-aloha](https://github.com/MarkFzp/mobile-aloha) - Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
+* 【2024-01-07】[MarkFzp / act-plus-plus](https://github.com/MarkFzp/act-plus-plus) - Imitation Learning algorithms with Co-traing for Mobile ALOHA: ACT, Diffusion Policy, VINN
+* 【2024-01-07】[bleedline / Awesome-gptlike-shellsite](https://github.com/bleedline/Awesome-gptlike-shellsite) - 深入探索精选的套壳站和必备API资源。本文为初学者和经验丰富的运营者提供一站式指南，涵盖常见问题解答和基础攻略，助您迈向套壳站副业成功之路。Dive into a curated selection of shell sites and essential APIs. This article offers a comprehensive guide for both beginners and seasoned operators, covering FAQs and basic strategies to propel you towards success in your shell site side hustle.
+* 【2024-01-07】[bclavie / RAGatouille](https://github.com/bclavie/RAGatouille) - 
+* 【2024-01-07】[tonyzhaozh / aloha](https://github.com/tonyzhaozh/aloha) - 
+* 【2024-01-07】[stephencelis / SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
 * 【2024-01-06】[ChristianLempa / homelab](https://github.com/ChristianLempa/homelab) - This is my entire homelab documentation files. Here you'll find notes, setups, and configurations for infrastructure, applications, networking, and more.
 * 【2024-01-06】[llenotre / maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust
 * 【2024-01-06】[zju3dv / street_gaussians](https://github.com/zju3dv/street_gaussians) - Code for "Street Gaussians for Modeling Dynamic Urban Scenes"
@@ -110,6 +118,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[aceberg / ExerciseDiary](https://github.com/aceberg/ExerciseDiary) - Workout diary with GitHub-style year visualization
 ## Python
 
+* 【2024-01-07】[mosaicml / llm-foundry](https://github.com/mosaicml/llm-foundry) - LLM training code for MosaicML foundation models
+* 【2024-01-07】[jupyter / docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
+* 【2024-01-07】[jianchang512 / stt](https://github.com/jianchang512/stt) - Voice Recognition to Text Tool / 一个离线运行的本地语音识别转文字服务，输出json、srt字幕带时间戳、纯文字格式
+* 【2024-01-07】[Upsetin / noss-mint-script](https://github.com/Upsetin/noss-mint-script) - noss auto mint scirpt.
+* 【2024-01-07】[aio-libs / aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
+* 【2024-01-07】[stanford-futuredata / ColBERT](https://github.com/stanford-futuredata/ColBERT) - Stanford ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22)
 * 【2024-01-06】[InternLM / tutorial](https://github.com/InternLM/tutorial) - 
 * 【2024-01-06】[microsoft / Swin-Transformer](https://github.com/microsoft/Swin-Transformer) - This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".
 * 【2024-01-06】[pratyushasharma / laser](https://github.com/pratyushasharma/laser) - The Truth Is In There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction
@@ -144,6 +158,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[lutris / lutris](https://github.com/lutris/lutris) - Lutris desktop client
 ## Javascript
 
+* 【2024-01-07】[gaearon / overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
+* 【2024-01-07】[hiteshchoudhary / react-english](https://github.com/hiteshchoudhary/react-english) - A fun react series in future
+* 【2024-01-07】[lucide-icons / lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 * 【2024-01-06】[speer-technologies / aircall](https://github.com/speer-technologies/aircall) - Frontend Hiring Challenge
 * 【2024-01-06】[ether / etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 * 【2024-01-06】[ai / nanoid](https://github.com/ai/nanoid) - A tiny (109 bytes), secure, URL-friendly, unique string ID generator for JavaScript
@@ -162,6 +179,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[yonggekkk / openwrt_win64-ddns-cdnip](https://github.com/yonggekkk/openwrt_win64-ddns-cdnip) - OpenWrt软路由/Win64电脑专用优选IP一键脚本，支持ddns(批量IP解析同个域名，单个IP解析单个域名)与无域名模式，13个端口任意选，支持优选官方IP与反代IP切换，支持TG、Pushplus推送通知，软路由适配passwall、passwall2、ssr-plus、clash、openclash、bypass、v2raya、helloworld多种代理插件
 ## C
 
+* 【2024-01-07】[openwch / arduino_core_ch32](https://github.com/openwch/arduino_core_ch32) - Core library for CH32duino
+* 【2024-01-07】[spotify / sparkey](https://github.com/spotify/sparkey) - Simple constant key/value storage library, for read-heavy systems with infrequent large bulk inserts.
+* 【2024-01-07】[pjreddie / darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
 * 【2024-01-06】[XProger / OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine
 * 【2024-01-06】[rodarima / libwa](https://github.com/rodarima/libwa) - WhatsApp C library
 * 【2024-01-06】[NVIDIA / open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
@@ -185,6 +205,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[Maldev-Academy / Christmas](https://github.com/Maldev-Academy/Christmas) - 
 ## C++
 
+* 【2024-01-07】[wpilibsuite / allwpilib](https://github.com/wpilibsuite/allwpilib) - Official Repository of WPILibJ and WPILibC
 * 【2024-01-06】[GregoryCannon / StackRabbit](https://github.com/GregoryCannon/StackRabbit) - An AI for playing NES Tetris at a high level. Based primarily on search & heuristic, with high quality board evaluation through value iteration.
 * 【2024-01-06】[hackerhouse-opensource / Stinger](https://github.com/hackerhouse-opensource/Stinger) - CIA UAC bypass implementation of Stinger that obtains the token from an auto-elevated process, modifies it, and reuses it to execute as Administrator.
 * 【2024-01-06】[J-JLucas / SCM](https://github.com/J-JLucas/SCM) - 
@@ -201,6 +222,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[hackerhouse-opensource / Marble](https://github.com/hackerhouse-opensource/Marble) - The CIA's Marble Framework is designed to allow for flexible and easy-to-use obfuscation when developing tools.
 ## Typescript
 
+* 【2024-01-07】[komodorio / helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
+* 【2024-01-07】[gitkraken / vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
+* 【2024-01-07】[schedule-x / schedule-x](https://github.com/schedule-x/schedule-x) - Material design event calendar and date picker
+* 【2024-01-07】[tusen-ai / naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 * 【2024-01-06】[squaresapp / rawjs](https://github.com/squaresapp/rawjs) - Better document.createElement(). So much better, that you may no longer need React.
 * 【2024-01-06】[open-telemetry / opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 * 【2024-01-06】[cschroeter / park-ui](https://github.com/cschroeter/park-ui) - Beautifully designed components built on Ark UI that work for the JS and CSS frameworks of your choice.
