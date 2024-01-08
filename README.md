@@ -53,6 +53,11 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-01-08】[janhq / nitro](https://github.com/janhq/nitro) - A fast, lightweight, embeddable inference engine to supercharge your apps with local AI. OpenAI-compatible API
+* 【2024-01-08】[DataTalksClub / data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Free Data Engineering course!
+* 【2024-01-08】[ProgrammingHero1 / portfolio-resources](https://github.com/ProgrammingHero1/portfolio-resources) - 
+* 【2024-01-08】[menyifang / En3D](https://github.com/menyifang/En3D) - Official implementation of "En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data"
+* 【2024-01-08】[tachiyomiorg / tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions) - Source extensions for the Tachiyomi app.
 * 【2024-01-07】[facebookresearch / audio2photoreal](https://github.com/facebookresearch/audio2photoreal) - Code and dataset for photorealistic Codec Avatars driven from audio
 * 【2024-01-07】[ubuygold / go-noss](https://github.com/ubuygold/go-noss) - 
 * 【2024-01-07】[MarkFzp / mobile-aloha](https://github.com/MarkFzp/mobile-aloha) - Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
@@ -118,6 +123,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[aceberg / ExerciseDiary](https://github.com/aceberg/ExerciseDiary) - Workout diary with GitHub-style year visualization
 ## Python
 
+* 【2024-01-08】[ali-vilab / i2vgen-xl](https://github.com/ali-vilab/i2vgen-xl) - Official repo for VGen: a holistic video generation ecosystem for video generation building on diffusion models
+* 【2024-01-08】[VILA-Lab / ATLAS](https://github.com/VILA-Lab/ATLAS) - A principled instruction benchmark on formulating effective queries and prompts for large language models (LLMs). Our paper: https://arxiv.org/abs/2312.16171
+* 【2024-01-08】[home-assistant / operating-system](https://github.com/home-assistant/operating-system) - 🔰 Home Assistant Operating System
+* 【2024-01-08】[tconbeer / harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 * 【2024-01-07】[mosaicml / llm-foundry](https://github.com/mosaicml/llm-foundry) - LLM training code for MosaicML foundation models
 * 【2024-01-07】[jupyter / docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 * 【2024-01-07】[jianchang512 / stt](https://github.com/jianchang512/stt) - Voice Recognition to Text Tool / 一个离线运行的本地语音识别转文字服务，输出json、srt字幕带时间戳、纯文字格式
@@ -158,6 +167,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[lutris / lutris](https://github.com/lutris/lutris) - Lutris desktop client
 ## Javascript
 
+* 【2024-01-08】[wukko / cobalt](https://github.com/wukko/cobalt) - save what you love
+* 【2024-01-08】[FastForwardTeam / FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
+* 【2024-01-08】[enricoros / big-AGI](https://github.com/enricoros/big-AGI) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.
+* 【2024-01-08】[iongpt / LLM-for-Whatsapp](https://github.com/iongpt/LLM-for-Whatsapp) - WhatsApp client with LLM integration. It support OpenAI API and also local LLMs
+* 【2024-01-08】[judygab / web-dev-projects](https://github.com/judygab/web-dev-projects) - Projects repo for tutorials for my YouTube Channel
 * 【2024-01-07】[gaearon / overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
 * 【2024-01-07】[hiteshchoudhary / react-english](https://github.com/hiteshchoudhary/react-english) - A fun react series in future
 * 【2024-01-07】[lucide-icons / lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
@@ -179,6 +193,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[yonggekkk / openwrt_win64-ddns-cdnip](https://github.com/yonggekkk/openwrt_win64-ddns-cdnip) - OpenWrt软路由/Win64电脑专用优选IP一键脚本，支持ddns(批量IP解析同个域名，单个IP解析单个域名)与无域名模式，13个端口任意选，支持优选官方IP与反代IP切换，支持TG、Pushplus推送通知，软路由适配passwall、passwall2、ssr-plus、clash、openclash、bypass、v2raya、helloworld多种代理插件
 ## C
 
+* 【2024-01-08】[joncampbell123 / dosbox-x](https://github.com/joncampbell123/dosbox-x) - DOSBox-X fork of the DOSBox project
+* 【2024-01-08】[cpq / bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide) - A bare metal programming guide (ARM microcontrollers)
+* 【2024-01-08】[mit-pdos / xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS
 * 【2024-01-07】[openwch / arduino_core_ch32](https://github.com/openwch/arduino_core_ch32) - Core library for CH32duino
 * 【2024-01-07】[spotify / sparkey](https://github.com/spotify/sparkey) - Simple constant key/value storage library, for read-heavy systems with infrequent large bulk inserts.
 * 【2024-01-07】[pjreddie / darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
@@ -205,6 +222,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[Maldev-Academy / Christmas](https://github.com/Maldev-Academy/Christmas) - 
 ## C++
 
+* 【2024-01-08】[YosysHQ / yosys](https://github.com/YosysHQ/yosys) - Yosys Open SYnthesis Suite
+* 【2024-01-08】[yuzu-emu / yuzu-mainline](https://github.com/yuzu-emu/yuzu-mainline) - 
 * 【2024-01-07】[wpilibsuite / allwpilib](https://github.com/wpilibsuite/allwpilib) - Official Repository of WPILibJ and WPILibC
 * 【2024-01-06】[GregoryCannon / StackRabbit](https://github.com/GregoryCannon/StackRabbit) - An AI for playing NES Tetris at a high level. Based primarily on search & heuristic, with high quality board evaluation through value iteration.
 * 【2024-01-06】[hackerhouse-opensource / Stinger](https://github.com/hackerhouse-opensource/Stinger) - CIA UAC bypass implementation of Stinger that obtains the token from an auto-elevated process, modifies it, and reuses it to execute as Administrator.
@@ -222,6 +241,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[hackerhouse-opensource / Marble](https://github.com/hackerhouse-opensource/Marble) - The CIA's Marble Framework is designed to allow for flexible and easy-to-use obfuscation when developing tools.
 ## Typescript
 
+* 【2024-01-08】[philschmid / clipper.js](https://github.com/philschmid/clipper.js) - HTML to Markdown converter and crawler.
+* 【2024-01-08】[subsquid-quests / pooltogether-v3-migration](https://github.com/subsquid-quests/pooltogether-v3-migration) - A quest to migrate PoolTogether Prize Pool subgraph to Subsquid
+* 【2024-01-08】[mohammed-bahumaish / prisma-editor](https://github.com/mohammed-bahumaish/prisma-editor) - Prisma Editor - A powerful tool to visualize and edit Prisma Schema.
+* 【2024-01-08】[Chainlit / chainlit](https://github.com/Chainlit/chainlit) - Build Python LLM apps in minutes ⚡️
+* 【2024-01-08】[rozbo / node-noss](https://github.com/rozbo/node-noss) - 
+* 【2024-01-08】[koush / scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance home video integration and automation platform
+* 【2024-01-08】[instructor-ai / instructor-js](https://github.com/instructor-ai/instructor-js) - structured extraction for llms
 * 【2024-01-07】[komodorio / helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
 * 【2024-01-07】[gitkraken / vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
 * 【2024-01-07】[schedule-x / schedule-x](https://github.com/schedule-x/schedule-x) - Material design event calendar and date picker
