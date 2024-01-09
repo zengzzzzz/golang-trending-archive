@@ -53,6 +53,11 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-01-09】[buybackoff / 1brc](https://github.com/buybackoff/1brc) - 
+* 【2024-01-09】[ethen8181 / machine-learning](https://github.com/ethen8181/machine-learning) - 🌎 machine learning tutorials (mainly in Python3)
+* 【2024-01-09】[lanceliao / china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
+* 【2024-01-09】[tachiyomiorg / tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
+* 【2024-01-09】[benman1 / generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain) - Build large language model (LLM) apps with Python, ChatGPT and other models. This is the companion repository for the book on generative AI with LangChain.
 * 【2024-01-08】[janhq / nitro](https://github.com/janhq/nitro) - A fast, lightweight, embeddable inference engine to supercharge your apps with local AI. OpenAI-compatible API
 * 【2024-01-08】[DataTalksClub / data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Free Data Engineering course!
 * 【2024-01-08】[ProgrammingHero1 / portfolio-resources](https://github.com/ProgrammingHero1/portfolio-resources) - 
@@ -104,6 +109,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[nvim-tree / nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
 ## Go
 
+* 【2024-01-09】[DrDonk / unlocker](https://github.com/DrDonk/unlocker) - VMware macOS utilities
 * 【2024-01-06】[qiwentaidi / Slack](https://github.com/qiwentaidi/Slack) - 一款Go Wails实现的GUI工具，功能涵盖网站扫描、端口扫描、企业信息收集、子域名暴破、空间引擎搜索、CDN识别等
 * 【2024-01-05】[zhu327 / gemini-openai-proxy](https://github.com/zhu327/gemini-openai-proxy) - A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.
 * 【2024-01-05】[knadh / listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
@@ -123,6 +129,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[aceberg / ExerciseDiary](https://github.com/aceberg/ExerciseDiary) - Workout diary with GitHub-style year visualization
 ## Python
 
+* 【2024-01-09】[skfolio / skfolio](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn
+* 【2024-01-09】[Bing-su / adetailer](https://github.com/Bing-su/adetailer) - Auto detecting, masking and inpainting with detection model.
+* 【2024-01-09】[reddelexc / hackerone-reports](https://github.com/reddelexc/hackerone-reports) - Top disclosed reports from HackerOne
+* 【2024-01-09】[luong-komorebi / Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
+* 【2024-01-09】[neobundy / Deep-Dive-Into-AI-With-MLX-PyTorch](https://github.com/neobundy/Deep-Dive-Into-AI-With-MLX-PyTorch) - "Deep Dive into AI with MLX and PyTorch" is an educational initiative designed to help anyone interested in AI, specifically in machine learning and deep learning, using Apple's MLX and Meta's PyTorch frameworks.
+* 【2024-01-09】[stanford-oval / WikiChat](https://github.com/stanford-oval/WikiChat) - WikiChat stops the hallucination of large language models by retrieving data from Wikipedia.
+* 【2024-01-09】[ltdrdata / ComfyUI-Impact-Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack) - 
 * 【2024-01-08】[ali-vilab / i2vgen-xl](https://github.com/ali-vilab/i2vgen-xl) - Official repo for VGen: a holistic video generation ecosystem for video generation building on diffusion models
 * 【2024-01-08】[VILA-Lab / ATLAS](https://github.com/VILA-Lab/ATLAS) - A principled instruction benchmark on formulating effective queries and prompts for large language models (LLMs). Our paper: https://arxiv.org/abs/2312.16171
 * 【2024-01-08】[home-assistant / operating-system](https://github.com/home-assistant/operating-system) - 🔰 Home Assistant Operating System
@@ -167,6 +180,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[lutris / lutris](https://github.com/lutris/lutris) - Lutris desktop client
 ## Javascript
 
+* 【2024-01-09】[bytedance / xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
+* 【2024-01-09】[adrianhajdin / docker-course](https://github.com/adrianhajdin/docker-course) - Full Modern Docker Course
+* 【2024-01-09】[MagicMirrorOrg / MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
+* 【2024-01-09】[SuperSimpleDev / javascript-course](https://github.com/SuperSimpleDev/javascript-course) - 
 * 【2024-01-08】[wukko / cobalt](https://github.com/wukko/cobalt) - save what you love
 * 【2024-01-08】[FastForwardTeam / FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 * 【2024-01-08】[enricoros / big-AGI](https://github.com/enricoros/big-AGI) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.
@@ -193,6 +210,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[yonggekkk / openwrt_win64-ddns-cdnip](https://github.com/yonggekkk/openwrt_win64-ddns-cdnip) - OpenWrt软路由/Win64电脑专用优选IP一键脚本，支持ddns(批量IP解析同个域名，单个IP解析单个域名)与无域名模式，13个端口任意选，支持优选官方IP与反代IP切换，支持TG、Pushplus推送通知，软路由适配passwall、passwall2、ssr-plus、clash、openclash、bypass、v2raya、helloworld多种代理插件
 ## C
 
+* 【2024-01-09】[rswier / swieros](https://github.com/rswier/swieros) - A tiny hand crafted CPU emulator, C compiler, and Operating System
 * 【2024-01-08】[joncampbell123 / dosbox-x](https://github.com/joncampbell123/dosbox-x) - DOSBox-X fork of the DOSBox project
 * 【2024-01-08】[cpq / bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide) - A bare metal programming guide (ARM microcontrollers)
 * 【2024-01-08】[mit-pdos / xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS
@@ -222,6 +240,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[Maldev-Academy / Christmas](https://github.com/Maldev-Academy/Christmas) - 
 ## C++
 
+* 【2024-01-09】[rizinorg / cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
+* 【2024-01-09】[erincatto / box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 * 【2024-01-08】[YosysHQ / yosys](https://github.com/YosysHQ/yosys) - Yosys Open SYnthesis Suite
 * 【2024-01-08】[yuzu-emu / yuzu-mainline](https://github.com/yuzu-emu/yuzu-mainline) - 
 * 【2024-01-07】[wpilibsuite / allwpilib](https://github.com/wpilibsuite/allwpilib) - Official Repository of WPILibJ and WPILibC
@@ -241,6 +261,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[hackerhouse-opensource / Marble](https://github.com/hackerhouse-opensource/Marble) - The CIA's Marble Framework is designed to allow for flexible and easy-to-use obfuscation when developing tools.
 ## Typescript
 
+* 【2024-01-09】[homebridge / homebridge-config-ui-x](https://github.com/homebridge/homebridge-config-ui-x) - The Homebridge UI. Monitor, configure and backup Homebridge from a browser.
+* 【2024-01-09】[vercel / ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 * 【2024-01-08】[philschmid / clipper.js](https://github.com/philschmid/clipper.js) - HTML to Markdown converter and crawler.
 * 【2024-01-08】[subsquid-quests / pooltogether-v3-migration](https://github.com/subsquid-quests/pooltogether-v3-migration) - A quest to migrate PoolTogether Prize Pool subgraph to Subsquid
 * 【2024-01-08】[mohammed-bahumaish / prisma-editor](https://github.com/mohammed-bahumaish/prisma-editor) - Prisma Editor - A powerful tool to visualize and edit Prisma Schema.
