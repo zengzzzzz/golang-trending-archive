@@ -53,6 +53,12 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-01-10】[ProgrammingHero1 / B9A1-New-Year-New-Mission](https://github.com/ProgrammingHero1/B9A1-New-Year-New-Mission) - 
+* 【2024-01-10】[honghuangdc / soybean-admin](https://github.com/honghuangdc/soybean-admin) - A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版]
+* 【2024-01-10】[rose-pine / neovim](https://github.com/rose-pine/neovim) - Soho vibes for Neovim
+* 【2024-01-10】[mrousavy / react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
+* 【2024-01-10】[extrawurst / gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+* 【2024-01-10】[Meroser / IPTV](https://github.com/Meroser/IPTV) - 湖南电信、移动、联通组播源，IPv6源，完善的台标，几近完美的EPG节目预告[强迫症福音]
 * 【2024-01-09】[buybackoff / 1brc](https://github.com/buybackoff/1brc) - 
 * 【2024-01-09】[ethen8181 / machine-learning](https://github.com/ethen8181/machine-learning) - 🌎 machine learning tutorials (mainly in Python3)
 * 【2024-01-09】[lanceliao / china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
@@ -109,6 +115,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[nvim-tree / nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
 ## Go
 
+* 【2024-01-10】[anthdm / raptor](https://github.com/anthdm/raptor) - Create, Deploy, and Run your applications on the edge
 * 【2024-01-09】[DrDonk / unlocker](https://github.com/DrDonk/unlocker) - VMware macOS utilities
 * 【2024-01-06】[qiwentaidi / Slack](https://github.com/qiwentaidi/Slack) - 一款Go Wails实现的GUI工具，功能涵盖网站扫描、端口扫描、企业信息收集、子域名暴破、空间引擎搜索、CDN识别等
 * 【2024-01-05】[zhu327 / gemini-openai-proxy](https://github.com/zhu327/gemini-openai-proxy) - A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.
@@ -129,6 +136,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[aceberg / ExerciseDiary](https://github.com/aceberg/ExerciseDiary) - Workout diary with GitHub-style year visualization
 ## Python
 
+* 【2024-01-10】[ymcui / Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) - 中文LLaMA-2 & Alpaca-2大模型二期项目 + 64K超长上下文模型 (Chinese LLaMA-2 & Alpaca-2 LLMs with 64K long context models)
+* 【2024-01-10】[netease-youdao / BCEmbedding](https://github.com/netease-youdao/BCEmbedding) - Netease Youdao's open-source embedding and reranker models for RAG products.
+* 【2024-01-10】[laixintao / flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer.
+* 【2024-01-10】[hummingbot / hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
+* 【2024-01-10】[Farama-Foundation / Gymnasium](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)
 * 【2024-01-09】[skfolio / skfolio](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn
 * 【2024-01-09】[Bing-su / adetailer](https://github.com/Bing-su/adetailer) - Auto detecting, masking and inpainting with detection model.
 * 【2024-01-09】[reddelexc / hackerone-reports](https://github.com/reddelexc/hackerone-reports) - Top disclosed reports from HackerOne
@@ -180,6 +192,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[lutris / lutris](https://github.com/lutris/lutris) - Lutris desktop client
 ## Javascript
 
+* 【2024-01-10】[phaserjs / phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+* 【2024-01-10】[Everduin94 / better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack
+* 【2024-01-10】[GAIR-NLP / MathPile](https://github.com/GAIR-NLP/MathPile) - Generative AI for Math: MathPile
+* 【2024-01-10】[mschwarzmueller / nextjs-complete-guide-course-resources](https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources) - Course resources for my "NextJS - The Complete Guide" course (https://acad.link/nextjs)
+* 【2024-01-10】[michalsnik / aos](https://github.com/michalsnik/aos) - Animate on scroll library
 * 【2024-01-09】[bytedance / xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
 * 【2024-01-09】[adrianhajdin / docker-course](https://github.com/adrianhajdin/docker-course) - Full Modern Docker Course
 * 【2024-01-09】[MagicMirrorOrg / MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
@@ -210,6 +227,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[yonggekkk / openwrt_win64-ddns-cdnip](https://github.com/yonggekkk/openwrt_win64-ddns-cdnip) - OpenWrt软路由/Win64电脑专用优选IP一键脚本，支持ddns(批量IP解析同个域名，单个IP解析单个域名)与无域名模式，13个端口任意选，支持优选官方IP与反代IP切换，支持TG、Pushplus推送通知，软路由适配passwall、passwall2、ssr-plus、clash、openclash、bypass、v2raya、helloworld多种代理插件
 ## C
 
+* 【2024-01-10】[hrtowii / Serotonin](https://github.com/hrtowii/Serotonin) - 
+* 【2024-01-10】[cc65 / cc65](https://github.com/cc65/cc65) - cc65 - a freeware C compiler for 6502 based systems
+* 【2024-01-10】[n0xa / m5stick-nemo](https://github.com/n0xa/m5stick-nemo) - M5 Stick C firmware for high-tech pranks
+* 【2024-01-10】[sysprog21 / shecc](https://github.com/sysprog21/shecc) - A self-hosting and educational C optimizing compiler
+* 【2024-01-10】[awslabs / amazon-kinesis-video-streams-webrtc-sdk-c](https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c) - Amazon Kinesis Video Streams Webrtc SDK is for developers to install and customize realtime communication between devices and enable secure streaming of video, audio to Kinesis Video Streams.
+* 【2024-01-10】[memtest86plus / memtest86plus](https://github.com/memtest86plus/memtest86plus) - Official repo for Memtest86+
+* 【2024-01-10】[veo / nginx_shell](https://github.com/veo/nginx_shell) - nginx WebShell/内存马，更优雅的nignx backdoor
 * 【2024-01-09】[rswier / swieros](https://github.com/rswier/swieros) - A tiny hand crafted CPU emulator, C compiler, and Operating System
 * 【2024-01-08】[joncampbell123 / dosbox-x](https://github.com/joncampbell123/dosbox-x) - DOSBox-X fork of the DOSBox project
 * 【2024-01-08】[cpq / bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide) - A bare metal programming guide (ARM microcontrollers)
@@ -240,6 +264,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[Maldev-Academy / Christmas](https://github.com/Maldev-Academy/Christmas) - 
 ## C++
 
+* 【2024-01-10】[facebook / react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 * 【2024-01-09】[rizinorg / cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 * 【2024-01-09】[erincatto / box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 * 【2024-01-08】[YosysHQ / yosys](https://github.com/YosysHQ/yosys) - Yosys Open SYnthesis Suite
@@ -261,6 +286,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[hackerhouse-opensource / Marble](https://github.com/hackerhouse-opensource/Marble) - The CIA's Marble Framework is designed to allow for flexible and easy-to-use obfuscation when developing tools.
 ## Typescript
 
+* 【2024-01-10】[wasp-lang / open-saas](https://github.com/wasp-lang/open-saas) - An open-source SaaS app template with superpowers
+* 【2024-01-10】[Portkey-AI / gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
 * 【2024-01-09】[homebridge / homebridge-config-ui-x](https://github.com/homebridge/homebridge-config-ui-x) - The Homebridge UI. Monitor, configure and backup Homebridge from a browser.
 * 【2024-01-09】[vercel / ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 * 【2024-01-08】[philschmid / clipper.js](https://github.com/philschmid/clipper.js) - HTML to Markdown converter and crawler.
