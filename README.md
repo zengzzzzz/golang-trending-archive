@@ -53,6 +53,12 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-01-12】[keiyoushi / extensions](https://github.com/keiyoushi/extensions) - Source extensions for the Tachiyomi app.
+* 【2024-01-12】[keiyoushi / extensions-source](https://github.com/keiyoushi/extensions-source) - Source code of the extensions for the Tachiyomi app.
+* 【2024-01-12】[atuinsh / atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+* 【2024-01-12】[apache / flink](https://github.com/apache/flink) - Apache Flink
+* 【2024-01-12】[terraform-aws-modules / terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create AWS Elastic Kubernetes (EKS) resources 🇺🇦
+* 【2024-01-12】[ProjectNUWA / DragNUWA](https://github.com/ProjectNUWA/DragNUWA) - 
 * 【2024-01-11】[LSPosed / LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 * 【2024-01-11】[wagoodman / dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 * 【2024-01-11】[OdysseusYuan / LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
@@ -122,6 +128,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[nvim-tree / nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
 ## Go
 
+* 【2024-01-12】[ardanlabs / service](https://github.com/ardanlabs/service) - Starter-kit for writing services in Go using Kubernetes.
+* 【2024-01-12】[deepflowio / deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF
+* 【2024-01-12】[nsqio / nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
+* 【2024-01-12】[volcano-sh / volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF)
 * 【2024-01-11】[AnalogJ / scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 * 【2024-01-10】[anthdm / raptor](https://github.com/anthdm/raptor) - Create, Deploy, and Run your applications on the edge
 * 【2024-01-09】[DrDonk / unlocker](https://github.com/DrDonk/unlocker) - VMware macOS utilities
@@ -144,6 +154,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[aceberg / ExerciseDiary](https://github.com/aceberg/ExerciseDiary) - Workout diary with GitHub-style year visualization
 ## Python
 
+* 【2024-01-12】[buaavrcg / BakedAvatar](https://github.com/buaavrcg/BakedAvatar) - Pytorch Code for "BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis"
+* 【2024-01-12】[jupyterlab / jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
+* 【2024-01-12】[HarborYuan / ovsam](https://github.com/HarborYuan/ovsam) - 
+* 【2024-01-12】[mikel-brostrom / yolo_tracking](https://github.com/mikel-brostrom/yolo_tracking) - BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models
+* 【2024-01-12】[qubvel / segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch) - Segmentation models with pretrained backbones. PyTorch.
+* 【2024-01-12】[Bert-JanP / Hunting-Queries-Detection-Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules) - KQL Queries. Defender For Endpoint and Azure Sentinel Hunting and Detection Queries in KQL. Out of the box KQL queries for: Advanced Hunting, Custom Detection, Analytics Rules & Hunting Rules.
 * 【2024-01-11】[plotly / plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python ✨ This project now includes Plotly Express!
 * 【2024-01-11】[langchain-ai / langgraph](https://github.com/langchain-ai/langgraph) - 
 * 【2024-01-11】[hpcaitech / SwiftInfer](https://github.com/hpcaitech/SwiftInfer) - Efficient AI Inference & Serving
@@ -206,6 +222,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[lutris / lutris](https://github.com/lutris/lutris) - Lutris desktop client
 ## Javascript
 
+* 【2024-01-12】[midudev / preguntas-entrevista-react](https://github.com/midudev/preguntas-entrevista-react) - Preguntas típicas sobre React para entrevistas de trabajo ⚛️
+* 【2024-01-12】[necolas / react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
+* 【2024-01-12】[Dash-Industry-Forum / dash.js](https://github.com/Dash-Industry-Forum/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
+* 【2024-01-12】[prebid / Prebid.js](https://github.com/prebid/Prebid.js) - Setup and manage header bidding advertising partners without writing code or confusing line items. Prebid.js is open source and free.
 * 【2024-01-11】[validatorjs / validator.js](https://github.com/validatorjs/validator.js) - String validation
 * 【2024-01-11】[IsmaelMartinez / teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 * 【2024-01-10】[phaserjs / phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
@@ -243,6 +263,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[yonggekkk / openwrt_win64-ddns-cdnip](https://github.com/yonggekkk/openwrt_win64-ddns-cdnip) - OpenWrt软路由/Win64电脑专用优选IP一键脚本，支持ddns(批量IP解析同个域名，单个IP解析单个域名)与无域名模式，13个端口任意选，支持优选官方IP与反代IP切换，支持TG、Pushplus推送通知，软路由适配passwall、passwall2、ssr-plus、clash、openclash、bypass、v2raya、helloworld多种代理插件
 ## C
 
+* 【2024-01-12】[espeak-ng / espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
+* 【2024-01-12】[openvswitch / ovs](https://github.com/openvswitch/ovs) - Open vSwitch
+* 【2024-01-12】[espressif / esp32-camera](https://github.com/espressif/esp32-camera) - 
+* 【2024-01-12】[joexbayer / RetrOS-32](https://github.com/joexbayer/RetrOS-32) - 32bit Hobby Operatingsystem with graphics, multitasking and networking on i386 architecture.
+* 【2024-01-12】[eclipse-threadx / threadx](https://github.com/eclipse-threadx/threadx) - Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
 * 【2024-01-11】[bmax121 / KernelPatch](https://github.com/bmax121/KernelPatch) - Patching and hooking the Linux kernel with only a stripped Linux kernel image.
 * 【2024-01-11】[mineek / Serotonin](https://github.com/mineek/Serotonin) - 
 * 【2024-01-11】[libjpeg-turbo / libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo) - Main libjpeg-turbo repository
@@ -285,6 +310,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[Maldev-Academy / Christmas](https://github.com/Maldev-Academy/Christmas) - 
 ## C++
 
+* 【2024-01-12】[linkdd / aitoolkit](https://github.com/linkdd/aitoolkit) - Give a brain to your game's NPCs
+* 【2024-01-12】[hku-mars / M-detector](https://github.com/hku-mars/M-detector) - 
+* 【2024-01-12】[AGWA / git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 * 【2024-01-10】[facebook / react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 * 【2024-01-09】[rizinorg / cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 * 【2024-01-09】[erincatto / box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
@@ -307,6 +335,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[hackerhouse-opensource / Marble](https://github.com/hackerhouse-opensource/Marble) - The CIA's Marble Framework is designed to allow for flexible and easy-to-use obfuscation when developing tools.
 ## Typescript
 
+* 【2024-01-12】[software-mansion / react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native.
+* 【2024-01-12】[maybe-finance / maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
+* 【2024-01-12】[morethanwords / tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3
+* 【2024-01-12】[pancakeswap / pancake-frontend](https://github.com/pancakeswap/pancake-frontend) - 🥞 Pancake main features (farms, pools, IFO, lottery, profiles)
+* 【2024-01-12】[remix-run / example-trellix](https://github.com/remix-run/example-trellix) - A partial trello board clone with Remix
+* 【2024-01-12】[mikro-orm / mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
 * 【2024-01-11】[LHRUN / paint-board](https://github.com/LHRUN/paint-board) - Canvas based drawing board, including free drawing, eraser, text, select, layer, undo, redo, clear, save, drag
 * 【2024-01-11】[keystonejs / keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
 * 【2024-01-11】[alex8088 / electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
