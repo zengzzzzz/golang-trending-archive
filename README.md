@@ -53,6 +53,9 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-01-14】[AIGCDesignGroup / ReplaceAnything](https://github.com/AIGCDesignGroup/ReplaceAnything) - 
+* 【2024-01-14】[ruby / ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
+* 【2024-01-14】[ArchiveBox / ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 * 【2024-01-13】[subquery / subql](https://github.com/subquery/subql) - SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future.
 * 【2024-01-13】[meilisearch / meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 * 【2024-01-13】[ahmedbahaaeldin / From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) - Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.
@@ -131,6 +134,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[nvim-tree / nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
 ## Go
 
+* 【2024-01-14】[berachain / polaris](https://github.com/berachain/polaris) - Polaris is a modular implementation of the Ethereum Virtual Machine (EVM). It can be easily integrated into any consensus engine or application, including the Cosmos-SDK.
 * 【2024-01-12】[ardanlabs / service](https://github.com/ardanlabs/service) - Starter-kit for writing services in Go using Kubernetes.
 * 【2024-01-12】[deepflowio / deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF
 * 【2024-01-12】[nsqio / nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
@@ -157,6 +161,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[aceberg / ExerciseDiary](https://github.com/aceberg/ExerciseDiary) - Workout diary with GitHub-style year visualization
 ## Python
 
+* 【2024-01-14】[NVIDIA / NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
+* 【2024-01-14】[Azure / azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
+* 【2024-01-14】[holoviz / panel](https://github.com/holoviz/panel) - Panel: The powerful data exploration & web app framework for Python
+* 【2024-01-14】[Tele-AI / Telechat](https://github.com/Tele-AI/Telechat) - 
+* 【2024-01-14】[EntySec / SeaShell](https://github.com/EntySec/SeaShell) - SeaShell Framework is an iOS post-exploitation framework that enables you to access the device remotely, control it and extract sensitive information.
+* 【2024-01-14】[Gozargah / Marzban](https://github.com/Gozargah/Marzban) - Unified GUI Censorship Resistant Solution Powered by Xray
 * 【2024-01-13】[datamllab / LongLM](https://github.com/datamllab/LongLM) - LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning
 * 【2024-01-13】[NVIDIA / trt-llm-rag-windows](https://github.com/NVIDIA/trt-llm-rag-windows) - A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM
 * 【2024-01-13】[hogan-tech / leetcode-solution](https://github.com/hogan-tech/leetcode-solution) - Explore diverse LeetCode solutions in Python, C++, JavaScript, SQL, and TypeScript. Ideal for interview prep, learning, and code practice in multiple programming languages.
@@ -231,6 +241,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[lutris / lutris](https://github.com/lutris/lutris) - Lutris desktop client
 ## Javascript
 
+* 【2024-01-14】[alyssaxuu / screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
+* 【2024-01-14】[prabathLK / PRABATH-MD](https://github.com/prabathLK/PRABATH-MD) - 🇱🇰 Multi-device whatsapp bot 🎉
 * 【2024-01-13】[HumanSignal / label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 * 【2024-01-12】[midudev / preguntas-entrevista-react](https://github.com/midudev/preguntas-entrevista-react) - Preguntas típicas sobre React para entrevistas de trabajo ⚛️
 * 【2024-01-12】[necolas / react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
@@ -273,6 +285,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[yonggekkk / openwrt_win64-ddns-cdnip](https://github.com/yonggekkk/openwrt_win64-ddns-cdnip) - OpenWrt软路由/Win64电脑专用优选IP一键脚本，支持ddns(批量IP解析同个域名，单个IP解析单个域名)与无域名模式，13个端口任意选，支持优选官方IP与反代IP切换，支持TG、Pushplus推送通知，软路由适配passwall、passwall2、ssr-plus、clash、openclash、bypass、v2raya、helloworld多种代理插件
 ## C
 
+* 【2024-01-14】[EpicGames / raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
+* 【2024-01-14】[tenclass / mvisor](https://github.com/tenclass/mvisor) - A mini x86 hypervisor
 * 【2024-01-13】[Hugobros3 / shady](https://github.com/Hugobros3/shady) - Research shading language IR
 * 【2024-01-12】[espeak-ng / espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 * 【2024-01-12】[openvswitch / ovs](https://github.com/openvswitch/ovs) - Open vSwitch
@@ -321,6 +335,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[Maldev-Academy / Christmas](https://github.com/Maldev-Academy/Christmas) - 
 ## C++
 
+* 【2024-01-14】[spaceandtimelabs / blitzar](https://github.com/spaceandtimelabs/blitzar) - Zero-knowledge proof acceleration with GPUs for C++ and Rust
 * 【2024-01-13】[falcosecurity / falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 * 【2024-01-12】[linkdd / aitoolkit](https://github.com/linkdd/aitoolkit) - Give a brain to your game's NPCs
 * 【2024-01-12】[hku-mars / M-detector](https://github.com/hku-mars/M-detector) - 
@@ -347,6 +362,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[hackerhouse-opensource / Marble](https://github.com/hackerhouse-opensource/Marble) - The CIA's Marble Framework is designed to allow for flexible and easy-to-use obfuscation when developing tools.
 ## Typescript
 
+* 【2024-01-14】[sparrow-js / ant-codeAI](https://github.com/sparrow-js/ant-codeAI) - AI generate code
+* 【2024-01-14】[jito-labs / mev-bot](https://github.com/jito-labs/mev-bot) - 
+* 【2024-01-14】[vfarid / v2ray-worker](https://github.com/vfarid/v2ray-worker) - Total solution for V2Ray over Cloudflare's worker
 * 【2024-01-13】[ever-co / ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM)
 * 【2024-01-13】[cosdensolutions / code](https://github.com/cosdensolutions/code) - Source code for all Cosden Solutions videos
 * 【2024-01-12】[software-mansion / react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native.
