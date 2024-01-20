@@ -53,6 +53,17 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-01-20】[ejoy / ant](https://github.com/ejoy/ant) - Ant game engine
+* 【2024-01-20】[spatie / holidays](https://github.com/spatie/holidays) - Calculate which days you don't have to work!
+* 【2024-01-20】[google-deepmind / alphageometry](https://github.com/google-deepmind/alphageometry) - 
+* 【2024-01-20】[InstantID / InstantID](https://github.com/InstantID/InstantID) - InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥
+* 【2024-01-20】[kparc / ksimple](https://github.com/kparc/ksimple) - bare minimum atw-style interpreter for learning purposes
+* 【2024-01-20】[alura-es-cursos / 2034-logica-programacion-1](https://github.com/alura-es-cursos/2034-logica-programacion-1) - Curso de lógica de programación 1 - Alura Latam
+* 【2024-01-20】[VRSEN / agency-swarm](https://github.com/VRSEN/agency-swarm) - 
+* 【2024-01-20】[sgl-project / sglang](https://github.com/sgl-project/sglang) - SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with LLMs faster and more controllable.
+* 【2024-01-20】[Vaibhavs10 / open-tts-tracker](https://github.com/Vaibhavs10/open-tts-tracker) - 
+* 【2024-01-20】[apple / ml-aim](https://github.com/apple/ml-aim) - This repository provides the code and model checkpoints of the research paper: Scalable Pre-training of Large Autoregressive Image Models
+* 【2024-01-20】[suyalcinkaya / onur.dev](https://github.com/suyalcinkaya/onur.dev) - ✦ My personal website built using Next.js, Tailwind CSS, shadcn/ui, Contentful, Raindrop, Supabase and deployed on Vercel.
 * 【2024-01-19】[mihonapp / mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 * 【2024-01-19】[RVC-Boss / GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 * 【2024-01-19】[rails / rails](https://github.com/rails/rails) - Ruby on Rails
@@ -156,6 +167,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[nvim-tree / nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
 ## Go
 
+* 【2024-01-20】[yeasy / docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
+* 【2024-01-20】[fluxcd / flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+* 【2024-01-20】[bufbuild / protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - Protocol Buffer Validation - Being replaced by github.com/bufbuild/protovalidate
 * 【2024-01-19】[arpitbbhayani / database-fundamentals](https://github.com/arpitbbhayani/database-fundamentals) - Prototype implementations of database internal concepts and algorithms.
 * 【2024-01-19】[nicocha30 / ligolo-ng](https://github.com/nicocha30/ligolo-ng) - An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
 * 【2024-01-19】[kffl / speedbump](https://github.com/kffl/speedbump) - TCP proxy for simulating variable, yet predictable network latency 🌐⏳
@@ -199,6 +213,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[aceberg / ExerciseDiary](https://github.com/aceberg/ExerciseDiary) - Workout diary with GitHub-style year visualization
 ## Python
 
+* 【2024-01-20】[Ciphey / Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+* 【2024-01-20】[ZHO-ZHO-ZHO / ComfyUI-PhotoMaker](https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker) - Unofficial implementation of PhotoMaker for ComfyUI
+* 【2024-01-20】[msd0pe-1 / cve-maker](https://github.com/msd0pe-1/cve-maker) - Tool to find CVEs and Exploits.
+* 【2024-01-20】[hitsz-ids / synthetic-data-generator](https://github.com/hitsz-ids/synthetic-data-generator) - 专注于结构化表格数据快速生成合成数据的组件
+* 【2024-01-20】[KasperskyLab / iShutdown](https://github.com/KasperskyLab/iShutdown) - 
 * 【2024-01-19】[gnuboard / g6](https://github.com/gnuboard/g6) - 
 * 【2024-01-19】[can-kat / cstealer](https://github.com/can-kat/cstealer) - [BIG UPDATE] A discord token grabber, crypto wallet stealer, cookie stealer, password stealer, file stealer etc. app written in Python.
 * 【2024-01-18】[fishaudio / fish-speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution
@@ -303,6 +322,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[lutris / lutris](https://github.com/lutris/lutris) - Lutris desktop client
 ## Javascript
 
+* 【2024-01-20】[31b4 / Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass) - Leetcode Premium Unlocker 2024
+* 【2024-01-20】[aFarkas / lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
+* 【2024-01-20】[nhn / tui.image-editor](https://github.com/nhn/tui.image-editor) - 🍞🎨 Full-featured photo image editor using canvas. It is really easy, and it comes with great filters.
 * 【2024-01-19】[kleampa / not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 * 【2024-01-19】[Shopify / eng-intern-assessment-react](https://github.com/Shopify/eng-intern-assessment-react) - A Starter repo for Shopify React Intern assessments
 * 【2024-01-19】[MrXujiang / h5-Dooring](https://github.com/MrXujiang/h5-Dooring) - H5 Page Maker, H5 Editor, LowCode. Make H5 as easy as building blocks. | 让H5制作像搭积木一样简单, 轻松搭建H5页面, H5网站, PC端网站,LowCode平台.
@@ -363,6 +385,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[yonggekkk / openwrt_win64-ddns-cdnip](https://github.com/yonggekkk/openwrt_win64-ddns-cdnip) - OpenWrt软路由/Win64电脑专用优选IP一键脚本，支持ddns(批量IP解析同个域名，单个IP解析单个域名)与无域名模式，13个端口任意选，支持优选官方IP与反代IP切换，支持TG、Pushplus推送通知，软路由适配passwall、passwall2、ssr-plus、clash、openclash、bypass、v2raya、helloworld多种代理插件
 ## C
 
+* 【2024-01-20】[janoglezcampos / llvm-yx-callobfuscator](https://github.com/janoglezcampos/llvm-yx-callobfuscator) - LLVM plugin to transparently apply stack spoofing and indirect syscalls to Windows x64 native calls at compile time.
+* 【2024-01-20】[ipxe / ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
+* 【2024-01-20】[google / sanitizers](https://github.com/google/sanitizers) - AddressSanitizer, ThreadSanitizer, MemorySanitizer
 * 【2024-01-19】[sched-ext / scx](https://github.com/sched-ext/scx) - sched_ext schedulers and tools
 * 【2024-01-19】[SecWiki / windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits) - windows-kernel-exploits Windows平台提权漏洞集合
 * 【2024-01-19】[buzzm / postgresbson](https://github.com/buzzm/postgresbson) - postgres support for BSON
@@ -428,6 +453,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[Maldev-Academy / Christmas](https://github.com/Maldev-Academy/Christmas) - 
 ## C++
 
+* 【2024-01-20】[inferflow / inferflow](https://github.com/inferflow/inferflow) - Inferflow is an efficient and highly configurable inference engine for large language models (LLMs).
 * 【2024-01-19】[apple / foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 * 【2024-01-19】[JakubMelka / PDF4QT](https://github.com/JakubMelka/PDF4QT) - Open source PDF editor.
 * 【2024-01-18】[eclipse-iceoryx / iceoryx](https://github.com/eclipse-iceoryx/iceoryx) - Eclipse iceoryx™ - true zero-copy inter-process-communication
@@ -472,6 +498,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[hackerhouse-opensource / Marble](https://github.com/hackerhouse-opensource/Marble) - The CIA's Marble Framework is designed to allow for flexible and easy-to-use obfuscation when developing tools.
 ## Typescript
 
+* 【2024-01-20】[nianhua99 / PandoraNext-Helper](https://github.com/nianhua99/PandoraNext-Helper) - 轻松使用 Pandora Next 并在网页中管理所有Token！Easily use Pandora Next and manage all your tokens online！Легко используйте Pandora Next и управляйте всеми токенами в Интернете!
 * 【2024-01-19】[actions / cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 * 【2024-01-19】[vendure-ecommerce / vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
 * 【2024-01-19】[alibaba / lowcode-demo](https://github.com/alibaba/lowcode-demo) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
