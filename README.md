@@ -53,6 +53,12 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-01-22】[rustdesk / rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+* 【2024-01-22】[mingrammer / diagrams](https://github.com/mingrammer/diagrams) - 🎨 Diagram as Code for prototyping cloud system architectures
+* 【2024-01-22】[ChrisTitusTech / winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+* 【2024-01-22】[oven-sh / bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+* 【2024-01-22】[gregorojstersek / resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people!
+* 【2024-01-22】[sst / demo-ai-app](https://github.com/sst/demo-ai-app) - Sample AI movies app built with ❍ Ion
 * 【2024-01-21】[Andre0512 / pyhOn](https://github.com/Andre0512/pyhOn) - Control hOn devices with python
 * 【2024-01-21】[Codium-ai / AlphaCodium](https://github.com/Codium-ai/AlphaCodium) - code generation tool that surpasses most human competitors in CodeContests
 * 【2024-01-21】[hustvl / Vim](https://github.com/hustvl/Vim) - Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model
@@ -338,6 +344,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[lutris / lutris](https://github.com/lutris/lutris) - Lutris desktop client
 ## Javascript
 
+* 【2024-01-22】[LiteLoaderQQNT / LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源
 * 【2024-01-21】[JC144 / EDF_Simulateur_Prix](https://github.com/JC144/EDF_Simulateur_Prix) - Un outil pour simuler les différents Tarifs EDF depuis un export de la consommation.
 * 【2024-01-21】[bvaughn / react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 * 【2024-01-21】[Sharkgrammer / clockface.json](https://github.com/Sharkgrammer/clockface.json) - VSCode inspired watch face for Sense and Versa 3
@@ -404,6 +411,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[yonggekkk / openwrt_win64-ddns-cdnip](https://github.com/yonggekkk/openwrt_win64-ddns-cdnip) - OpenWrt软路由/Win64电脑专用优选IP一键脚本，支持ddns(批量IP解析同个域名，单个IP解析单个域名)与无域名模式，13个端口任意选，支持优选官方IP与反代IP切换，支持TG、Pushplus推送通知，软路由适配passwall、passwall2、ssr-plus、clash、openclash、bypass、v2raya、helloworld多种代理插件
 ## C
 
+* 【2024-01-22】[Awesome-HarmonyOS / HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 * 【2024-01-21】[AnonymousAAArdvark / qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
 * 【2024-01-21】[pnggroup / libpng](https://github.com/pnggroup/libpng) - LIBPNG: Portable Network Graphics support, official libpng repository
 * 【2024-01-21】[mitre-cyber-academy / 2024-ectf-insecure-example](https://github.com/mitre-cyber-academy/2024-ectf-insecure-example) - Insecure reference example for the 2024 Collegiate eCTF
@@ -475,6 +483,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[Maldev-Academy / Christmas](https://github.com/Maldev-Academy/Christmas) - 
 ## C++
 
+* 【2024-01-22】[WebAssembly / wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
+* 【2024-01-22】[flyinghead / flycast](https://github.com/flyinghead/flycast) - Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator
+* 【2024-01-22】[Maplespe / ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - Add background Blur effect or Acrylic (Mica for win11) effect to explorer for win10 and win11
+* 【2024-01-22】[tbnobody / OpenDTU](https://github.com/tbnobody/OpenDTU) - Software for ESP32 to talk to Hoymiles Inverters
 * 【2024-01-21】[pixpark / gpupixel](https://github.com/pixpark/gpupixel) - Cross-Platform AI Beauty Effects Library, Achieving Commercial-Grade Beauty Effects. Written in C++11, Based on OpenGL/ES and VNN.
 * 【2024-01-21】[senzee1984 / MutationGate](https://github.com/senzee1984/MutationGate) - Use hardware breakpoint to dynamically change SSN in run-time
 * 【2024-01-21】[unicode-org / icu](https://github.com/unicode-org/icu) - The home of the ICU project source code.
@@ -523,6 +535,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[hackerhouse-opensource / Marble](https://github.com/hackerhouse-opensource/Marble) - The CIA's Marble Framework is designed to allow for flexible and easy-to-use obfuscation when developing tools.
 ## Typescript
 
+* 【2024-01-22】[placemark / placemark](https://github.com/placemark/placemark) - Placemark open source project
+* 【2024-01-22】[mihonapp / website](https://github.com/mihonapp/website) - Official website for the Mihon app.
+* 【2024-01-22】[FuelLabs / swayswap](https://github.com/FuelLabs/swayswap) - SwaySwap is a blazingly fast DEX built on the fastest modular execution layer: Fuel.
 * 【2024-01-21】[penrose / penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text.
 * 【2024-01-21】[gluestack / gluestack-ui](https://github.com/gluestack/gluestack-ui) - Universal Themed & Unstyled Components For React Native, Next.js, Expo & React
 * 【2024-01-20】[nianhua99 / PandoraNext-Helper](https://github.com/nianhua99/PandoraNext-Helper) - 轻松使用 Pandora Next 并在网页中管理所有Token！Easily use Pandora Next and manage all your tokens online！Легко используйте Pandora Next и управляйте всеми токенами в Интернете!
