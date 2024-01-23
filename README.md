@@ -53,6 +53,13 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-01-23】[apernet / OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux
+* 【2024-01-23】[majacinka / crewai-experiments](https://github.com/majacinka/crewai-experiments) - Experiments with local as well as models available through an api
+* 【2024-01-23】[thijsvanloef / palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server.
+* 【2024-01-23】[dair-ai / ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
+* 【2024-01-23】[jammsen / docker-palworld-dedicated-server](https://github.com/jammsen/docker-palworld-dedicated-server) - Docker container to easily provision and manage Palworld Forest Dedicated Server
+* 【2024-01-23】[jonbarron / camp_zipnerf](https://github.com/jonbarron/camp_zipnerf) - 
+* 【2024-01-23】[hiddify / hiddify-next](https://github.com/hiddify/hiddify-next) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 * 【2024-01-22】[rustdesk / rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 * 【2024-01-22】[mingrammer / diagrams](https://github.com/mingrammer/diagrams) - 🎨 Diagram as Code for prototyping cloud system architectures
 * 【2024-01-22】[ChrisTitusTech / winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
@@ -181,6 +188,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[nvim-tree / nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
 ## Go
 
+* 【2024-01-23】[singchia / geminio](https://github.com/singchia/geminio) - ♊️ An application layer networking framework with rpc, bidirectional-rpc, multiplexer, raw-io and client-server consistency. 一个Go的应用层网络编程库，支持消息和确认、RPC、双向RPC、多路复用、多会话管理等
+* 【2024-01-23】[hay-kot / homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User
+* 【2024-01-23】[ropnop / kerbrute](https://github.com/ropnop/kerbrute) - A tool to perform Kerberos pre-auth bruteforcing
+* 【2024-01-23】[bazelbuild / bazelisk](https://github.com/bazelbuild/bazelisk) - A user-friendly launcher for Bazel.
 * 【2024-01-21】[kubewharf / godel-scheduler](https://github.com/kubewharf/godel-scheduler) - an unified scheduler for online and offline tasks
 * 【2024-01-21】[hashicorp / golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache
 * 【2024-01-21】[luraproject / lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation
@@ -230,6 +241,14 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[aceberg / ExerciseDiary](https://github.com/aceberg/ExerciseDiary) - Workout diary with GitHub-style year visualization
 ## Python
 
+* 【2024-01-23】[father-bot / chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 
+* 【2024-01-23】[huggingface / nanotron](https://github.com/huggingface/nanotron) - Minimalistic large language model 3D-parallelism training
+* 【2024-01-23】[gabrielchua / RAGxplorer](https://github.com/gabrielchua/RAGxplorer) - Visualise and explore your RAG documents
+* 【2024-01-23】[TencentARC / GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
+* 【2024-01-23】[IncomeStreamSurfer / chatgptassistantautoblogger](https://github.com/IncomeStreamSurfer/chatgptassistantautoblogger) - This autoblogger uses the GPT assistant's API to autoblog on ecommerce websites
+* 【2024-01-23】[huggingface / datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
+* 【2024-01-23】[krishnaik06 / Google-Gemini-Crash-Course](https://github.com/krishnaik06/Google-Gemini-Crash-Course) - 
+* 【2024-01-23】[FDX100 / Auto_Tor_IP_changer](https://github.com/FDX100/Auto_Tor_IP_changer) - change your Ip address automatically This tool based on tor project
 * 【2024-01-21】[robusta-dev / krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 * 【2024-01-21】[kovidgoyal / kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 * 【2024-01-21】[IST-DASLab / marlin](https://github.com/IST-DASLab/marlin) - FP16xINT4 LLM inference kernel that can achieve near-ideal ~4x speedups up to medium batchsizes of 16-32 tokens.
@@ -344,6 +363,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[lutris / lutris](https://github.com/lutris/lutris) - Lutris desktop client
 ## Javascript
 
+* 【2024-01-23】[openspeedtest / Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, & SVG. No Third-Party frameworks or libraries are Required. Started in 2011 and moved to OpenSpeedTest.com dedicated Project/Domain Name in 2013.
+* 【2024-01-23】[sindresorhus / execa](https://github.com/sindresorhus/execa) - Process execution for humans
+* 【2024-01-23】[sahandghavidel / mern-blog](https://github.com/sahandghavidel/mern-blog) - MERN blog using tailwind css
+* 【2024-01-23】[mdn / dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
 * 【2024-01-22】[LiteLoaderQQNT / LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源
 * 【2024-01-21】[JC144 / EDF_Simulateur_Prix](https://github.com/JC144/EDF_Simulateur_Prix) - Un outil pour simuler les différents Tarifs EDF depuis un export de la consommation.
 * 【2024-01-21】[bvaughn / react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
@@ -483,6 +506,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[Maldev-Academy / Christmas](https://github.com/Maldev-Academy/Christmas) - 
 ## C++
 
+* 【2024-01-23】[AlexandreRouma / SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
+* 【2024-01-23】[AHXR / ghost](https://github.com/AHXR/ghost) - 👻 RAT (Remote Access Trojan) - Silent Botnet - Full Remote Command-Line Access - Download & Execute Programs - Spread Virus' & Malware
 * 【2024-01-22】[WebAssembly / wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 * 【2024-01-22】[flyinghead / flycast](https://github.com/flyinghead/flycast) - Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator
 * 【2024-01-22】[Maplespe / ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - Add background Blur effect or Acrylic (Mica for win11) effect to explorer for win10 and win11
@@ -535,6 +560,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[hackerhouse-opensource / Marble](https://github.com/hackerhouse-opensource/Marble) - The CIA's Marble Framework is designed to allow for flexible and easy-to-use obfuscation when developing tools.
 ## Typescript
 
+* 【2024-01-23】[sushiswap / sushiswap](https://github.com/sushiswap/sushiswap) - Sushi 2.0 🍣
+* 【2024-01-23】[Uniswap / v3-core](https://github.com/Uniswap/v3-core) - 🦄 🦄 🦄 Core smart contracts of Uniswap v3
+* 【2024-01-23】[VaalaCat / frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for [frp](https://github.com/fatedier/frp) server and client management, which makes this project a Cloudflare Tunnel or Tailscale Funnel open source alternative
 * 【2024-01-22】[placemark / placemark](https://github.com/placemark/placemark) - Placemark open source project
 * 【2024-01-22】[mihonapp / website](https://github.com/mihonapp/website) - Official website for the Mihon app.
 * 【2024-01-22】[FuelLabs / swayswap](https://github.com/FuelLabs/swayswap) - SwaySwap is a blazingly fast DEX built on the fastest modular execution layer: Fuel.
