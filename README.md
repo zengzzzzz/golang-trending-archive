@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-01-24】[lucidrains / self-rewarding-lm-pytorch](https://github.com/lucidrains/self-rewarding-lm-pytorch) - Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI
 * 【2024-01-23】[apernet / OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux
 * 【2024-01-23】[majacinka / crewai-experiments](https://github.com/majacinka/crewai-experiments) - Experiments with local as well as models available through an api
 * 【2024-01-23】[thijsvanloef / palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server.
@@ -188,6 +189,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[nvim-tree / nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
 ## Go
 
+* 【2024-01-24】[goravel / goravel](https://github.com/goravel/goravel) - A Golang framework for web artisans. Tribute to Laravel.
 * 【2024-01-23】[singchia / geminio](https://github.com/singchia/geminio) - ♊️ An application layer networking framework with rpc, bidirectional-rpc, multiplexer, raw-io and client-server consistency. 一个Go的应用层网络编程库，支持消息和确认、RPC、双向RPC、多路复用、多会话管理等
 * 【2024-01-23】[hay-kot / homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User
 * 【2024-01-23】[ropnop / kerbrute](https://github.com/ropnop/kerbrute) - A tool to perform Kerberos pre-auth bruteforcing
@@ -241,6 +243,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[aceberg / ExerciseDiary](https://github.com/aceberg/ExerciseDiary) - Workout diary with GitHub-style year visualization
 ## Python
 
+* 【2024-01-24】[MzeroMiko / VMamba](https://github.com/MzeroMiko/VMamba) - VMamba: Visual State Space Models
+* 【2024-01-24】[GloriousEggroll / ULWGL](https://github.com/GloriousEggroll/ULWGL) - Unified Linux Wine Game Launcher
+* 【2024-01-24】[OrionStarAI / Orion](https://github.com/OrionStarAI/Orion) - Orion-14B is a family of models includes a 14B foundation LLM, and a series of models: a chat model, a long context model, a quantized model, a RAG fine-tuned model, and an Agent fine-tuned model. Orion-14B 系列模型包括一个具有140亿参数的多语言基座大模型以及一系列相关的衍生模型，包括对话模型，长文本模型，量化模型，RAG微调模型，Agent微调模型等。
+* 【2024-01-24】[bentoml / BentoML](https://github.com/bentoml/BentoML) - Build Production-Grade AI Applications
+* 【2024-01-24】[pjialin / py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
 * 【2024-01-23】[father-bot / chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 
 * 【2024-01-23】[huggingface / nanotron](https://github.com/huggingface/nanotron) - Minimalistic large language model 3D-parallelism training
 * 【2024-01-23】[gabrielchua / RAGxplorer](https://github.com/gabrielchua/RAGxplorer) - Visualise and explore your RAG documents
@@ -363,6 +370,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[lutris / lutris](https://github.com/lutris/lutris) - Lutris desktop client
 ## Javascript
 
+* 【2024-01-24】[tj / commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
+* 【2024-01-24】[huanghanzhilian / c-shopping](https://github.com/huanghanzhilian/c-shopping) - A beautiful shopping platform developed with Next.js, tailored for various devices including Desktop, Tablet, and Phone. 基于Nextjs开发同时适配Desktop、Tablet、Phone多种设备的精美购物平台
+* 【2024-01-24】[artilleryio / artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!
+* 【2024-01-24】[facefusion / facefusion-pinokio](https://github.com/facefusion/facefusion-pinokio) - Next generation face swapper and enhancer
+* 【2024-01-24】[Yuyz0112 / vx.dev](https://github.com/Yuyz0112/vx.dev) - An open-source alternative to v0.dev. Cost-effective, highly customizable, and seamlessly integrated within GitHub.
 * 【2024-01-23】[openspeedtest / Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, & SVG. No Third-Party frameworks or libraries are Required. Started in 2011 and moved to OpenSpeedTest.com dedicated Project/Domain Name in 2013.
 * 【2024-01-23】[sindresorhus / execa](https://github.com/sindresorhus/execa) - Process execution for humans
 * 【2024-01-23】[sahandghavidel / mern-blog](https://github.com/sahandghavidel/mern-blog) - MERN blog using tailwind css
@@ -434,6 +446,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[yonggekkk / openwrt_win64-ddns-cdnip](https://github.com/yonggekkk/openwrt_win64-ddns-cdnip) - OpenWrt软路由/Win64电脑专用优选IP一键脚本，支持ddns(批量IP解析同个域名，单个IP解析单个域名)与无域名模式，13个端口任意选，支持优选官方IP与反代IP切换，支持TG、Pushplus推送通知，软路由适配passwall、passwall2、ssr-plus、clash、openclash、bypass、v2raya、helloworld多种代理插件
 ## C
 
+* 【2024-01-24】[openucx / ucx](https://github.com/openucx/ucx) - Unified Communication X (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group)
 * 【2024-01-22】[Awesome-HarmonyOS / HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 * 【2024-01-21】[AnonymousAAArdvark / qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
 * 【2024-01-21】[pnggroup / libpng](https://github.com/pnggroup/libpng) - LIBPNG: Portable Network Graphics support, official libpng repository
@@ -506,6 +519,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[Maldev-Academy / Christmas](https://github.com/Maldev-Academy/Christmas) - 
 ## C++
 
+* 【2024-01-24】[Maplespe / DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) - Add blur effect to global system title bar, support win10 and win11.
+* 【2024-01-24】[UE4SS-RE / RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) - Injectable LUA scripting system, SDK generator, live property editor and other dumping utilities for UE4/5 games
 * 【2024-01-23】[AlexandreRouma / SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
 * 【2024-01-23】[AHXR / ghost](https://github.com/AHXR/ghost) - 👻 RAT (Remote Access Trojan) - Silent Botnet - Full Remote Command-Line Access - Download & Execute Programs - Spread Virus' & Malware
 * 【2024-01-22】[WebAssembly / wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
@@ -560,6 +575,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[hackerhouse-opensource / Marble](https://github.com/hackerhouse-opensource/Marble) - The CIA's Marble Framework is designed to allow for flexible and easy-to-use obfuscation when developing tools.
 ## Typescript
 
+* 【2024-01-24】[jln13x / ui.jln.dev](https://github.com/jln13x/ui.jln.dev) - 10.000+ Themes for shadcn/ui.
+* 【2024-01-24】[ReactiveX / rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
+* 【2024-01-24】[emilkowalski / vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React.
+* 【2024-01-24】[rejetto / hfs](https://github.com/rejetto/hfs) - HFS is a web file server to run on your computer. Share folders or even a single file thanks to the virtual file system.
 * 【2024-01-23】[sushiswap / sushiswap](https://github.com/sushiswap/sushiswap) - Sushi 2.0 🍣
 * 【2024-01-23】[Uniswap / v3-core](https://github.com/Uniswap/v3-core) - 🦄 🦄 🦄 Core smart contracts of Uniswap v3
 * 【2024-01-23】[VaalaCat / frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for [frp](https://github.com/fatedier/frp) server and client management, which makes this project a Cloudflare Tunnel or Tailscale Funnel open source alternative
