@@ -53,6 +53,13 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-01-25】[LiheYoung / Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data
+* 【2024-01-25】[alura-cursos / spotify-imersao](https://github.com/alura-cursos/spotify-imersao) - 
+* 【2024-01-25】[iam-veeramalla / Azure-zero-to-hero](https://github.com/iam-veeramalla/Azure-zero-to-hero) - Repository to learn Azure from Zero. This repository covers the complete Azure fundamentals required for a DevOps Engineer.
+* 【2024-01-25】[anonystick / anonystick](https://github.com/anonystick/anonystick) - FullStack
+* 【2024-01-25】[xNul / palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix) - Fixes the bug which forces a player to create a new character when they already have a save. Useful for migrating maps from co-op to dedicated servers and from one dedicated server to another.
+* 【2024-01-25】[mayaracardoso / spotify-imersao](https://github.com/mayaracardoso/spotify-imersao) - 
+* 【2024-01-25】[Tichau / FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.
 * 【2024-01-24】[lucidrains / self-rewarding-lm-pytorch](https://github.com/lucidrains/self-rewarding-lm-pytorch) - Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI
 * 【2024-01-23】[apernet / OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux
 * 【2024-01-23】[majacinka / crewai-experiments](https://github.com/majacinka/crewai-experiments) - Experiments with local as well as models available through an api
@@ -189,6 +196,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[nvim-tree / nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
 ## Go
 
+* 【2024-01-25】[ffenix113 / zigbee_home](https://github.com/ffenix113/zigbee_home) - Project to provide functionality similar to ESPHome but for Zigbee instead of WiFi for nRF52
+* 【2024-01-25】[projectdiscovery / naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
+* 【2024-01-25】[litmuschaos / litmus](https://github.com/litmuschaos/litmus) - Litmus helps SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q
 * 【2024-01-24】[goravel / goravel](https://github.com/goravel/goravel) - A Golang framework for web artisans. Tribute to Laravel.
 * 【2024-01-23】[singchia / geminio](https://github.com/singchia/geminio) - ♊️ An application layer networking framework with rpc, bidirectional-rpc, multiplexer, raw-io and client-server consistency. 一个Go的应用层网络编程库，支持消息和确认、RPC、双向RPC、多路复用、多会话管理等
 * 【2024-01-23】[hay-kot / homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User
@@ -243,6 +253,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[aceberg / ExerciseDiary](https://github.com/aceberg/ExerciseDiary) - Workout diary with GitHub-style year visualization
 ## Python
 
+* 【2024-01-25】[sqlalchemy / sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
+* 【2024-01-25】[crowsonkb / k-diffusion](https://github.com/crowsonkb/k-diffusion) - Karras et al. (2022) diffusion models for PyTorch
+* 【2024-01-25】[InternLM / HuixiangDou](https://github.com/InternLM/HuixiangDou) - HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance
+* 【2024-01-25】[NattKh / PalWorld-Tools](https://github.com/NattKh/PalWorld-Tools) - 
 * 【2024-01-24】[MzeroMiko / VMamba](https://github.com/MzeroMiko/VMamba) - VMamba: Visual State Space Models
 * 【2024-01-24】[GloriousEggroll / ULWGL](https://github.com/GloriousEggroll/ULWGL) - Unified Linux Wine Game Launcher
 * 【2024-01-24】[OrionStarAI / Orion](https://github.com/OrionStarAI/Orion) - Orion-14B is a family of models includes a 14B foundation LLM, and a series of models: a chat model, a long context model, a quantized model, a RAG fine-tuned model, and an Agent fine-tuned model. Orion-14B 系列模型包括一个具有140亿参数的多语言基座大模型以及一系列相关的衍生模型，包括对话模型，长文本模型，量化模型，RAG微调模型，Agent微调模型等。
@@ -370,6 +384,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[lutris / lutris](https://github.com/lutris/lutris) - Lutris desktop client
 ## Javascript
 
+* 【2024-01-25】[timqian / chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
+* 【2024-01-25】[plasma-umass / scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
+* 【2024-01-25】[fouber / lottery](https://github.com/fouber/lottery) - 年会抽奖程序
 * 【2024-01-24】[tj / commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 * 【2024-01-24】[huanghanzhilian / c-shopping](https://github.com/huanghanzhilian/c-shopping) - A beautiful shopping platform developed with Next.js, tailored for various devices including Desktop, Tablet, and Phone. 基于Nextjs开发同时适配Desktop、Tablet、Phone多种设备的精美购物平台
 * 【2024-01-24】[artilleryio / artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!
@@ -446,6 +463,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[yonggekkk / openwrt_win64-ddns-cdnip](https://github.com/yonggekkk/openwrt_win64-ddns-cdnip) - OpenWrt软路由/Win64电脑专用优选IP一键脚本，支持ddns(批量IP解析同个域名，单个IP解析单个域名)与无域名模式，13个端口任意选，支持优选官方IP与反代IP切换，支持TG、Pushplus推送通知，软路由适配passwall、passwall2、ssr-plus、clash、openclash、bypass、v2raya、helloworld多种代理插件
 ## C
 
+* 【2024-01-25】[RedSiege / GraphStrike](https://github.com/RedSiege/GraphStrike) - Cobalt Strike HTTPS beaconing over Microsoft Graph API
+* 【2024-01-25】[Maldev-Academy / RemoteTLSCallbackInjection](https://github.com/Maldev-Academy/RemoteTLSCallbackInjection) - Utilizing TLS callbacks to execute a payload without spawning any threads in a remote process
+* 【2024-01-25】[the-tcpdump-group / libpcap](https://github.com/the-tcpdump-group/libpcap) - the LIBpcap interface to various kernel packet capture mechanism
+* 【2024-01-25】[osqzss / gps-sdr-sim](https://github.com/osqzss/gps-sdr-sim) - Software-Defined GPS Signal Simulator
+* 【2024-01-25】[Nassim-Asrir / ZDI-24-020](https://github.com/Nassim-Asrir/ZDI-24-020) - 
 * 【2024-01-24】[openucx / ucx](https://github.com/openucx/ucx) - Unified Communication X (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group)
 * 【2024-01-22】[Awesome-HarmonyOS / HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 * 【2024-01-21】[AnonymousAAArdvark / qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
@@ -575,6 +597,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[hackerhouse-opensource / Marble](https://github.com/hackerhouse-opensource/Marble) - The CIA's Marble Framework is designed to allow for flexible and easy-to-use obfuscation when developing tools.
 ## Typescript
 
+* 【2024-01-25】[firebase / firebase-tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools
+* 【2024-01-25】[compiler-explorer / compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+* 【2024-01-25】[element-hq / element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 * 【2024-01-24】[jln13x / ui.jln.dev](https://github.com/jln13x/ui.jln.dev) - 10.000+ Themes for shadcn/ui.
 * 【2024-01-24】[ReactiveX / rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 * 【2024-01-24】[emilkowalski / vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React.
