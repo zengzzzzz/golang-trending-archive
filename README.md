@@ -53,6 +53,11 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-01-31】[InkboxSoftware / excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
+* 【2024-01-31】[danielmiessler / fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI.
+* 【2024-01-31】[saagarjha / Ensemble](https://github.com/saagarjha/Ensemble) - Cast Mac windows to visionOS
+* 【2024-01-31】[facebookresearch / codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
+* 【2024-01-31】[FuelLabs / sway](https://github.com/FuelLabs/sway) - 🌴 Empowering everyone to build reliable and efficient smart contracts.
 * 【2024-01-30】[farcasterxyz / fc-polls](https://github.com/farcasterxyz/fc-polls) - 
 * 【2024-01-30】[nicknochnack / MLTradingBot](https://github.com/nicknochnack/MLTradingBot) - 
 * 【2024-01-30】[FuelLabs / fuel-core](https://github.com/FuelLabs/fuel-core) - Rust full node implementation of the Fuel v2 protocol.
@@ -228,6 +233,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[nvim-tree / nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
 ## Go
 
+* 【2024-01-31】[inancgumus / learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 * 【2024-01-30】[deanxv / coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理discord-bot，api调用coze-bot
 * 【2024-01-30】[zan8in / afrog](https://github.com/zan8in/afrog) - A Security Tool for Bug Bounty, Pentest and Red Teaming.
 * 【2024-01-30】[markbates / goth](https://github.com/markbates/goth) - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
@@ -300,6 +306,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[aceberg / ExerciseDiary](https://github.com/aceberg/ExerciseDiary) - Workout diary with GitHub-style year visualization
 ## Python
 
+* 【2024-01-31】[kyegomez / MORPHEUS-1](https://github.com/kyegomez/MORPHEUS-1) - Implementation of "MORPHEUS-1" from Prophetic AI and "The world’s first multi-modal generative ultrasonic transformer designed to induce and stabilize lucid dreams. "
+* 【2024-01-31】[explodinggradients / ragas](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines
+* 【2024-01-31】[sshuttle / sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.
 * 【2024-01-30】[Fanghua-Yu / SUPIR](https://github.com/Fanghua-Yu/SUPIR) - SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild
 * 【2024-01-30】[aitrepreneur / INSTID](https://github.com/aitrepreneur/INSTID) - 
 * 【2024-01-30】[video-db / StreamRAG](https://github.com/video-db/StreamRAG) - Video Search and Streaming Agent 🕵️‍♂️
@@ -449,6 +458,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[lutris / lutris](https://github.com/lutris/lutris) - Lutris desktop client
 ## Javascript
 
+* 【2024-01-31】[haizlin / fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
 * 【2024-01-30】[0x648 / luna-ai](https://github.com/0x648/luna-ai) - Luna AI - 全自动的 AI 直播系统
 * 【2024-01-30】[getsomecat / GetSomeCats](https://github.com/getsomecat/GetSomeCats) - 
 * 【2024-01-29】[amin4139 / share_file](https://github.com/amin4139/share_file) - 
@@ -545,6 +555,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[yonggekkk / openwrt_win64-ddns-cdnip](https://github.com/yonggekkk/openwrt_win64-ddns-cdnip) - OpenWrt软路由/Win64电脑专用优选IP一键脚本，支持ddns(批量IP解析同个域名，单个IP解析单个域名)与无域名模式，13个端口任意选，支持优选官方IP与反代IP切换，支持TG、Pushplus推送通知，软路由适配passwall、passwall2、ssr-plus、clash、openclash、bypass、v2raya、helloworld多种代理插件
 ## C
 
+* 【2024-01-31】[analogdevicesinc / linux](https://github.com/analogdevicesinc/linux) - Linux kernel variant from Analog Devices; see README.md for details
+* 【2024-01-31】[Cracked5pider / Stardust](https://github.com/Cracked5pider/Stardust) - A modern 64-bit position independent implant template
+* 【2024-01-31】[tianocore / edk2-platforms](https://github.com/tianocore/edk2-platforms) - EDK II sample platform branches and tags
 * 【2024-01-30】[OpenIntelWireless / itlwm](https://github.com/OpenIntelWireless/itlwm) - Intel Wi-Fi Drivers for macOS
 * 【2024-01-29】[duck-sec / CVE-2023-28252-Compiled-exe](https://github.com/duck-sec/CVE-2023-28252-Compiled-exe) - A modification to fortra's CVE-2023-28252 exploit, compiled to exe
 * 【2024-01-29】[amd / xdna-driver](https://github.com/amd/xdna-driver) - 
@@ -704,6 +717,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-01-01】[hackerhouse-opensource / Marble](https://github.com/hackerhouse-opensource/Marble) - The CIA's Marble Framework is designed to allow for flexible and easy-to-use obfuscation when developing tools.
 ## Typescript
 
+* 【2024-01-31】[josStorer / RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.
+* 【2024-01-31】[nsdonato / recursostech](https://github.com/nsdonato/recursostech) - Recursos recopilados para compartir con la comunidad 🚀 Open source, aportes bienvenidos♥️
+* 【2024-01-31】[Zizzamia / a-frame-in-100-lines](https://github.com/Zizzamia/a-frame-in-100-lines) - Farcaster Frames in less than 100 lines, and ready to be deployed to Vercel.
+* 【2024-01-31】[QuantGeekDev / lmaolang](https://github.com/QuantGeekDev/lmaolang) - 👏🏼A👏🏼brand👏🏼new👏🏼way👏🏼to👏🏼write👏🏼HTML👏🏼
+* 【2024-01-31】[vuejs / router](https://github.com/vuejs/router) - 🚦 The official router for Vue.js
 * 【2024-01-30】[mlg404 / palworld-paldex-api](https://github.com/mlg404/palworld-paldex-api) - The first and complete Palworld Paldex Api
 * 【2024-01-30】[FuelLabs / sway-farm](https://github.com/FuelLabs/sway-farm) - Farm 🍅 on the Fuel network.
 * 【2024-01-30】[Bluefissure / pal-conf](https://github.com/Bluefissure/pal-conf) - PalWorld Server Configuration Generator
