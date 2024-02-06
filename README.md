@@ -53,6 +53,9 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-02-06】[apple / pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
+* 【2024-02-06】[superbeyone / JetBrainsActiveCode](https://github.com/superbeyone/JetBrainsActiveCode) - Jetbrains Active Code
+* 【2024-02-06】[nomic-ai / contrastors](https://github.com/nomic-ai/contrastors) - Train Models Contrastively in Pytorch
 * 【2024-02-05】[AbanteAI / rawdog](https://github.com/AbanteAI/rawdog) - Generate and auto-execute Python scripts in the cli
 * 【2024-02-05】[adrianhajdin / figma_clone](https://github.com/adrianhajdin/figma_clone) - Figma Clone using Next.js, Fabric.js and Liveblocks in TypeScript
 * 【2024-02-05】[enso-org / enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
@@ -84,6 +87,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[collabora / WhisperFusion](https://github.com/collabora/WhisperFusion) - WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 ## Go
 
+* 【2024-02-06】[wal-g / wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 * 【2024-02-05】[fluxcd / flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 * 【2024-02-05】[ava-labs / avalanchego](https://github.com/ava-labs/avalanchego) - Go implementation of an Avalanche node.
 * 【2024-02-04】[glasskube / glasskube](https://github.com/glasskube/glasskube) - 🧊 The missing Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and get automatic updates via a central public package repository.
@@ -97,6 +101,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[Velocidex / velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
 ## Python
 
+* 【2024-02-06】[arcee-ai / mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
+* 【2024-02-06】[Open-Wine-Components / ULWGL-launcher](https://github.com/Open-Wine-Components/ULWGL-launcher) - 
+* 【2024-02-06】[MatrixTM / MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods
+* 【2024-02-06】[YPAndrew0907 / Animal-Simulation-game](https://github.com/YPAndrew0907/Animal-Simulation-game) - Dive into Nature Simulation v1, a dynamic ecosystem game. Experience life's balance with interactive controls and stunning visuals of flora and fauna. Engage, learn, and enjoy nature's complexity in a vividly animated environment. Perfect for enthusiasts of simulations and nature.
 * 【2024-02-05】[allenai / dolma](https://github.com/allenai/dolma) - Data and tools for generating and inspecting OLMo pre-training data.
 * 【2024-02-05】[allenai / open-instruct](https://github.com/allenai/open-instruct) - 
 * 【2024-02-05】[pallets / flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
@@ -118,6 +126,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[r0oth3x49 / ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 ## Javascript
 
+* 【2024-02-06】[burakorkmez / mern-chat-app](https://github.com/burakorkmez/mern-chat-app) - Real Time Chat App | MERN && Socket.io && JWT
+* 【2024-02-06】[iptv-org / database](https://github.com/iptv-org/database) - User editable database for TV channels.
 * 【2024-02-05】[sugarlabs / musicblocks](https://github.com/sugarlabs/musicblocks) - Music Blocks -- A musical microworld
 * 【2024-02-05】[tastejs / todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
 * 【2024-02-04】[alphagov / govuk-frontend](https://github.com/alphagov/govuk-frontend) - GOV.UK Frontend contains the code you need to start building a user interface for government platforms and services.
@@ -132,6 +142,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[expo / examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
 ## C
 
+* 【2024-02-06】[veracrypt / VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 * 【2024-02-05】[dankamongmen / notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses.
 * 【2024-02-05】[fmyyss / XNU_KERNEL_RESEARCH](https://github.com/fmyyss/XNU_KERNEL_RESEARCH) - 
 * 【2024-02-05】[karlstav / cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
@@ -157,6 +168,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[ariya / phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 ## Typescript
 
+* 【2024-02-06】[SKHon / diudiu](https://github.com/SKHon/diudiu) - 一个轻量的企业级BFF框架
+* 【2024-02-06】[rjmacarthy / twinny](https://github.com/rjmacarthy/twinny) - The most no-nonsense locally hosted (or API hosted) AI code completion plugin for Visual Studio Code, like GitHub Copilot but 100% free and 100% private.
+* 【2024-02-06】[huggingface / chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 * 【2024-02-05】[adamcohenhillel / ADeus](https://github.com/adamcohenhillel/ADeus) - Open-Source AI wearable device and software
 * 【2024-02-05】[youniaogu / MangaReader](https://github.com/youniaogu/MangaReader) - 一个漫画 APP📱，基于 react-native 构建，兼容 Android、Ios 平台
 * 【2024-02-05】[darkreader / darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
