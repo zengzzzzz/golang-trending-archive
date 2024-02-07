@@ -53,6 +53,11 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-02-07】[mitsuhiko / rye](https://github.com/mitsuhiko/rye) - a Hassle-Free Python Experience
+* 【2024-02-07】[google / oss-fuzz-gen](https://github.com/google/oss-fuzz-gen) - LLM powered fuzzing via OSS-Fuzz.
+* 【2024-02-07】[G-U-N / AnimateLCM](https://github.com/G-U-N/AnimateLCM) - AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning
+* 【2024-02-07】[maybe-finance / maybe-archive](https://github.com/maybe-finance/maybe-archive) - 
+* 【2024-02-07】[ethereum-lists / chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
 * 【2024-02-06】[apple / pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 * 【2024-02-06】[superbeyone / JetBrainsActiveCode](https://github.com/superbeyone/JetBrainsActiveCode) - Jetbrains Active Code
 * 【2024-02-06】[nomic-ai / contrastors](https://github.com/nomic-ai/contrastors) - Train Models Contrastively in Pytorch
@@ -87,6 +92,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[collabora / WhisperFusion](https://github.com/collabora/WhisperFusion) - WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 ## Go
 
+* 【2024-02-07】[gabotechs / dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a "code base entropy" using a 3d force-directed graph of files and the dependencies between.
 * 【2024-02-06】[wal-g / wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 * 【2024-02-05】[fluxcd / flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 * 【2024-02-05】[ava-labs / avalanchego](https://github.com/ava-labs/avalanchego) - Go implementation of an Avalanche node.
@@ -101,6 +107,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[Velocidex / velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
 ## Python
 
+* 【2024-02-07】[FujiwaraChoki / MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviepPy.
+* 【2024-02-07】[segmind / segmoe](https://github.com/segmind/segmoe) - 
+* 【2024-02-07】[cuifengcn / TAICHI-flet](https://github.com/cuifengcn/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。
+* 【2024-02-07】[d60 / twikit](https://github.com/d60/twikit) - Twitter API wrapper for Python with **no API key required** | Without api key | Free | Twitter scraper | Twitter Bot
+* 【2024-02-07】[octaviovillegas / Curso_de_ingreso_PYTHON](https://github.com/octaviovillegas/Curso_de_ingreso_PYTHON) - Curso de ingreso en PYTHON
+* 【2024-02-07】[intelligent-machine-learning / dlrover](https://github.com/intelligent-machine-learning/dlrover) - DLRover: An Automatic Distributed Deep Learning System
+* 【2024-02-07】[Stock-Fund / XCrawler](https://github.com/Stock-Fund/XCrawler) - 轻量型A股爬虫项目
 * 【2024-02-06】[arcee-ai / mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
 * 【2024-02-06】[Open-Wine-Components / ULWGL-launcher](https://github.com/Open-Wine-Components/ULWGL-launcher) - 
 * 【2024-02-06】[MatrixTM / MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods
@@ -126,6 +139,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[r0oth3x49 / ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 ## Javascript
 
+* 【2024-02-07】[GovindCodes / ValentineWish](https://github.com/GovindCodes/ValentineWish) - Wish Valentine's Day to Your loved ones like a Nerd.
+* 【2024-02-07】[givanz / VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
+* 【2024-02-07】[gulpjs / gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
 * 【2024-02-06】[burakorkmez / mern-chat-app](https://github.com/burakorkmez/mern-chat-app) - Real Time Chat App | MERN && Socket.io && JWT
 * 【2024-02-06】[iptv-org / database](https://github.com/iptv-org/database) - User editable database for TV channels.
 * 【2024-02-05】[sugarlabs / musicblocks](https://github.com/sugarlabs/musicblocks) - Music Blocks -- A musical microworld
@@ -142,6 +158,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[expo / examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
 ## C
 
+* 【2024-02-07】[stacksmashing / pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer) - A simple, very experimental TPM sniffer for LPC bus
+* 【2024-02-07】[ARM-software / arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware) - Read-only mirror of Trusted Firmware-A
+* 【2024-02-07】[umutsevdi / wear-pico](https://github.com/umutsevdi/wear-pico) - An open source Smartwatch firmware written in C for the Raspberry Pi Pico
 * 【2024-02-06】[veracrypt / VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 * 【2024-02-05】[dankamongmen / notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses.
 * 【2024-02-05】[fmyyss / XNU_KERNEL_RESEARCH](https://github.com/fmyyss/XNU_KERNEL_RESEARCH) - 
@@ -159,6 +178,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-07】[libjxl / libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation
 * 【2024-02-05】[finalburnneo / FBNeo](https://github.com/finalburnneo/FBNeo) - FinalBurn Neo - We are Team FBNeo.
 * 【2024-02-05】[lfranke / TRIPS](https://github.com/lfranke/TRIPS) - 
 * 【2024-02-04】[versatica / mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
@@ -168,6 +188,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[ariya / phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 ## Typescript
 
+* 【2024-02-07】[framesjs / frames.js](https://github.com/framesjs/frames.js) - The fastest way to make a Farcaster Frame
+* 【2024-02-07】[panva / jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 * 【2024-02-06】[SKHon / diudiu](https://github.com/SKHon/diudiu) - 一个轻量的企业级BFF框架
 * 【2024-02-06】[rjmacarthy / twinny](https://github.com/rjmacarthy/twinny) - The most no-nonsense locally hosted (or API hosted) AI code completion plugin for Visual Studio Code, like GitHub Copilot but 100% free and 100% private.
 * 【2024-02-06】[huggingface / chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
