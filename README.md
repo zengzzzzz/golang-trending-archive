@@ -53,6 +53,14 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-02-08】[zanfranceschi / rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - Repositório da 2ª edição da Rinha de Backend
+* 【2024-02-08】[Awesome-Windows / Awesome](https://github.com/Awesome-Windows/Awesome) - 💻 🎉 An awesome & curated list of best applications and tools for Windows.
+* 【2024-02-08】[logseq / logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+* 【2024-02-08】[thu-vu92 / local-llms-analyse-finance](https://github.com/thu-vu92/local-llms-analyse-finance) - In this project, I explored how local LLMs can be used to label data and support analyses. Specifically, I used Llama2 model to automatically categorise my bank transaction data.
+* 【2024-02-08】[tauri-apps / tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+* 【2024-02-08】[atopile / atopile](https://github.com/atopile/atopile) - A tool to create electronic circuit boards with code. Find our docs here: https://atopile.io/getting-started/
+* 【2024-02-08】[reqable / re-editor](https://github.com/reqable/re-editor) - Re-Editor is a powerful lightweight text and code editor widget.
+* 【2024-02-08】[divyam234 / teldrive](https://github.com/divyam234/teldrive) - Telegram Drive Storage
 * 【2024-02-07】[mitsuhiko / rye](https://github.com/mitsuhiko/rye) - a Hassle-Free Python Experience
 * 【2024-02-07】[google / oss-fuzz-gen](https://github.com/google/oss-fuzz-gen) - LLM powered fuzzing via OSS-Fuzz.
 * 【2024-02-07】[G-U-N / AnimateLCM](https://github.com/G-U-N/AnimateLCM) - AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning
@@ -92,6 +100,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[collabora / WhisperFusion](https://github.com/collabora/WhisperFusion) - WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 ## Go
 
+* 【2024-02-08】[dymensionxyz / dymension](https://github.com/dymensionxyz/dymension) - Dymension Hub
 * 【2024-02-07】[gabotechs / dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a "code base entropy" using a 3d force-directed graph of files and the dependencies between.
 * 【2024-02-06】[wal-g / wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 * 【2024-02-05】[fluxcd / flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
@@ -107,6 +116,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[Velocidex / velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
 ## Python
 
+* 【2024-02-08】[kevingduck / ChatGPT-phone](https://github.com/kevingduck/ChatGPT-phone) - Demo of twilio
+* 【2024-02-08】[dvcoolarun / web2pdf](https://github.com/dvcoolarun/web2pdf) - 🔄 CLI to convert Webpages to PDFs 🚀
+* 【2024-02-08】[narfindustries / http-garden](https://github.com/narfindustries/http-garden) - Differential testing and fuzzing of HTTP servers and proxies
+* 【2024-02-08】[Doubiiu / DynamiCrafter](https://github.com/Doubiiu/DynamiCrafter) - DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors
+* 【2024-02-08】[apple / ml-mgie](https://github.com/apple/ml-mgie) - 
+* 【2024-02-08】[defog-ai / sql-eval](https://github.com/defog-ai/sql-eval) - Code for sql generation evaluation
+* 【2024-02-08】[phidatahq / phidata](https://github.com/phidatahq/phidata) - Build AI Assistants using function calling
 * 【2024-02-07】[FujiwaraChoki / MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviepPy.
 * 【2024-02-07】[segmind / segmoe](https://github.com/segmind/segmoe) - 
 * 【2024-02-07】[cuifengcn / TAICHI-flet](https://github.com/cuifengcn/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。
@@ -139,6 +155,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[r0oth3x49 / ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 ## Javascript
 
+* 【2024-02-08】[stdlib-js / stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
+* 【2024-02-08】[jinenge / tvbox](https://github.com/jinenge/tvbox) - TVBox(进恩哥版)，内置源，随时更新内置源，不必担心不能用
+* 【2024-02-08】[namdosanwannabe / be-my-valentine](https://github.com/namdosanwannabe/be-my-valentine) - Simple JavaScript Project
+* 【2024-02-08】[safak / next-animated-portfolio](https://github.com/safak/next-animated-portfolio) - 
 * 【2024-02-07】[GovindCodes / ValentineWish](https://github.com/GovindCodes/ValentineWish) - Wish Valentine's Day to Your loved ones like a Nerd.
 * 【2024-02-07】[givanz / VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
 * 【2024-02-07】[gulpjs / gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
@@ -178,6 +198,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-08】[tenstorrent-metal / tt-metal](https://github.com/tenstorrent-metal/tt-metal) - ttnn - a python API and OP library. TT-Metalium - a low level kernel programming model.
+* 【2024-02-08】[OneLoneCoder / olcUTIL_Geometry2D](https://github.com/OneLoneCoder/olcUTIL_Geometry2D) - A Single-Header 2D Geometry Analysis Library
+* 【2024-02-08】[OpenGene / fastp](https://github.com/OpenGene/fastp) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging...)
+* 【2024-02-08】[RibShark / SafeDiscShim](https://github.com/RibShark/SafeDiscShim) - SafeDiscShim is a compatibility tool that allows for SafeDisc protected games which utilize the insecure Macrovision Security Driver ("secdrv.sys") to run on modern versions of Windows .
+* 【2024-02-08】[llvm / torch-mlir](https://github.com/llvm/torch-mlir) - The Torch-MLIR project aims to provide first class support from the PyTorch ecosystem to the MLIR ecosystem.
+* 【2024-02-08】[osquery / osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 * 【2024-02-07】[libjxl / libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation
 * 【2024-02-05】[finalburnneo / FBNeo](https://github.com/finalburnneo/FBNeo) - FinalBurn Neo - We are Team FBNeo.
 * 【2024-02-05】[lfranke / TRIPS](https://github.com/lfranke/TRIPS) - 
@@ -188,6 +214,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[ariya / phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 ## Typescript
 
+* 【2024-02-08】[YunYouJun / ai-sfc](https://github.com/YunYouJun/ai-sfc) - AI 春联 / Spring Festival Couplets
+* 【2024-02-08】[gitbutlerapp / gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+* 【2024-02-08】[Effect-TS / effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
 * 【2024-02-07】[framesjs / frames.js](https://github.com/framesjs/frames.js) - The fastest way to make a Farcaster Frame
 * 【2024-02-07】[panva / jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 * 【2024-02-06】[SKHon / diudiu](https://github.com/SKHon/diudiu) - 一个轻量的企业级BFF框架
