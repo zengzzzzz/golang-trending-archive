@@ -53,6 +53,12 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-02-09】[0xacme / ERC404](https://github.com/0xacme/ERC404) - 
+* 【2024-02-09】[lllyasviel / stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
+* 【2024-02-09】[ejoy / vaststars](https://github.com/ejoy/vaststars) - A game demo for Ant engine
+* 【2024-02-09】[emmett-framework / granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
+* 【2024-02-09】[run-llama / llama-hub](https://github.com/run-llama/llama-hub) - A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
+* 【2024-02-09】[go-acme / lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 * 【2024-02-08】[zanfranceschi / rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - Repositório da 2ª edição da Rinha de Backend
 * 【2024-02-08】[Awesome-Windows / Awesome](https://github.com/Awesome-Windows/Awesome) - 💻 🎉 An awesome & curated list of best applications and tools for Windows.
 * 【2024-02-08】[logseq / logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
@@ -100,6 +106,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[collabora / WhisperFusion](https://github.com/collabora/WhisperFusion) - WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 ## Go
 
+* 【2024-02-09】[kubewharf / kubeadmiral](https://github.com/kubewharf/kubeadmiral) - Multi-Cluster Kubernetes Orchestration
 * 【2024-02-08】[dymensionxyz / dymension](https://github.com/dymensionxyz/dymension) - Dymension Hub
 * 【2024-02-07】[gabotechs / dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a "code base entropy" using a 3d force-directed graph of files and the dependencies between.
 * 【2024-02-06】[wal-g / wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
@@ -116,6 +123,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[Velocidex / velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
 ## Python
 
+* 【2024-02-09】[deepseek-ai / DeepSeek-Math](https://github.com/deepseek-ai/DeepSeek-Math) - 
+* 【2024-02-09】[metavoiceio / metavoice-src](https://github.com/metavoiceio/metavoice-src) - AI for human-level speech intelligence
+* 【2024-02-09】[AnythingInAnyScene / anything_in_anyscene](https://github.com/AnythingInAnyScene/anything_in_anyscene) - 
+* 【2024-02-09】[baaivision / EVA](https://github.com/baaivision/EVA) - EVA Series: Visual Representation Fantasies from BAAI
+* 【2024-02-09】[tsujuifu / pytorch_mgie](https://github.com/tsujuifu/pytorch_mgie) - A Gradio demo of MGIE
 * 【2024-02-08】[kevingduck / ChatGPT-phone](https://github.com/kevingduck/ChatGPT-phone) - Demo of twilio
 * 【2024-02-08】[dvcoolarun / web2pdf](https://github.com/dvcoolarun/web2pdf) - 🔄 CLI to convert Webpages to PDFs 🚀
 * 【2024-02-08】[narfindustries / http-garden](https://github.com/narfindustries/http-garden) - Differential testing and fuzzing of HTTP servers and proxies
@@ -155,6 +167,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[r0oth3x49 / ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 ## Javascript
 
+* 【2024-02-09】[rocketseat-education / nlw-expert-html-css-js](https://github.com/rocketseat-education/nlw-expert-html-css-js) - A quiz to test your knowledge
 * 【2024-02-08】[stdlib-js / stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
 * 【2024-02-08】[jinenge / tvbox](https://github.com/jinenge/tvbox) - TVBox(进恩哥版)，内置源，随时更新内置源，不必担心不能用
 * 【2024-02-08】[namdosanwannabe / be-my-valentine](https://github.com/namdosanwannabe/be-my-valentine) - Simple JavaScript Project
@@ -178,6 +191,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[expo / examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
 ## C
 
+* 【2024-02-09】[tsoding / raylib.js](https://github.com/tsoding/raylib.js) - Unofficial Implementation of Subset of Raylib API in JavaScript
+* 【2024-02-09】[npurson / vscode-server-toolchain-workaround](https://github.com/npurson/vscode-server-toolchain-workaround) - Workaround for the raised toolchain requirements of VS Code Server 1.86+
+* 【2024-02-09】[gluster / glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your distributed storage in minutes
+* 【2024-02-09】[Xeeynamo / sotn-decomp](https://github.com/Xeeynamo/sotn-decomp) - Decompilation of Castlevania: Symphony of the Night (PSX+Saturn)
+* 【2024-02-09】[Rakashazi / emu-ex-plus-alpha](https://github.com/Rakashazi/emu-ex-plus-alpha) - Multi-platform computer & game console emulation system including supporting code (EmuFramework) and core engine (Imagine)
+* 【2024-02-09】[LongSoft / UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor
 * 【2024-02-07】[stacksmashing / pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer) - A simple, very experimental TPM sniffer for LPC bus
 * 【2024-02-07】[ARM-software / arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware) - Read-only mirror of Trusted Firmware-A
 * 【2024-02-07】[umutsevdi / wear-pico](https://github.com/umutsevdi/wear-pico) - An open source Smartwatch firmware written in C for the Raspberry Pi Pico
@@ -198,6 +217,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-09】[stacksmashing / LPCClocklessAnalyzer](https://github.com/stacksmashing/LPCClocklessAnalyzer) - A Saleae Analyzer for TPM traffic that only requires the LADD & LFRAME signals, no clock.
+* 【2024-02-09】[CN-annotation-team / leveldb-chinese-annotated](https://github.com/CN-annotation-team/leveldb-chinese-annotated) - leveldb chinese annotation
+* 【2024-02-09】[Lyall / GBFRelinkFix](https://github.com/Lyall/GBFRelinkFix) - A fix for Granblue Fantasy: Relink that adds support for custom resolutions, ultrawide and more.
+* 【2024-02-09】[bulletphysics / bullet3](https://github.com/bulletphysics/bullet3) - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
+* 【2024-02-09】[KhronosGroup / Vulkan-Samples](https://github.com/KhronosGroup/Vulkan-Samples) - One stop solution for all Vulkan samples
 * 【2024-02-08】[tenstorrent-metal / tt-metal](https://github.com/tenstorrent-metal/tt-metal) - ttnn - a python API and OP library. TT-Metalium - a low level kernel programming model.
 * 【2024-02-08】[OneLoneCoder / olcUTIL_Geometry2D](https://github.com/OneLoneCoder/olcUTIL_Geometry2D) - A Single-Header 2D Geometry Analysis Library
 * 【2024-02-08】[OpenGene / fastp](https://github.com/OpenGene/fastp) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging...)
@@ -214,6 +238,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[ariya / phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 ## Typescript
 
+* 【2024-02-09】[rocketseat-education / nlw-expert-react](https://github.com/rocketseat-education/nlw-expert-react) - Automatic convert audio notes to text with React
+* 【2024-02-09】[bluesky-social / atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
+* 【2024-02-09】[bluesky-social / feed-generator](https://github.com/bluesky-social/feed-generator) - ATProto Feed Generator Starter Kit
 * 【2024-02-08】[YunYouJun / ai-sfc](https://github.com/YunYouJun/ai-sfc) - AI 春联 / Spring Festival Couplets
 * 【2024-02-08】[gitbutlerapp / gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 * 【2024-02-08】[Effect-TS / effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
