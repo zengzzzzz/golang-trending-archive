@@ -53,6 +53,11 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-02-10】[GoogleCloudPlatform / localllm](https://github.com/GoogleCloudPlatform/localllm) - 
+* 【2024-02-10】[MatthiasGrandl / loungy](https://github.com/MatthiasGrandl/loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.
+* 【2024-02-10】[rocketseat-education / nlw-expert-react-native](https://github.com/rocketseat-education/nlw-expert-react-native) - A food delivery mobile app
+* 【2024-02-10】[rocketseat-education / nlw-expert-nodejs](https://github.com/rocketseat-education/nlw-expert-nodejs) - Real-time voting system built with Node.js
+* 【2024-02-10】[RustPython / RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 * 【2024-02-09】[0xacme / ERC404](https://github.com/0xacme/ERC404) - 
 * 【2024-02-09】[lllyasviel / stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
 * 【2024-02-09】[ejoy / vaststars](https://github.com/ejoy/vaststars) - A game demo for Ant engine
@@ -106,6 +111,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[collabora / WhisperFusion](https://github.com/collabora/WhisperFusion) - WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 ## Go
 
+* 【2024-02-10】[ahmetb / kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 * 【2024-02-09】[kubewharf / kubeadmiral](https://github.com/kubewharf/kubeadmiral) - Multi-Cluster Kubernetes Orchestration
 * 【2024-02-08】[dymensionxyz / dymension](https://github.com/dymensionxyz/dymension) - Dymension Hub
 * 【2024-02-07】[gabotechs / dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a "code base entropy" using a 3d force-directed graph of files and the dependencies between.
@@ -123,6 +129,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[Velocidex / velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
 ## Python
 
+* 【2024-02-10】[time-series-foundation-models / lag-llama](https://github.com/time-series-foundation-models/lag-llama) - 
+* 【2024-02-10】[Vahe1994 / AQLM](https://github.com/Vahe1994/AQLM) - Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf
+* 【2024-02-10】[alexmolas / microsearch](https://github.com/alexmolas/microsearch) - 
+* 【2024-02-10】[MrForExample / ComfyUI-3D-Pack](https://github.com/MrForExample/ComfyUI-3D-Pack) - An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)
+* 【2024-02-10】[WillianFuks / tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact) - Python Causal Impact Implementation Based on Google's R Package. Built using TensorFlow Probability.
+* 【2024-02-10】[rocketseat-education / nlw-expert-python](https://github.com/rocketseat-education/nlw-expert-python) - A barcode generator
 * 【2024-02-09】[deepseek-ai / DeepSeek-Math](https://github.com/deepseek-ai/DeepSeek-Math) - 
 * 【2024-02-09】[metavoiceio / metavoice-src](https://github.com/metavoiceio/metavoice-src) - AI for human-level speech intelligence
 * 【2024-02-09】[AnythingInAnyScene / anything_in_anyscene](https://github.com/AnythingInAnyScene/anything_in_anyscene) - 
@@ -167,6 +179,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[r0oth3x49 / ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 ## Javascript
 
+* 【2024-02-10】[snyk-workshops / EH-Patch-Todo-App](https://github.com/snyk-workshops/EH-Patch-Todo-App) - 
+* 【2024-02-10】[midudev / tailwind-animations](https://github.com/midudev/tailwind-animations) - Easy peasy animations for your Tailwind project
+* 【2024-02-10】[TheOdinProject / curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
+* 【2024-02-10】[MorpheusAIs / Morpheus](https://github.com/MorpheusAIs/Morpheus) - Morpheus - A Network For Powering Smart Agents - Compute + Code + Capital + Community
+* 【2024-02-10】[canove / whaticket-community](https://github.com/canove/whaticket-community) - A very simple Ticket System based on WhatsApp messages, that allow multi-users in same WhatsApp account.
 * 【2024-02-09】[rocketseat-education / nlw-expert-html-css-js](https://github.com/rocketseat-education/nlw-expert-html-css-js) - A quiz to test your knowledge
 * 【2024-02-08】[stdlib-js / stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
 * 【2024-02-08】[jinenge / tvbox](https://github.com/jinenge/tvbox) - TVBox(进恩哥版)，内置源，随时更新内置源，不必担心不能用
@@ -191,6 +208,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[expo / examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
 ## C
 
+* 【2024-02-10】[Xre0uS / MultiDump](https://github.com/Xre0uS/MultiDump) - MultiDump is a post-exploitation tool for dumping and extracting LSASS memory discreetly.
+* 【2024-02-10】[agvxov / cursed_c](https://github.com/agvxov/cursed_c) - An attempt to create the worst C program ever by repeatedly abusing obscure features. See c.c for the core code. Note that there were no version restraints imposed and extensions are also included.
 * 【2024-02-09】[tsoding / raylib.js](https://github.com/tsoding/raylib.js) - Unofficial Implementation of Subset of Raylib API in JavaScript
 * 【2024-02-09】[npurson / vscode-server-toolchain-workaround](https://github.com/npurson/vscode-server-toolchain-workaround) - Workaround for the raised toolchain requirements of VS Code Server 1.86+
 * 【2024-02-09】[gluster / glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your distributed storage in minutes
@@ -217,6 +236,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-10】[geoffdavis / esphome-mitsubishiheatpump](https://github.com/geoffdavis/esphome-mitsubishiheatpump) - ESPHome Climate Component for Mitsubishi Heatpumps using direct serial connection
 * 【2024-02-09】[stacksmashing / LPCClocklessAnalyzer](https://github.com/stacksmashing/LPCClocklessAnalyzer) - A Saleae Analyzer for TPM traffic that only requires the LADD & LFRAME signals, no clock.
 * 【2024-02-09】[CN-annotation-team / leveldb-chinese-annotated](https://github.com/CN-annotation-team/leveldb-chinese-annotated) - leveldb chinese annotation
 * 【2024-02-09】[Lyall / GBFRelinkFix](https://github.com/Lyall/GBFRelinkFix) - A fix for Granblue Fantasy: Relink that adds support for custom resolutions, ultrawide and more.
@@ -238,6 +258,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[ariya / phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 ## Typescript
 
+* 【2024-02-10】[gridstack / gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 * 【2024-02-09】[rocketseat-education / nlw-expert-react](https://github.com/rocketseat-education/nlw-expert-react) - Automatic convert audio notes to text with React
 * 【2024-02-09】[bluesky-social / atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
 * 【2024-02-09】[bluesky-social / feed-generator](https://github.com/bluesky-social/feed-generator) - ATProto Feed Generator Starter Kit
