@@ -53,6 +53,15 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-02-11】[cyberus-technology / virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) - VirtualBox with KVM Backend
+* 【2024-02-11】[awslabs / llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
+* 【2024-02-11】[jixserver / free-for-dev](https://github.com/jixserver/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+* 【2024-02-11】[aishwaryanr / awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
+* 【2024-02-11】[hcengineering / platform](https://github.com/hcengineering/platform) - Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more
+* 【2024-02-11】[Orange-OpenSource / hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
+* 【2024-02-11】[Pandora-Labs-Org / erc404-legacy](https://github.com/Pandora-Labs-Org/erc404-legacy) - 
+* 【2024-02-11】[AleoHQ / leo](https://github.com/AleoHQ/leo) - 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications
+* 【2024-02-11】[tteck / Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 * 【2024-02-10】[GoogleCloudPlatform / localllm](https://github.com/GoogleCloudPlatform/localllm) - 
 * 【2024-02-10】[MatthiasGrandl / loungy](https://github.com/MatthiasGrandl/loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.
 * 【2024-02-10】[rocketseat-education / nlw-expert-react-native](https://github.com/rocketseat-education/nlw-expert-react-native) - A food delivery mobile app
@@ -111,6 +120,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[collabora / WhisperFusion](https://github.com/collabora/WhisperFusion) - WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 ## Go
 
+* 【2024-02-11】[uber-go / fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
+* 【2024-02-11】[openbao / openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+* 【2024-02-11】[hashicorp / hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 * 【2024-02-10】[ahmetb / kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 * 【2024-02-09】[kubewharf / kubeadmiral](https://github.com/kubewharf/kubeadmiral) - Multi-Cluster Kubernetes Orchestration
 * 【2024-02-08】[dymensionxyz / dymension](https://github.com/dymensionxyz/dymension) - Dymension Hub
@@ -129,6 +141,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[Velocidex / velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
 ## Python
 
+* 【2024-02-11】[3DTopia / LGM](https://github.com/3DTopia/LGM) - LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation.
+* 【2024-02-11】[ndleah / python-mini-project](https://github.com/ndleah/python-mini-project) - 🙌 Welcome open-source Python mini-project contributions!
+* 【2024-02-11】[RhinoSecurityLabs / cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
+* 【2024-02-11】[rougier / numpy-100](https://github.com/rougier/numpy-100) - 100 numpy exercises (with solutions)
+* 【2024-02-11】[mit-han-lab / efficientvit](https://github.com/mit-han-lab/efficientvit) - EfficientViT is a new family of vision models for efficient high-resolution vision.
+* 【2024-02-11】[Python-World / python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 * 【2024-02-10】[time-series-foundation-models / lag-llama](https://github.com/time-series-foundation-models/lag-llama) - 
 * 【2024-02-10】[Vahe1994 / AQLM](https://github.com/Vahe1994/AQLM) - Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf
 * 【2024-02-10】[alexmolas / microsearch](https://github.com/alexmolas/microsearch) - 
@@ -179,6 +197,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[r0oth3x49 / ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 ## Javascript
 
+* 【2024-02-11】[mochajs / mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 * 【2024-02-10】[snyk-workshops / EH-Patch-Todo-App](https://github.com/snyk-workshops/EH-Patch-Todo-App) - 
 * 【2024-02-10】[midudev / tailwind-animations](https://github.com/midudev/tailwind-animations) - Easy peasy animations for your Tailwind project
 * 【2024-02-10】[TheOdinProject / curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
@@ -236,6 +255,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-11】[RobotLocomotion / drake](https://github.com/RobotLocomotion/drake) - Model-based design and verification for robotics.
+* 【2024-02-11】[ChefKissInc / NootedRed](https://github.com/ChefKissInc/NootedRed) - Lilu plugin for AMD Vega iGPUs. No commercial use.
 * 【2024-02-10】[geoffdavis / esphome-mitsubishiheatpump](https://github.com/geoffdavis/esphome-mitsubishiheatpump) - ESPHome Climate Component for Mitsubishi Heatpumps using direct serial connection
 * 【2024-02-09】[stacksmashing / LPCClocklessAnalyzer](https://github.com/stacksmashing/LPCClocklessAnalyzer) - A Saleae Analyzer for TPM traffic that only requires the LADD & LFRAME signals, no clock.
 * 【2024-02-09】[CN-annotation-team / leveldb-chinese-annotated](https://github.com/CN-annotation-team/leveldb-chinese-annotated) - leveldb chinese annotation
@@ -258,6 +279,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[ariya / phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 ## Typescript
 
+* 【2024-02-11】[hkirat / vercel](https://github.com/hkirat/vercel) - 
+* 【2024-02-11】[dikshikaaa / Valentines-Day](https://github.com/dikshikaaa/Valentines-Day) - Created with CodeSandbox
+* 【2024-02-11】[google-github-actions / release-please-action](https://github.com/google-github-actions/release-please-action) - automated releases based on conventional commits
+* 【2024-02-11】[vanilla-extract-css / vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 * 【2024-02-10】[gridstack / gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 * 【2024-02-09】[rocketseat-education / nlw-expert-react](https://github.com/rocketseat-education/nlw-expert-react) - Automatic convert audio notes to text with React
 * 【2024-02-09】[bluesky-social / atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
