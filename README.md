@@ -53,6 +53,13 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-02-12】[microsoft / sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
+* 【2024-02-12】[projectx-codehagen / projectx](https://github.com/projectx-codehagen/projectx) - ProjectX aims to simplify financial management with a user-friendly interface and robust backend
+* 【2024-02-12】[odin-lang / Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
+* 【2024-02-12】[sangammukherjee / 25-reactjs-interview-projects](https://github.com/sangammukherjee/25-reactjs-interview-projects) - 
+* 【2024-02-12】[dockersamples / example-voting-app](https://github.com/dockersamples/example-voting-app) - Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
+* 【2024-02-12】[magicbear / palworld-server-toolkit](https://github.com/magicbear/palworld-server-toolkit) - PalWorld Server Toolkits - For Save file modify, list the players, repair sav file, etc...
+* 【2024-02-12】[conductor-oss / conductor](https://github.com/conductor-oss/conductor) - Conductor is a microservices orchestration engine.
 * 【2024-02-11】[cyberus-technology / virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) - VirtualBox with KVM Backend
 * 【2024-02-11】[awslabs / llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 * 【2024-02-11】[jixserver / free-for-dev](https://github.com/jixserver/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -120,6 +127,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[collabora / WhisperFusion](https://github.com/collabora/WhisperFusion) - WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 ## Go
 
+* 【2024-02-12】[inoxlang / inox](https://github.com/inoxlang/inox) - 🛡️ Inox is your shield against complexity in full-stack development.
+* 【2024-02-12】[YouROK / TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
+* 【2024-02-12】[reviewdog / reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
+* 【2024-02-12】[danielgtaylor / huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3
 * 【2024-02-11】[uber-go / fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
 * 【2024-02-11】[openbao / openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 * 【2024-02-11】[hashicorp / hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
@@ -141,6 +152,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[Velocidex / velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
 ## Python
 
+* 【2024-02-12】[EvanZhuang / MetaTree](https://github.com/EvanZhuang/MetaTree) - Official implementation of MetaTree: Learning a Decision Tree Algorithm with Transformers
+* 【2024-02-12】[dekrypted / discord-image-logger](https://github.com/dekrypted/discord-image-logger) - IP Logger that uses discord's "Open Original" feature to steal IP's.
+* 【2024-02-12】[uclaml / SPIN](https://github.com/uclaml/SPIN) - The official implementation of Self-Play Fine-Tuning (SPIN)
+* 【2024-02-12】[barry-far / V2ray-Configs](https://github.com/barry-far/V2ray-Configs) - 🛰️✨ Free V2ray Configs , Updating Every 10 minutes.
+* 【2024-02-12】[optuna / optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
+* 【2024-02-12】[al-one / hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot) - Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成
+* 【2024-02-12】[linsomniac / spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) - Copy playlists and liked music from Spotify to YTMusic
 * 【2024-02-11】[3DTopia / LGM](https://github.com/3DTopia/LGM) - LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation.
 * 【2024-02-11】[ndleah / python-mini-project](https://github.com/ndleah/python-mini-project) - 🙌 Welcome open-source Python mini-project contributions!
 * 【2024-02-11】[RhinoSecurityLabs / cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
@@ -197,6 +215,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[r0oth3x49 / ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 ## Javascript
 
+* 【2024-02-12】[kunaltyagi9 / MERN-Stack-Projects](https://github.com/kunaltyagi9/MERN-Stack-Projects) - 
+* 【2024-02-12】[mozilla / rhino](https://github.com/mozilla/rhino) - Rhino is an open-source implementation of JavaScript written entirely in Java
+* 【2024-02-12】[citizenfx / cfx-server-data](https://github.com/citizenfx/cfx-server-data) - Data repository for CitizenFX servers.
 * 【2024-02-11】[mochajs / mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 * 【2024-02-10】[snyk-workshops / EH-Patch-Todo-App](https://github.com/snyk-workshops/EH-Patch-Todo-App) - 
 * 【2024-02-10】[midudev / tailwind-animations](https://github.com/midudev/tailwind-animations) - Easy peasy animations for your Tailwind project
@@ -227,6 +248,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[expo / examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
 ## C
 
+* 【2024-02-12】[branc116 / brplot](https://github.com/branc116/brplot) - +256,000,000 points per plot, +60 Fps on shity laptop. Only limit is the size of your RAM.
+* 【2024-02-12】[termux / termux-x11](https://github.com/termux/termux-x11) - Termux X11 add-on application.
+* 【2024-02-12】[PSP-Archive / ARK-4](https://github.com/PSP-Archive/ARK-4) - Custom Firmware for the PSP and PS Vita.
 * 【2024-02-10】[Xre0uS / MultiDump](https://github.com/Xre0uS/MultiDump) - MultiDump is a post-exploitation tool for dumping and extracting LSASS memory discreetly.
 * 【2024-02-10】[agvxov / cursed_c](https://github.com/agvxov/cursed_c) - An attempt to create the worst C program ever by repeatedly abusing obscure features. See c.c for the core code. Note that there were no version restraints imposed and extensions are also included.
 * 【2024-02-09】[tsoding / raylib.js](https://github.com/tsoding/raylib.js) - Unofficial Implementation of Subset of Raylib API in JavaScript
@@ -255,6 +279,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-12】[hyprwm / hyprpaper](https://github.com/hyprwm/hyprpaper) - Hyprpaper is a blazing fast wayland wallpaper utility with IPC controls.
+* 【2024-02-12】[ValveSoftware / openvr](https://github.com/ValveSoftware/openvr) - OpenVR SDK
+* 【2024-02-12】[letscontrolit / ESPEasy](https://github.com/letscontrolit/ESPEasy) - Easy MultiSensor device based on ESP8266/ESP32
+* 【2024-02-12】[visualboyadvance-m / visualboyadvance-m](https://github.com/visualboyadvance-m/visualboyadvance-m) - The continuing development of the legendary VBA gameboy advance emulator.
 * 【2024-02-11】[RobotLocomotion / drake](https://github.com/RobotLocomotion/drake) - Model-based design and verification for robotics.
 * 【2024-02-11】[ChefKissInc / NootedRed](https://github.com/ChefKissInc/NootedRed) - Lilu plugin for AMD Vega iGPUs. No commercial use.
 * 【2024-02-10】[geoffdavis / esphome-mitsubishiheatpump](https://github.com/geoffdavis/esphome-mitsubishiheatpump) - ESPHome Climate Component for Mitsubishi Heatpumps using direct serial connection
@@ -279,6 +307,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[ariya / phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 ## Typescript
 
+* 【2024-02-12】[arduino / arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
+* 【2024-02-12】[QuivrHQ / quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠 A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users ! Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
+* 【2024-02-12】[prisma / prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
+* 【2024-02-12】[adefee / paver-palworld-save-editor](https://github.com/adefee/paver-palworld-save-editor) - 
+* 【2024-02-12】[medplum / medplum](https://github.com/medplum/medplum) - Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.
 * 【2024-02-11】[hkirat / vercel](https://github.com/hkirat/vercel) - 
 * 【2024-02-11】[dikshikaaa / Valentines-Day](https://github.com/dikshikaaa/Valentines-Day) - Created with CodeSandbox
 * 【2024-02-11】[google-github-actions / release-please-action](https://github.com/google-github-actions/release-please-action) - automated releases based on conventional commits
