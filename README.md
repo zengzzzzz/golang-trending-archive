@@ -53,6 +53,9 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-02-13】[skiff-org / skiff-apps](https://github.com/skiff-org/skiff-apps) - Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar.
+* 【2024-02-13】[bepass-org / oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android
+* 【2024-02-13】[anderspitman / awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 * 【2024-02-12】[microsoft / sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 * 【2024-02-12】[projectx-codehagen / projectx](https://github.com/projectx-codehagen/projectx) - ProjectX aims to simplify financial management with a user-friendly interface and robust backend
 * 【2024-02-12】[odin-lang / Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
@@ -127,6 +130,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[collabora / WhisperFusion](https://github.com/collabora/WhisperFusion) - WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 ## Go
 
+* 【2024-02-13】[apple / pkl-go-examples](https://github.com/apple/pkl-go-examples) - Examples for using Pkl within Go applications
+* 【2024-02-13】[apple / pkl-go](https://github.com/apple/pkl-go) - Pkl bindings for the Go programming language
+* 【2024-02-13】[OffchainLabs / arbitrum-classic](https://github.com/OffchainLabs/arbitrum-classic) - Powers fast, private, decentralized applications
 * 【2024-02-12】[inoxlang / inox](https://github.com/inoxlang/inox) - 🛡️ Inox is your shield against complexity in full-stack development.
 * 【2024-02-12】[YouROK / TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 * 【2024-02-12】[reviewdog / reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
@@ -152,6 +158,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[Velocidex / velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
 ## Python
 
+* 【2024-02-13】[karpathy / ng-video-lecture](https://github.com/karpathy/ng-video-lecture) - 
+* 【2024-02-13】[biopython / biopython](https://github.com/biopython/biopython) - Official git repository for Biopython (originally converted from CVS)
+* 【2024-02-13】[LAION-AI / natural_voice_assistant](https://github.com/LAION-AI/natural_voice_assistant) - 
+* 【2024-02-13】[aniketrajnish / MultiWindowSync-PyQt](https://github.com/aniketrajnish/MultiWindowSync-PyQt) - Windows GUI multiple window synchronization using pyqtSignal
+* 【2024-02-13】[MustardChef / WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 * 【2024-02-12】[EvanZhuang / MetaTree](https://github.com/EvanZhuang/MetaTree) - Official implementation of MetaTree: Learning a Decision Tree Algorithm with Transformers
 * 【2024-02-12】[dekrypted / discord-image-logger](https://github.com/dekrypted/discord-image-logger) - IP Logger that uses discord's "Open Original" feature to steal IP's.
 * 【2024-02-12】[uclaml / SPIN](https://github.com/uclaml/SPIN) - The official implementation of Self-Play Fine-Tuning (SPIN)
@@ -215,6 +226,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[r0oth3x49 / ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 ## Javascript
 
+* 【2024-02-13】[Maxsoll159 / proyectoSanValentin](https://github.com/Maxsoll159/proyectoSanValentin) - 
+* 【2024-02-13】[bia-pain-bache / BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions and Fragment configs
 * 【2024-02-12】[kunaltyagi9 / MERN-Stack-Projects](https://github.com/kunaltyagi9/MERN-Stack-Projects) - 
 * 【2024-02-12】[mozilla / rhino](https://github.com/mozilla/rhino) - Rhino is an open-source implementation of JavaScript written entirely in Java
 * 【2024-02-12】[citizenfx / cfx-server-data](https://github.com/citizenfx/cfx-server-data) - Data repository for CitizenFX servers.
@@ -248,6 +261,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[expo / examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
 ## C
 
+* 【2024-02-13】[wojciech-graj / doom-ascii](https://github.com/wojciech-graj/doom-ascii) - DooM in the terminal!
+* 【2024-02-13】[blackmagic-debug / blackmagic](https://github.com/blackmagic-debug/blackmagic) - In application debugger for ARM Cortex microcontrollers.
 * 【2024-02-12】[branc116 / brplot](https://github.com/branc116/brplot) - +256,000,000 points per plot, +60 Fps on shity laptop. Only limit is the size of your RAM.
 * 【2024-02-12】[termux / termux-x11](https://github.com/termux/termux-x11) - Termux X11 add-on application.
 * 【2024-02-12】[PSP-Archive / ARK-4](https://github.com/PSP-Archive/ARK-4) - Custom Firmware for the PSP and PS Vita.
@@ -279,6 +294,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-13】[livinamuk / Hell2024](https://github.com/livinamuk/Hell2024) - 
 * 【2024-02-12】[hyprwm / hyprpaper](https://github.com/hyprwm/hyprpaper) - Hyprpaper is a blazing fast wayland wallpaper utility with IPC controls.
 * 【2024-02-12】[ValveSoftware / openvr](https://github.com/ValveSoftware/openvr) - OpenVR SDK
 * 【2024-02-12】[letscontrolit / ESPEasy](https://github.com/letscontrolit/ESPEasy) - Easy MultiSensor device based on ESP8266/ESP32
@@ -307,6 +323,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[ariya / phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 ## Typescript
 
+* 【2024-02-13】[Pandora-Labs-Org / erc404](https://github.com/Pandora-Labs-Org/erc404) - 
+* 【2024-02-13】[silverbulletmd / silverbullet](https://github.com/silverbulletmd/silverbullet) - The hacker's notebook
 * 【2024-02-12】[arduino / arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
 * 【2024-02-12】[QuivrHQ / quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠 A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users ! Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
 * 【2024-02-12】[prisma / prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
