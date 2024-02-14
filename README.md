@@ -53,6 +53,10 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-02-14】[ashishpatel26 / LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning) - LLM Finetuning with peft
+* 【2024-02-14】[nushell / nushell](https://github.com/nushell/nushell) - A new type of shell
+* 【2024-02-14】[WithSecureLabs / lolcerts](https://github.com/WithSecureLabs/lolcerts) - A repository of code signing certificates known to have been leaked or stolen, then abused by threat actors
+* 【2024-02-14】[ppy / osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
 * 【2024-02-13】[skiff-org / skiff-apps](https://github.com/skiff-org/skiff-apps) - Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar.
 * 【2024-02-13】[bepass-org / oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android
 * 【2024-02-13】[anderspitman / awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
@@ -130,6 +134,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[collabora / WhisperFusion](https://github.com/collabora/WhisperFusion) - WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 ## Go
 
+* 【2024-02-14】[docker / buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
+* 【2024-02-14】[letsencrypt / boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.
 * 【2024-02-13】[apple / pkl-go-examples](https://github.com/apple/pkl-go-examples) - Examples for using Pkl within Go applications
 * 【2024-02-13】[apple / pkl-go](https://github.com/apple/pkl-go) - Pkl bindings for the Go programming language
 * 【2024-02-13】[OffchainLabs / arbitrum-classic](https://github.com/OffchainLabs/arbitrum-classic) - Powers fast, private, decentralized applications
@@ -158,6 +164,15 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[Velocidex / velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
 ## Python
 
+* 【2024-02-14】[pantsbuild / pants](https://github.com/pantsbuild/pants) - The Pants Build System
+* 【2024-02-14】[ocrmypdf / OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+* 【2024-02-14】[Textualize / toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
+* 【2024-02-14】[0x999-x / jsluicepp](https://github.com/0x999-x/jsluicepp) - jsluice++ is a Burp Suite extension designed for passive and active scanning of JavaScript traffic using the CLI tool jsluice
+* 【2024-02-14】[AXiX-official / CrossCore-Internationalizer](https://github.com/AXiX-official/CrossCore-Internationalizer) - 一个使用官方资源帮助你访问交错战线(CrossCore)的国际服资源的非官方工具。
+* 【2024-02-14】[cubiq / ComfyUI_InstantID](https://github.com/cubiq/ComfyUI_InstantID) - 
+* 【2024-02-14】[kozmer / log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc) - A Proof-Of-Concept for the CVE-2021-44228 vulnerability.
+* 【2024-02-14】[CopilotC-Nvim / CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
+* 【2024-02-14】[OWASP / CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 * 【2024-02-13】[karpathy / ng-video-lecture](https://github.com/karpathy/ng-video-lecture) - 
 * 【2024-02-13】[biopython / biopython](https://github.com/biopython/biopython) - Official git repository for Biopython (originally converted from CVS)
 * 【2024-02-13】[LAION-AI / natural_voice_assistant](https://github.com/LAION-AI/natural_voice_assistant) - 
@@ -226,6 +241,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[r0oth3x49 / ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 ## Javascript
 
+* 【2024-02-14】[zhaoolee / ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
+* 【2024-02-14】[discuitnet / discuit](https://github.com/discuitnet/discuit) - A free and open-source community discussion platform.
+* 【2024-02-14】[11ty / eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
+* 【2024-02-14】[devcontainers / images](https://github.com/devcontainers/images) - Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers
+* 【2024-02-14】[blocklistproject / Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
+* 【2024-02-14】[vercel / pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 * 【2024-02-13】[Maxsoll159 / proyectoSanValentin](https://github.com/Maxsoll159/proyectoSanValentin) - 
 * 【2024-02-13】[bia-pain-bache / BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions and Fragment configs
 * 【2024-02-12】[kunaltyagi9 / MERN-Stack-Projects](https://github.com/kunaltyagi9/MERN-Stack-Projects) - 
@@ -261,6 +282,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[expo / examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
 ## C
 
+* 【2024-02-14】[reveng007 / DarkWidow](https://github.com/reveng007/DarkWidow) - Indirect Dynamic Syscall, SSN + Syscall address sorting via Modified TartarusGate approach + Remote Process Injection via APC Early Bird + Spawns a sacrificial Process as target process + (ACG+BlockDll) mitigation policy on spawned process + PPID spoofing + Api resolving from TIB + API hashing
+* 【2024-02-14】[portapack-mayhem / mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware) - Custom firmware for the HackRF+PortaPack H1/H2
+* 【2024-02-14】[opa334 / Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered permasigned jailbreak for iOS 15
 * 【2024-02-13】[wojciech-graj / doom-ascii](https://github.com/wojciech-graj/doom-ascii) - DooM in the terminal!
 * 【2024-02-13】[blackmagic-debug / blackmagic](https://github.com/blackmagic-debug/blackmagic) - In application debugger for ARM Cortex microcontrollers.
 * 【2024-02-12】[branc116 / brplot](https://github.com/branc116/brplot) - +256,000,000 points per plot, +60 Fps on shity laptop. Only limit is the size of your RAM.
@@ -294,6 +318,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-14】[willem-pennings / balancing-cube](https://github.com/willem-pennings/balancing-cube) - A cube that balances itself in a corner or edge using reaction wheels
+* 【2024-02-14】[arplaboratory / learning-to-fly](https://github.com/arplaboratory/learning-to-fly) - Training transferable end-to-end quadrotor control policies on a laptop in 18 seconds.
+* 【2024-02-14】[e2002 / yoradio](https://github.com/e2002/yoradio) - Web-radio based on ESP32-audioI2S library
+* 【2024-02-14】[doxygen / doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
+* 【2024-02-14】[BnuuySolutions / OculusAmeliorated](https://github.com/BnuuySolutions/OculusAmeliorated) - Clean & revitalize your Oculus PCVR experience with Oculus Ameliorated, a minimal Oculus PCVR installation package.
 * 【2024-02-13】[livinamuk / Hell2024](https://github.com/livinamuk/Hell2024) - 
 * 【2024-02-12】[hyprwm / hyprpaper](https://github.com/hyprwm/hyprpaper) - Hyprpaper is a blazing fast wayland wallpaper utility with IPC controls.
 * 【2024-02-12】[ValveSoftware / openvr](https://github.com/ValveSoftware/openvr) - OpenVR SDK
@@ -323,6 +352,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[ariya / phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 ## Typescript
 
+* 【2024-02-14】[47ng / nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for Next.js - Like React.useState, but stored in the URL query string.
+* 【2024-02-14】[nrwl / nx-console](https://github.com/nrwl/nx-console) - Nx Console is the user interface for Nx & Lerna.
+* 【2024-02-14】[piyushgarg-dev / vercel-clone](https://github.com/piyushgarg-dev/vercel-clone) - Vercel Clone From Scratch 🚀
+* 【2024-02-14】[SoftwareBrothers / adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
+* 【2024-02-14】[Shopify / hydrogen](https://github.com/Shopify/hydrogen) - Hydrogen is Shopify’s stack for headless commerce. It provides a set of tools, utilities, and best-in-class examples for building dynamic and performant commerce applications. Hydrogen is designed to dovetail with Remix, Shopify’s full stack web framework, but it also provides a React library portable to other supporting frameworks. Demo store 👇🏼
 * 【2024-02-13】[Pandora-Labs-Org / erc404](https://github.com/Pandora-Labs-Org/erc404) - 
 * 【2024-02-13】[silverbulletmd / silverbullet](https://github.com/silverbulletmd/silverbullet) - The hacker's notebook
 * 【2024-02-12】[arduino / arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
