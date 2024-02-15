@@ -53,6 +53,13 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-02-15】[BCG-X-Official / agentkit](https://github.com/BCG-X-Official/agentkit) - Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain
+* 【2024-02-15】[Lunakepio / Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) - 
+* 【2024-02-15】[Vectorized / dn404](https://github.com/Vectorized/dn404) - Implementation of a co-joined ERC20 and ERC721 pair.
+* 【2024-02-15】[Lissy93 / personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+* 【2024-02-15】[octocat / Spoon-Knife](https://github.com/octocat/Spoon-Knife) - This repo is for demonstration purposes only.
+* 【2024-02-15】[oddfar / campus-imaotai](https://github.com/oddfar/campus-imaotai) - i茅台app自动预约，每日自动预约，支持docker一键部署
+* 【2024-02-15】[saurabhnemade / will-you-be-my-valentine](https://github.com/saurabhnemade/will-you-be-my-valentine) - A simple application to impress your loved ones on valentines day!!
 * 【2024-02-14】[ashishpatel26 / LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning) - LLM Finetuning with peft
 * 【2024-02-14】[nushell / nushell](https://github.com/nushell/nushell) - A new type of shell
 * 【2024-02-14】[WithSecureLabs / lolcerts](https://github.com/WithSecureLabs/lolcerts) - A repository of code signing certificates known to have been leaked or stolen, then abused by threat actors
@@ -164,6 +171,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[Velocidex / velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
 ## Python
 
+* 【2024-02-15】[justakazh / sicat](https://github.com/justakazh/sicat) - The useful exploit finder
+* 【2024-02-15】[ncbi / GeneGPT](https://github.com/ncbi/GeneGPT) - Code and data for GeneGPT.
+* 【2024-02-15】[BAAI-DCAI / Bunny](https://github.com/BAAI-DCAI/Bunny) - A family of lightweight multimodal models.
 * 【2024-02-14】[pantsbuild / pants](https://github.com/pantsbuild/pants) - The Pants Build System
 * 【2024-02-14】[ocrmypdf / OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 * 【2024-02-14】[Textualize / toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
@@ -241,6 +251,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[r0oth3x49 / ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 ## Javascript
 
+* 【2024-02-15】[DzarelDeveloper / HappyValentine](https://github.com/DzarelDeveloper/HappyValentine) - 
+* 【2024-02-15】[Dogfalo / materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 * 【2024-02-14】[zhaoolee / ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 * 【2024-02-14】[discuitnet / discuit](https://github.com/discuitnet/discuit) - A free and open-source community discussion platform.
 * 【2024-02-14】[11ty / eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
@@ -282,6 +294,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[expo / examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
 ## C
 
+* 【2024-02-15】[NLnetLabs / unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 * 【2024-02-14】[reveng007 / DarkWidow](https://github.com/reveng007/DarkWidow) - Indirect Dynamic Syscall, SSN + Syscall address sorting via Modified TartarusGate approach + Remote Process Injection via APC Early Bird + Spawns a sacrificial Process as target process + (ACG+BlockDll) mitigation policy on spawned process + PPID spoofing + Api resolving from TIB + API hashing
 * 【2024-02-14】[portapack-mayhem / mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware) - Custom firmware for the HackRF+PortaPack H1/H2
 * 【2024-02-14】[opa334 / Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered permasigned jailbreak for iOS 15
@@ -318,6 +331,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-15】[SteveMacenski / slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) - Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS
 * 【2024-02-14】[willem-pennings / balancing-cube](https://github.com/willem-pennings/balancing-cube) - A cube that balances itself in a corner or edge using reaction wheels
 * 【2024-02-14】[arplaboratory / learning-to-fly](https://github.com/arplaboratory/learning-to-fly) - Training transferable end-to-end quadrotor control policies on a laptop in 18 seconds.
 * 【2024-02-14】[e2002 / yoradio](https://github.com/e2002/yoradio) - Web-radio based on ESP32-audioI2S library
@@ -352,6 +366,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[ariya / phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 ## Typescript
 
+* 【2024-02-15】[Authenticator-Extension / Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
+* 【2024-02-15】[rauchg / emoji-todo](https://github.com/rauchg/emoji-todo) - A simple app to demonstate the ease of fetching and mutating data with Next.js App Router, RSC, and Server Actions.
 * 【2024-02-14】[47ng / nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for Next.js - Like React.useState, but stored in the URL query string.
 * 【2024-02-14】[nrwl / nx-console](https://github.com/nrwl/nx-console) - Nx Console is the user interface for Nx & Lerna.
 * 【2024-02-14】[piyushgarg-dev / vercel-clone](https://github.com/piyushgarg-dev/vercel-clone) - Vercel Clone From Scratch 🚀
