@@ -53,6 +53,9 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-02-18】[astral-sh / uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
+* 【2024-02-18】[google / generative-ai-dart](https://github.com/google/generative-ai-dart) - Google AI SDK for Dart
+* 【2024-02-18】[MichaelCade / 90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc.
 * 【2024-02-17】[kijai / ComfyUI-DiffusersStableCascade](https://github.com/kijai/ComfyUI-DiffusersStableCascade) - Simple inference with StableCascade using diffusers in ComfyUI
 * 【2024-02-17】[gptscript-ai / gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming
 * 【2024-02-17】[microsoft / UFO](https://github.com/microsoft/UFO) - A UI-Focused Agent for Windows OS Interaction.
@@ -155,6 +158,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[collabora / WhisperFusion](https://github.com/collabora/WhisperFusion) - WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 ## Go
 
+* 【2024-02-18】[temporalio / temporal](https://github.com/temporalio/temporal) - Temporal service
 * 【2024-02-17】[weaveworks / weave-gitops-enterprise](https://github.com/weaveworks/weave-gitops-enterprise) - This repo provides the enterprise level features for the weave-gitops product, including CAPI cluster creation and team workspaces.
 * 【2024-02-17】[drk1wi / Modlishka](https://github.com/drk1wi/Modlishka) - Modlishka. Reverse Proxy.
 * 【2024-02-16】[jfjallid / go-secdump](https://github.com/jfjallid/go-secdump) - Tool to remotely dump secrets from the Windows registry
@@ -189,6 +193,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[Velocidex / velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
 ## Python
 
+* 【2024-02-18】[facebookresearch / jepa](https://github.com/facebookresearch/jepa) - PyTorch code and models for V-JEPA self-supervised learning from video.
+* 【2024-02-18】[Dataherald / dataherald](https://github.com/Dataherald/dataherald) - 
 * 【2024-02-17】[mage-ai / mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 * 【2024-02-17】[czbag / starknet](https://github.com/czbag/starknet) - 
 * 【2024-02-17】[snarfed / bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social network protocols
@@ -277,6 +283,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[r0oth3x49 / ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 ## Javascript
 
+* 【2024-02-18】[zed-industries / extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor
+* 【2024-02-18】[hammerjs / hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 * 【2024-02-17】[brianpetro / obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes in Obsidian! Plus, see what's most relevant in real-time! Interact and stay organized. Powered by OpenAI ChatGPT, GPT-4 & Embeddings.
 * 【2024-02-17】[dimdenGD / OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck) - Returns old TweetDeck, for free!
 * 【2024-02-16】[ircfspace / fragment](https://github.com/ircfspace/fragment) - توسط ابزار فرگمنت می‌تونین دامنه‌های مرده‌تون رو مجدد زنده کنید! / Using the Fragment tool, you can revive your dead domains!
@@ -328,6 +336,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[expo / examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
 ## C
 
+* 【2024-02-18】[jasonporritt / rg351_m8c](https://github.com/jasonporritt/rg351_m8c) - m8 headless for rg351 devices
 * 【2024-02-17】[Wind4 / vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
 * 【2024-02-17】[webserver-llc / angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for Nginx
 * 【2024-02-17】[jcs / progman](https://github.com/jcs/progman) - progman.exe^H^H^H^H
@@ -370,6 +379,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-18】[dosbox-staging / dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
 * 【2024-02-17】[jesyspa / linear-cpp](https://github.com/jesyspa/linear-cpp) - An attempt at a C++ tutorial.
 * 【2024-02-17】[MalwareTech / EDR-Preloader](https://github.com/MalwareTech/EDR-Preloader) - An EDR bypass that prevents EDRs from hooking or loading DLLs into our process by hijacking the AppVerifier layer
 * 【2024-02-16】[darkluar / cosmic-station](https://github.com/darkluar/cosmic-station) - 🧪Exclusive Android Sony Playstation 2 emulator, from scratch, using Kotlin, C++ 20, OpenGLES, Vulkan, and Cubes
@@ -410,6 +420,14 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[ariya / phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 ## Typescript
 
+* 【2024-02-18】[observablehq / framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis.
+* 【2024-02-18】[formkit / tempo](https://github.com/formkit/tempo) - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.
+* 【2024-02-18】[subsquid-quests / algebra-farming-subgraph-migration](https://github.com/subsquid-quests/algebra-farming-subgraph-migration) - A Stellaswap-sponsored quest to migrate the Algebra Farming subgraph to Subsquid
+* 【2024-02-18】[subsquid-quests / algebra-subgraph-migration](https://github.com/subsquid-quests/algebra-subgraph-migration) - Stellaswap-sponsored quest to migrate the Algebra subgraph to Subsquid
+* 【2024-02-18】[unjs / ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works on node, browser and workers.
+* 【2024-02-18】[panaverse / learn-typescript](https://github.com/panaverse/learn-typescript) - Learning TypeScript in Baby Steps
+* 【2024-02-18】[johannesjo / super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
+* 【2024-02-18】[vuestorefront / vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Ne…
 * 【2024-02-17】[subsquid-quests / network-test-one-uniform-load-squid](https://github.com/subsquid-quests/network-test-one-uniform-load-squid) - A quest squid designed to load Phase 2 Subsquid Network uniformly
 * 【2024-02-17】[kolodny / safetest](https://github.com/kolodny/safetest) - 
 * 【2024-02-16】[reorproject / reor](https://github.com/reorproject/reor) - AI note-taking app that runs models locally.
