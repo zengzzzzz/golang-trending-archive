@@ -53,6 +53,11 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-02-19】[google / magika](https://github.com/google/magika) - Detect file content types with deep learning
+* 【2024-02-19】[ros-perception / image_pipeline](https://github.com/ros-perception/image_pipeline) - An image processing pipeline for ROS.
+* 【2024-02-19】[mastodon / mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
+* 【2024-02-19】[adrianhajdin / ai_saas_app](https://github.com/adrianhajdin/ai_saas_app) - Build a REAL Software-as-a-Service app with AI features and payments & credits system that you might even turn into a side income or business idea using Next.js 14, Clerk, MongoDB, Cloudinary AI, and Stripe.
+* 【2024-02-19】[facebookresearch / DiT](https://github.com/facebookresearch/DiT) - Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
 * 【2024-02-18】[astral-sh / uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 * 【2024-02-18】[google / generative-ai-dart](https://github.com/google/generative-ai-dart) - Google AI SDK for Dart
 * 【2024-02-18】[MichaelCade / 90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc.
@@ -158,6 +163,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[collabora / WhisperFusion](https://github.com/collabora/WhisperFusion) - WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 ## Go
 
+* 【2024-02-19】[bepass-org / bepass](https://github.com/bepass-org/bepass) - A simple DPI bypass tool written in go
+* 【2024-02-19】[caddyserver / caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+* 【2024-02-19】[gofiber / recipes](https://github.com/gofiber/recipes) - 📁 Examples for 🚀 Fiber
+* 【2024-02-19】[blushft / go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
+* 【2024-02-19】[marcoshuck / todo](https://github.com/marcoshuck/todo) - A production-grade todo app applying the following technologies: Go, gRPC, Docker, Kubernetes, Zap, Jaeger, Prometheus, Grafana and more
+* 【2024-02-19】[metal3-io / ip-address-manager](https://github.com/metal3-io/ip-address-manager) - IP address Manager for Cluster API Provider Metal3
+* 【2024-02-19】[helm / chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts
 * 【2024-02-18】[temporalio / temporal](https://github.com/temporalio/temporal) - Temporal service
 * 【2024-02-17】[weaveworks / weave-gitops-enterprise](https://github.com/weaveworks/weave-gitops-enterprise) - This repo provides the enterprise level features for the weave-gitops product, including CAPI cluster creation and team workspaces.
 * 【2024-02-17】[drk1wi / Modlishka](https://github.com/drk1wi/Modlishka) - Modlishka. Reverse Proxy.
@@ -193,6 +205,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[Velocidex / velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
 ## Python
 
+* 【2024-02-19】[xaitax / CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability) - Microsoft-Outlook-Remote-Code-Execution-Vulnerability
+* 【2024-02-19】[maurosoria / dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
+* 【2024-02-19】[yize8888 / maotai](https://github.com/yize8888/maotai) - i茅台，葫芦娃预约脚本
+* 【2024-02-19】[disposable-email-domains / disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable and temporary email address domains
+* 【2024-02-19】[Wilson-ZheLin / Streamline-Analyst](https://github.com/Wilson-ZheLin/Streamline-Analyst) - An AI agent powered by LLMs that streamlines the entire process of data analysis. 🚀
 * 【2024-02-18】[facebookresearch / jepa](https://github.com/facebookresearch/jepa) - PyTorch code and models for V-JEPA self-supervised learning from video.
 * 【2024-02-18】[Dataherald / dataherald](https://github.com/Dataherald/dataherald) - 
 * 【2024-02-17】[mage-ai / mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
@@ -283,6 +300,15 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[r0oth3x49 / ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 ## Javascript
 
+* 【2024-02-19】[malvinval / scammer-revenge](https://github.com/malvinval/scammer-revenge) - 
+* 【2024-02-19】[xxxily / hello-ai](https://github.com/xxxily/hello-ai) - 抢走你工作的不是AI，而是掌握使用AI工具的人。 降维打击最为致命：毁灭你，与你何干《三体》
+* 【2024-02-19】[thoughtbot / administrate](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard.
+* 【2024-02-19】[munris-vlad / wallet-checker](https://github.com/munris-vlad/wallet-checker) - 
+* 【2024-02-19】[quanru / obsidian-example-LifeOS](https://github.com/quanru/obsidian-example-LifeOS) - 
+* 【2024-02-19】[monkeyWie / gopeed-extension-baiduwp](https://github.com/monkeyWie/gopeed-extension-baiduwp) - Gopeed 百度网盘下载扩展。
+* 【2024-02-19】[uBlockOrigin / uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
+* 【2024-02-19】[artiebits / fake-git-history](https://github.com/artiebits/fake-git-history) - Generate Git commits.
+* 【2024-02-19】[ValveSoftware / counter-strike](https://github.com/ValveSoftware/counter-strike) - CS:GO
 * 【2024-02-18】[zed-industries / extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor
 * 【2024-02-18】[hammerjs / hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 * 【2024-02-17】[brianpetro / obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes in Obsidian! Plus, see what's most relevant in real-time! Interact and stay organized. Powered by OpenAI ChatGPT, GPT-4 & Embeddings.
@@ -336,6 +362,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[expo / examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
 ## C
 
+* 【2024-02-19】[icyguider / UAC-BOF-Bonanza](https://github.com/icyguider/UAC-BOF-Bonanza) - Collection of UAC Bypass Techniques Weaponized as BOFs
 * 【2024-02-18】[jasonporritt / rg351_m8c](https://github.com/jasonporritt/rg351_m8c) - m8 headless for rg351 devices
 * 【2024-02-17】[Wind4 / vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
 * 【2024-02-17】[webserver-llc / angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for Nginx
@@ -379,6 +406,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-19】[xenia-project / xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 * 【2024-02-18】[dosbox-staging / dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
 * 【2024-02-17】[jesyspa / linear-cpp](https://github.com/jesyspa/linear-cpp) - An attempt at a C++ tutorial.
 * 【2024-02-17】[MalwareTech / EDR-Preloader](https://github.com/MalwareTech/EDR-Preloader) - An EDR bypass that prevents EDRs from hooking or loading DLLs into our process by hijacking the AppVerifier layer
