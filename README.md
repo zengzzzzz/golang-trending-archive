@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-02-21】[CorsixTH / CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital
 * 【2024-02-20】[karpathy / minbpe](https://github.com/karpathy/minbpe) - Minimal, clean, code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 * 【2024-02-20】[GopeedLab / gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms. Built with Golang and Flutter.
 * 【2024-02-20】[scroll-tech / contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) - This repository guides developers wanting to contribute to the Scroll ecosystem.
@@ -167,6 +168,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[collabora / WhisperFusion](https://github.com/collabora/WhisperFusion) - WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 ## Go
 
+* 【2024-02-21】[INotGreen / XiebroC2](https://github.com/INotGreen/XiebroC2) - Go编写的多人运动渗透测试图形化框架、支持lua插件扩展、自定义多个模块、自定义shellcode、文件管理、进程管理、内存加载、反向代理等功能
 * 【2024-02-20】[miniflux / v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 * 【2024-02-20】[fossabot / clash](https://github.com/fossabot/clash) - A rule based proxy in Go.
 * 【2024-02-19】[bepass-org / bepass](https://github.com/bepass-org/bepass) - A simple DPI bypass tool written in go
@@ -211,6 +213,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[Velocidex / velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
 ## Python
 
+* 【2024-02-21】[FujiwaraChoki / MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 * 【2024-02-19】[xaitax / CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability) - Microsoft-Outlook-Remote-Code-Execution-Vulnerability
 * 【2024-02-19】[maurosoria / dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 * 【2024-02-19】[yize8888 / maotai](https://github.com/yize8888/maotai) - i茅台，葫芦娃预约脚本
@@ -306,6 +309,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[r0oth3x49 / ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 ## Javascript
 
+* 【2024-02-21】[nextcloud / spreed](https://github.com/nextcloud/spreed) - 🗨️ Nextcloud Talk – chat, video & audio calls for Nextcloud
 * 【2024-02-20】[mut-ex / gligen-gui](https://github.com/mut-ex/gligen-gui) - An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 * 【2024-02-20】[catsats / backpack_exchange](https://github.com/catsats/backpack_exchange) - backpack 刷交易量 JavaScript 只刷sol/usdc
 * 【2024-02-19】[malvinval / scammer-revenge](https://github.com/malvinval/scammer-revenge) - 
@@ -370,6 +374,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[expo / examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
 ## C
 
+* 【2024-02-21】[microsoft / Sora](https://github.com/microsoft/Sora) - The Microsoft Research Software Radio (Sora) is a programmable software radio platform based on the commodity multicore CPU in a host PC. The SDK provides the drivers, user mode 802.11a/b/n samples, and a debug plot tool.
 * 【2024-02-19】[icyguider / UAC-BOF-Bonanza](https://github.com/icyguider/UAC-BOF-Bonanza) - Collection of UAC Bypass Techniques Weaponized as BOFs
 * 【2024-02-18】[jasonporritt / rg351_m8c](https://github.com/jasonporritt/rg351_m8c) - m8 headless for rg351 devices
 * 【2024-02-17】[Wind4 / vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
@@ -414,6 +419,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-21】[hyprwm / hypridle](https://github.com/hyprwm/hypridle) - Hyprland's idle daemon
 * 【2024-02-20】[chancerly / jtik](https://github.com/chancerly/jtik) - Dynamic java method hook for Android，Implemented by jvmti
 * 【2024-02-19】[xenia-project / xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 * 【2024-02-18】[dosbox-staging / dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
@@ -457,6 +463,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[ariya / phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 ## Typescript
 
+* 【2024-02-21】[soybeanjs / soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。
 * 【2024-02-18】[observablehq / framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis.
 * 【2024-02-18】[formkit / tempo](https://github.com/formkit/tempo) - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.
 * 【2024-02-18】[subsquid-quests / algebra-farming-subgraph-migration](https://github.com/subsquid-quests/algebra-farming-subgraph-migration) - A Stellaswap-sponsored quest to migrate the Algebra Farming subgraph to Subsquid
