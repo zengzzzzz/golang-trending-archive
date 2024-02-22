@@ -53,6 +53,9 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-02-22】[charlax / professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
+* 【2024-02-22】[Kalabasa / htmz](https://github.com/Kalabasa/htmz) - html with targeted manipulation zones
+* 【2024-02-22】[tw93 / Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 * 【2024-02-21】[CorsixTH / CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital
 * 【2024-02-20】[karpathy / minbpe](https://github.com/karpathy/minbpe) - Minimal, clean, code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 * 【2024-02-20】[GopeedLab / gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms. Built with Golang and Flutter.
@@ -168,6 +171,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[collabora / WhisperFusion](https://github.com/collabora/WhisperFusion) - WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 ## Go
 
+* 【2024-02-22】[shirou / gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
+* 【2024-02-22】[cockroachdb / swiss](https://github.com/cockroachdb/swiss) - Go port of Google's Swiss Table hash table
 * 【2024-02-21】[INotGreen / XiebroC2](https://github.com/INotGreen/XiebroC2) - Go编写的多人运动渗透测试图形化框架、支持lua插件扩展、自定义多个模块、自定义shellcode、文件管理、进程管理、内存加载、反向代理等功能
 * 【2024-02-20】[miniflux / v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 * 【2024-02-20】[fossabot / clash](https://github.com/fossabot/clash) - A rule based proxy in Go.
@@ -213,6 +218,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[Velocidex / velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
 ## Python
 
+* 【2024-02-22】[nyaoouo / GBFR-ACT](https://github.com/nyaoouo/GBFR-ACT) - A combat data track and analytic mod, suchas dps tracking
+* 【2024-02-22】[vvbbnn00 / WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
 * 【2024-02-21】[FujiwaraChoki / MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 * 【2024-02-19】[xaitax / CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability) - Microsoft-Outlook-Remote-Code-Execution-Vulnerability
 * 【2024-02-19】[maurosoria / dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
@@ -309,6 +316,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[r0oth3x49 / ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 ## Javascript
 
+* 【2024-02-22】[ScratchAddons / ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) - All-in-one browser extension for Scratch.
 * 【2024-02-21】[nextcloud / spreed](https://github.com/nextcloud/spreed) - 🗨️ Nextcloud Talk – chat, video & audio calls for Nextcloud
 * 【2024-02-20】[mut-ex / gligen-gui](https://github.com/mut-ex/gligen-gui) - An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 * 【2024-02-20】[catsats / backpack_exchange](https://github.com/catsats/backpack_exchange) - backpack 刷交易量 JavaScript 只刷sol/usdc
@@ -374,6 +382,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[expo / examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
 ## C
 
+* 【2024-02-22】[BojanJurca / Esp32_oscilloscope](https://github.com/BojanJurca/Esp32_oscilloscope) - ESP32 oscilloscope - see the signals through Web browser the way ESP32 sees them
 * 【2024-02-21】[microsoft / Sora](https://github.com/microsoft/Sora) - The Microsoft Research Software Radio (Sora) is a programmable software radio platform based on the commodity multicore CPU in a host PC. The SDK provides the drivers, user mode 802.11a/b/n samples, and a debug plot tool.
 * 【2024-02-19】[icyguider / UAC-BOF-Bonanza](https://github.com/icyguider/UAC-BOF-Bonanza) - Collection of UAC Bypass Techniques Weaponized as BOFs
 * 【2024-02-18】[jasonporritt / rg351_m8c](https://github.com/jasonporritt/rg351_m8c) - m8 headless for rg351 devices
@@ -419,6 +428,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-22】[InfpPointPlus / Raptor](https://github.com/InfpPointPlus/Raptor) - 第三方阿里云盘桌面应用客户端
+* 【2024-02-22】[hyprwm / hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
 * 【2024-02-21】[hyprwm / hypridle](https://github.com/hyprwm/hypridle) - Hyprland's idle daemon
 * 【2024-02-20】[chancerly / jtik](https://github.com/chancerly/jtik) - Dynamic java method hook for Android，Implemented by jvmti
 * 【2024-02-19】[xenia-project / xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
@@ -463,6 +474,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[ariya / phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 ## Typescript
 
+* 【2024-02-22】[rocketseat-education / react-na-pratica-01](https://github.com/rocketseat-education/react-na-pratica-01) - 
+* 【2024-02-22】[synchronicity-labs / translation-starter](https://github.com/synchronicity-labs/translation-starter) - 
 * 【2024-02-21】[soybeanjs / soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。
 * 【2024-02-18】[observablehq / framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis.
 * 【2024-02-18】[formkit / tempo](https://github.com/formkit/tempo) - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.
