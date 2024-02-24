@@ -53,6 +53,15 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-02-24】[google / gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google's Gemma models
+* 【2024-02-24】[google / gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
+* 【2024-02-24】[facebook / react-strict-dom](https://github.com/facebook/react-strict-dom) - React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets
+* 【2024-02-24】[all-in-aigc / sorafm](https://github.com/all-in-aigc/sorafm) - Sora AI Video Generator by Sora.FM
+* 【2024-02-24】[mtkarimi / smart-resident-guard](https://github.com/mtkarimi/smart-resident-guard) - 
+* 【2024-02-24】[google-deepmind / gemma](https://github.com/google-deepmind/gemma) - Open weights LLM from Google DeepMind.
+* 【2024-02-24】[soufianetahiri / Anxun-isoon](https://github.com/soufianetahiri/Anxun-isoon) - I-SOON/Anxun leak related stuff
+* 【2024-02-24】[keep-starknet-strange / awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) - A curated list of awesome StarkNet resources, libraries, tools and more
+* 【2024-02-24】[starknet-io / provisions-data](https://github.com/starknet-io/provisions-data) - Lists of eligible identities for Starknet provisions.
 * 【2024-02-23】[levihsu / OOTDiffusion](https://github.com/levihsu/OOTDiffusion) - Official implementation of OOTDiffusion
 * 【2024-02-23】[Speykious / cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
 * 【2024-02-23】[systemdesign42 / system-design](https://github.com/systemdesign42/system-design) - Building the best system design resource in the internet
@@ -228,6 +237,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[Velocidex / velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
 ## Python
 
+* 【2024-02-24】[Chocapikk / CVE-2024-25600](https://github.com/Chocapikk/CVE-2024-25600) - Unauthenticated Remote Code Execution – Bricks <= 1.9.6
+* 【2024-02-24】[mandiant / capa](https://github.com/mandiant/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
 * 【2024-02-23】[Vchitect / Latte](https://github.com/Vchitect/Latte) - Latte: Latent Diffusion Transformer for Video Generation.
 * 【2024-02-23】[encode / httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 * 【2024-02-23】[carlini / yet-another-applied-llm-benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark) - A benchmark to evaluate language models on questions I've previously asked them to solve.
@@ -332,6 +343,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[r0oth3x49 / ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 ## Javascript
 
+* 【2024-02-24】[Maher-Zubair / SIGMA-MD](https://github.com/Maher-Zubair/SIGMA-MD) - A Premium Whatsapp Bot Loaded With Features
+* 【2024-02-24】[lavanet / docs](https://github.com/lavanet/docs) - The open-source repo for docs.lavanet.xyz
+* 【2024-02-24】[brentvollebregt / auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) - Converts .py to .exe using a simple graphical interface
+* 【2024-02-24】[maboloshi / github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
+* 【2024-02-24】[nightwatchjs / nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
 * 【2024-02-23】[AIGODLIKE / AIGODLIKE-ComfyUI-Translation](https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation) - A plugin for multilingual translation of ComfyUI，This plugin implements translation of resident menu bar/search bar/right-click context menu/node, etc
 * 【2024-02-23】[openchatai / OpenChat](https://github.com/openchatai/OpenChat) - LLMs custom-chatbots console ⚡
 * 【2024-02-23】[kenwheeler / slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
@@ -401,6 +417,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[expo / examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
 ## C
 
+* 【2024-02-24】[ofiwg / libfabric](https://github.com/ofiwg/libfabric) - Open Fabric Interfaces
 * 【2024-02-23】[tvlad1234 / linux-ch32v003](https://github.com/tvlad1234/linux-ch32v003) - Linux on a $0.15 RISC-V microcontroller
 * 【2024-02-22】[BojanJurca / Esp32_oscilloscope](https://github.com/BojanJurca/Esp32_oscilloscope) - ESP32 oscilloscope - see the signals through Web browser the way ESP32 sees them
 * 【2024-02-21】[microsoft / Sora](https://github.com/microsoft/Sora) - The Microsoft Research Software Radio (Sora) is a programmable software radio platform based on the commodity multicore CPU in a host PC. The SDK provides the drivers, user mode 802.11a/b/n samples, and a debug plot tool.
@@ -497,6 +514,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[ariya / phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 ## Typescript
 
+* 【2024-02-24】[SoraWebui / FakeSoraAPI](https://github.com/SoraWebui/FakeSoraAPI) - Fake Sora API is an open-source project that simulates the yet-to-be-released OpenAI Sora API, enabling developers to prepare and test their applications in advance.
+* 【2024-02-24】[salarcode / SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
+* 【2024-02-24】[0no-co / gql.tada](https://github.com/0no-co/gql.tada) - 🪄 Magical GraphQL query engine for TypeScript
+* 【2024-02-24】[putyy / res-downloader](https://github.com/putyy/res-downloader) - 网络资源嗅探资源下载器，支持: 微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载!
+* 【2024-02-24】[vitest-dev / vscode](https://github.com/vitest-dev/vscode) - VS Code extension for Vitest
 * 【2024-02-23】[SoraWebui / SoraWebui](https://github.com/SoraWebui/SoraWebui) - SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.
 * 【2024-02-23】[shikijs / shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 * 【2024-02-22】[rocketseat-education / react-na-pratica-01](https://github.com/rocketseat-education/react-na-pratica-01) - 
