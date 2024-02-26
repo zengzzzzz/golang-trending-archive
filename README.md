@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-02-26】[radix-vue / radix-vue](https://github.com/radix-vue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
+* 【2024-02-26】[ronibandini / reggaetonBeGone](https://github.com/ronibandini/reggaetonBeGone) - detects reggaeton style with Machine Learning and sends packets to disable BT speakers (hopefully)
 * 【2024-02-25】[WongKinYiu / yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
 * 【2024-02-25】[NoteProtocol / NoteWallet](https://github.com/NoteProtocol/NoteWallet) - A Command Line Wallet to Send/Receive BTC and NOTE Tokens
 * 【2024-02-25】[MegaManSec / SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
@@ -193,6 +195,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[collabora / WhisperFusion](https://github.com/collabora/WhisperFusion) - WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 ## Go
 
+* 【2024-02-26】[ra2web / ra2web-proxy](https://github.com/ra2web/ra2web-proxy) - 网页红警边缘合规安全网关，用于对Chronodivide官方客户端进行转发，并对代码和内容动态注入，实现区域合规要求
+* 【2024-02-26】[go-jet / jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping
 * 【2024-02-25】[TwiN / gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 * 【2024-02-23】[go-fuego / fuego](https://github.com/go-fuego/fuego) - Golang Fuego - web framework generating OpenAPI 3 spec from source code
 * 【2024-02-23】[json-iterator / go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
@@ -243,6 +247,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[Velocidex / velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
 ## Python
 
+* 【2024-02-26】[OpenCodeInterpreter / OpenCodeInterpreter](https://github.com/OpenCodeInterpreter/OpenCodeInterpreter) - 
+* 【2024-02-26】[XX-net / XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
+* 【2024-02-26】[tin-ka / Prometheus](https://github.com/tin-ka/Prometheus) - Very powerful stealer + miner + rat + keylogger
 * 【2024-02-25】[galaxyproject / galaxy](https://github.com/galaxyproject/galaxy) - Data intensive science for everyone.
 * 【2024-02-25】[feast-dev / feast](https://github.com/feast-dev/feast) - Feature Store for Machine Learning
 * 【2024-02-25】[openai / guided-diffusion](https://github.com/openai/guided-diffusion) - 
@@ -354,6 +361,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[r0oth3x49 / ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 ## Javascript
 
+* 【2024-02-26】[rolling-scopes-school / news-JS](https://github.com/rolling-scopes-school/news-JS) - 
 * 【2024-02-25】[fal-ai / sdxl-lightning-demo-app](https://github.com/fal-ai/sdxl-lightning-demo-app) - A demo application using fal.realtime and the lightning fast SDXL API provided by fal
 * 【2024-02-25】[localtunnel / localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 * 【2024-02-24】[Maher-Zubair / SIGMA-MD](https://github.com/Maher-Zubair/SIGMA-MD) - A Premium Whatsapp Bot Loaded With Features
@@ -481,6 +489,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-26】[pierotofy / OpenSplat](https://github.com/pierotofy/OpenSplat) - Free and open source 3D gaussian splatting in C++ 💦
+* 【2024-02-26】[cms-sw / cmssw](https://github.com/cms-sw/cmssw) - CMS Offline Software
+* 【2024-02-26】[root-project / root](https://github.com/root-project/root) - The official repository for ROOT: analyzing, storing and visualizing big data, scientifically
 * 【2024-02-25】[veyon / veyon](https://github.com/veyon/veyon) - Cross-platform computer monitoring and classroom management
 * 【2024-02-25】[raknet-python / raknet-python](https://github.com/raknet-python/raknet-python) - Python bindings for RakNet, a cross-platform networking engine for game programmers.
 * 【2024-02-23】[ValveSoftware / steam-audio](https://github.com/ValveSoftware/steam-audio) - Steam Audio
@@ -532,6 +543,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[ariya / phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 ## Typescript
 
+* 【2024-02-26】[projectx-codehagen / Badget](https://github.com/projectx-codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
+* 【2024-02-26】[electric-sql / pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
+* 【2024-02-26】[coinbase / build-onchain-apps](https://github.com/coinbase/build-onchain-apps) - Accelerate your web3 creativity with the Build Onchain Apps Toolkit. ⛵️
 * 【2024-02-25】[remix-run / examples](https://github.com/remix-run/examples) - A community-driven repository showcasing examples using Remix 💿
 * 【2024-02-25】[michalzalobny / webgl-3d-engine](https://github.com/michalzalobny/webgl-3d-engine) - WebGL2 3D Engine built from scratch.
 * 【2024-02-25】[Rocketseat / jupiter](https://github.com/Rocketseat/jupiter) - Rocketseat video internal platform.
