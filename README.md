@@ -53,6 +53,15 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-02-29】[pmndrs / uikit](https://github.com/pmndrs/uikit) - 📱 user interfaces for react-three-fiber
+* 【2024-02-29】[taikoxyz / taiko-mono](https://github.com/taikoxyz/taiko-mono) - A decentralized, Ethereum-equivalent ZK-Rollup. 🥁
+* 【2024-02-29】[dockur / windows](https://github.com/dockur/windows) - Windows in a Docker container.
+* 【2024-02-29】[SciPhi-AI / R2R](https://github.com/SciPhi-AI/R2R) - A framework for rapid development and deployment of production-ready RAG systems
+* 【2024-02-29】[myshell-ai / MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
+* 【2024-02-29】[krishnaik06 / Data-Science-Projects-For-Resumes](https://github.com/krishnaik06/Data-Science-Projects-For-Resumes) - 
+* 【2024-02-29】[polyfillpolyfill / polyfill-service](https://github.com/polyfillpolyfill/polyfill-service) - Automatic polyfill service.
+* 【2024-02-29】[Pawdroid / Free-servers](https://github.com/Pawdroid/Free-servers) - 🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。注意：目前进入官网需开启代理。
+* 【2024-02-29】[nvm-sh / nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 * 【2024-02-28】[tigerbeetle / tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The distributed financial transactions database designed for mission critical safety and performance.
 * 【2024-02-28】[FuelLabs / fuels-rs](https://github.com/FuelLabs/fuels-rs) - Fuel Network Rust SDK
 * 【2024-02-28】[MDK8888 / GPTFast](https://github.com/MDK8888/GPTFast) - Accelerate your Hugging Face Transformers 6-7x. Native to Hugging Face and PyTorch.
@@ -199,6 +208,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[collabora / WhisperFusion](https://github.com/collabora/WhisperFusion) - WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 ## Go
 
+* 【2024-02-29】[ethstorage / es-node](https://github.com/ethstorage/es-node) - Golang implementation of the EthStorage node.
+* 【2024-02-29】[axllent / mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 * 【2024-02-28】[weaviate / weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.
 * 【2024-02-28】[aws / copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
 * 【2024-02-28】[nginxinc / kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress) - NGINX and NGINX Plus Ingress Controllers for Kubernetes
@@ -258,6 +269,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[Velocidex / velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
 ## Python
 
+* 【2024-02-29】[Clouditera / SecGPT](https://github.com/Clouditera/SecGPT) - SecGPT网络安全大模型
+* 【2024-02-29】[rany2 / edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
 * 【2024-02-28】[jasonyzhang / RayDiffusion](https://github.com/jasonyzhang/RayDiffusion) - Code for "Cameras as Rays"
 * 【2024-02-28】[jaymody / picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
 * 【2024-02-28】[MrMimic / data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) - Toturials coming with the "data science roadmap" picture.
@@ -380,6 +393,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[r0oth3x49 / ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 ## Javascript
 
+* 【2024-02-29】[jason5ng32 / OhEarningsCal](https://github.com/jason5ng32/OhEarningsCal) - 使用日历软件订阅美股的财报日期
+* 【2024-02-29】[polyfillpolyfill / polyfill-library](https://github.com/polyfillpolyfill/polyfill-library) - NodeJS module to create polyfill bundles tailored to individual user-agents.
+* 【2024-02-29】[eKoopmans / html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - Client-side HTML-to-PDF rendering using pure JS.
 * 【2024-02-28】[bittu1040 / JavaScript-Coding-and-Notes](https://github.com/bittu1040/JavaScript-Coding-and-Notes) - You can find here all JavaScript core concept with example and basic coding challenge
 * 【2024-02-28】[mozilla / readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 * 【2024-02-28】[ninjas-code-official / food-delivery-multivendor](https://github.com/ninjas-code-official/food-delivery-multivendor) - Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: 🚀🛒📦🌐
@@ -462,6 +478,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[expo / examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools
 ## C
 
+* 【2024-02-29】[open-quantum-safe / liboqs](https://github.com/open-quantum-safe/liboqs) - C library for prototyping and experimenting with quantum-resistant cryptography
+* 【2024-02-29】[TelegramMessenger / MTProxy](https://github.com/TelegramMessenger/MTProxy) - 
 * 【2024-02-28】[checkpoint-restore / criu](https://github.com/checkpoint-restore/criu) - Checkpoint/Restore tool
 * 【2024-02-28】[skyfloogle / red-viper](https://github.com/skyfloogle/red-viper) - A Virtual Boy emulator for the 3DS
 * 【2024-02-28】[open-mpi / ompi](https://github.com/open-mpi/ompi) - Open MPI main development repository
@@ -516,6 +534,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 ## C++
 
+* 【2024-02-29】[sddm / sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager
 * 【2024-02-28】[zeromq / cppzmq](https://github.com/zeromq/cppzmq) - Header-only C++ binding for libzmq
 * 【2024-02-28】[k2-fsa / sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift
 * 【2024-02-27】[dail8859 / NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
@@ -573,6 +592,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-02-01】[ariya / phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 ## Typescript
 
+* 【2024-02-29】[Herm-Studio / StakeVladDracula](https://github.com/Herm-Studio/StakeVladDracula) - StakeVladDracula pierces all.
+* 【2024-02-29】[matter-labs / hardhat-zksync](https://github.com/matter-labs/hardhat-zksync) - 
+* 【2024-02-29】[guilhermerodz / input-otp](https://github.com/guilhermerodz/input-otp) - One time passcode Input. Accessible & unstyled.
+* 【2024-02-29】[keno-lee / vue-virt-list](https://github.com/keno-lee/vue-virt-list) - ⚡️ 一个支持vue2&vue3的高性能虚拟(滚动)列表组件 👉🏻 轻量3KB 百万数据渲染 满帧率滚动 丰富场景支持 📑 [vue虚拟列表] [vue虚拟滚动列表] [vue-virtual-list] [vue-virtual-scroll-list] [vue-virtual-scroller]
 * 【2024-02-28】[SAP / btp-solution-diagrams](https://github.com/SAP/btp-solution-diagrams) - SAP Business Technology Platform solution diagram repository, based on the official SAP BTP Solution diagram guideline. This has been designed in accordance with the SAP Fiori Horizon principles and color palette which provides a holistic and pleasing aesthetic and user experience.
 * 【2024-02-27】[infinitered / nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
 * 【2024-02-27】[framer / motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
