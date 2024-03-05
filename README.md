@@ -53,6 +53,9 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-03-05】[PKU-YuanGroup / Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproducing Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project.
+* 【2024-03-05】[lining808 / CS-Ebook](https://github.com/lining808/CS-Ebook) - 一个高质量、经典计算机书籍推荐清单，特点为：只收集高质量，各方向经典书籍，不求书多，只求书精。
+* 【2024-03-05】[merill / awesome-entra](https://github.com/merill/awesome-entra) - 😎 Awesome list of all things related to Microsoft Entra
 * 【2024-03-04】[layerdiffusion / sd-forge-layerdiffusion](https://github.com/layerdiffusion/sd-forge-layerdiffusion) - [WIP] Layer Diffusion for WebUI (via Forge)
 * 【2024-03-04】[naver / dust3r](https://github.com/naver/dust3r) - 
 * 【2024-03-04】[cooderl / wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）。
@@ -72,6 +75,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[cbh123 / stickerbaker](https://github.com/cbh123/stickerbaker) - Let's bake some (AI) stickers!
 ## Go
 
+* 【2024-03-05】[Geniucker / CoGPT](https://github.com/Geniucker/CoGPT) - Hmm Copilot or GPT? Who knows. Get access to gpt-4 via copilot.
+* 【2024-03-05】[jovandeginste / payme](https://github.com/jovandeginste/payme) - QR code generator (ASCII & PNG) for SEPA payments
 * 【2024-03-04】[Calcium-Ion / new-api](https://github.com/Calcium-Ion/new-api) - 基于One API的二次开发版本，仅供个人管理渠道使用，请勿用于商业API分发！
 * 【2024-03-04】[autobrr / autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
 * 【2024-03-04】[NicolasLopes7 / shipthing](https://github.com/NicolasLopes7/shipthing) - rebuilding vercel
@@ -84,6 +89,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[babylonchain / babylon](https://github.com/babylonchain/babylon) - Main repo for Babylon full node
 ## Python
 
+* 【2024-03-05】[kcheng1021 / GaussianPro](https://github.com/kcheng1021/GaussianPro) - 
+* 【2024-03-05】[shankarpandala / lazypredict](https://github.com/shankarpandala/lazypredict) - Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning
+* 【2024-03-05】[intel / intel-npu-acceleration-library](https://github.com/intel/intel-npu-acceleration-library) - Intel® NPU Acceleration Library
 * 【2024-03-04】[mini-sora / minisora](https://github.com/mini-sora/minisora) - The Mini Sora project aims to explore the implementation path and future development direction of Sora.
 * 【2024-03-04】[liguodongiot / llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验。
 * 【2024-03-04】[BatsResearch / bonito](https://github.com/BatsResearch/bonito) - A lightweight library for generating synthetic instruction tuning datasets for your data without GPT.
@@ -110,6 +118,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Sinaptik-AI / pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 ## Javascript
 
+* 【2024-03-05】[weather-gov / weather.gov](https://github.com/weather-gov/weather.gov) - weather.gov 2.0
+* 【2024-03-05】[Nomi-CEu / Nomi-CEu-Modern](https://github.com/Nomi-CEu/Nomi-CEu-Modern) - Port of Nomi-CEu to newer versions!
+* 【2024-03-05】[0xsongsu / dailytask](https://github.com/0xsongsu/dailytask) - 每日签到任务
 * 【2024-03-04】[adrianhajdin / project_next_14_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_14_ai_prompt_sharing) - Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you'll put your skills to the test by building a modern full-stack Next 14 application.
 * 【2024-03-04】[piyush-eon / mern-chat-app](https://github.com/piyush-eon/mern-chat-app) - 
 * 【2024-03-03】[ltlittlekk / OTTO](https://github.com/ltlittlekk/OTTO) - 电棍游戏
@@ -123,6 +134,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[aws-samples / public-file-browser-for-amazon-s3](https://github.com/aws-samples/public-file-browser-for-amazon-s3) - Sample code to deploy a website and a "public files" S3 bucket which can be loaded with any files an administrator wishes to publish publicly online.
 ## C
 
+* 【2024-03-05】[atar-axis / xpadneo](https://github.com/atar-axis/xpadneo) - Advanced Linux Driver for Xbox One Wireless Controller (shipped with Xbox One S)
+* 【2024-03-05】[nvim-telescope / telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim) - FZF sorter for telescope written in c
+* 【2024-03-05】[zigzap / zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 * 【2024-03-03】[WiringPi / WiringPi](https://github.com/WiringPi/WiringPi) - The arguably fastest GPIO Library for the Raspberry Pi
 * 【2024-03-02】[arcsysu / SYsU-lang2](https://github.com/arcsysu/SYsU-lang2) - 中山大学编译原理课程实验（完全重构版本）
 * 【2024-03-02】[mackron / miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
@@ -130,12 +144,18 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Helixo32 / CrimsonEDR](https://github.com/Helixo32/CrimsonEDR) - Simulate the behavior of AV/EDR for malware development training.
 ## C++
 
+* 【2024-03-05】[monero-project / monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
+* 【2024-03-05】[Serial-Studio / Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Multi-purpose serial data visualization & processing program
+* 【2024-03-05】[love2d / love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
+* 【2024-03-05】[LMMS / lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 * 【2024-03-04】[nRF24 / RF24](https://github.com/nRF24/RF24) - OSI Layer 2 driver for nRF24L01 on Arduino & Raspberry Pi/Linux Devices
 * 【2024-03-03】[owasp-modsecurity / ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
 * 【2024-03-03】[thorvg / thorvg](https://github.com/thorvg/thorvg) - Thor Vector Graphics is a lightweight portable library used for drawing vector-based scenes and animations including SVG and Lottie. It can be freely utilized across various software platforms and applications to visualize graphical contents.
 * 【2024-03-01】[Vahera / godot-orchestrator](https://github.com/Vahera/godot-orchestrator) - Godot Engine (4.2+) Visual Scripting with Orchestrator.
 ## Typescript
 
+* 【2024-03-05】[vuejs / language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
+* 【2024-03-05】[rolling-scopes-school / movie-app-code-review](https://github.com/rolling-scopes-school/movie-app-code-review) - 
 * 【2024-03-04】[lmsqueezy / wedges](https://github.com/lmsqueezy/wedges) - An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.
 * 【2024-03-04】[semperai / amica](https://github.com/semperai/amica) - Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition.
 * 【2024-03-04】[openreplay / openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
