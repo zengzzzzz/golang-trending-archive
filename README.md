@@ -53,6 +53,11 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-03-06】[layerdiffusion / sd-forge-layerdiffuse](https://github.com/layerdiffusion/sd-forge-layerdiffuse) - [WIP] Layer Diffusion for WebUI (via Forge)
+* 【2024-03-06】[nikic / PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
+* 【2024-03-06】[jaywcjlove / reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
+* 【2024-03-06】[itgoyo / TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 悄咪咪收集的1000+个Telegram群合集，如果有更多好玩的telegram群，欢迎在 issue 提出或者pull requests
+* 【2024-03-06】[huchenlei / ComfyUI-layerdiffuse](https://github.com/huchenlei/ComfyUI-layerdiffuse) - Layer Diffusion custom nodes
 * 【2024-03-05】[PKU-YuanGroup / Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproducing Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project.
 * 【2024-03-05】[lining808 / CS-Ebook](https://github.com/lining808/CS-Ebook) - 一个高质量、经典计算机书籍推荐清单，特点为：只收集高质量，各方向经典书籍，不求书多，只求书精。
 * 【2024-03-05】[merill / awesome-entra](https://github.com/merill/awesome-entra) - 😎 Awesome list of all things related to Microsoft Entra
@@ -75,6 +80,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[cbh123 / stickerbaker](https://github.com/cbh123/stickerbaker) - Let's bake some (AI) stickers!
 ## Go
 
+* 【2024-03-06】[golang-jwt / jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go
+* 【2024-03-06】[benhoyt / go-1brc](https://github.com/benhoyt/go-1brc) - My Go solutions to the One Billion Row Challenge
 * 【2024-03-05】[Geniucker / CoGPT](https://github.com/Geniucker/CoGPT) - Hmm Copilot or GPT? Who knows. Get access to gpt-4 via copilot.
 * 【2024-03-05】[jovandeginste / payme](https://github.com/jovandeginste/payme) - QR code generator (ASCII & PNG) for SEPA payments
 * 【2024-03-04】[Calcium-Ion / new-api](https://github.com/Calcium-Ion/new-api) - 基于One API的二次开发版本，仅供个人管理渠道使用，请勿用于商业API分发！
@@ -89,6 +96,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[babylonchain / babylon](https://github.com/babylonchain/babylon) - Main repo for Babylon full node
 ## Python
 
+* 【2024-03-06】[yangjianxin1 / Firefly](https://github.com/yangjianxin1/Firefly) - Firefly: 大模型训练工具，支持训练Gemma、MiniCPM、Yi、Deepseek、Orion、Xverse、Mixtral-8x7B、Zephyr、Mistral、Baichuan2、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya2、Vicuna、Bloom等大模型
+* 【2024-03-06】[StavC / ComPromptMized](https://github.com/StavC/ComPromptMized) - ComPromptMized: Unleashing Zero-click Worms that Target GenAI-Powered Applications
+* 【2024-03-06】[NanmiCoder / MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
+* 【2024-03-06】[apple / pfl-research](https://github.com/apple/pfl-research) - Simulation framework for accelerating research in Private Federated Learning
+* 【2024-03-06】[pytest-dev / pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
+* 【2024-03-06】[aappleby / hancho](https://github.com/aappleby/hancho) - A simple pleasant build system in Python.
 * 【2024-03-05】[kcheng1021 / GaussianPro](https://github.com/kcheng1021/GaussianPro) - 
 * 【2024-03-05】[shankarpandala / lazypredict](https://github.com/shankarpandala/lazypredict) - Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning
 * 【2024-03-05】[intel / intel-npu-acceleration-library](https://github.com/intel/intel-npu-acceleration-library) - Intel® NPU Acceleration Library
@@ -118,6 +131,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Sinaptik-AI / pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 ## Javascript
 
+* 【2024-03-06】[cmliu / WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) - 这个是一个将 Cloudflare Workers - VLESS 搭配 自建优选域名 的 订阅生成器
+* 【2024-03-06】[panagiop / node.js-clean-architecture](https://github.com/panagiop/node.js-clean-architecture) - A use case of Clean Architecture in Node.js comprising of Express.js, MongoDB and Redis as the main (but replaceable) infrastructure.
+* 【2024-03-06】[nuejs / nue](https://github.com/nuejs/nue) - The Content First Web Framework
 * 【2024-03-05】[weather-gov / weather.gov](https://github.com/weather-gov/weather.gov) - weather.gov 2.0
 * 【2024-03-05】[Nomi-CEu / Nomi-CEu-Modern](https://github.com/Nomi-CEu/Nomi-CEu-Modern) - Port of Nomi-CEu to newer versions!
 * 【2024-03-05】[0xsongsu / dailytask](https://github.com/0xsongsu/dailytask) - 每日签到任务
@@ -134,6 +150,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[aws-samples / public-file-browser-for-amazon-s3](https://github.com/aws-samples/public-file-browser-for-amazon-s3) - Sample code to deploy a website and a "public files" S3 bucket which can be loaded with any files an administrator wishes to publish publicly online.
 ## C
 
+* 【2024-03-06】[rfaile313 / draw_game](https://github.com/rfaile313/draw_game) - Draw! is a small game that was developed in C
+* 【2024-03-06】[tomojitakasu / RTKLIB](https://github.com/tomojitakasu/RTKLIB) - 
 * 【2024-03-05】[atar-axis / xpadneo](https://github.com/atar-axis/xpadneo) - Advanced Linux Driver for Xbox One Wireless Controller (shipped with Xbox One S)
 * 【2024-03-05】[nvim-telescope / telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim) - FZF sorter for telescope written in c
 * 【2024-03-05】[zigzap / zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
@@ -144,6 +162,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Helixo32 / CrimsonEDR](https://github.com/Helixo32/CrimsonEDR) - Simulate the behavior of AV/EDR for malware development training.
 ## C++
 
+* 【2024-03-06】[b4rtaz / distributed-llama](https://github.com/b4rtaz/distributed-llama) - Run LLMs on weak devices or make powerful devices even more powerful by distributing the workload and dividing the RAM usage.
 * 【2024-03-05】[monero-project / monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 * 【2024-03-05】[Serial-Studio / Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Multi-purpose serial data visualization & processing program
 * 【2024-03-05】[love2d / love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
@@ -154,6 +173,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Vahera / godot-orchestrator](https://github.com/Vahera/godot-orchestrator) - Godot Engine (4.2+) Visual Scripting with Orchestrator.
 ## Typescript
 
+* 【2024-03-06】[solana-labs / solana-web3.js](https://github.com/solana-labs/solana-web3.js) - Solana JavaScript SDK
+* 【2024-03-06】[BennyKok / comfyui-deploy-next-example](https://github.com/BennyKok/comfyui-deploy-next-example) - A demo for running comfy deploy api via nextjs
+* 【2024-03-06】[apitable / apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 * 【2024-03-05】[vuejs / language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
 * 【2024-03-05】[rolling-scopes-school / movie-app-code-review](https://github.com/rolling-scopes-school/movie-app-code-review) - 
 * 【2024-03-04】[lmsqueezy / wedges](https://github.com/lmsqueezy/wedges) - An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.
