@@ -53,6 +53,12 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-03-08】[VAST-AI-Research / TripoSR](https://github.com/VAST-AI-Research/TripoSR) - 
+* 【2024-03-08】[Crimson-Hawk / suyu](https://github.com/Crimson-Hawk/suyu) - 
+* 【2024-03-08】[yuzu-mirror / yuzu-downloads](https://github.com/yuzu-mirror/yuzu-downloads) - Archived releases of yuzu (not part of the original organization)
+* 【2024-03-08】[langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) - Java version of LangChain
+* 【2024-03-08】[barry-ran / QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
+* 【2024-03-08】[snipe / snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
 * 【2024-03-07】[Loyalsoldier / clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
 * 【2024-03-07】[yuzu-mirror / yuzu](https://github.com/yuzu-mirror/yuzu) - Nintendo Switch emulator (unofficial mirror fork)
 * 【2024-03-07】[PabloMK7 / citra](https://github.com/PabloMK7/citra) - A Nintendo 3DS Emulator
@@ -88,6 +94,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[cbh123 / stickerbaker](https://github.com/cbh123/stickerbaker) - Let's bake some (AI) stickers!
 ## Go
 
+* 【2024-03-08】[prometheus-community / postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 * 【2024-03-07】[trap-bytes / 403jump](https://github.com/trap-bytes/403jump) - HTTP 403 bypass tool
 * 【2024-03-07】[AndreyMashukov / go-crypto-bot](https://github.com/AndreyMashukov/go-crypto-bot) - Multithread crypto bot implemented on Golang
 * 【2024-03-07】[argoproj-labs / argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater) - Automatic container image update for Argo CD
@@ -108,6 +115,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[babylonchain / babylon](https://github.com/babylonchain/babylon) - Main repo for Babylon full node
 ## Python
 
+* 【2024-03-08】[KimMeen / Time-LLM](https://github.com/KimMeen/Time-LLM) - [ICLR 2024] Official implementation of " 🦙 Time-LLM: Time Series Forecasting by Reprogramming Large Language Models"
+* 【2024-03-08】[traceloop / openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
+* 【2024-03-08】[flowtyone / ComfyUI-Flowty-TripoSR](https://github.com/flowtyone/ComfyUI-Flowty-TripoSR) - TripoSR custom node for comfyui
+* 【2024-03-08】[mianayang / chromego_merge](https://github.com/mianayang/chromego_merge) - 绵羊的金属精炼器
+* 【2024-03-08】[apple / ml-mobileclip](https://github.com/apple/ml-mobileclip) - This repository contains the official implementation of the research paper, "MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training" CVPR 2024
 * 【2024-03-07】[PrometheusStealer / Prometheus](https://github.com/PrometheusStealer/Prometheus) - Very powerful stealer + miner + rat + keylogger + clipper
 * 【2024-03-07】[hpcaitech / Open-Sora](https://github.com/hpcaitech/Open-Sora) - Building your own video generation model like OpenAI's Sora
 * 【2024-03-07】[anthropics / anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) - 
@@ -151,6 +163,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Sinaptik-AI / pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 ## Javascript
 
+* 【2024-03-08】[nksaraf / vinxi](https://github.com/nksaraf/vinxi) - The Full Stack JavaScript SDK
+* 【2024-03-08】[moment / luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 * 【2024-03-07】[HeyPuter / puter](https://github.com/HeyPuter/puter) - The Internet OS!
 * 【2024-03-07】[openai-translator / bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
 * 【2024-03-07】[whitespider-dev / whitespider](https://github.com/whitespider-dev/whitespider) - 500+ free unblocked games + emulators + unblocked YouTube + unblocked ChatGPT
@@ -174,6 +188,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[aws-samples / public-file-browser-for-amazon-s3](https://github.com/aws-samples/public-file-browser-for-amazon-s3) - Sample code to deploy a website and a "public files" S3 bucket which can be loaded with any files an administrator wishes to publish publicly online.
 ## C
 
+* 【2024-03-08】[google / boringssl](https://github.com/google/boringssl) - Mirror of BoringSSL
+* 【2024-03-08】[neobrain / citra](https://github.com/neobrain/citra) - Nintendo 3DS emulator/debugger
 * 【2024-03-07】[Lovepreet-Singh-LPSK / MultiThreadedProxyServerClient](https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient) - 
 * 【2024-03-07】[s1204IT / Lockpick_RCM](https://github.com/s1204IT/Lockpick_RCM) - DO NOT FORK !! : Import and redistribute this repository.
 * 【2024-03-06】[rfaile313 / draw_game](https://github.com/rfaile313/draw_game) - Draw! is a small game that was developed in C
@@ -188,6 +204,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Helixo32 / CrimsonEDR](https://github.com/Helixo32/CrimsonEDR) - Simulate the behavior of AV/EDR for malware development training.
 ## C++
 
+* 【2024-03-08】[yuzu-mirror / yuzu-mainline](https://github.com/yuzu-mirror/yuzu-mainline) - (unofficial mirror fork)
+* 【2024-03-08】[aidanmcb1 / Citra](https://github.com/aidanmcb1/Citra) - Reupload of 3DS emulator citra because it might die with Yuzu
+* 【2024-03-08】[squid-cache / squid](https://github.com/squid-cache/squid) - Squid Web Proxy Cache
 * 【2024-03-07】[wheremyfoodat / Panda3DS](https://github.com/wheremyfoodat/Panda3DS) - HLE 3DS emulator
 * 【2024-03-07】[amwatson / CitraVR](https://github.com/amwatson/CitraVR) - Port of the leading 3DS emulator, Citra — designed for playing 3DS homebrew and personal game backups in 3D on the go with your Quest.
 * 【2024-03-07】[ourfavoritefruits / citra-nightly](https://github.com/ourfavoritefruits/citra-nightly) - 
@@ -204,6 +223,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Vahera / godot-orchestrator](https://github.com/Vahera/godot-orchestrator) - Godot Engine (4.2+) Visual Scripting with Orchestrator.
 ## Typescript
 
+* 【2024-03-08】[6174 / comflowyspace](https://github.com/6174/comflowyspace) - Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating images and videos, democratizing access to AI technology.
 * 【2024-03-07】[orodrigogo / react-native-na-pratica-1](https://github.com/orodrigogo/react-native-na-pratica-1) - 😋🥗🍎 App que sugere receitas baseadas nos ingredientes selecionados.
 * 【2024-03-07】[latentcat / uvcanvas](https://github.com/latentcat/uvcanvas) - An React.js component library for beautifully shaded canvas
 * 【2024-03-07】[LibNyanpasu / clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu) - Clash Nyanpasu! (∠・ω< )⌒☆
