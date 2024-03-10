@@ -53,6 +53,11 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-03-10】[jiaweizzhao / GaLore](https://github.com/jiaweizzhao/GaLore) - 
+* 【2024-03-10】[spring-office-hours / resources-learning-spring](https://github.com/spring-office-hours/resources-learning-spring) - Resources for Learning Spring
+* 【2024-03-10】[doocs / source-code-hunter](https://github.com/doocs/source-code-hunter) - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
+* 【2024-03-10】[ProjectDreamland / area51](https://github.com/ProjectDreamland/area51) - Source code for Area 51 (2005)
+* 【2024-03-10】[Whomane / Whomane](https://github.com/Whomane/Whomane) - An open source wearable with camera
 * 【2024-03-09】[emoisback / Helldivers-2-Internal-Hack-Dll-Proxy-PoC](https://github.com/emoisback/Helldivers-2-Internal-Hack-Dll-Proxy-PoC) - Proof of Concept Internal Hack Using Dll Proxy for Helldivers 2
 * 【2024-03-09】[google / maxtext](https://github.com/google/maxtext) - A simple, performant and scalable Jax LLM!
 * 【2024-03-09】[BeyondDimension / SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
@@ -102,6 +107,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[cbh123 / stickerbaker](https://github.com/cbh123/stickerbaker) - Let's bake some (AI) stickers!
 ## Go
 
+* 【2024-03-10】[earthly / earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
+* 【2024-03-10】[buger / goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
+* 【2024-03-10】[googleforgames / agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
 * 【2024-03-09】[alacleaker / apple-music-alac-downloader](https://github.com/alacleaker/apple-music-alac-downloader) - Apple Music ALAC Downloader
 * 【2024-03-09】[mao888 / golang-guide](https://github.com/mao888/golang-guide) - 「Golang学习+面试指南」一份涵盖大部分 Golang程序员所需要掌握的核心知识。准备 Golang面试，首选 GolangGuide！
 * 【2024-03-08】[prometheus-community / postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
@@ -125,6 +133,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[babylonchain / babylon](https://github.com/babylonchain/babylon) - Main repo for Babylon full node
 ## Python
 
+* 【2024-03-10】[W01fh4cker / CVE-2024-27198-RCE](https://github.com/W01fh4cker/CVE-2024-27198-RCE) - CVE-2024-27198 & CVE-2024-27199 Authentication Bypass --> RCE in JetBrains TeamCity Pre-2023.11.4
+* 【2024-03-10】[prometheusdevel / Prometheus](https://github.com/prometheusdevel/Prometheus) - Very powerful stealer + miner + rat + keylogger + clipper
+* 【2024-03-10】[TobikoData / sqlmesh](https://github.com/TobikoData/sqlmesh) - Efficient data transformation and modeling framework that is backwards compatible with dbt.
+* 【2024-03-10】[UpstageAI / dataverse](https://github.com/UpstageAI/dataverse) - The Universe of Data. All about data, data science, and data engineering
+* 【2024-03-10】[alibaba / data-juicer](https://github.com/alibaba/data-juicer) - A one-stop data processing system to make data higher-quality, juicier, and more digestible for LLMs! 🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷为大语言模型提供更高质量、更丰富、更易”消化“的数据！
 * 【2024-03-09】[taojy123 / KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
 * 【2024-03-09】[parthsarthi03 / raptor](https://github.com/parthsarthi03/raptor) - The official implementation of RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval
 * 【2024-03-08】[KimMeen / Time-LLM](https://github.com/KimMeen/Time-LLM) - [ICLR 2024] Official implementation of " 🦙 Time-LLM: Time Series Forecasting by Reprogramming Large Language Models"
@@ -175,6 +188,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Sinaptik-AI / pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 ## Javascript
 
+* 【2024-03-10】[xxxily / h5player](https://github.com/xxxily/h5player) - 视频增强脚本，支持所有H5视频网站，例如：B站、抖音、腾讯视频、优酷、爱奇艺、西瓜视频、油管（YouTube）、微博视频、知乎视频、搜狐视频、网易公开课、百度网盘、阿里云盘、ted、instagram、twitter等。全程快捷键控制，支持：倍速播放/加速播放、视频画面截图、画中画、网页全屏、调节亮度、饱和度、对比度、自定义配置功能增强等功能，为你提供愉悦的在线视频播放体验。还有视频广告快进、在线教程/教育视频倍速快学等能力
+* 【2024-03-10】[gorisanson / pikachu-volleyball](https://github.com/gorisanson/pikachu-volleyball) - Pikachu Volleyball implemented into JavaScript by reverse engineering the original game
 * 【2024-03-09】[mayfer / claude-app-generator-demo](https://github.com/mayfer/claude-app-generator-demo) - This app was generated by Claude 3 Opus in one go without help
 * 【2024-03-09】[redphx / better-xcloud](https://github.com/redphx/better-xcloud) - Userscript to improve Xbox Cloud Gaming (xCloud) and Remote Play experiences on web browsers
 * 【2024-03-08】[nksaraf / vinxi](https://github.com/nksaraf/vinxi) - The Full Stack JavaScript SDK
@@ -202,6 +217,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[aws-samples / public-file-browser-for-amazon-s3](https://github.com/aws-samples/public-file-browser-for-amazon-s3) - Sample code to deploy a website and a "public files" S3 bucket which can be loaded with any files an administrator wishes to publish publicly online.
 ## C
 
+* 【2024-03-10】[lifehackerhansol / FBI](https://github.com/lifehackerhansol/FBI) - Open source title manager for the 3DS. (Archive)
+* 【2024-03-10】[MatthewKuKanich / FindMyFlipper](https://github.com/MatthewKuKanich/FindMyFlipper) - The FindMy Flipper app turns your FlipperZero into an effective tracking device, compatible with both Apple AirTag and Samsung SmartTag. It uses the BLE beacon to broadcast, allowing users to clone existing tags, generate OpenHaystack key pairs for Apple's FindMy network, and customize beacon intervals and transmit power.
 * 【2024-03-09】[MadMax1960 / Femc-Reloaded-Project](https://github.com/MadMax1960/Femc-Reloaded-Project) - Repo for Femc Reloaded Project
 * 【2024-03-09】[ldpreload / BlackLotus](https://github.com/ldpreload/BlackLotus) - BlackLotus UEFI Windows Bootkit
 * 【2024-03-08】[google / boringssl](https://github.com/google/boringssl) - Mirror of BoringSSL
@@ -220,6 +237,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Helixo32 / CrimsonEDR](https://github.com/Helixo32/CrimsonEDR) - Simulate the behavior of AV/EDR for malware development training.
 ## C++
 
+* 【2024-03-10】[sudachi-emu / sudachi](https://github.com/sudachi-emu/sudachi) - 
+* 【2024-03-10】[davisking / dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
+* 【2024-03-10】[CLIUtils / CLI11](https://github.com/CLIUtils/CLI11) - CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
 * 【2024-03-08】[yuzu-mirror / yuzu-mainline](https://github.com/yuzu-mirror/yuzu-mainline) - (unofficial mirror fork)
 * 【2024-03-08】[aidanmcb1 / Citra](https://github.com/aidanmcb1/Citra) - Reupload of 3DS emulator citra because it might die with Yuzu
 * 【2024-03-08】[squid-cache / squid](https://github.com/squid-cache/squid) - Squid Web Proxy Cache
@@ -239,6 +259,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Vahera / godot-orchestrator](https://github.com/Vahera/godot-orchestrator) - Godot Engine (4.2+) Visual Scripting with Orchestrator.
 ## Typescript
 
+* 【2024-03-10】[flydelabs / flyde](https://github.com/flydelabs/flyde) - ⚡️⚡️⚡️ Open-source, visual programming for developers. Includes VS Code extension, integrates with existing TypeScript code, browser and Node.js.
+* 【2024-03-10】[anyproto / anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
 * 【2024-03-09】[Hufe921 / canvas-editor](https://github.com/Hufe921/canvas-editor) - rich text editor by canvas/svg
 * 【2024-03-09】[ComfyWorkflows / ComfyUI-Launcher](https://github.com/ComfyWorkflows/ComfyUI-Launcher) - Run any ComfyUI workflow w/ ZERO setup.
 * 【2024-03-09】[orodrigogo / react-native-na-pratica-2](https://github.com/orodrigogo/react-native-na-pratica-2) - 🎯🤑💵💰 App de metas financeiras pessoal.
