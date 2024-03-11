@@ -53,6 +53,12 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-03-11】[rolldown-rs / rolldown](https://github.com/rolldown-rs/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
+* 【2024-03-11】[hatchet-dev / hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
+* 【2024-03-11】[cuixueshe / earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions
+* 【2024-03-11】[AnswerDotAI / fsdp_qlora](https://github.com/AnswerDotAI/fsdp_qlora) - Training LLMs with QLoRA + FSDP
+* 【2024-03-11】[sugarforever / chat-ollama](https://github.com/sugarforever/chat-ollama) - 
+* 【2024-03-11】[juewuy / ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
 * 【2024-03-10】[jiaweizzhao / GaLore](https://github.com/jiaweizzhao/GaLore) - 
 * 【2024-03-10】[spring-office-hours / resources-learning-spring](https://github.com/spring-office-hours/resources-learning-spring) - Resources for Learning Spring
 * 【2024-03-10】[doocs / source-code-hunter](https://github.com/doocs/source-code-hunter) - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
@@ -107,6 +113,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[cbh123 / stickerbaker](https://github.com/cbh123/stickerbaker) - Let's bake some (AI) stickers!
 ## Go
 
+* 【2024-03-11】[Ehco1996 / ehco](https://github.com/Ehco1996/ehco) - ehco is a network ʚrelayɞ tool and a typo :)
+* 【2024-03-11】[charmbracelet / bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
 * 【2024-03-10】[earthly / earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 * 【2024-03-10】[buger / goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 * 【2024-03-10】[googleforgames / agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
@@ -133,6 +141,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[babylonchain / babylon](https://github.com/babylonchain/babylon) - Main repo for Babylon full node
 ## Python
 
+* 【2024-03-11】[searxng / searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+* 【2024-03-11】[Yuukiy / JavSP](https://github.com/Yuukiy/JavSP) - 汇总多站点数据的AV元数据刮削器
+* 【2024-03-11】[vwxyzjn / cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)
+* 【2024-03-11】[datacontract / cli](https://github.com/datacontract/cli) - CLI to manage your datacontract.yaml files
+* 【2024-03-11】[magic-research / piecewise-rectified-flow](https://github.com/magic-research/piecewise-rectified-flow) - 
 * 【2024-03-10】[W01fh4cker / CVE-2024-27198-RCE](https://github.com/W01fh4cker/CVE-2024-27198-RCE) - CVE-2024-27198 & CVE-2024-27199 Authentication Bypass --> RCE in JetBrains TeamCity Pre-2023.11.4
 * 【2024-03-10】[prometheusdevel / Prometheus](https://github.com/prometheusdevel/Prometheus) - Very powerful stealer + miner + rat + keylogger + clipper
 * 【2024-03-10】[TobikoData / sqlmesh](https://github.com/TobikoData/sqlmesh) - Efficient data transformation and modeling framework that is backwards compatible with dbt.
@@ -188,6 +201,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Sinaptik-AI / pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 ## Javascript
 
+* 【2024-03-11】[safak / react-estate-ui](https://github.com/safak/react-estate-ui) - 
+* 【2024-03-11】[bruhbruhroblox / wallstreetlocal](https://github.com/bruhbruhroblox/wallstreetlocal) - Free and open-source stock tracking website for America's biggest money managers. Democratizing SEC filings by making them more accessible and useful.
+* 【2024-03-11】[open-ibc / ibc-app-solidity-template](https://github.com/open-ibc/ibc-app-solidity-template) - Template starter for IBC enabled contracts in Solidity for use with vibc-core-smart-contracts
 * 【2024-03-10】[xxxily / h5player](https://github.com/xxxily/h5player) - 视频增强脚本，支持所有H5视频网站，例如：B站、抖音、腾讯视频、优酷、爱奇艺、西瓜视频、油管（YouTube）、微博视频、知乎视频、搜狐视频、网易公开课、百度网盘、阿里云盘、ted、instagram、twitter等。全程快捷键控制，支持：倍速播放/加速播放、视频画面截图、画中画、网页全屏、调节亮度、饱和度、对比度、自定义配置功能增强等功能，为你提供愉悦的在线视频播放体验。还有视频广告快进、在线教程/教育视频倍速快学等能力
 * 【2024-03-10】[gorisanson / pikachu-volleyball](https://github.com/gorisanson/pikachu-volleyball) - Pikachu Volleyball implemented into JavaScript by reverse engineering the original game
 * 【2024-03-09】[mayfer / claude-app-generator-demo](https://github.com/mayfer/claude-app-generator-demo) - This app was generated by Claude 3 Opus in one go without help
@@ -237,6 +253,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Helixo32 / CrimsonEDR](https://github.com/Helixo32/CrimsonEDR) - Simulate the behavior of AV/EDR for malware development training.
 ## C++
 
+* 【2024-03-11】[filecxx / FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos. WebDAV client, FTP client, SSH client.
+* 【2024-03-11】[nextcloud / desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
 * 【2024-03-10】[sudachi-emu / sudachi](https://github.com/sudachi-emu/sudachi) - 
 * 【2024-03-10】[davisking / dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 * 【2024-03-10】[CLIUtils / CLI11](https://github.com/CLIUtils/CLI11) - CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
@@ -259,6 +277,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Vahera / godot-orchestrator](https://github.com/Vahera/godot-orchestrator) - Godot Engine (4.2+) Visual Scripting with Orchestrator.
 ## Typescript
 
+* 【2024-03-11】[payloadcms / payload-3.0-alpha-demo](https://github.com/payloadcms/payload-3.0-alpha-demo) - 
+* 【2024-03-11】[meetqy / aspoem](https://github.com/meetqy/aspoem) - Learn Chinese Poetry With AsPoem.com
+* 【2024-03-11】[Nicenonecb / TalkGPT](https://github.com/Nicenonecb/TalkGPT) - 
+* 【2024-03-11】[codex-team / editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 * 【2024-03-10】[flydelabs / flyde](https://github.com/flydelabs/flyde) - ⚡️⚡️⚡️ Open-source, visual programming for developers. Includes VS Code extension, integrates with existing TypeScript code, browser and Node.js.
 * 【2024-03-10】[anyproto / anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
 * 【2024-03-09】[Hufe921 / canvas-editor](https://github.com/Hufe921/canvas-editor) - rich text editor by canvas/svg
