@@ -53,6 +53,14 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-03-14】[deepseek-ai / DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL) - DeepSeek-VL: Towards Real-World Vision-Language Understanding
+* 【2024-03-14】[microsoft / aici](https://github.com/microsoft/aici) - AICI: Prompts as (Wasm) Programs
+* 【2024-03-14】[ai-boost / awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
+* 【2024-03-14】[teableio / teable](https://github.com/teableio/teable) - ✨ A Super fast, Real-time, Professional, Developer friendly, No code database
+* 【2024-03-14】[obsidianmd / jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
+* 【2024-03-14】[laravel / framework](https://github.com/laravel/framework) - The Laravel Framework.
+* 【2024-03-14】[ELLA-Diffusion / ELLA](https://github.com/ELLA-Diffusion/ELLA) - ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment
+* 【2024-03-14】[lionsoul2014 / ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
 * 【2024-03-13】[altsem / gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 * 【2024-03-13】[elixir-lang / elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 * 【2024-03-13】[ScoopInstaller / Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop.
@@ -119,6 +127,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[cbh123 / stickerbaker](https://github.com/cbh123/stickerbaker) - Let's bake some (AI) stickers!
 ## Go
 
+* 【2024-03-14】[cloudwego / kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services.
 * 【2024-03-13】[awslabs / diagram-as-code](https://github.com/awslabs/diagram-as-code) - Diagram-as-code for AWS architecture.
 * 【2024-03-13】[golang / crypto](https://github.com/golang/crypto) - [mirror] Go supplementary cryptography libraries
 * 【2024-03-13】[devploit / nomore403](https://github.com/devploit/nomore403) - Tool to bypass 403/40X response codes.
@@ -151,6 +160,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[babylonchain / babylon](https://github.com/babylonchain/babylon) - Main repo for Babylon full node
 ## Python
 
+* 【2024-03-14】[federicoazzu / five_decorators](https://github.com/federicoazzu/five_decorators) - Five useful decorators to inspire your code in Python.
+* 【2024-03-14】[d78ui98 / APKDeepLens](https://github.com/d78ui98/APKDeepLens) - Android security insights in full spectrum.
+* 【2024-03-14】[skills-cogrammar / C7-Lecture-Backpack](https://github.com/skills-cogrammar/C7-Lecture-Backpack) - Lecture Content for Software Engineering, Data Science, and Full Stack Web Development Students
+* 【2024-03-14】[lizhe00 / AnimatableGaussians](https://github.com/lizhe00/AnimatableGaussians) - Code of [CVPR 2024] "Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling"
 * 【2024-03-13】[Misaka-blog / chromego_merge](https://github.com/Misaka-blog/chromego_merge) - test
 * 【2024-03-13】[KhoomeiK / LlamaGym](https://github.com/KhoomeiK/LlamaGym) - Fine-tune LLM agents with online reinforcement learning
 * 【2024-03-13】[jackhawks / rectg](https://github.com/jackhawks/rectg) - 经过精心筛选，从 5000+ 个电报群组/频道/机器人中挑选出的优质推荐！如果您有更多值得推荐的电报群组/频道/机器人，欢迎在 issues 中留言或提交 pull requests。感谢您的关注！
@@ -216,6 +229,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Sinaptik-AI / pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 ## Javascript
 
+* 【2024-03-14】[lulu5239 / view-loggers](https://github.com/lulu5239/view-loggers) - 
 * 【2024-03-13】[colin-scott / interactive_latencies](https://github.com/colin-scott/interactive_latencies) - Jeff Dean's latency numbers plotted over time
 * 【2024-03-13】[kby-ai / facecapture-web](https://github.com/kby-ai/facecapture-web) - This repository is the KBY-AI Face SDK JavaScript implementation to run on web front-end
 * 【2024-03-12】[apsdehal / awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
@@ -252,6 +266,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[aws-samples / public-file-browser-for-amazon-s3](https://github.com/aws-samples/public-file-browser-for-amazon-s3) - Sample code to deploy a website and a "public files" S3 bucket which can be loaded with any files an administrator wishes to publish publicly online.
 ## C
 
+* 【2024-03-14】[nmap / nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
+* 【2024-03-14】[asterisk / asterisk](https://github.com/asterisk/asterisk) - The official Asterisk Project repository.
+* 【2024-03-14】[EpicGamesExt / raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
+* 【2024-03-14】[rkaehn / cr_task.h](https://github.com/rkaehn/cr_task.h) - Header-only library for asynchronous tasks in C
 * 【2024-03-13】[Next-Flip / Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware) - 🐬 Feature-rich, stable and customizable Flipper firmware
 * 【2024-03-13】[SysRay / psOff_public](https://github.com/SysRay/psOff_public) - Playstation 4 Windows Emulator
 * 【2024-03-10】[lifehackerhansol / FBI](https://github.com/lifehackerhansol/FBI) - Open source title manager for the 3DS. (Archive)
@@ -274,6 +292,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Helixo32 / CrimsonEDR](https://github.com/Helixo32/CrimsonEDR) - Simulate the behavior of AV/EDR for malware development training.
 ## C++
 
+* 【2024-03-14】[thiagopeixoto / winsos-poc](https://github.com/thiagopeixoto/winsos-poc) - A PoC demonstrating code execution via DLL Side-Loading in WinSxS binaries.
 * 【2024-03-13】[suyu-emu / suyu](https://github.com/suyu-emu/suyu) - suyu, pronounced "sue-you" (wink wink) is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu. It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android.
 * 【2024-03-13】[TrenchBroom / TrenchBroom](https://github.com/TrenchBroom/TrenchBroom) - Cross-Platform Level Editor
 * 【2024-03-13】[zama-ai / concrete](https://github.com/zama-ai/concrete) - Concrete: TFHE Compiler that converts python programs into FHE equivalent
@@ -303,6 +322,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Vahera / godot-orchestrator](https://github.com/Vahera/godot-orchestrator) - Godot Engine (4.2+) Visual Scripting with Orchestrator.
 ## Typescript
 
+* 【2024-03-14】[OnedocLabs / react-print-pdf](https://github.com/OnedocLabs/react-print-pdf) - Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework React to build your next PDF.
+* 【2024-03-14】[loopbackio / loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
+* 【2024-03-14】[eth-infinitism / account-abstraction](https://github.com/eth-infinitism/account-abstraction) - 
 * 【2024-03-13】[tiangolo / full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 * 【2024-03-12】[AmbroseX / Awesome-AISourceHub](https://github.com/AmbroseX/Awesome-AISourceHub) - 本仓库收集AI科技领域高质量信息源。 可以起到一个同步信息源的作用，避免信息差和信息茧房。
 * 【2024-03-12】[fdundjer / solana-sniper-bot](https://github.com/fdundjer/solana-sniper-bot) - Solana Sniper Bot - Proof of Concept
