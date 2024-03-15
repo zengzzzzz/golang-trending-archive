@@ -53,6 +53,10 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-03-15】[krishnaik06 / Data-Science-Gen-AI-Playlist-2024](https://github.com/krishnaik06/Data-Science-Gen-AI-Playlist-2024) - 
+* 【2024-03-15】[dotnet / aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+* 【2024-03-15】[BAAI-Agents / Cradle](https://github.com/BAAI-Agents/Cradle) - The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation, in a standardized general environment with minimal requirements.
+* 【2024-03-15】[laravel / laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 * 【2024-03-14】[deepseek-ai / DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL) - DeepSeek-VL: Towards Real-World Vision-Language Understanding
 * 【2024-03-14】[microsoft / aici](https://github.com/microsoft/aici) - AICI: Prompts as (Wasm) Programs
 * 【2024-03-14】[ai-boost / awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
@@ -127,6 +131,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[cbh123 / stickerbaker](https://github.com/cbh123/stickerbaker) - Let's bake some (AI) stickers!
 ## Go
 
+* 【2024-03-15】[google / gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
+* 【2024-03-15】[dgraph-io / dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications
+* 【2024-03-15】[kubesphere / kubekey](https://github.com/kubesphere/kubekey) - Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳
 * 【2024-03-14】[cloudwego / kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services.
 * 【2024-03-13】[awslabs / diagram-as-code](https://github.com/awslabs/diagram-as-code) - Diagram-as-code for AWS architecture.
 * 【2024-03-13】[golang / crypto](https://github.com/golang/crypto) - [mirror] Go supplementary cryptography libraries
@@ -160,6 +167,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[babylonchain / babylon](https://github.com/babylonchain/babylon) - Main repo for Babylon full node
 ## Python
 
+* 【2024-03-15】[openai / transformer-debugger](https://github.com/openai/transformer-debugger) - 
+* 【2024-03-15】[princeton-nlp / SWE-bench](https://github.com/princeton-nlp/SWE-bench) - [ICLR 2024] SWE-Bench: Can Language Models Resolve Real-world Github Issues?
+* 【2024-03-15】[Ableton / maxdevtools](https://github.com/Ableton/maxdevtools) - 
+* 【2024-03-15】[pyodide / pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
+* 【2024-03-15】[materialsproject / pymatgen](https://github.com/materialsproject/pymatgen) - Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
+* 【2024-03-15】[PygmalionAI / aphrodite-engine](https://github.com/PygmalionAI/aphrodite-engine) - PygmalionAI's large-scale inference engine
 * 【2024-03-14】[federicoazzu / five_decorators](https://github.com/federicoazzu/five_decorators) - Five useful decorators to inspire your code in Python.
 * 【2024-03-14】[d78ui98 / APKDeepLens](https://github.com/d78ui98/APKDeepLens) - Android security insights in full spectrum.
 * 【2024-03-14】[skills-cogrammar / C7-Lecture-Backpack](https://github.com/skills-cogrammar/C7-Lecture-Backpack) - Lecture Content for Software Engineering, Data Science, and Full Stack Web Development Students
@@ -229,6 +242,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Sinaptik-AI / pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 ## Javascript
 
+* 【2024-03-15】[wasmerio / winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
+* 【2024-03-15】[NodeBB / NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
+* 【2024-03-15】[codesandbox / codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 * 【2024-03-14】[lulu5239 / view-loggers](https://github.com/lulu5239/view-loggers) - 
 * 【2024-03-13】[colin-scott / interactive_latencies](https://github.com/colin-scott/interactive_latencies) - Jeff Dean's latency numbers plotted over time
 * 【2024-03-13】[kby-ai / facecapture-web](https://github.com/kby-ai/facecapture-web) - This repository is the KBY-AI Face SDK JavaScript implementation to run on web front-end
@@ -266,6 +282,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[aws-samples / public-file-browser-for-amazon-s3](https://github.com/aws-samples/public-file-browser-for-amazon-s3) - Sample code to deploy a website and a "public files" S3 bucket which can be loaded with any files an administrator wishes to publish publicly online.
 ## C
 
+* 【2024-03-15】[Syllo / nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
+* 【2024-03-15】[tumuyan / RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) - An Android application for super-resolution & interpolation. Contains RealSR-NCNN, SRMD-NCNN, RealCUGAN-NCNN, Real-ESRGAN-NCNN, Waifu2x-NCNN, nearest, bilinear, bicubic, AVIR.
+* 【2024-03-15】[WayneD / rsync](https://github.com/WayneD/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 * 【2024-03-14】[nmap / nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 * 【2024-03-14】[asterisk / asterisk](https://github.com/asterisk/asterisk) - The official Asterisk Project repository.
 * 【2024-03-14】[EpicGamesExt / raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
@@ -292,6 +311,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Helixo32 / CrimsonEDR](https://github.com/Helixo32/CrimsonEDR) - Simulate the behavior of AV/EDR for malware development training.
 ## C++
 
+* 【2024-03-15】[electronicarts / CNC_TS_and_RA2_Mission_Editor](https://github.com/electronicarts/CNC_TS_and_RA2_Mission_Editor) - FinalSun & FinalAlert2 Level Editors
+* 【2024-03-15】[rime / weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
+* 【2024-03-15】[MetaWu2077 / Esp32_VoiceChat_LLMs](https://github.com/MetaWu2077/Esp32_VoiceChat_LLMs) - esp32 based device, mainly used for voice chat with large language models
+* 【2024-03-15】[Blackymas / NSPanel_HA_Blueprint](https://github.com/Blackymas/NSPanel_HA_Blueprint) - This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code
+* 【2024-03-15】[Wh04m1001 / GamingServiceEoP](https://github.com/Wh04m1001/GamingServiceEoP) - 
+* 【2024-03-15】[suchetanrs / ORB-SLAM3-ROS2-Docker](https://github.com/suchetanrs/ORB-SLAM3-ROS2-Docker) - This repository contains a full wrapper class for running ORB-SLAM3 on a docker container with ROS2 Humble with Ubuntu 22.04.
 * 【2024-03-14】[thiagopeixoto / winsos-poc](https://github.com/thiagopeixoto/winsos-poc) - A PoC demonstrating code execution via DLL Side-Loading in WinSxS binaries.
 * 【2024-03-13】[suyu-emu / suyu](https://github.com/suyu-emu/suyu) - suyu, pronounced "sue-you" (wink wink) is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu. It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android.
 * 【2024-03-13】[TrenchBroom / TrenchBroom](https://github.com/TrenchBroom/TrenchBroom) - Cross-Platform Level Editor
@@ -322,6 +347,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Vahera / godot-orchestrator](https://github.com/Vahera/godot-orchestrator) - Godot Engine (4.2+) Visual Scripting with Orchestrator.
 ## Typescript
 
+* 【2024-03-15】[lqzhgood / wechat-need-web](https://github.com/lqzhgood/wechat-need-web) - 让微信网页版可用 / Allow the use of WeChat via webpage access
+* 【2024-03-15】[contentlayerdev / contentlayer](https://github.com/contentlayerdev/contentlayer) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
+* 【2024-03-15】[KevinVandy / material-react-table](https://github.com/KevinVandy/material-react-table) - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
 * 【2024-03-14】[OnedocLabs / react-print-pdf](https://github.com/OnedocLabs/react-print-pdf) - Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework React to build your next PDF.
 * 【2024-03-14】[loopbackio / loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
 * 【2024-03-14】[eth-infinitism / account-abstraction](https://github.com/eth-infinitism/account-abstraction) - 
