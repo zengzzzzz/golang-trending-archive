@@ -53,6 +53,12 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-03-16】[lavague-ai / LaVague](https://github.com/lavague-ai/LaVague) - Automate automation with Large Action Model framework
+* 【2024-03-16】[Mintimate / oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate. QQ Chat-Group: 703260572
+* 【2024-03-16】[diia-open-source / ios-diia](https://github.com/diia-open-source/ios-diia) - 
+* 【2024-03-16】[tk04 / Marker](https://github.com/tk04/Marker) - A Desktop App for Easily Viewing and Editing Markdown Files
+* 【2024-03-16】[diia-open-source / android-diia](https://github.com/diia-open-source/android-diia) - 
+* 【2024-03-16】[Altinity / clickhouse-operator](https://github.com/Altinity/clickhouse-operator) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse clusters running on Kubernetes
 * 【2024-03-15】[krishnaik06 / Data-Science-Gen-AI-Playlist-2024](https://github.com/krishnaik06/Data-Science-Gen-AI-Playlist-2024) - 
 * 【2024-03-15】[dotnet / aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 * 【2024-03-15】[BAAI-Agents / Cradle](https://github.com/BAAI-Agents/Cradle) - The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation, in a standardized general environment with minimal requirements.
@@ -167,6 +173,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[babylonchain / babylon](https://github.com/babylonchain/babylon) - Main repo for Babylon full node
 ## Python
 
+* 【2024-03-16】[Project-MONAI / MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging
+* 【2024-03-16】[luijait / DarkGPT](https://github.com/luijait/DarkGPT) - DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your traditional OSINT processes.
+* 【2024-03-16】[phospho-app / phospho](https://github.com/phospho-app/phospho) - Text analytics for LLM apps. PostHog for prompts. Extract evaluations, intents and events from text messages. phospho leverages LLM (OpenAI, MistralAI, Ollama, etc.)
+* 【2024-03-16】[microsoft / presidio](https://github.com/microsoft/presidio) - Context aware, pluggable and customizable data protection and de-identification SDK for text and images
 * 【2024-03-15】[openai / transformer-debugger](https://github.com/openai/transformer-debugger) - 
 * 【2024-03-15】[princeton-nlp / SWE-bench](https://github.com/princeton-nlp/SWE-bench) - [ICLR 2024] SWE-Bench: Can Language Models Resolve Real-world Github Issues?
 * 【2024-03-15】[Ableton / maxdevtools](https://github.com/Ableton/maxdevtools) - 
@@ -242,6 +252,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Sinaptik-AI / pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 ## Javascript
 
+* 【2024-03-16】[said7388 / developer-portfolio](https://github.com/said7388/developer-portfolio) - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
+* 【2024-03-16】[Eclipse-Laboratories-Inc / eclipse-wallet](https://github.com/Eclipse-Laboratories-Inc/eclipse-wallet) - 
 * 【2024-03-15】[wasmerio / winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
 * 【2024-03-15】[NodeBB / NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 * 【2024-03-15】[codesandbox / codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
@@ -311,6 +323,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Helixo32 / CrimsonEDR](https://github.com/Helixo32/CrimsonEDR) - Simulate the behavior of AV/EDR for malware development training.
 ## C++
 
+* 【2024-03-16】[flox / flox](https://github.com/flox/flox) - Developer environments you can take with you
 * 【2024-03-15】[electronicarts / CNC_TS_and_RA2_Mission_Editor](https://github.com/electronicarts/CNC_TS_and_RA2_Mission_Editor) - FinalSun & FinalAlert2 Level Editors
 * 【2024-03-15】[rime / weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
 * 【2024-03-15】[MetaWu2077 / Esp32_VoiceChat_LLMs](https://github.com/MetaWu2077/Esp32_VoiceChat_LLMs) - esp32 based device, mainly used for voice chat with large language models
@@ -347,6 +360,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Vahera / godot-orchestrator](https://github.com/Vahera/godot-orchestrator) - Godot Engine (4.2+) Visual Scripting with Orchestrator.
 ## Typescript
 
+* 【2024-03-16】[blefnk / relivator](https://github.com/blefnk/relivator) - Next.js 14: Store, Landing, Admin Dashboard ▲ i18n, Stripe, Shadcn Tailwind, Drizzle Zod Trpc TypeScript Auth Page, Lucide CSS Radix UI, Responsive React Server Components, MySQL and Neon Postgre TS ORM, Intl App Router, Mdx Docs User Actions Kit, SaaS Commerce Shop Pricing Payments, Dark Mode, Modern Full Stack, Free ▲ more stars → more features
 * 【2024-03-15】[lqzhgood / wechat-need-web](https://github.com/lqzhgood/wechat-need-web) - 让微信网页版可用 / Allow the use of WeChat via webpage access
 * 【2024-03-15】[contentlayerdev / contentlayer](https://github.com/contentlayerdev/contentlayer) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
 * 【2024-03-15】[KevinVandy / material-react-table](https://github.com/KevinVandy/material-react-table) - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
