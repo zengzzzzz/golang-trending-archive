@@ -53,6 +53,13 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-03-18】[amazon-science / chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting
+* 【2024-03-18】[AntonioErdeljac / next14-duolingo-clone](https://github.com/AntonioErdeljac/next14-duolingo-clone) - 
+* 【2024-03-18】[ianand / spreadsheets-are-all-you-need](https://github.com/ianand/spreadsheets-are-all-you-need) - 
+* 【2024-03-18】[neovim / neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+* 【2024-03-18】[milanm / DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2024. with learning resources
+* 【2024-03-18】[StefanTheCode / dotnet_interview_questions](https://github.com/StefanTheCode/dotnet_interview_questions) - 
+* 【2024-03-18】[catppuccin / tmux](https://github.com/catppuccin/tmux) - 💽 Soothing pastel theme for Tmux!
 * 【2024-03-17】[slint-ui / slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 * 【2024-03-17】[Unity-Technologies / megacity-metro](https://github.com/Unity-Technologies/megacity-metro) - Megacity-Metro: a thrilling shooter game, using Netcode for Entities for a multiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, demonstrating how to craft engaging multiplayer games.
 * 【2024-03-17】[Skyvern-AI / skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
@@ -142,6 +149,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[cbh123 / stickerbaker](https://github.com/cbh123/stickerbaker) - Let's bake some (AI) stickers!
 ## Go
 
+* 【2024-03-18】[missingstudio / gateway](https://github.com/missingstudio/gateway) - 🌈 A Reliable AI Gateway - Core infrastructure stack for building your AI workforce
+* 【2024-03-18】[scratchdata / scratchdata](https://github.com/scratchdata/scratchdata) - Scratch is an open-source alternative to BigQuery, Redshift, and Snowflake. Runs on Clickhouse.
+* 【2024-03-18】[SleepingBag945 / dddd](https://github.com/SleepingBag945/dddd) - 一款高可拓展的指纹识别、供应链漏洞探测工具。支持从Hunter、Fofa批量拉取目标。
+* 【2024-03-18】[ThePrimeagen / fem-htmx-proj](https://github.com/ThePrimeagen/fem-htmx-proj) - 
+* 【2024-03-18】[hybridgroup / mechanoid](https://github.com/hybridgroup/mechanoid) - Mechanoid is a framework for WebAssembly applications on embedded systems.
 * 【2024-03-17】[yusufcanb / tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
 * 【2024-03-17】[envoyproxy / gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 * 【2024-03-17】[basecamp / thruster](https://github.com/basecamp/thruster) - 
@@ -183,6 +195,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[babylonchain / babylon](https://github.com/babylonchain/babylon) - Main repo for Babylon full node
 ## Python
 
+* 【2024-03-18】[TransformerOptimus / SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
+* 【2024-03-18】[philz1337x / clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - 
+* 【2024-03-18】[fofr / cog-face-to-many](https://github.com/fofr/cog-face-to-many) - Turn any face into a video game character, pixel art, claymation, 3D or toy
 * 【2024-03-17】[zurdi15 / romm](https://github.com/zurdi15/romm) - A beautiful, powerful, self-hosted rom manager
 * 【2024-03-17】[ZiqiaoPeng / SyncTalk](https://github.com/ZiqiaoPeng/SyncTalk) - [CVPR 2024] This is the official source for our paper "SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis"
 * 【2024-03-17】[naver-ai / Visual-Style-Prompting](https://github.com/naver-ai/Visual-Style-Prompting) - Official Pytorch implementation of "Visual Style Prompting with Swapping Self-Attention"
@@ -267,6 +282,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Sinaptik-AI / pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 ## Javascript
 
+* 【2024-03-18】[adrianhajdin / iphone](https://github.com/adrianhajdin/iphone) - Recreate the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects. From custom animations to animated 3D models, this tutorial covers it all.
+* 【2024-03-18】[solotop999 / auto_trade_backpack_exchange](https://github.com/solotop999/auto_trade_backpack_exchange) - auto_trade on Backpack exchange typescript
 * 【2024-03-17】[randyisback / ask-for-a-date](https://github.com/randyisback/ask-for-a-date) - Js project troll.
 * 【2024-03-17】[Rob--W / cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
 * 【2024-03-17】[sxei / chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
@@ -313,6 +330,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[aws-samples / public-file-browser-for-amazon-s3](https://github.com/aws-samples/public-file-browser-for-amazon-s3) - Sample code to deploy a website and a "public files" S3 bucket which can be loaded with any files an administrator wishes to publish publicly online.
 ## C
 
+* 【2024-03-18】[lmarzen / esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
+* 【2024-03-18】[stm32duino / Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32) - STM32 core support for Arduino
+* 【2024-03-18】[xemu-project / xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 * 【2024-03-15】[Syllo / nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 * 【2024-03-15】[tumuyan / RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) - An Android application for super-resolution & interpolation. Contains RealSR-NCNN, SRMD-NCNN, RealCUGAN-NCNN, Real-ESRGAN-NCNN, Waifu2x-NCNN, nearest, bilinear, bicubic, AVIR.
 * 【2024-03-15】[WayneD / rsync](https://github.com/WayneD/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
@@ -342,6 +362,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Helixo32 / CrimsonEDR](https://github.com/Helixo32/CrimsonEDR) - Simulate the behavior of AV/EDR for malware development training.
 ## C++
 
+* 【2024-03-18】[Hagrid29 / CVE-2024-2432-PaloAlto-GlobalProtect-EoP](https://github.com/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP) - 
 * 【2024-03-17】[0x36 / Pixel_GPU_Exploit](https://github.com/0x36/Pixel_GPU_Exploit) - Android 14 kernel exploit for Pixel7/8 Pro
 * 【2024-03-16】[flox / flox](https://github.com/flox/flox) - Developer environments you can take with you
 * 【2024-03-15】[electronicarts / CNC_TS_and_RA2_Mission_Editor](https://github.com/electronicarts/CNC_TS_and_RA2_Mission_Editor) - FinalSun & FinalAlert2 Level Editors
@@ -380,6 +401,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Vahera / godot-orchestrator](https://github.com/Vahera/godot-orchestrator) - Godot Engine (4.2+) Visual Scripting with Orchestrator.
 ## Typescript
 
+* 【2024-03-18】[pretzelai / pretzelai](https://github.com/pretzelai/pretzelai) - Open-source, browser-local data exploration using DuckDB-Wasm and PRQL
+* 【2024-03-18】[xiangsx / gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API ! This is a replication project for the typescript version of xtekky/gpt4free
 * 【2024-03-16】[blefnk / relivator](https://github.com/blefnk/relivator) - Next.js 14: Store, Landing, Admin Dashboard ▲ i18n, Stripe, Shadcn Tailwind, Drizzle Zod Trpc TypeScript Auth Page, Lucide CSS Radix UI, Responsive React Server Components, MySQL and Neon Postgre TS ORM, Intl App Router, Mdx Docs User Actions Kit, SaaS Commerce Shop Pricing Payments, Dark Mode, Modern Full Stack, Free ▲ more stars → more features
 * 【2024-03-15】[lqzhgood / wechat-need-web](https://github.com/lqzhgood/wechat-need-web) - 让微信网页版可用 / Allow the use of WeChat via webpage access
 * 【2024-03-15】[contentlayerdev / contentlayer](https://github.com/contentlayerdev/contentlayer) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
