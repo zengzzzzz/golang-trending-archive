@@ -53,6 +53,10 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-03-19】[openai / grok](https://github.com/openai/grok) - 
+* 【2024-03-19】[codediodeio / rembg-webapp-tutorial](https://github.com/codediodeio/rembg-webapp-tutorial) - a simple webapp with rembg
+* 【2024-03-19】[the-mirror-gdp / the-mirror](https://github.com/the-mirror-gdp/the-mirror) - The open-source Roblox & UEFN alternative giving you freedom to own what you create. An all-in-one, real-time, collaborative game development platform built on Godot.
+* 【2024-03-19】[OpenDevin / OpenDevin](https://github.com/OpenDevin/OpenDevin) - 
 * 【2024-03-18】[amazon-science / chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting
 * 【2024-03-18】[AntonioErdeljac / next14-duolingo-clone](https://github.com/AntonioErdeljac/next14-duolingo-clone) - 
 * 【2024-03-18】[ianand / spreadsheets-are-all-you-need](https://github.com/ianand/spreadsheets-are-all-you-need) - 
@@ -149,6 +153,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[cbh123 / stickerbaker](https://github.com/cbh123/stickerbaker) - Let's bake some (AI) stickers!
 ## Go
 
+* 【2024-03-19】[supabase / gotrue](https://github.com/supabase/gotrue) - A JWT based API for managing users and issuing JWT tokens
+* 【2024-03-19】[burrowers / garble](https://github.com/burrowers/garble) - Obfuscate Go builds
 * 【2024-03-18】[missingstudio / gateway](https://github.com/missingstudio/gateway) - 🌈 A Reliable AI Gateway - Core infrastructure stack for building your AI workforce
 * 【2024-03-18】[scratchdata / scratchdata](https://github.com/scratchdata/scratchdata) - Scratch is an open-source alternative to BigQuery, Redshift, and Snowflake. Runs on Clickhouse.
 * 【2024-03-18】[SleepingBag945 / dddd](https://github.com/SleepingBag945/dddd) - 一款高可拓展的指纹识别、供应链漏洞探测工具。支持从Hunter、Fofa批量拉取目标。
@@ -195,6 +201,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[babylonchain / babylon](https://github.com/babylonchain/babylon) - Main repo for Babylon full node
 ## Python
 
+* 【2024-03-19】[yoheinakajima / mindgraph](https://github.com/yoheinakajima/mindgraph) - proof of concept prototype for generating and querying against an ever-expanding knowledge graph with ai
+* 【2024-03-19】[almandin / fuxploider](https://github.com/almandin/fuxploider) - File upload vulnerability scanner and exploitation tool.
+* 【2024-03-19】[CognitionAI / devin-swebench-results](https://github.com/CognitionAI/devin-swebench-results) - Cognition's results and methodology on SWE-bench
 * 【2024-03-18】[TransformerOptimus / SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 * 【2024-03-18】[philz1337x / clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - 
 * 【2024-03-18】[fofr / cog-face-to-many](https://github.com/fofr/cog-face-to-many) - Turn any face into a video game character, pixel art, claymation, 3D or toy
@@ -282,6 +291,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Sinaptik-AI / pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 ## Javascript
 
+* 【2024-03-19】[JavaScript-Mastery-Pro / gsap-cc-starter](https://github.com/JavaScript-Mastery-Pro/gsap-cc-starter) - Starter Repository of GSAP Crash Course
+* 【2024-03-19】[developersdigest / llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Build a Perplexity-Inspired Answer Engine Using Groq, Mixtral, Langchain, Brave & OpenAI
+* 【2024-03-19】[pmndrs / gltfjsx](https://github.com/pmndrs/gltfjsx) - 🎮 Turns GLTFs into JSX components
+* 【2024-03-19】[DominikDoom / a1111-sd-webui-tagcomplete](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete) - Booru style tag autocompletion for AUTOMATIC1111's Stable Diffusion web UI
 * 【2024-03-18】[adrianhajdin / iphone](https://github.com/adrianhajdin/iphone) - Recreate the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects. From custom animations to animated 3D models, this tutorial covers it all.
 * 【2024-03-18】[solotop999 / auto_trade_backpack_exchange](https://github.com/solotop999/auto_trade_backpack_exchange) - auto_trade on Backpack exchange typescript
 * 【2024-03-17】[randyisback / ask-for-a-date](https://github.com/randyisback/ask-for-a-date) - Js project troll.
@@ -330,6 +343,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[aws-samples / public-file-browser-for-amazon-s3](https://github.com/aws-samples/public-file-browser-for-amazon-s3) - Sample code to deploy a website and a "public files" S3 bucket which can be loaded with any files an administrator wishes to publish publicly online.
 ## C
 
+* 【2024-03-19】[SentientArt / TheBasement](https://github.com/SentientArt/TheBasement) - 
 * 【2024-03-18】[lmarzen / esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 * 【2024-03-18】[stm32duino / Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32) - STM32 core support for Arduino
 * 【2024-03-18】[xemu-project / xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
@@ -362,6 +376,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Helixo32 / CrimsonEDR](https://github.com/Helixo32/CrimsonEDR) - Simulate the behavior of AV/EDR for malware development training.
 ## C++
 
+* 【2024-03-19】[harfbuzz / harfbuzz](https://github.com/harfbuzz/harfbuzz) - HarfBuzz text shaping engine
+* 【2024-03-19】[hluk / CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
+* 【2024-03-19】[Provenance-Emu / Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started: https://wiki.provenance-emu.com |
 * 【2024-03-18】[Hagrid29 / CVE-2024-2432-PaloAlto-GlobalProtect-EoP](https://github.com/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP) - 
 * 【2024-03-17】[0x36 / Pixel_GPU_Exploit](https://github.com/0x36/Pixel_GPU_Exploit) - Android 14 kernel exploit for Pixel7/8 Pro
 * 【2024-03-16】[flox / flox](https://github.com/flox/flox) - Developer environments you can take with you
