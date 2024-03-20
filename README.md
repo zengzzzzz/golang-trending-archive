@@ -53,6 +53,12 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-03-20】[xai-org / grok-1](https://github.com/xai-org/grok-1) - Grok open release
+* 【2024-03-20】[ZHO-ZHO-ZHO / ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO) - 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
+* 【2024-03-20】[albertan017 / LLM4Decompile](https://github.com/albertan017/LLM4Decompile) - Reverse Engineering: Decompiling Binary Code with Large Language Models
+* 【2024-03-20】[Alvin9999 / new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
+* 【2024-03-20】[laylavish / uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of sites that contain AI generated content for uBlock Origin & uBlacklist.
+* 【2024-03-20】[DevToys-app / DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 * 【2024-03-19】[openai / grok](https://github.com/openai/grok) - 
 * 【2024-03-19】[codediodeio / rembg-webapp-tutorial](https://github.com/codediodeio/rembg-webapp-tutorial) - a simple webapp with rembg
 * 【2024-03-19】[the-mirror-gdp / the-mirror](https://github.com/the-mirror-gdp/the-mirror) - The open-source Roblox & UEFN alternative giving you freedom to own what you create. An all-in-one, real-time, collaborative game development platform built on Godot.
@@ -291,6 +297,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Sinaptik-AI / pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 ## Javascript
 
+* 【2024-03-20】[JaimeObregon / observatoriospublicos.es](https://github.com/JaimeObregon/observatoriospublicos.es) - Observatorio de los observatorios públicos de España
+* 【2024-03-20】[DeFiSolMaster / Solana-Sniper-Bot-Opensource](https://github.com/DeFiSolMaster/Solana-Sniper-Bot-Opensource) - Ultimate Solana Sniper Bot for the degens that want to snipe tokens and farm airdrop
+* 【2024-03-20】[mediacms-io / mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
+* 【2024-03-20】[FiveKG / gas-listener](https://github.com/FiveKG/gas-listener) - 
 * 【2024-03-19】[JavaScript-Mastery-Pro / gsap-cc-starter](https://github.com/JavaScript-Mastery-Pro/gsap-cc-starter) - Starter Repository of GSAP Crash Course
 * 【2024-03-19】[developersdigest / llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Build a Perplexity-Inspired Answer Engine Using Groq, Mixtral, Langchain, Brave & OpenAI
 * 【2024-03-19】[pmndrs / gltfjsx](https://github.com/pmndrs/gltfjsx) - 🎮 Turns GLTFs into JSX components
@@ -343,6 +353,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[aws-samples / public-file-browser-for-amazon-s3](https://github.com/aws-samples/public-file-browser-for-amazon-s3) - Sample code to deploy a website and a "public files" S3 bucket which can be loaded with any files an administrator wishes to publish publicly online.
 ## C
 
+* 【2024-03-20】[trezor / trezor-firmware](https://github.com/trezor/trezor-firmware) - 🔒 Trezor Firmware Monorepo
+* 【2024-03-20】[pygame-community / pygame-ce](https://github.com/pygame-community/pygame-ce) - 🐍🎮 pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library.
+* 【2024-03-20】[ossc-db / pg_hint_plan](https://github.com/ossc-db/pg_hint_plan) - Give PostgreSQL ability to manually force some decisions in execution plans.
+* 【2024-03-20】[Tencent / wcdb](https://github.com/Tencent/wcdb) - WCDB is a cross-platform database framework developed by WeChat.
 * 【2024-03-19】[SentientArt / TheBasement](https://github.com/SentientArt/TheBasement) - 
 * 【2024-03-18】[lmarzen / esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 * 【2024-03-18】[stm32duino / Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32) - STM32 core support for Arduino
@@ -376,6 +390,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Helixo32 / CrimsonEDR](https://github.com/Helixo32/CrimsonEDR) - Simulate the behavior of AV/EDR for malware development training.
 ## C++
 
+* 【2024-03-20】[a-ngo / route-planning](https://github.com/a-ngo/route-planning) - 
+* 【2024-03-20】[0voice / cpp_new_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等
 * 【2024-03-19】[harfbuzz / harfbuzz](https://github.com/harfbuzz/harfbuzz) - HarfBuzz text shaping engine
 * 【2024-03-19】[hluk / CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 * 【2024-03-19】[Provenance-Emu / Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started: https://wiki.provenance-emu.com |
@@ -418,6 +434,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Vahera / godot-orchestrator](https://github.com/Vahera/godot-orchestrator) - Godot Engine (4.2+) Visual Scripting with Orchestrator.
 ## Typescript
 
+* 【2024-03-20】[anza-xyz / wallet-adapter](https://github.com/anza-xyz/wallet-adapter) - Modular TypeScript wallet adapters and components for Solana applications.
+* 【2024-03-20】[raydium-io / raydium-sdk](https://github.com/raydium-io/raydium-sdk) - An SDK for building applications on top of Raydium.
 * 【2024-03-18】[pretzelai / pretzelai](https://github.com/pretzelai/pretzelai) - Open-source, browser-local data exploration using DuckDB-Wasm and PRQL
 * 【2024-03-18】[xiangsx / gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API ! This is a replication project for the typescript version of xtekky/gpt4free
 * 【2024-03-16】[blefnk / relivator](https://github.com/blefnk/relivator) - Next.js 14: Store, Landing, Admin Dashboard ▲ i18n, Stripe, Shadcn Tailwind, Drizzle Zod Trpc TypeScript Auth Page, Lucide CSS Radix UI, Responsive React Server Components, MySQL and Neon Postgre TS ORM, Intl App Router, Mdx Docs User Actions Kit, SaaS Commerce Shop Pricing Payments, Dark Mode, Modern Full Stack, Free ▲ more stars → more features
