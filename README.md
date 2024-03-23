@@ -53,6 +53,16 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-03-23】[unit-mesh / auto-dev](https://github.com/unit-mesh/auto-dev) - 🧙‍AutoDev: The AI-powered coding wizard with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Dev/Testing/Document/Agent feature 🧪 included! 🚀
+* 【2024-03-23】[harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用大模型，一键生成短视频
+* 【2024-03-23】[lewis-007 / MediaCrawler](https://github.com/lewis-007/MediaCrawler) - 
+* 【2024-03-23】[OpenInterpreter / open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+* 【2024-03-23】[akexorcist / ruam-mij-android](https://github.com/akexorcist/ruam-mij-android) - [Android] Display useful information about your device privacy
+* 【2024-03-23】[GaParmar / img2img-turbo](https://github.com/GaParmar/img2img-turbo) - One-step image-to-image with Stable Diffusion turbo: sketch2image, day2night, and more
+* 【2024-03-23】[AleoHQ / snarkOS](https://github.com/AleoHQ/snarkOS) - A Decentralized Operating System for ZK Applications
+* 【2024-03-23】[seanmonstar / reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
+* 【2024-03-23】[mhamilton723 / FeatUp](https://github.com/mhamilton723/FeatUp) - Official code for "FeatUp: A Model-Agnostic Frameworkfor Features at Any Resolution" ICLR 2024
+* 【2024-03-23】[DataExpert-io / data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 * 【2024-03-22】[microsoft / garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
 * 【2024-03-22】[ynqa / jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
 * 【2024-03-22】[microsoft / retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes
@@ -170,6 +180,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[cbh123 / stickerbaker](https://github.com/cbh123/stickerbaker) - Let's bake some (AI) stickers!
 ## Go
 
+* 【2024-03-23】[chaos-mesh / chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
 * 【2024-03-22】[omriharel / deej](https://github.com/omriharel/deej) - Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux
 * 【2024-03-22】[karmada-io / karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
 * 【2024-03-21】[veops / oneterm](https://github.com/veops/oneterm) - Provide secure access and control over all infrastructure
@@ -222,6 +233,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[babylonchain / babylon](https://github.com/babylonchain/babylon) - Main repo for Babylon full node
 ## Python
 
+* 【2024-03-23】[Doriandarko / maestro](https://github.com/Doriandarko/maestro) - A framework for Claude Opus to intelligently orchestrate subagents.
+* 【2024-03-23】[Lightning-AI / lightning-thunder](https://github.com/Lightning-AI/lightning-thunder) - Source to source compiler for PyTorch. It makes PyTorch programs faster on single accelerators and distributed.
+* 【2024-03-23】[SYSTRAN / faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
+* 【2024-03-23】[ezelikman / quiet-star](https://github.com/ezelikman/quiet-star) - Code for Quiet-STaR
 * 【2024-03-22】[kongzhecn / OMG](https://github.com/kongzhecn/OMG) - OMG: Occlusion-friendly Personalized Multi-concept Generation In Diffusion Models
 * 【2024-03-22】[Kiteretsu77 / APISR](https://github.com/Kiteretsu77/APISR) - APISR: Anime Production Inspired Real-World Anime Super-Resolution (CVPR 2024)
 * 【2024-03-22】[mrphrazer / reverser_ai](https://github.com/mrphrazer/reverser_ai) - Provides automated reverse engineering assistance through the use of local large language models (LLMs) on consumer hardware.
@@ -316,6 +331,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Sinaptik-AI / pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 ## Javascript
 
+* 【2024-03-23】[IseeJ / CosmosPersona](https://github.com/IseeJ/CosmosPersona) - for fun :D
+* 【2024-03-23】[ThePrimeagen / fem-git](https://github.com/ThePrimeagen/fem-git) - 
+* 【2024-03-23】[Xtremilicious / projectlearn-project-based-learning](https://github.com/Xtremilicious/projectlearn-project-based-learning) - A curated list of project tutorials for project-based learning.
+* 【2024-03-23】[Automattic / wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
 * 【2024-03-22】[oldboyxx / jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
 * 【2024-03-22】[typicode / mistcss](https://github.com/typicode/mistcss) - Write atomic React components using only CSS! (JS-from-CSS™) 🌬️
 * 【2024-03-22】[palxiao / poster-design](https://github.com/palxiao/poster-design) - 一款漂亮且功能强大的在线海报设计器，图片编辑器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!
@@ -381,6 +400,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[aws-samples / public-file-browser-for-amazon-s3](https://github.com/aws-samples/public-file-browser-for-amazon-s3) - Sample code to deploy a website and a "public files" S3 bucket which can be loaded with any files an administrator wishes to publish publicly online.
 ## C
 
+* 【2024-03-23】[3proxy / 3proxy](https://github.com/3proxy/3proxy) - 3proxy - tiny free proxy server
 * 【2024-03-22】[cecio / USBvalve](https://github.com/cecio/USBvalve) - Expose USB activity on the fly
 * 【2024-03-21】[X1Plus / X1Plus](https://github.com/X1Plus/X1Plus) - Custom firmware for Bambu Lab X1 and X1 Carbon 3D printers
 * 【2024-03-21】[xscorp / jsmug](https://github.com/xscorp/jsmug) - A PoC code for JSON Smuggling technique to smuggle arbitrary files through JSON
@@ -472,6 +492,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Vahera / godot-orchestrator](https://github.com/Vahera/godot-orchestrator) - Godot Engine (4.2+) Visual Scripting with Orchestrator.
 ## Typescript
 
+* 【2024-03-23】[capricorn86 / happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
+* 【2024-03-23】[lidangzzz / How-to-run](https://github.com/lidangzzz/How-to-run) - 立党老师的润学（零基础转码/移民/留学/海外创业/永居）笔记
+* 【2024-03-23】[microsoft / chat-copilot](https://github.com/microsoft/chat-copilot) - 
+* 【2024-03-23】[LLM-Red-Team / kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型白嫖服务，支持高速流式输出、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 * 【2024-03-22】[superagent-ai / superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API
 * 【2024-03-22】[midday-ai / midday](https://github.com/midday-ai/midday) - Run your business smarter.
 * 【2024-03-21】[yesmore / vmail](https://github.com/yesmore/vmail) - Virtual temporary email generator. 👉 vmail.dev
