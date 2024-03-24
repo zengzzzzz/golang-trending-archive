@@ -53,6 +53,12 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-03-24】[stitionai / devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI.
+* 【2024-03-24】[OpenInterpreter / 01](https://github.com/OpenInterpreter/01) - The open-source language model computer
+* 【2024-03-24】[mshumer / gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
+* 【2024-03-24】[Wilfred / difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
+* 【2024-03-24】[jgthms / bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+* 【2024-03-24】[SakanaAI / evolutionary-model-merge](https://github.com/SakanaAI/evolutionary-model-merge) - Official repository of Evolutionary Optimization of Model Merging Recipes
 * 【2024-03-23】[unit-mesh / auto-dev](https://github.com/unit-mesh/auto-dev) - 🧙‍AutoDev: The AI-powered coding wizard with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Dev/Testing/Document/Agent feature 🧪 included! 🚀
 * 【2024-03-23】[harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用大模型，一键生成短视频
 * 【2024-03-23】[lewis-007 / MediaCrawler](https://github.com/lewis-007/MediaCrawler) - 
@@ -233,6 +239,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[babylonchain / babylon](https://github.com/babylonchain/babylon) - Main repo for Babylon full node
 ## Python
 
+* 【2024-03-24】[TarlogicSecurity / BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) - 
+* 【2024-03-24】[scipy / scipy](https://github.com/scipy/scipy) - SciPy library main repository
+* 【2024-03-24】[jiji262 / MediaCrawler-new](https://github.com/jiji262/MediaCrawler-new) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
 * 【2024-03-23】[Doriandarko / maestro](https://github.com/Doriandarko/maestro) - A framework for Claude Opus to intelligently orchestrate subagents.
 * 【2024-03-23】[Lightning-AI / lightning-thunder](https://github.com/Lightning-AI/lightning-thunder) - Source to source compiler for PyTorch. It makes PyTorch programs faster on single accelerators and distributed.
 * 【2024-03-23】[SYSTRAN / faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
@@ -331,6 +340,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Sinaptik-AI / pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 ## Javascript
 
+* 【2024-03-24】[xfgryujk / blivechat](https://github.com/xfgryujk/blivechat) - 用于OBS的仿YouTube风格的bilibili直播评论栏
+* 【2024-03-24】[huanghanzhilian / c-shopping-rn](https://github.com/huanghanzhilian/c-shopping-rn) - This is a complete App developed by React Native (Expo). It is a beautiful e-commerce shopping application. 这个是一个React Native(Expo) 开发的完整App应用，是一个精美的电商购物应用。
+* 【2024-03-24】[Nuked88 / ComfyUI-N-Sidebar](https://github.com/Nuked88/ComfyUI-N-Sidebar) - A simple sidebar for your ConfyUI!
+* 【2024-03-24】[smallfawn / QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库 新群1021185005 密码888 元梦之星
+* 【2024-03-24】[fluent-ffmpeg / node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
+* 【2024-03-24】[zeke / livestory](https://github.com/zeke/livestory) - 
 * 【2024-03-23】[IseeJ / CosmosPersona](https://github.com/IseeJ/CosmosPersona) - for fun :D
 * 【2024-03-23】[ThePrimeagen / fem-git](https://github.com/ThePrimeagen/fem-git) - 
 * 【2024-03-23】[Xtremilicious / projectlearn-project-based-learning](https://github.com/Xtremilicious/projectlearn-project-based-learning) - A curated list of project tutorials for project-based learning.
@@ -400,6 +415,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[aws-samples / public-file-browser-for-amazon-s3](https://github.com/aws-samples/public-file-browser-for-amazon-s3) - Sample code to deploy a website and a "public files" S3 bucket which can be loaded with any files an administrator wishes to publish publicly online.
 ## C
 
+* 【2024-03-24】[phdlee / uvk5cec](https://github.com/phdlee/uvk5cec) - Adds various experimental features to the uvk5 radio
+* 【2024-03-24】[wendy512 / iec61850](https://github.com/wendy512/iec61850) - GoLang IEC61850 library
+* 【2024-03-24】[AOMediaCodec / libavif](https://github.com/AOMediaCodec/libavif) - libavif - Library for encoding and decoding .avif files
 * 【2024-03-23】[3proxy / 3proxy](https://github.com/3proxy/3proxy) - 3proxy - tiny free proxy server
 * 【2024-03-22】[cecio / USBvalve](https://github.com/cecio/USBvalve) - Expose USB activity on the fly
 * 【2024-03-21】[X1Plus / X1Plus](https://github.com/X1Plus/X1Plus) - Custom firmware for Bambu Lab X1 and X1 Carbon 3D printers
@@ -443,6 +461,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Helixo32 / CrimsonEDR](https://github.com/Helixo32/CrimsonEDR) - Simulate the behavior of AV/EDR for malware development training.
 ## C++
 
+* 【2024-03-24】[leethomason / tinyxml2](https://github.com/leethomason/tinyxml2) - TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrated into other programs.
+* 【2024-03-24】[vesoft-inc / nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
+* 【2024-03-24】[Daiyouqi / Convenience_QThread](https://github.com/Daiyouqi/Convenience_QThread) - 在c++/qt中使用c#的async/await语法糖
 * 【2024-03-22】[rive-app / rive-renderer](https://github.com/rive-app/rive-renderer) - Downstream repo for Rive renderer
 * 【2024-03-22】[RedefiningReality / Cobalt-Strike](https://github.com/RedefiningReality/Cobalt-Strike) - Various resources to enhance Cobalt Strike's functionality and its ability to evade antivirus/EDR detection
 * 【2024-03-21】[linyacool / WebServer](https://github.com/linyacool/WebServer) - A C++ High Performance Web Server
@@ -492,6 +513,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Vahera / godot-orchestrator](https://github.com/Vahera/godot-orchestrator) - Godot Engine (4.2+) Visual Scripting with Orchestrator.
 ## Typescript
 
+* 【2024-03-24】[chearon / dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
+* 【2024-03-24】[jarvis2f / vortex](https://github.com/jarvis2f/vortex) - 
+* 【2024-03-24】[vercel / swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
+* 【2024-03-24】[tact-lang / tact](https://github.com/tact-lang/tact) - Tact compiler main repository
+* 【2024-03-24】[ianarawjo / ChainForge](https://github.com/ianarawjo/ChainForge) - An open-source visual programming environment for battle-testing prompts to LLMs.
 * 【2024-03-23】[capricorn86 / happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 * 【2024-03-23】[lidangzzz / How-to-run](https://github.com/lidangzzz/How-to-run) - 立党老师的润学（零基础转码/移民/留学/海外创业/永居）笔记
 * 【2024-03-23】[microsoft / chat-copilot](https://github.com/microsoft/chat-copilot) - 
