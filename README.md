@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-03-26】[ubicloud / ubicloud](https://github.com/ubicloud/ubicloud) - Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, managed Postgres, and IAM services in public beta.
+* 【2024-03-26】[mistralai-sf24 / hackathon](https://github.com/mistralai-sf24/hackathon) - 
 * 【2024-03-25】[face-hh / griddycode](https://github.com/face-hh/griddycode) - A code editor made with Godot. Code has never been more lit!
 * 【2024-03-25】[mshumer / gpt-investor](https://github.com/mshumer/gpt-investor) - 
 * 【2024-03-25】[lichao-sun / Mora](https://github.com/lichao-sun/Mora) - Mora: More like Sora for Generalist Video Generation
@@ -191,6 +193,14 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[cbh123 / stickerbaker](https://github.com/cbh123/stickerbaker) - Let's bake some (AI) stickers!
 ## Go
 
+* 【2024-03-26】[cortezaproject / corteza](https://github.com/cortezaproject/corteza) - Low-code platform
+* 【2024-03-26】[wendy512 / iec104](https://github.com/wendy512/iec104) - GoLang IEC104 library
+* 【2024-03-26】[terrastruct / d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+* 【2024-03-26】[refaktor / rye](https://github.com/refaktor/rye) - homoiconic dynamic programming language with some new ideas
+* 【2024-03-26】[TomDoesTech / GOTTH](https://github.com/TomDoesTech/GOTTH) - 
+* 【2024-03-26】[MartialBE / one-api](https://github.com/MartialBE/one-api) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
+* 【2024-03-26】[artemzinovev / flood-control-task](https://github.com/artemzinovev/flood-control-task) - Задание кандидата на стажировку
+* 【2024-03-26】[dreamsofcode-io / nethttp](https://github.com/dreamsofcode-io/nethttp) - 
 * 【2024-03-25】[gotenberg / gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
 * 【2024-03-23】[chaos-mesh / chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
 * 【2024-03-22】[omriharel / deej](https://github.com/omriharel/deej) - Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux
@@ -245,6 +255,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[babylonchain / babylon](https://github.com/babylonchain/babylon) - Main repo for Babylon full node
 ## Python
 
+* 【2024-03-26】[IDEA-Research / T-Rex](https://github.com/IDEA-Research/T-Rex) - T-Rex2: Towards Generic Object Detection via Text-Visual Prompt Synergy
+* 【2024-03-26】[prometeydev / Prometheus](https://github.com/prometeydev/Prometheus) - Very powerful stealer + miner + rat + keylogger + clipper
+* 【2024-03-26】[neuml / txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
+* 【2024-03-26】[geohot / 7900xtx](https://github.com/geohot/7900xtx) - 
+* 【2024-03-26】[megadose / holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 * 【2024-03-25】[twitter / communitynotes](https://github.com/twitter/communitynotes) - Documentation and source code powering Twitter's Community Notes
 * 【2024-03-24】[TarlogicSecurity / BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) - 
 * 【2024-03-24】[scipy / scipy](https://github.com/scipy/scipy) - SciPy library main repository
@@ -347,6 +362,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Sinaptik-AI / pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 ## Javascript
 
+* 【2024-03-26】[xiaopanglian / icefox](https://github.com/xiaopanglian/icefox) - Typecho微信朋友圈主题 icefox
+* 【2024-03-26】[micheleg / dash-to-dock](https://github.com/micheleg/dash-to-dock) - A dock for the Gnome Shell. This extension moves the dash out of the overview transforming it in a dock for an easier launching of applications and a faster switching between windows and desktops.
+* 【2024-03-26】[Onezyh / Worker-Vless-2-USB](https://github.com/Onezyh/Worker-Vless-2-USB) - 
+* 【2024-03-26】[tailwindlabs / heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 * 【2024-03-25】[jayofelony / pwnagotchi](https://github.com/jayofelony/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 * 【2024-03-25】[pt-plugins / PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus) - PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
 * 【2024-03-24】[xfgryujk / blivechat](https://github.com/xfgryujk/blivechat) - 用于OBS的仿YouTube风格的bilibili直播评论栏
@@ -424,6 +443,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[aws-samples / public-file-browser-for-amazon-s3](https://github.com/aws-samples/public-file-browser-for-amazon-s3) - Sample code to deploy a website and a "public files" S3 bucket which can be loaded with any files an administrator wishes to publish publicly online.
 ## C
 
+* 【2024-03-26】[Florents-Tselai / pgJQ](https://github.com/Florents-Tselai/pgJQ) - jq extension for Postgres
 * 【2024-03-25】[placeholderkv / placeholderkv](https://github.com/placeholderkv/placeholderkv) - A new project to resume development on the formerly open-source Redis project. Name is placeholder.
 * 【2024-03-25】[zevv / bucklespring](https://github.com/zevv/bucklespring) - Nostalgia bucklespring keyboard sound
 * 【2024-03-24】[phdlee / uvk5cec](https://github.com/phdlee/uvk5cec) - Adds various experimental features to the uvk5 radio
@@ -472,6 +492,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Helixo32 / CrimsonEDR](https://github.com/Helixo32/CrimsonEDR) - Simulate the behavior of AV/EDR for malware development training.
 ## C++
 
+* 【2024-03-26】[hyprwm / hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities.
+* 【2024-03-26】[otland / forgottenserver](https://github.com/otland/forgottenserver) - A free and open-source MMORPG server emulator written in C++
 * 【2024-03-25】[PetoiCamp / OpenCat](https://github.com/PetoiCamp/OpenCat) - An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development.
 * 【2024-03-24】[leethomason / tinyxml2](https://github.com/leethomason/tinyxml2) - TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrated into other programs.
 * 【2024-03-24】[vesoft-inc / nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
@@ -525,6 +547,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Vahera / godot-orchestrator](https://github.com/Vahera/godot-orchestrator) - Godot Engine (4.2+) Visual Scripting with Orchestrator.
 ## Typescript
 
+* 【2024-03-26】[kwaroran / RisuAI](https://github.com/kwaroran/RisuAI) - Make your own story. Software for ai roleplaying.
 * 【2024-03-25】[pure-admin / pure-admin-thin](https://github.com/pure-admin/pure-admin-thin) - vue-pure-admin官方精简版
 * 【2024-03-25】[hplush / slowreader](https://github.com/hplush/slowreader) - Web app to combine feeds from social networks and RSS and to help read more meaningful and deep content
 * 【2024-03-25】[sst / ion](https://github.com/sst/ion) - ❍ — a new engine for SST
