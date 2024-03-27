@@ -53,6 +53,9 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-03-27】[semanser / codel](https://github.com/semanser/codel) - ✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.
+* 【2024-03-27】[olegos2 / mobox](https://github.com/olegos2/mobox) - 
+* 【2024-03-27】[FoundationVision / GLEE](https://github.com/FoundationVision/GLEE) - 【CVPR2024】GLEE: General Object Foundation Model for Images and Videos at Scale
 * 【2024-03-26】[ubicloud / ubicloud](https://github.com/ubicloud/ubicloud) - Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, managed Postgres, and IAM services in public beta.
 * 【2024-03-26】[mistralai-sf24 / hackathon](https://github.com/mistralai-sf24/hackathon) - 
 * 【2024-03-25】[face-hh / griddycode](https://github.com/face-hh/griddycode) - A code editor made with Godot. Code has never been more lit!
@@ -255,6 +258,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[babylonchain / babylon](https://github.com/babylonchain/babylon) - Main repo for Babylon full node
 ## Python
 
+* 【2024-03-27】[donydchen / mvsplat](https://github.com/donydchen/mvsplat) - 🌊[arXiv'24] MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images
+* 【2024-03-27】[Meekdai / Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
 * 【2024-03-26】[IDEA-Research / T-Rex](https://github.com/IDEA-Research/T-Rex) - T-Rex2: Towards Generic Object Detection via Text-Visual Prompt Synergy
 * 【2024-03-26】[prometeydev / Prometheus](https://github.com/prometeydev/Prometheus) - Very powerful stealer + miner + rat + keylogger + clipper
 * 【2024-03-26】[neuml / txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
@@ -362,6 +367,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Sinaptik-AI / pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 ## Javascript
 
+* 【2024-03-27】[hrishioa / lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
+* 【2024-03-27】[sahir2k / twitter_face_swap](https://github.com/sahir2k/twitter_face_swap) - 
 * 【2024-03-26】[xiaopanglian / icefox](https://github.com/xiaopanglian/icefox) - Typecho微信朋友圈主题 icefox
 * 【2024-03-26】[micheleg / dash-to-dock](https://github.com/micheleg/dash-to-dock) - A dock for the Gnome Shell. This extension moves the dash out of the overview transforming it in a dock for an easier launching of applications and a faster switching between windows and desktops.
 * 【2024-03-26】[Onezyh / Worker-Vless-2-USB](https://github.com/Onezyh/Worker-Vless-2-USB) - 
@@ -443,6 +450,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[aws-samples / public-file-browser-for-amazon-s3](https://github.com/aws-samples/public-file-browser-for-amazon-s3) - Sample code to deploy a website and a "public files" S3 bucket which can be loaded with any files an administrator wishes to publish publicly online.
 ## C
 
+* 【2024-03-27】[janmojzis / tinyssh](https://github.com/janmojzis/tinyssh) - TinySSH is small server (less than 100000 words of code)
+* 【2024-03-27】[let-def / texpresso](https://github.com/let-def/texpresso) - TeXpresso: live rendering and error reporting for LaTeX
+* 【2024-03-27】[web3ToolBoxDev / toolBoxClient](https://github.com/web3ToolBoxDev/toolBoxClient) - 一步一步编写web3工具——Step-by-Step Development of Web3 Tools
 * 【2024-03-26】[Florents-Tselai / pgJQ](https://github.com/Florents-Tselai/pgJQ) - jq extension for Postgres
 * 【2024-03-25】[placeholderkv / placeholderkv](https://github.com/placeholderkv/placeholderkv) - A new project to resume development on the formerly open-source Redis project. Name is placeholder.
 * 【2024-03-25】[zevv / bucklespring](https://github.com/zevv/bucklespring) - Nostalgia bucklespring keyboard sound
@@ -492,6 +502,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Helixo32 / CrimsonEDR](https://github.com/Helixo32/CrimsonEDR) - Simulate the behavior of AV/EDR for malware development training.
 ## C++
 
+* 【2024-03-27】[liu-yi / HTLP](https://github.com/liu-yi/HTLP) - Homomorphic Time-Lock Puzzle Schemes
+* 【2024-03-27】[chenshuo / muduo](https://github.com/chenshuo/muduo) - Event-driven network library for multi-threaded Linux server in C++11
 * 【2024-03-26】[hyprwm / hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities.
 * 【2024-03-26】[otland / forgottenserver](https://github.com/otland/forgottenserver) - A free and open-source MMORPG server emulator written in C++
 * 【2024-03-25】[PetoiCamp / OpenCat](https://github.com/PetoiCamp/OpenCat) - An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development.
@@ -547,6 +559,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Vahera / godot-orchestrator](https://github.com/Vahera/godot-orchestrator) - Godot Engine (4.2+) Visual Scripting with Orchestrator.
 ## Typescript
 
+* 【2024-03-27】[Future-Scholars / paperlib](https://github.com/Future-Scholars/paperlib) - An open-source academic paper management tool.
+* 【2024-03-27】[ThaiProgrammer / tpa-roadmap](https://github.com/ThaiProgrammer/tpa-roadmap) - 
+* 【2024-03-27】[latentcat / qrbtf](https://github.com/latentcat/qrbtf) - AI & parametric QR code generator. AI & 参数化二维码生成器。https://qrbtf.com
+* 【2024-03-27】[arco-design / arco-design-vue](https://github.com/arco-design/arco-design-vue) - A Vue.js 3 UI Library based on Arco Design
 * 【2024-03-26】[kwaroran / RisuAI](https://github.com/kwaroran/RisuAI) - Make your own story. Software for ai roleplaying.
 * 【2024-03-25】[pure-admin / pure-admin-thin](https://github.com/pure-admin/pure-admin-thin) - vue-pure-admin官方精简版
 * 【2024-03-25】[hplush / slowreader](https://github.com/hplush/slowreader) - Web app to combine feeds from social networks and RSS and to help read more meaningful and deep content
