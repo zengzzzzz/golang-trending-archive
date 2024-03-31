@@ -53,6 +53,11 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-03-31】[mshumer / gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) - 
+* 【2024-03-31】[easychen / one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0) - 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。
+* 【2024-03-31】[TMElyralab / MuseV](https://github.com/TMElyralab/MuseV) - MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising
+* 【2024-03-31】[folke / trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
+* 【2024-03-31】[TencentARC / BrushNet](https://github.com/TencentARC/BrushNet) - The official implementation of paper "BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion"
 * 【2024-03-30】[Zejun-Yang / AniPortrait](https://github.com/Zejun-Yang/AniPortrait) - AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation
 * 【2024-03-30】[databricks / dbrx](https://github.com/databricks/dbrx) - Code examples and resources for DBRX, a large language model developed by Databricks
 * 【2024-03-30】[dkhamsing / open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - 📱 Collaborative List of Open-Source iOS Apps
@@ -209,6 +214,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[cbh123 / stickerbaker](https://github.com/cbh123/stickerbaker) - Let's bake some (AI) stickers!
 ## Go
 
+* 【2024-03-31】[shizunge / endlessh-go](https://github.com/shizunge/endlessh-go) - A golang implementation of endlessh exporting Prometheus metrics, visualized by a Grafana dashboard.
+* 【2024-03-31】[disingn / sunotoapi](https://github.com/disingn/sunotoapi) - 将 sunoAi web转成 openai 格式进行调用
+* 【2024-03-31】[semaphoreui / semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
 * 【2024-03-30】[ray-project / kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes
 * 【2024-03-30】[operator-framework / operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
 * 【2024-03-29】[cheat / cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
@@ -276,6 +284,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[babylonchain / babylon](https://github.com/babylonchain/babylon) - Main repo for Babylon full node
 ## Python
 
+* 【2024-03-31】[WithSecureLabs / drozer](https://github.com/WithSecureLabs/drozer) - The Leading Security Assessment Framework for Android.
 * 【2024-03-30】[NanmiCoder / CrawlerTutorial](https://github.com/NanmiCoder/CrawlerTutorial) - 爬虫入门、爬虫进阶、高级爬虫
 * 【2024-03-30】[pentestfunctions / BlueDucky](https://github.com/pentestfunctions/BlueDucky) - 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)
 * 【2024-03-29】[agiresearch / AIOS](https://github.com/agiresearch/AIOS) - AIOS: LLM Agent Operating System
@@ -394,6 +403,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Sinaptik-AI / pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 ## Javascript
 
+* 【2024-03-31】[somta / Juggle](https://github.com/somta/Juggle) - 一款适用于微服务编排，第三方api集成，私有化定制开发，编写BFF聚合层等场景的强大低码编排工具！
+* 【2024-03-31】[wahdalo / tiktok-src](https://github.com/wahdalo/tiktok-src) - Tiktok downloader & auto upload to reels facebook (with puppeteer)
+* 【2024-03-31】[OrionReed / dom3d](https://github.com/OrionReed/dom3d) - Browser extension to view and debug the DOM in 3D space.
+* 【2024-03-31】[franceking1 / Flash-Md](https://github.com/franceking1/Flash-Md) - 
+* 【2024-03-31】[basecamp / trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
+* 【2024-03-31】[techwithtim / Django-React-Full-Stack-App](https://github.com/techwithtim/Django-React-Full-Stack-App) - 
+* 【2024-03-31】[SortableJS / vue.draggable.next](https://github.com/SortableJS/vue.draggable.next) - Vue 3 compatible drag-and-drop component based on Sortable.js
 * 【2024-03-30】[2ri4eUI / CFW-BOT](https://github.com/2ri4eUI/CFW-BOT) - Cloudflare Woker Bot ! No servers needed, just pure Xray link creation, all running smoothly on PythonAnywhere. a Shortcut to internet freedom! ✨"
 * 【2024-03-30】[asyncapi / generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 * 【2024-03-30】[k1nd0ne / VolWeb](https://github.com/k1nd0ne/VolWeb) - A centralized and enhanced memory analysis platform
@@ -541,6 +557,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Helixo32 / CrimsonEDR](https://github.com/Helixo32/CrimsonEDR) - Simulate the behavior of AV/EDR for malware development training.
 ## C++
 
+* 【2024-03-31】[tzapu / WiFiManager](https://github.com/tzapu/WiFiManager) - ESP8266 WiFi Connection manager with web captive portal
 * 【2024-03-29】[oneapi-src / oneDNN](https://github.com/oneapi-src/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
 * 【2024-03-29】[STEllAR-GROUP / hpx](https://github.com/STEllAR-GROUP/hpx) - The C++ Standard Library for Parallelism and Concurrency
 * 【2024-03-27】[liu-yi / HTLP](https://github.com/liu-yi/HTLP) - Homomorphic Time-Lock Puzzle Schemes
@@ -600,6 +617,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-03-01】[Vahera / godot-orchestrator](https://github.com/Vahera/godot-orchestrator) - Godot Engine (4.2+) Visual Scripting with Orchestrator.
 ## Typescript
 
+* 【2024-03-31】[MohamedBassem / hoarder-app](https://github.com/MohamedBassem/hoarder-app) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 * 【2024-03-30】[snipe-it-com / solana-sniper-bot](https://github.com/snipe-it-com/solana-sniper-bot) - Solana Sniper Bot - Proof of Concept
 * 【2024-03-30】[umijs / qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 * 【2024-03-30】[saasfly / saasfly](https://github.com/saasfly/saasfly) - Don't buy boilerplate or template anymore! A magic trip start with `bun create saasfly`
