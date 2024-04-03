@@ -53,6 +53,10 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-04-03】[go-nunu / nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications.
+* 【2024-04-03】[dvlab-research / MiniGemini](https://github.com/dvlab-research/MiniGemini) - Official implementation for Mini-Gemini
+* 【2024-04-03】[billmei / every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT
+* 【2024-04-03】[city-super / Octree-GS](https://github.com/city-super/Octree-GS) - Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians
 * 【2024-04-02】[heyform / heyform](https://github.com/heyform/heyform) - HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required.
 * 【2024-04-02】[wandb / openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 * 【2024-04-02】[bannedbook / fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
@@ -64,12 +68,24 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[jagrosh / MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 ## Go
 
+* 【2024-04-03】[ossf / scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
+* 【2024-04-03】[fullstorydev / grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 * 【2024-04-01】[EverythingSuckz / TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes.
 * 【2024-04-01】[m1k1o / neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 * 【2024-04-01】[pojntfx / weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
 * 【2024-04-01】[plandex-ai / plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 ## Python
 
+* 【2024-04-03】[xorbitsai / inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop.
+* 【2024-04-03】[apocas / restai](https://github.com/apocas/restai) - RestAI is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex, Ollama and HF Pipelines. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama. Precise embeddings usage and tuning.
+* 【2024-04-03】[tamilselvanarjun / quantmodels](https://github.com/tamilselvanarjun/quantmodels) - FinModels` is a Python package that provides implementations of various financial models commonly used in finance and investment analysis.
+* 【2024-04-03】[tamilselvanarjun / knapsack_algorithm](https://github.com/tamilselvanarjun/knapsack_algorithm) - A simple implementation of the Knapsack problem using dynamic programming.
+* 【2024-04-03】[tamilselvanarjun / df2file](https://github.com/tamilselvanarjun/df2file) - A utility for appending DataFrames to Single Excel file in different sheets.
+* 【2024-04-03】[chiasmod0n / chiasmodon](https://github.com/chiasmod0n/chiasmodon) - Chiasmodon is an OSINT tool designed to assist in the process of gathering information about a target domain. Its primary functionality revolves around searching for domain-related data, including domain emails, domain credentials, CIDRs , ASNs , and subdomains, the tool also allows users to search Google Play application ID.
+* 【2024-04-03】[tamilselvanarjun / finmodels](https://github.com/tamilselvanarjun/finmodels) - finmodels is a Python package that provides various financial models for analysis and optimization.
+* 【2024-04-03】[lpiccinelli-eth / UniDepth](https://github.com/lpiccinelli-eth/UniDepth) - Universal Monocular Metric Depth Estimation
+* 【2024-04-03】[tamilselvanarjun / pydatascraper](https://github.com/tamilselvanarjun/pydatascraper) - pydatascraper is a Python application that provides web scraping capabilities, including fetching Google and Yelp reviews.
+* 【2024-04-03】[fateofdate / TB4hooky](https://github.com/fateofdate/TB4hooky) - Python code hook system simple support remote hook and local hook
 * 【2024-04-02】[mxrch / GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 * 【2024-04-02】[brilliantlabsAR / noa-assistant](https://github.com/brilliantlabsAR/noa-assistant) - 
 * 【2024-04-02】[Lightning-AI / litgpt](https://github.com/Lightning-AI/litgpt) - Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
@@ -80,6 +96,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[decodingml / llm-twin-course](https://github.com/decodingml/llm-twin-course) - 🤖 LLM Twin FREE Course: Building Your Production-Ready AI Replica | An End-to-End Framework for Production-Ready LLM Systems by Building Your LLM Twin | WIP...
 ## Javascript
 
+* 【2024-04-03】[safak / full-stack-estate](https://github.com/safak/full-stack-estate) - 
+* 【2024-04-03】[urbandroid-team / dont-kill-my-app](https://github.com/urbandroid-team/dont-kill-my-app) - Android vendors, don't kill my app!
 * 【2024-04-02】[CodeWithHarry / Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course) - Source Code for Sigma Web Development Course
 * 【2024-04-01】[eduardoleao052 / js-torch](https://github.com/eduardoleao052/js-torch) - A JavaScript library like PyTorch, built from scratch.
 * 【2024-04-01】[XIU2 / UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
@@ -87,6 +105,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[anticensority / runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) - Chromium extension for bypassing censorship in Russia
 ## C
 
+* 【2024-04-03】[xz-mirror / xz](https://github.com/xz-mirror/xz) - See https://github.com/tukaani-project/xz for the official repository
+* 【2024-04-03】[buserror / libmui](https://github.com/buserror/libmui) - Classic MacOS & GS/OS widget library for linux (and other?)
 * 【2024-04-02】[BandarHL / BHTwitter](https://github.com/BandarHL/BHTwitter) - Awesome tweak for Twitter
 * 【2024-04-02】[jonas / tig](https://github.com/jonas/tig) - Text-mode interface for git
 * 【2024-04-02】[ekknod / EC](https://github.com/ekknod/EC) - open-source cheat [CS:GO/CS2/Apex]
@@ -104,6 +124,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[TranslucentTB / TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 ## Typescript
 
+* 【2024-04-03】[proposal-signals / proposal-signals](https://github.com/proposal-signals/proposal-signals) - A proposal to add signals to JavaScript.
+* 【2024-04-03】[dzhng / deep-seek](https://github.com/dzhng/deep-seek) - LLM powered retrieval engine designed to process a ton of sources to collect a comprehensive list of entities.
 * 【2024-04-02】[Openpanel-dev / openpanel](https://github.com/Openpanel-dev/openpanel) - All the goodies from both Mixpanel and Plausible combined into one tool.
 * 【2024-04-01】[wokim / clien-archiver](https://github.com/wokim/clien-archiver) - Clien-Archiver is a CLI tool that allows users to backup and manage posts from the clien.net website in a local environment.
 * 【2024-04-01】[mrzachnugent / react-native-reusables](https://github.com/mrzachnugent/react-native-reusables) - Universal shadcn/ui for React Native: Copy, paste, and tailor components to suit your specific requirements.
