@@ -53,6 +53,10 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-04-04】[amlweems / xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)
+* 【2024-04-04】[zyronon / douyin](https://github.com/zyronon/douyin) - TikTok 抖音 Vue.js
+* 【2024-04-04】[infiniflow / ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+* 【2024-04-04】[huggingface / cookbook](https://github.com/huggingface/cookbook) - Open-source AI cookbook
 * 【2024-04-03】[go-nunu / nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications.
 * 【2024-04-03】[dvlab-research / MiniGemini](https://github.com/dvlab-research/MiniGemini) - Official implementation for Mini-Gemini
 * 【2024-04-03】[billmei / every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT
@@ -76,6 +80,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[plandex-ai / plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 ## Python
 
+* 【2024-04-04】[X-PLUG / mPLUG-DocOwl](https://github.com/X-PLUG/mPLUG-DocOwl) - mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding
 * 【2024-04-03】[xorbitsai / inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop.
 * 【2024-04-03】[apocas / restai](https://github.com/apocas/restai) - RestAI is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex, Ollama and HF Pipelines. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama. Precise embeddings usage and tuning.
 * 【2024-04-03】[tamilselvanarjun / quantmodels](https://github.com/tamilselvanarjun/quantmodels) - FinModels` is a Python package that provides implementations of various financial models commonly used in finance and investment analysis.
@@ -96,6 +101,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[decodingml / llm-twin-course](https://github.com/decodingml/llm-twin-course) - 🤖 LLM Twin FREE Course: Building Your Production-Ready AI Replica | An End-to-End Framework for Production-Ready LLM Systems by Building Your LLM Twin | WIP...
 ## Javascript
 
+* 【2024-04-04】[amzn / style-dictionary](https://github.com/amzn/style-dictionary) - A build system for creating cross-platform styles.
 * 【2024-04-03】[safak / full-stack-estate](https://github.com/safak/full-stack-estate) - 
 * 【2024-04-03】[urbandroid-team / dont-kill-my-app](https://github.com/urbandroid-team/dont-kill-my-app) - Android vendors, don't kill my app!
 * 【2024-04-02】[CodeWithHarry / Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course) - Source Code for Sigma Web Development Course
@@ -105,6 +111,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[anticensority / runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) - Chromium extension for bypassing censorship in Russia
 ## C
 
+* 【2024-04-04】[IchigoJam / ichigojam-firm](https://github.com/IchigoJam/ichigojam-firm) - 
+* 【2024-04-04】[Cipher7 / ChaiLdr](https://github.com/Cipher7/ChaiLdr) - AV bypass while you sip your Chai!
+* 【2024-04-04】[kyxiaxiang / Beacon_Source](https://github.com/kyxiaxiang/Beacon_Source) - not a reverse-engineered version of the Cobalt Strike Beacon
+* 【2024-04-04】[hamarituc / xz-backdoor](https://github.com/hamarituc/xz-backdoor) - 
 * 【2024-04-03】[xz-mirror / xz](https://github.com/xz-mirror/xz) - See https://github.com/tukaani-project/xz for the official repository
 * 【2024-04-03】[buserror / libmui](https://github.com/buserror/libmui) - Classic MacOS & GS/OS widget library for linux (and other?)
 * 【2024-04-02】[BandarHL / BHTwitter](https://github.com/BandarHL/BHTwitter) - Awesome tweak for Twitter
@@ -124,6 +134,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[TranslucentTB / TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 ## Typescript
 
+* 【2024-04-04】[hyperdxio / hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
+* 【2024-04-04】[alphardex / su7-replica](https://github.com/alphardex/su7-replica) - 
+* 【2024-04-04】[ixartz / SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing
 * 【2024-04-03】[proposal-signals / proposal-signals](https://github.com/proposal-signals/proposal-signals) - A proposal to add signals to JavaScript.
 * 【2024-04-03】[dzhng / deep-seek](https://github.com/dzhng/deep-seek) - LLM powered retrieval engine designed to process a ton of sources to collect a comprehensive list of entities.
 * 【2024-04-02】[Openpanel-dev / openpanel](https://github.com/Openpanel-dev/openpanel) - All the goodies from both Mixpanel and Plausible combined into one tool.
