@@ -53,6 +53,9 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-04-05】[princeton-nlp / SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models
+* 【2024-04-05】[rocketseat-education / nlw-unite-nodejs](https://github.com/rocketseat-education/nlw-unite-nodejs) - Back-end em Node.js desenvolvido durante o NLW Unite da Rocketseat
+* 【2024-04-05】[HardhatChad / ore](https://github.com/HardhatChad/ore) - 
 * 【2024-04-04】[amlweems / xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)
 * 【2024-04-04】[zyronon / douyin](https://github.com/zyronon/douyin) - TikTok 抖音 Vue.js
 * 【2024-04-04】[infiniflow / ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
@@ -72,6 +75,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[jagrosh / MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 ## Go
 
+* 【2024-04-05】[openp2p-cn / openp2p](https://github.com/openp2p-cn/openp2p) - OpenP2P is a lightweight P2P sharing network. Support Cone,Symmetric(NAT1-NAT4),UPNP,IPv6,both UDP&TCP punch. You can build you private sharing network, or uses the public sharing network
+* 【2024-04-05】[nilsherzig / LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.
+* 【2024-04-05】[gardener / gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and OnMetal with minimal TCO.
 * 【2024-04-03】[ossf / scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
 * 【2024-04-03】[fullstorydev / grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 * 【2024-04-01】[EverythingSuckz / TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes.
@@ -80,6 +86,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[plandex-ai / plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 ## Python
 
+* 【2024-04-05】[youtube-jocoding / gpt-bitcoin](https://github.com/youtube-jocoding/gpt-bitcoin) - 비트코인 GPT 인공지능 AI 자동매매 시스템
+* 【2024-04-05】[astropy / astropy](https://github.com/astropy/astropy) - Astronomy and astrophysics core library
+* 【2024-04-05】[KdaiP / StableTTS](https://github.com/KdaiP/StableTTS) - Next-generation TTS model using flow-matching and DiT, inspired by Stable Diffusion 3
+* 【2024-04-05】[YuelangX / Gaussian-Head-Avatar](https://github.com/YuelangX/Gaussian-Head-Avatar) - [CVPR 2024] Official repository for "Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians"
 * 【2024-04-04】[X-PLUG / mPLUG-DocOwl](https://github.com/X-PLUG/mPLUG-DocOwl) - mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding
 * 【2024-04-03】[xorbitsai / inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop.
 * 【2024-04-03】[apocas / restai](https://github.com/apocas/restai) - RestAI is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex, Ollama and HF Pipelines. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama. Precise embeddings usage and tuning.
@@ -101,6 +111,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[decodingml / llm-twin-course](https://github.com/decodingml/llm-twin-course) - 🤖 LLM Twin FREE Course: Building Your Production-Ready AI Replica | An End-to-End Framework for Production-Ready LLM Systems by Building Your LLM Twin | WIP...
 ## Javascript
 
+* 【2024-04-05】[jamiebuilds / the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - ⛄ Possibly the smallest compiler ever
 * 【2024-04-04】[amzn / style-dictionary](https://github.com/amzn/style-dictionary) - A build system for creating cross-platform styles.
 * 【2024-04-03】[safak / full-stack-estate](https://github.com/safak/full-stack-estate) - 
 * 【2024-04-03】[urbandroid-team / dont-kill-my-app](https://github.com/urbandroid-team/dont-kill-my-app) - Android vendors, don't kill my app!
@@ -111,6 +122,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[anticensority / runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) - Chromium extension for bypassing censorship in Russia
 ## C
 
+* 【2024-04-05】[libexpat / libexpat](https://github.com/libexpat/libexpat) - 🌿 Fast streaming XML parser written in C99 with >90% test coverage; moved from SourceForge to GitHub
+* 【2024-04-05】[renderlet / wander](https://github.com/renderlet/wander) - wander - the Wasm Renderer
+* 【2024-04-05】[hannorein / rebound](https://github.com/hannorein/rebound) - 💫 An open-source multi-purpose N-body code.
 * 【2024-04-04】[IchigoJam / ichigojam-firm](https://github.com/IchigoJam/ichigojam-firm) - 
 * 【2024-04-04】[Cipher7 / ChaiLdr](https://github.com/Cipher7/ChaiLdr) - AV bypass while you sip your Chai!
 * 【2024-04-04】[kyxiaxiang / Beacon_Source](https://github.com/kyxiaxiang/Beacon_Source) - not a reverse-engineered version of the Cobalt Strike Beacon
@@ -134,6 +148,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[TranslucentTB / TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 ## Typescript
 
+* 【2024-04-05】[rocketseat-education / nlw-unite-react](https://github.com/rocketseat-education/nlw-unite-react) - Aplicação front-end em React desenvolvida durante o NLW Unite da Rocketseat
+* 【2024-04-05】[atlassian / pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
 * 【2024-04-04】[hyperdxio / hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 * 【2024-04-04】[alphardex / su7-replica](https://github.com/alphardex/su7-replica) - 
 * 【2024-04-04】[ixartz / SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing
