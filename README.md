@@ -53,6 +53,13 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-04-06】[HardhatChad / ore-cli](https://github.com/HardhatChad/ore-cli) - 
+* 【2024-04-06】[mshumer / gpt-author](https://github.com/mshumer/gpt-author) - 
+* 【2024-04-06】[aurora-develop / aurora](https://github.com/aurora-develop/aurora) - free
+* 【2024-04-06】[availproject / availup](https://github.com/availproject/availup) - 
+* 【2024-04-06】[AstroNvim / AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
+* 【2024-04-06】[actions / setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
+* 【2024-04-06】[availproject / avail](https://github.com/availproject/avail) - 
 * 【2024-04-05】[princeton-nlp / SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models
 * 【2024-04-05】[rocketseat-education / nlw-unite-nodejs](https://github.com/rocketseat-education/nlw-unite-nodejs) - Back-end em Node.js desenvolvido durante o NLW Unite da Rocketseat
 * 【2024-04-05】[HardhatChad / ore](https://github.com/HardhatChad/ore) - 
@@ -75,6 +82,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[jagrosh / MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 ## Go
 
+* 【2024-04-06】[kube-vip / kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer
+* 【2024-04-06】[AlexanderGrom / go-patterns](https://github.com/AlexanderGrom/go-patterns) - Design patterns in Golang
+* 【2024-04-06】[Netflix / chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
+* 【2024-04-06】[rancher / fleet](https://github.com/rancher/fleet) - Deploy workloads from Git to large fleets of Kubernetes clusters
 * 【2024-04-05】[openp2p-cn / openp2p](https://github.com/openp2p-cn/openp2p) - OpenP2P is a lightweight P2P sharing network. Support Cone,Symmetric(NAT1-NAT4),UPNP,IPv6,both UDP&TCP punch. You can build you private sharing network, or uses the public sharing network
 * 【2024-04-05】[nilsherzig / LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.
 * 【2024-04-05】[gardener / gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and OnMetal with minimal TCO.
@@ -86,6 +97,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[plandex-ai / plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 ## Python
 
+* 【2024-04-06】[qilingframework / qiling](https://github.com/qilingframework/qiling) - A True Instrumentable Binary Emulation Framework
+* 【2024-04-06】[zk-Call / zkp-hmac-communication-python](https://github.com/zk-Call/zkp-hmac-communication-python) - "Zero-Knowledge" Proof Implementation with HMAC Communication in Python
+* 【2024-04-06】[YaoFANGUK / video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) - 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.
+* 【2024-04-06】[tech-shrimp / WechatMoments](https://github.com/tech-shrimp/WechatMoments) - 微信朋友圈导出工具-技术爬爬虾
+* 【2024-04-06】[1Panel-dev / MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 基于 LLM 大语言模型的知识库问答系统，1Panel 官方出品。开箱即用，支持快速嵌入到第三方业务系统。
+* 【2024-04-06】[UpstageAI / evalverse](https://github.com/UpstageAI/evalverse) - The Universe of Evaluation. All about the evaluation for LLMs.
 * 【2024-04-05】[youtube-jocoding / gpt-bitcoin](https://github.com/youtube-jocoding/gpt-bitcoin) - 비트코인 GPT 인공지능 AI 자동매매 시스템
 * 【2024-04-05】[astropy / astropy](https://github.com/astropy/astropy) - Astronomy and astrophysics core library
 * 【2024-04-05】[KdaiP / StableTTS](https://github.com/KdaiP/StableTTS) - Next-generation TTS model using flow-matching and DiT, inspired by Stable Diffusion 3
@@ -111,6 +128,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[decodingml / llm-twin-course](https://github.com/decodingml/llm-twin-course) - 🤖 LLM Twin FREE Course: Building Your Production-Ready AI Replica | An End-to-End Framework for Production-Ready LLM Systems by Building Your LLM Twin | WIP...
 ## Javascript
 
+* 【2024-04-06】[missuo / FreeGPT35](https://github.com/missuo/FreeGPT35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
+* 【2024-04-06】[mscdex / ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
 * 【2024-04-05】[jamiebuilds / the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - ⛄ Possibly the smallest compiler ever
 * 【2024-04-04】[amzn / style-dictionary](https://github.com/amzn/style-dictionary) - A build system for creating cross-platform styles.
 * 【2024-04-03】[safak / full-stack-estate](https://github.com/safak/full-stack-estate) - 
@@ -122,6 +141,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[anticensority / runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) - Chromium extension for bypassing censorship in Russia
 ## C
 
+* 【2024-04-06】[aleksey-hoffman / sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
+* 【2024-04-06】[NVIDIAGameWorks / Streamline](https://github.com/NVIDIAGameWorks/Streamline) - Streamline Integration Framework
 * 【2024-04-05】[libexpat / libexpat](https://github.com/libexpat/libexpat) - 🌿 Fast streaming XML parser written in C99 with >90% test coverage; moved from SourceForge to GitHub
 * 【2024-04-05】[renderlet / wander](https://github.com/renderlet/wander) - wander - the Wasm Renderer
 * 【2024-04-05】[hannorein / rebound](https://github.com/hannorein/rebound) - 💫 An open-source multi-purpose N-body code.
@@ -140,6 +161,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[dayanch96 / YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) - The best tweak for YouTube Music iOS.
 ## C++
 
+* 【2024-04-06】[GameTechDev / PresentMon](https://github.com/GameTechDev/PresentMon) - Capture and analyze the high-level performance characteristics of graphics applications on Windows.
+* 【2024-04-06】[nukeykt / Nuked-SC55](https://github.com/nukeykt/Nuked-SC55) - SC-55mkII emulation
+* 【2024-04-06】[Neo-Maoku / SearchAvailableExe](https://github.com/Neo-Maoku/SearchAvailableExe) - 寻找可利用的白文件
 * 【2024-04-02】[markparticle / WebServer](https://github.com/markparticle/WebServer) - C++ Linux WebServer服务器
 * 【2024-04-02】[axstin / rbxfpsunlocker](https://github.com/axstin/rbxfpsunlocker) - FPS Unlocker for Roblox
 * 【2024-04-01】[Taiga74164 / SLA-Cheeto](https://github.com/Taiga74164/SLA-Cheeto) - Solo Leveling:ARISE cheat using DLL Proxying
@@ -148,6 +172,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[TranslucentTB / TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 ## Typescript
 
+* 【2024-04-06】[actions / setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python
+* 【2024-04-06】[Jazee6 / cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - 支持Gemini Pro / Cloudflare Workers AI / ChatGPT的融合Web平台
+* 【2024-04-06】[mebjas / html5-qrcode](https://github.com/mebjas/html5-qrcode) - A cross platform HTML5 QR code reader. See end to end implementation at: https://scanapp.org
 * 【2024-04-05】[rocketseat-education / nlw-unite-react](https://github.com/rocketseat-education/nlw-unite-react) - Aplicação front-end em React desenvolvida durante o NLW Unite da Rocketseat
 * 【2024-04-05】[atlassian / pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
 * 【2024-04-04】[hyperdxio / hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
