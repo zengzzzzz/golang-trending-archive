@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-04-08】[availproject / avail-light](https://github.com/availproject/avail-light) - 
+* 【2024-04-08】[pagefaultgames / pokerogue](https://github.com/pagefaultgames/pokerogue) - 
 * 【2024-04-07】[FoundationVision / VAR](https://github.com/FoundationVision/VAR) - [GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction"
 * 【2024-04-07】[bradtraversy / 50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 * 【2024-04-07】[avito-tech / backend-trainee-assignment-2024](https://github.com/avito-tech/backend-trainee-assignment-2024) - 
@@ -103,6 +105,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[plandex-ai / plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 ## Python
 
+* 【2024-04-08】[nashsu / FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, private and locally running search aggregator & answer generate using LLM, without GPU needed. The user can ask a question and the system will make a multi engine search and combine the search result to the ChatGPT3.5 LLM and generate the answer based on search results.
+* 【2024-04-08】[facebookresearch / schedule_free](https://github.com/facebookresearch/schedule_free) - Schedule-Free Optimization in PyTorch
+* 【2024-04-08】[stanfordnlp / pyreft](https://github.com/stanfordnlp/pyreft) - ReFT: Representation Finetuning for Language Models
+* 【2024-04-08】[KrisCris / Palworld-Pal-Editor](https://github.com/KrisCris/Palworld-Pal-Editor) - Palworld Pal Editor, the tool for Adding, Deleting, and Modifying Pals in Palworld Game Save, supports running on Docker, GUI, WebUI, and Cli.
+* 【2024-04-08】[kwai / DouZero](https://github.com/kwai/DouZero) - [ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI
+* 【2024-04-08】[alejandro-ao / ask-multiple-pdfs](https://github.com/alejandro-ao/ask-multiple-pdfs) - A Langchain app that allows you to chat with multiple PDFs
 * 【2024-04-07】[InstantStyle / InstantStyle](https://github.com/InstantStyle/InstantStyle) - InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation 🔥
 * 【2024-04-07】[PhonePe / mantis](https://github.com/PhonePe/mantis) - Mantis is a security framework that automates the workflow of discovery, reconnaissance, and vulnerability scanning.
 * 【2024-04-07】[myshell-ai / JetMoE](https://github.com/myshell-ai/JetMoE) - Reaching LLaMA2 Performance with 0.1M Dollars
@@ -139,6 +147,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[decodingml / llm-twin-course](https://github.com/decodingml/llm-twin-course) - 🤖 LLM Twin FREE Course: Building Your Production-Ready AI Replica | An End-to-End Framework for Production-Ready LLM Systems by Building Your LLM Twin | WIP...
 ## Javascript
 
+* 【2024-04-08】[curtisf / logger](https://github.com/curtisf/logger) - Loggerbot version 3, the Discord bot serving nearly 24 million users.
+* 【2024-04-08】[kolbytn / mindcraft](https://github.com/kolbytn/mindcraft) - 
+* 【2024-04-08】[saadpasta / developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.
 * 【2024-04-07】[Ottodix / Eole-foobar-theme](https://github.com/Ottodix/Eole-foobar-theme) - Eole blows gently into your ear his nicest melodies.
 * 【2024-04-06】[missuo / FreeGPT35](https://github.com/missuo/FreeGPT35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
 * 【2024-04-06】[mscdex / ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
@@ -153,6 +164,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[anticensority / runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) - Chromium extension for bypassing censorship in Russia
 ## C
 
+* 【2024-04-08】[RsyncProject / rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 * 【2024-04-07】[alfiecg24 / TrollInstallerX](https://github.com/alfiecg24/TrollInstallerX) - A TrollStore installer for iOS 14.0 - 16.6.1
 * 【2024-04-06】[aleksey-hoffman / sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
 * 【2024-04-06】[NVIDIAGameWorks / Streamline](https://github.com/NVIDIAGameWorks/Streamline) - Streamline Integration Framework
@@ -174,6 +186,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[dayanch96 / YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) - The best tweak for YouTube Music iOS.
 ## C++
 
+* 【2024-04-08】[Avinash987 / Coding](https://github.com/Avinash987/Coding) - Data Structures and Algorithms (DSA) Preparation sheet
+* 【2024-04-08】[hyprwm / hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland
 * 【2024-04-07】[araujo88 / important-algorithms](https://github.com/araujo88/important-algorithms) - A list of important algorithms to study
 * 【2024-04-07】[projectM-visualizer / projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
 * 【2024-04-07】[stack-of-tasks / pinocchio](https://github.com/stack-of-tasks/pinocchio) - A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives
@@ -188,6 +202,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[TranslucentTB / TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 ## Typescript
 
+* 【2024-04-08】[technovangelist / videoprojects](https://github.com/technovangelist/videoprojects) - 
+* 【2024-04-08】[ebkr / r2modmanPlus](https://github.com/ebkr/r2modmanPlus) - A simple and easy to use mod manager for several games using Thunderstore
+* 【2024-04-08】[TracecatHQ / tracecat](https://github.com/TracecatHQ/tracecat) - 😼 The open source alternative to Tines / Splunk SOAR. Build AI-assisted workflows, orchestrate alerts, and close cases fast.
 * 【2024-04-07】[cloudflare / orange](https://github.com/cloudflare/orange) - 
 * 【2024-04-07】[datawan-labs / pg](https://github.com/datawan-labs/pg) - In Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
 * 【2024-04-07】[rocketseat-education / nlw-unite-react-native](https://github.com/rocketseat-education/nlw-unite-react-native) - 
