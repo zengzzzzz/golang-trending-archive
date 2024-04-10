@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-04-10】[drawdb-io / drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+* 【2024-04-10】[coollabsio / coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 * 【2024-04-09】[andreasfertig / cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
 * 【2024-04-08】[availproject / avail-light](https://github.com/availproject/avail-light) - 
 * 【2024-04-08】[pagefaultgames / pokerogue](https://github.com/pagefaultgames/pokerogue) - 
@@ -106,6 +108,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[plandex-ai / plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 ## Python
 
+* 【2024-04-10】[Vision-CAIR / MiniGPT4-video](https://github.com/Vision-CAIR/MiniGPT4-video) - 
+* 【2024-04-10】[AiGptCode / Iphone-14-15-IRAN-Anten](https://github.com/AiGptCode/Iphone-14-15-IRAN-Anten) - آموزش رایگان و دائمی فعال‌سازی آنتن در آیفون ۱۴ و ۱۵ بدون ردگیری و بسته شدن با دو روش مختلف، به همراه سورس کد و فایل ساخت UUID یکتا
 * 【2024-04-09】[Libr-AI / OpenFactVerification](https://github.com/Libr-AI/OpenFactVerification) - Open-source solution designed to automate the process of verifying factuality
 * 【2024-04-09】[TMElyralab / MuseTalk](https://github.com/TMElyralab/MuseTalk) - MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting
 * 【2024-04-09】[Picsart-AI-Research / StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text
@@ -152,6 +156,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[decodingml / llm-twin-course](https://github.com/decodingml/llm-twin-course) - 🤖 LLM Twin FREE Course: Building Your Production-Ready AI Replica | An End-to-End Framework for Production-Ready LLM Systems by Building Your LLM Twin | WIP...
 ## Javascript
 
+* 【2024-04-10】[stackframe-projects / pgmock](https://github.com/stackframe-projects/pgmock) - In-memory Postgres for unit/E2E tests
+* 【2024-04-10】[alexpinel / Dot](https://github.com/alexpinel/Dot) - Standalone app for fully local RAG with Mistral 7B
+* 【2024-04-10】[azl397985856 / leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 * 【2024-04-09】[langflow-ai / langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
 * 【2024-04-08】[curtisf / logger](https://github.com/curtisf/logger) - Loggerbot version 3, the Discord bot serving nearly 24 million users.
 * 【2024-04-08】[kolbytn / mindcraft](https://github.com/kolbytn/mindcraft) - 
@@ -170,6 +177,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[anticensority / runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) - Chromium extension for bypassing censorship in Russia
 ## C
 
+* 【2024-04-10】[espressif / esp-adf](https://github.com/espressif/esp-adf) - Espressif Audio Development Framework
+* 【2024-04-10】[maharmstone / btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
+* 【2024-04-10】[migueletto / PumpkinOS](https://github.com/migueletto/PumpkinOS) - PumpkinOS is a re-implementation of PalmOS.
+* 【2024-04-10】[FascinatedBox / bonk](https://github.com/FascinatedBox/bonk) - X11 window management toolkit
 * 【2024-04-09】[BasedHardware / Friend](https://github.com/BasedHardware/Friend) - AI wearable with 24h+ battery
 * 【2024-04-08】[RsyncProject / rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 * 【2024-04-07】[alfiecg24 / TrollInstallerX](https://github.com/alfiecg24/TrollInstallerX) - A TrollStore installer for iOS 14.0 - 16.6.1
@@ -212,6 +223,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[TranslucentTB / TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 ## Typescript
 
+* 【2024-04-10】[rsrohan99 / rag-stream-intermediate-events-tutorial](https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial) - Tutorial on how to properly send intermediate LlamaIndex events to vercel ai sdk via server-sent events during RAG.
+* 【2024-04-10】[vercel / examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
+* 【2024-04-10】[jeffvli / feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 * 【2024-04-09】[ixahmedxi / orbitkit](https://github.com/ixahmedxi/orbitkit) - 🚀 Orbitkit is a monorepo starterkit aiming to be the foundation you build your next startup or big idea upon.
 * 【2024-04-09】[antfu / vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
 * 【2024-04-08】[technovangelist / videoprojects](https://github.com/technovangelist/videoprojects) - 
