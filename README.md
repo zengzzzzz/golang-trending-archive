@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-04-12】[nus-apr / auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement
+* 【2024-04-12】[tidwall / neco](https://github.com/tidwall/neco) - Concurrency library for C (coroutines)
 * 【2024-04-11】[karpathy / llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
 * 【2024-04-11】[miurla / morphic](https://github.com/miurla/morphic) - An AI-powered answer engine with a generative UI
 * 【2024-04-11】[datawhalechina / self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程
@@ -96,6 +98,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[jagrosh / MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 ## Go
 
+* 【2024-04-12】[dolthub / go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
 * 【2024-04-11】[flipt-io / reverst](https://github.com/flipt-io/reverst) - Reverse Tunnels in Go over HTTP/3 and QUIC
 * 【2024-04-07】[elastic / cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
 * 【2024-04-07】[RiemaLabs / modular-indexer-light](https://github.com/RiemaLabs/modular-indexer-light) - A fully user-verified execution layer for Bitcoin's meta-protocols. (light indexer)
@@ -114,6 +117,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[plandex-ai / plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 ## Python
 
+* 【2024-04-12】[aixcoder-plugin / aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) - official repository of aiXcoder-7B Code Large Language Model
+* 【2024-04-12】[celery / celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
+* 【2024-04-12】[newren / git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
+* 【2024-04-12】[cyrus-and / gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 * 【2024-04-11】[LlamaFamily / Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用
 * 【2024-04-11】[jmerle / imc-prosperity-2-backtester](https://github.com/jmerle/imc-prosperity-2-backtester) - Backtester for IMC Prosperity 2 algorithms
 * 【2024-04-11】[Filimoa / open-parse](https://github.com/Filimoa/open-parse) - Improved file parsing for LLM’s
@@ -217,6 +224,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[dayanch96 / YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) - The best tweak for YouTube Music iOS.
 ## C++
 
+* 【2024-04-12】[microsoft / proxy](https://github.com/microsoft/proxy) - Proxy: Next Generation Polymorphism in C++
+* 【2024-04-12】[Kitware / VTK](https://github.com/Kitware/VTK) - Mirror of Visualization Toolkit repository
+* 【2024-04-12】[mfem / mfem](https://github.com/mfem/mfem) - Lightweight, general, scalable C++ library for finite element methods
 * 【2024-04-11】[s60sc / ESP32-CAM_MJPEG2SD](https://github.com/s60sc/ESP32-CAM_MJPEG2SD) - ESP32 Camera motion capture application to record JPEGs to SD card as AVI files and stream to browser as MJPEG. If a microphone is installed then a WAV file is also created. Files can be uploaded via FTP or downloaded to browser.
 * 【2024-04-11】[GothenburgBitFactory / taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 * 【2024-04-09】[zk-Call / zkp-hmac-communication-cpp](https://github.com/zk-Call/zkp-hmac-communication-cpp) - "Zero-Knowledge" Proof Implementation with HMAC Communication in C++
@@ -238,6 +248,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[TranslucentTB / TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 ## Typescript
 
+* 【2024-04-12】[hydralauncher / hydra](https://github.com/hydralauncher/hydra) - 
+* 【2024-04-12】[ashleyrudland / nextjs_vps](https://github.com/ashleyrudland/nextjs_vps) - NextJS VPS Example
+* 【2024-04-12】[payloadcms / payload-3.0-demo](https://github.com/payloadcms/payload-3.0-demo) - 
 * 【2024-04-11】[Azure-Samples / serverless-chat-langchainjs](https://github.com/Azure-Samples/serverless-chat-langchainjs) - Create your own serverless ChatGPT with Retrieval-Augmented-Generation using LangChain.js, TypeScript and Azure
 * 【2024-04-11】[originjs / vite-plugin-federation](https://github.com/originjs/vite-plugin-federation) - Module Federation for vite & rollup
 * 【2024-04-10】[rsrohan99 / rag-stream-intermediate-events-tutorial](https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial) - Tutorial on how to properly send intermediate LlamaIndex events to vercel ai sdk via server-sent events during RAG.
