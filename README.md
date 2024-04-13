@@ -53,6 +53,11 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-04-13】[YuriiCrimson / ExploitGSM](https://github.com/YuriiCrimson/ExploitGSM) - Exploit for 6.4 - 6.5 kernels and another exploit for 5.15 - 6.5
+* 【2024-04-13】[google-gemini / cookbook](https://github.com/google-gemini/cookbook) - A collection of guides and examples for the Gemini API.
+* 【2024-04-13】[PKU-YuanGroup / MagicTime](https://github.com/PKU-YuanGroup/MagicTime) - MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators
+* 【2024-04-13】[grafana / alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines
+* 【2024-04-13】[BradyFU / Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) - ✨✨Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation.
 * 【2024-04-12】[nus-apr / auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement
 * 【2024-04-12】[tidwall / neco](https://github.com/tidwall/neco) - Concurrency library for C (coroutines)
 * 【2024-04-11】[karpathy / llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
@@ -117,6 +122,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[plandex-ai / plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 ## Python
 
+* 【2024-04-13】[google-deepmind / recurrentgemma](https://github.com/google-deepmind/recurrentgemma) - Open weights language model from Google DeepMind, based on Griffin.
+* 【2024-04-13】[AIRI-Institute / OmniFusion](https://github.com/AIRI-Institute/OmniFusion) - OmniFusion — a multimodal model to communicate using text and images
+* 【2024-04-13】[huggingface / parler-tts](https://github.com/huggingface/parler-tts) - Inference and training library for high-quality TTS models.
+* 【2024-04-13】[trekhleb / learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
+* 【2024-04-13】[NaishengZhang / book-recommendation-system](https://github.com/NaishengZhang/book-recommendation-system) - Book Recommendation System
 * 【2024-04-12】[aixcoder-plugin / aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) - official repository of aiXcoder-7B Code Large Language Model
 * 【2024-04-12】[celery / celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 * 【2024-04-12】[newren / git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
@@ -173,6 +183,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[decodingml / llm-twin-course](https://github.com/decodingml/llm-twin-course) - 🤖 LLM Twin FREE Course: Building Your Production-Ready AI Replica | An End-to-End Framework for Production-Ready LLM Systems by Building Your LLM Twin | WIP...
 ## Javascript
 
+* 【2024-04-13】[apachecn / rate-my-supervisor](https://github.com/apachecn/rate-my-supervisor) - 
+* 【2024-04-13】[nextapps-de / flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
+* 【2024-04-13】[dai-shi / use-signals](https://github.com/dai-shi/use-signals) - An experimental React hook for TC39 signals
+* 【2024-04-13】[moment / moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 * 【2024-04-11】[camwiegert / typical](https://github.com/camwiegert/typical) - Animated typing in ~400 bytes 🐡 of JavaScript
 * 【2024-04-11】[nunocoracao / blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
 * 【2024-04-10】[stackframe-projects / pgmock](https://github.com/stackframe-projects/pgmock) - In-memory Postgres for unit/E2E tests
@@ -196,6 +210,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[anticensority / runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) - Chromium extension for bypassing censorship in Russia
 ## C
 
+* 【2024-04-13】[tukaani-project / xz](https://github.com/tukaani-project/xz) - XZ Utils
 * 【2024-04-11】[bb-qq / r8152](https://github.com/bb-qq/r8152) - Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters
 * 【2024-04-10】[espressif / esp-adf](https://github.com/espressif/esp-adf) - Espressif Audio Development Framework
 * 【2024-04-10】[maharmstone / btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
@@ -248,6 +263,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[TranslucentTB / TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 ## Typescript
 
+* 【2024-04-13】[vercel-labs / gemini-chatbot](https://github.com/vercel-labs/gemini-chatbot) - Build your own generative UI chatbot using the Vercel AI SDK and Google Gemini
+* 【2024-04-13】[amplication / amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 * 【2024-04-12】[hydralauncher / hydra](https://github.com/hydralauncher/hydra) - 
 * 【2024-04-12】[ashleyrudland / nextjs_vps](https://github.com/ashleyrudland/nextjs_vps) - NextJS VPS Example
 * 【2024-04-12】[payloadcms / payload-3.0-demo](https://github.com/payloadcms/payload-3.0-demo) - 
