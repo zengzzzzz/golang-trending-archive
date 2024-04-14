@@ -53,6 +53,9 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-04-14】[eknkc / ssr-benchmark](https://github.com/eknkc/ssr-benchmark) - Benchmarking JS web framework SSR performance
+* 【2024-04-14】[itsmattkc / dotnet9x](https://github.com/itsmattkc/dotnet9x) - Backport of .NET 2.0 - 3.5 to Windows 9x
+* 【2024-04-14】[Azure / Copilot-For-Security](https://github.com/Azure/Copilot-For-Security) - Microsoft Copilot for Security is a generative AI-powered security solution that helps increase the efficiency and capabilities of defenders to improve security outcomes at machine speed and scale, while remaining compliant to responsible AI principles
 * 【2024-04-13】[YuriiCrimson / ExploitGSM](https://github.com/YuriiCrimson/ExploitGSM) - Exploit for 6.4 - 6.5 kernels and another exploit for 5.15 - 6.5
 * 【2024-04-13】[google-gemini / cookbook](https://github.com/google-gemini/cookbook) - A collection of guides and examples for the Gemini API.
 * 【2024-04-13】[PKU-YuanGroup / MagicTime](https://github.com/PKU-YuanGroup/MagicTime) - MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators
@@ -122,6 +125,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[plandex-ai / plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 ## Python
 
+* 【2024-04-14】[huggingface / dataspeech](https://github.com/huggingface/dataspeech) - 
+* 【2024-04-14】[VRSEN / agency-swarm-lab](https://github.com/VRSEN/agency-swarm-lab) - 
 * 【2024-04-13】[google-deepmind / recurrentgemma](https://github.com/google-deepmind/recurrentgemma) - Open weights language model from Google DeepMind, based on Griffin.
 * 【2024-04-13】[AIRI-Institute / OmniFusion](https://github.com/AIRI-Institute/OmniFusion) - OmniFusion — a multimodal model to communicate using text and images
 * 【2024-04-13】[huggingface / parler-tts](https://github.com/huggingface/parler-tts) - Inference and training library for high-quality TTS models.
@@ -183,6 +188,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[decodingml / llm-twin-course](https://github.com/decodingml/llm-twin-course) - 🤖 LLM Twin FREE Course: Building Your Production-Ready AI Replica | An End-to-End Framework for Production-Ready LLM Systems by Building Your LLM Twin | WIP...
 ## Javascript
 
+* 【2024-04-14】[leibnizli / hummingbird](https://github.com/leibnizli/hummingbird) - A compression (jpg/png/webp/svg/gif/css/js/html/mp4/mov) App, it can convert different format pictures, support for macOS and Windows.
+* 【2024-04-14】[safak / react-firebase-chat](https://github.com/safak/react-firebase-chat) - 
+* 【2024-04-14】[pixeltris / TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - 
 * 【2024-04-13】[apachecn / rate-my-supervisor](https://github.com/apachecn/rate-my-supervisor) - 
 * 【2024-04-13】[nextapps-de / flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 * 【2024-04-13】[dai-shi / use-signals](https://github.com/dai-shi/use-signals) - An experimental React hook for TC39 signals
@@ -263,6 +271,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[TranslucentTB / TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 ## Typescript
 
+* 【2024-04-14】[d-ivashchuk / cascade](https://github.com/d-ivashchuk/cascade) - Best open-source SaaS boilerplate. Free, powerful & extendable.
+* 【2024-04-14】[sdfxai / sdfx](https://github.com/sdfxai/sdfx) - The ultimate no-code platform to build and share AI apps with beautiful UI.
+* 【2024-04-14】[Canner / WrenAI](https://github.com/Canner/WrenAI) - Make Text-to-SQL simple and accurate. 🐦 WrenAI is your AI data assistant that helps you get results and insights faster by asking questions without writing SQL.
+* 【2024-04-14】[google / generative-ai-js](https://github.com/google/generative-ai-js) - Google AI SDK for JavaScript
 * 【2024-04-13】[vercel-labs / gemini-chatbot](https://github.com/vercel-labs/gemini-chatbot) - Build your own generative UI chatbot using the Vercel AI SDK and Google Gemini
 * 【2024-04-13】[amplication / amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 * 【2024-04-12】[hydralauncher / hydra](https://github.com/hydralauncher/hydra) - 
