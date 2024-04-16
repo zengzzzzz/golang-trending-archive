@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-04-16】[tonyke-bot / ore-miner](https://github.com/tonyke-bot/ore-miner) - ORE Miner built on top of Jito bundle with both CPU and GPU support.
+* 【2024-04-16】[jina-ai / reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 * 【2024-04-15】[stanford-oval / storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 * 【2024-04-15】[openai / simple-evals](https://github.com/openai/simple-evals) - 
 * 【2024-04-15】[datawhalechina / llm-universe](https://github.com/datawhalechina/llm-universe) - 本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/
@@ -109,6 +111,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[jagrosh / MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 ## Go
 
+* 【2024-04-16】[Simple-Tracker / qBittorrent-ClientBlocker](https://github.com/Simple-Tracker/qBittorrent-ClientBlocker) - 一款适用于 qBittorrent/Transmission (Beta) 的客户端屏蔽器, 默认屏蔽包括但不限于迅雷 (XunLei/XL0012) 等客户端. A client blocker compatible with qBittorrent/Transmission (Beta) which is prohibited to include but not limited to clients such as Xunlei.
+* 【2024-04-16】[k8snetworkplumbingwg / multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes
+* 【2024-04-16】[Kethsar / ytarchive](https://github.com/Kethsar/ytarchive) - Garbage Youtube livestream downloader
+* 【2024-04-16】[IceBearAI / LLM-And-More](https://github.com/IceBearAI/LLM-And-More) - LLM-And-More is a professional, plug-and-play, llm trainer and application builder that guides you through the complete LLM workflow from data to evaluation, from training to deployment, from idea to sevice. / LLM-And-More 是一个专业、开箱即用的大模型训练及应用构建一站式解决方案，包含从数据到评估、从训练到部署、从想法到服务的全流程最佳实践。
 * 【2024-04-15】[snail007 / goproxy](https://github.com/snail007/goproxy) - 🔥 Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。
 * 【2024-04-15】[FyshOS / fynedesk](https://github.com/FyshOS/fynedesk) - A full desktop environment for Linux/Unix using Fyne
 * 【2024-04-12】[dolthub / go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
@@ -130,6 +136,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[plandex-ai / plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 ## Python
 
+* 【2024-04-16】[TencentARC / InstantMesh](https://github.com/TencentARC/InstantMesh) - InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models
+* 【2024-04-16】[jina-ai / jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
+* 【2024-04-16】[wligithub / tax-tool](https://github.com/wligithub/tax-tool) - Automated Personal Tax Preparing Tool for VMW-AVGO Merger
+* 【2024-04-16】[kohya-ss / sd-scripts](https://github.com/kohya-ss/sd-scripts) - 
 * 【2024-04-15】[OpenBMB / MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 2.0: An Efficient End-side MLLM with Strong OCR and Understanding Capabilities
 * 【2024-04-15】[chengaopan / AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes) - 自动抓取合并互联网上的公开节点。 🚀 免费节点,🚀免费节点订阅,🚀v2ray免费节点,ssr免费节点订阅,clash免费节点订阅,免费梯子,免费翻墙,免费科学上网,免费ss/v2ray/trojan/clash节点,谷歌商店,翻墙梯子
 * 【2024-04-14】[huggingface / dataspeech](https://github.com/huggingface/dataspeech) - 
@@ -195,6 +205,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[decodingml / llm-twin-course](https://github.com/decodingml/llm-twin-course) - 🤖 LLM Twin FREE Course: Building Your Production-Ready AI Replica | An End-to-End Framework for Production-Ready LLM Systems by Building Your LLM Twin | WIP...
 ## Javascript
 
+* 【2024-04-16】[Oligard008 / Pancakeswap-Bot](https://github.com/Oligard008/Pancakeswap-Bot) - Bot for PancakeSwap Prediction – 30technical indicators. Multichain with MetaMask
+* 【2024-04-16】[NaishengZhang / blog](https://github.com/NaishengZhang/blog) - Blog Platform Using Spring Boot
 * 【2024-04-15】[gezhaoyou / picprose](https://github.com/gezhaoyou/picprose) - PicProse is a better cover image generator tool for Medium, YouTube, BiliBili, Blog and many others
 * 【2024-04-15】[adrianhajdin / aora](https://github.com/adrianhajdin/aora) - Build your first mobile application
 * 【2024-04-15】[eidam / cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
@@ -258,6 +270,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[dayanch96 / YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) - The best tweak for YouTube Music iOS.
 ## C++
 
+* 【2024-04-16】[alexbatalov / fallout2-ce](https://github.com/alexbatalov/fallout2-ce) - Fallout 2 for modern operating systems
+* 【2024-04-16】[sogou / workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Framework
 * 【2024-04-12】[microsoft / proxy](https://github.com/microsoft/proxy) - Proxy: Next Generation Polymorphism in C++
 * 【2024-04-12】[Kitware / VTK](https://github.com/Kitware/VTK) - Mirror of Visualization Toolkit repository
 * 【2024-04-12】[mfem / mfem](https://github.com/mfem/mfem) - Lightweight, general, scalable C++ library for finite element methods
@@ -282,6 +296,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[TranslucentTB / TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 ## Typescript
 
+* 【2024-04-16】[hiteshchoudhary / ama-app](https://github.com/hiteshchoudhary/ama-app) - 
 * 【2024-04-15】[andrewcourtice / ripl](https://github.com/andrewcourtice/ripl) - Ripl provides a unified API for 2D graphics rendering in the browser with a focus towards high performance and interactive data visualization.
 * 【2024-04-15】[un / inbox](https://github.com/un/inbox) - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com
 * 【2024-04-15】[lambda-tech-club / katatataki-bank](https://github.com/lambda-tech-club/katatataki-bank) - 肩たたき券の発行と管理を行うシステム
