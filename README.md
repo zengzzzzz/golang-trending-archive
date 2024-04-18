@@ -53,6 +53,11 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-04-18】[BenjaSOL / ore-cli-gpu](https://github.com/BenjaSOL/ore-cli-gpu) - 
+* 【2024-04-18】[Dhravya / supermemory](https://github.com/Dhravya/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
+* 【2024-04-18】[ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) - This repository contains low level design resources to improve coding skills and prepare for interviews.
+* 【2024-04-18】[elastic / otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler
+* 【2024-04-18】[airbnb / lottie-ios](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations
 * 【2024-04-17】[GraphiteEditor / Graphite](https://github.com/GraphiteEditor/Graphite) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
 * 【2024-04-17】[skydoves / pokedex-compose](https://github.com/skydoves/pokedex-compose) - 🗡️ Pokedex Compose demonstrates modern Android development with Jetpack Compose, Hilt, Coroutines, Flow, Jetpack (Room, ViewModel), and Material Design based on MVVM architecture.
 * 【2024-04-17】[intuitem / ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community) - CISO Assistant is an open-source one-stop-shop for GRC - Risk and Audit Management supporting multiple standards: NIST CSF, ISO 27001, NIS2, SOC2, PCI DSS, CMMC, PSPF, GDPR, HIPAA, Essential Eight, DFS-500, DORA, NIST AI RMF, CyFun, AirCyber and more
@@ -141,6 +146,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[plandex-ai / plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 ## Python
 
+* 【2024-04-18】[kornia / kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI
+* 【2024-04-18】[xlang-ai / OSWorld](https://github.com/xlang-ai/OSWorld) - OSWorld: A unified, real computer environment for multimodal agents to evaluate open-ended computer tasks involving arbitrary apps and interfaces on Ubuntu, Windows, and macOS
+* 【2024-04-18】[cognitivecomputations / github2file](https://github.com/cognitivecomputations/github2file) - 
+* 【2024-04-18】[hudson-and-thames / arbitragelab](https://github.com/hudson-and-thames/arbitragelab) - ArbitrageLab is a python library that enables traders who want to exploit mean-reverting portfolios by providing a complete set of algorithms from the best academic journals.
+* 【2024-04-18】[katanaml / sparrow](https://github.com/katanaml/sparrow) - Data processing with ML and LLM
+* 【2024-04-18】[Megvii-BaseDetection / YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/
+* 【2024-04-18】[6abd / horus](https://github.com/6abd/horus) - An OSINT / digital forensics tool built in Python (formerly 'Sentinel')
 * 【2024-04-17】[WeChatAPIs / WeChatMsgHistory_real](https://github.com/WeChatAPIs/WeChatMsgHistory_real) - Real-time Chat-重现微信群组和个人聊天记录查询项目，本项目为开发者和研究者提供一种深入查看微信聊天内容的解决方案，允许用户在特定条件下获取特定群组或私聊的聊天记录，并通过我们提供的API进行控制
 * 【2024-04-17】[nlpxucan / WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
 * 【2024-04-17】[RUCAIBox / LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) - The official GitHub page for the survey paper "A Survey of Large Language Models".
@@ -252,6 +264,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[anticensority / runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) - Chromium extension for bypassing censorship in Russia
 ## C
 
+* 【2024-04-18】[Thehepta / androidGRPC](https://github.com/Thehepta/androidGRPC) - 
 * 【2024-04-17】[DosX-dev / obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
 * 【2024-04-17】[xiph / rnnoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction
 * 【2024-04-17】[HypoPG / hypopg](https://github.com/HypoPG/hypopg) - Hypothetical Indexes for PostgreSQL
@@ -287,6 +300,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[dayanch96 / YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) - The best tweak for YouTube Music iOS.
 ## C++
 
+* 【2024-04-18】[CocoaBob / GBA4iOS](https://github.com/CocoaBob/GBA4iOS) - A fork of https://bitbucket.org/rileytestut/gba4ios
 * 【2024-04-17】[alexbatalov / fallout1-ce](https://github.com/alexbatalov/fallout1-ce) - Fallout for modern operating systems
 * 【2024-04-17】[CodingGay / BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
 * 【2024-04-16】[alexbatalov / fallout2-ce](https://github.com/alexbatalov/fallout2-ce) - Fallout 2 for modern operating systems
@@ -315,6 +329,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[TranslucentTB / TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 ## Typescript
 
+* 【2024-04-18】[snyk / cli](https://github.com/snyk/cli) - Snyk CLI scans and monitors your projects for security vulnerabilities.
+* 【2024-04-18】[t3dotgg / t3gallery](https://github.com/t3dotgg/t3gallery) - 
+* 【2024-04-18】[shuding / next-view-transitions](https://github.com/shuding/next-view-transitions) - Use CSS View Transitions API in Next.js App Router.
+* 【2024-04-18】[redis / node-redis](https://github.com/redis/node-redis) - Redis Node.js client
 * 【2024-04-16】[hiteshchoudhary / ama-app](https://github.com/hiteshchoudhary/ama-app) - 
 * 【2024-04-15】[andrewcourtice / ripl](https://github.com/andrewcourtice/ripl) - Ripl provides a unified API for 2D graphics rendering in the browser with a focus towards high performance and interactive data visualization.
 * 【2024-04-15】[un / inbox](https://github.com/un/inbox) - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com
