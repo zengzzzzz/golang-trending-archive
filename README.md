@@ -53,6 +53,11 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-04-19】[Julien-cpsn / ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
+* 【2024-04-19】[kevinbentley / Descent3](https://github.com/kevinbentley/Descent3) - Descent 3 by Outrage Entertainment
+* 【2024-04-19】[figma / code-connect](https://github.com/figma/code-connect) - A tool for connecting your design system components in code with your design system in Figma
+* 【2024-04-19】[apache / paimon](https://github.com/apache/paimon) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
+* 【2024-04-19】[qiye45 / wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持图片、评论下载，支持保存html/md/pdf/docx文件
 * 【2024-04-18】[BenjaSOL / ore-cli-gpu](https://github.com/BenjaSOL/ore-cli-gpu) - 
 * 【2024-04-18】[Dhravya / supermemory](https://github.com/Dhravya/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 * 【2024-04-18】[ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) - This repository contains low level design resources to improve coding skills and prepare for interviews.
@@ -120,6 +125,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[jagrosh / MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 ## Go
 
+* 【2024-04-19】[charmbracelet / vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
+* 【2024-04-19】[omni-network / omni](https://github.com/omni-network/omni) - Monorepo for Omni node, contracts and other related tools
 * 【2024-04-17】[nalgeon / redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite
 * 【2024-04-16】[Simple-Tracker / qBittorrent-ClientBlocker](https://github.com/Simple-Tracker/qBittorrent-ClientBlocker) - 一款适用于 qBittorrent/Transmission (Beta) 的客户端屏蔽器, 默认屏蔽包括但不限于迅雷 (XunLei/XL0012) 等客户端. A client blocker compatible with qBittorrent/Transmission (Beta) which is prohibited to include but not limited to clients such as Xunlei.
 * 【2024-04-16】[k8snetworkplumbingwg / multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes
@@ -146,6 +153,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[plandex-ai / plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 ## Python
 
+* 【2024-04-19】[PixArt-alpha / PixArt-sigma](https://github.com/PixArt-alpha/PixArt-sigma) - PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation
+* 【2024-04-19】[pytorch / torchtune](https://github.com/pytorch/torchtune) - A Native-PyTorch Library for LLM Fine-tuning
+* 【2024-04-19】[yenchenlin / nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) - A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results.
+* 【2024-04-19】[MakiNaruto / Automatic_ticket_purchase](https://github.com/MakiNaruto/Automatic_ticket_purchase) - 大麦网抢票脚本
+* 【2024-04-19】[truefoundry / cognita](https://github.com/truefoundry/cognita) - Cognita by TrueFoundry - Framework for building modular, open source RAG applications for production.
 * 【2024-04-18】[kornia / kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI
 * 【2024-04-18】[xlang-ai / OSWorld](https://github.com/xlang-ai/OSWorld) - OSWorld: A unified, real computer environment for multimodal agents to evaluate open-ended computer tasks involving arbitrary apps and interfaces on Ubuntu, Windows, and macOS
 * 【2024-04-18】[cognitivecomputations / github2file](https://github.com/cognitivecomputations/github2file) - 
@@ -228,6 +240,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[decodingml / llm-twin-course](https://github.com/decodingml/llm-twin-course) - 🤖 LLM Twin FREE Course: Building Your Production-Ready AI Replica | An End-to-End Framework for Production-Ready LLM Systems by Building Your LLM Twin | WIP...
 ## Javascript
 
+* 【2024-04-19】[fatwang2 / coze2openai](https://github.com/fatwang2/coze2openai) - Turn Coze API into OpenAI
+* 【2024-04-19】[bpc-clone / bypass-paywalls-clean-filters](https://github.com/bpc-clone/bypass-paywalls-clean-filters) - 
+* 【2024-04-19】[rastapasta / mapscii](https://github.com/rastapasta/mapscii) - 🗺 MapSCII is a Braille & ASCII world map renderer for your console - enter => telnet mapscii.me <= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
 * 【2024-04-17】[Bistutu / FluentRead](https://github.com/Bistutu/FluentRead) - 拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。
 * 【2024-04-16】[Oligard008 / Pancakeswap-Bot](https://github.com/Oligard008/Pancakeswap-Bot) - Bot for PancakeSwap Prediction – 30technical indicators. Multichain with MetaMask
 * 【2024-04-16】[NaishengZhang / blog](https://github.com/NaishengZhang/blog) - Blog Platform Using Spring Boot
@@ -264,6 +279,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[anticensority / runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) - Chromium extension for bypassing censorship in Russia
 ## C
 
+* 【2024-04-19】[hakaioffsec / CVE-2024-21338](https://github.com/hakaioffsec/CVE-2024-21338) - Local Privilege Escalation from Admin to Kernel vulnerability on Windows 10 and Windows 11 operating systems with HVCI enabled.
 * 【2024-04-18】[Thehepta / androidGRPC](https://github.com/Thehepta/androidGRPC) - 
 * 【2024-04-17】[DosX-dev / obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
 * 【2024-04-17】[xiph / rnnoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction
@@ -329,6 +345,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[TranslucentTB / TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 ## Typescript
 
+* 【2024-04-19】[stonith404 / pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
+* 【2024-04-19】[warp-id / solana-trading-bot](https://github.com/warp-id/solana-trading-bot) - Solana Trading Bot - Beta
+* 【2024-04-19】[learn-anything / learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 * 【2024-04-18】[snyk / cli](https://github.com/snyk/cli) - Snyk CLI scans and monitors your projects for security vulnerabilities.
 * 【2024-04-18】[t3dotgg / t3gallery](https://github.com/t3dotgg/t3gallery) - 
 * 【2024-04-18】[shuding / next-view-transitions](https://github.com/shuding/next-view-transitions) - Use CSS View Transitions API in Next.js App Router.
