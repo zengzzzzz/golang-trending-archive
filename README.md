@@ -53,6 +53,10 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-04-22】[moest-np / center-randomize](https://github.com/moest-np/center-randomize) - Script is to assign exam centers to students
+* 【2024-04-22】[Aikoyori / ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun
+* 【2024-04-22】[sadmann7 / shadcn-table](https://github.com/sadmann7/shadcn-table) - A shadcn table component with server-side sorting, filtering, and pagination.
+* 【2024-04-22】[meta-llama / llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment.Demo apps to showcase Llama2 for WhatsApp & Messenger
 * 【2024-04-20】[rileytestut / Delta](https://github.com/rileytestut/Delta) - Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.
 * 【2024-04-20】[meta-llama / PurpleLlama](https://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security.
 * 【2024-04-20】[WINSDK / bite](https://github.com/WINSDK/bite) - Disassembler focused on comprehensive rust support.
@@ -132,6 +136,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[jagrosh / MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 ## Go
 
+* 【2024-04-22】[Layr-Labs / eigenda](https://github.com/Layr-Labs/eigenda) - Secure, high-throughput, and decentralized Data Availability
+* 【2024-04-22】[OJ / gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
+* 【2024-04-22】[DNSCrypt / dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
+* 【2024-04-22】[bom-squad / protobom](https://github.com/bom-squad/protobom) - A universal SBOM representation in protocol buffers
 * 【2024-04-21】[marco-liberale / PasteBomb](https://github.com/marco-liberale/PasteBomb) - PasteBomb C2-less RAT
 * 【2024-04-21】[danvergara / morphos](https://github.com/danvergara/morphos) - Self-hosted file converter server
 * 【2024-04-19】[charmbracelet / vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -162,6 +170,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[plandex-ai / plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 ## Python
 
+* 【2024-04-22】[Ultimaker / Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
+* 【2024-04-22】[MetaCubeX / mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
+* 【2024-04-22】[liming-ai / ControlNet_Plus_Plus](https://github.com/liming-ai/ControlNet_Plus_Plus) - Inference code for: ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback
+* 【2024-04-22】[embeddings-benchmark / mteb](https://github.com/embeddings-benchmark/mteb) - MTEB: Massive Text Embedding Benchmark
+* 【2024-04-22】[google-deepmind / penzai](https://github.com/google-deepmind/penzai) - A JAX research toolkit for building, editing, and visualizing neural networks.
 * 【2024-04-21】[meta-llama / llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 * 【2024-04-21】[harperreed / photo-similarity-search](https://github.com/harperreed/photo-similarity-search) - Super simple MLX (apple silicon) CLIP based photo similarity web app
 * 【2024-04-21】[Upsonic / Tiger](https://github.com/Upsonic/Tiger) - Neuralink for your AI Agents - LangChain - Autogen - CrewAI
@@ -264,6 +277,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[decodingml / llm-twin-course](https://github.com/decodingml/llm-twin-course) - 🤖 LLM Twin FREE Course: Building Your Production-Ready AI Replica | An End-to-End Framework for Production-Ready LLM Systems by Building Your LLM Twin | WIP...
 ## Javascript
 
+* 【2024-04-22】[surfbryce / beautiful-lyrics](https://github.com/surfbryce/beautiful-lyrics) - Completely revolutionizes the Spotify Lyrics Experience by introducing Live Lyrics, Dynamic Backgrounds, and Immersive Views
 * 【2024-04-21】[timpaul / form-extractor-prototype](https://github.com/timpaul/form-extractor-prototype) - 
 * 【2024-04-21】[replicate / llama-chat](https://github.com/replicate/llama-chat) - A boilerplate for creating a Llama 3 chat app
 * 【2024-04-21】[Arun020 / Jarvis-AI](https://github.com/Arun020/Jarvis-AI) - A small virtual Assistant
@@ -310,6 +324,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[anticensority / runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) - Chromium extension for bypassing censorship in Russia
 ## C
 
+* 【2024-04-22】[khanhduytran0 / LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run iOS app without actually installing it!
+* 【2024-04-22】[htop-dev / htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 * 【2024-04-21】[fgkeepalive / AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) - 2024年最新 Android 高可用黑科技应用保活，实现终极目标，最高适配Android 14 小米 华为 Oppo vivo 等最新机型 拒绝强杀 开机自启动
 * 【2024-04-21】[loopj / short-stack](https://github.com/loopj/short-stack) - World's Smallest Nintendo Wii, using a trimmed motherboard and custom stacked PCBs
 * 【2024-04-21】[yoshisuga / MAME4iOS](https://github.com/yoshisuga/MAME4iOS) - Multiple Arcade Machine Emulator for iOS, iPadOS, tvOS, macOS (Catalyst)
@@ -353,6 +369,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[dayanch96 / YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) - The best tweak for YouTube Music iOS.
 ## C++
 
+* 【2024-04-22】[stanuwu / PixelGunCheatInternal](https://github.com/stanuwu/PixelGunCheatInternal) - Pixel Gun 3D Internal Cheat in C++
 * 【2024-04-21】[gottingen / hercules](https://github.com/gottingen/hercules) - aot compiler
 * 【2024-04-21】[AztecProtocol / aztec-packages](https://github.com/AztecProtocol/aztec-packages) - 
 * 【2024-04-20】[EvanMcBroom / lsa-whisperer](https://github.com/EvanMcBroom/lsa-whisperer) - Tools for interacting with authentication packages using their individual message protocols
@@ -387,6 +404,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[TranslucentTB / TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 ## Typescript
 
+* 【2024-04-22】[wvit / web-document](https://github.com/wvit/web-document) - A browser extension for saving web documents locally, allowing you to access them offline and quickly search for webpage content without an internet connection, while also saving browser memory usage.
+* 【2024-04-22】[PKief / vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme) - Available on the VSCode Marketplace
 * 【2024-04-21】[code100x / chess](https://github.com/code100x/chess) - A multiplayer chess platform similar to https://chess.com/
 * 【2024-04-21】[intlify / vue-i18n-next](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3
 * 【2024-04-21】[gcui-art / suno-api](https://github.com/gcui-art/suno-api) - Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs.
