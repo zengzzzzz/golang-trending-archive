@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-04-23】[open-webui / open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+* 【2024-04-23】[joschan21 / profanity.dev](https://github.com/joschan21/profanity.dev) - 
 * 【2024-04-22】[moest-np / center-randomize](https://github.com/moest-np/center-randomize) - Script is to assign exam centers to students
 * 【2024-04-22】[Aikoyori / ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun
 * 【2024-04-22】[sadmann7 / shadcn-table](https://github.com/sadmann7/shadcn-table) - A shadcn table component with server-side sorting, filtering, and pagination.
@@ -136,6 +138,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[jagrosh / MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 ## Go
 
+* 【2024-04-23】[amuluze / amprobe](https://github.com/amuluze/amprobe) - 轻量级主机及容器监控服务
+* 【2024-04-23】[aurorax-neo / free-gpt3.5-2api](https://github.com/aurorax-neo/free-gpt3.5-2api) - free chat gpt api
+* 【2024-04-23】[1buran / rHttp](https://github.com/1buran/rHttp) - REPL for HTTP
 * 【2024-04-22】[Layr-Labs / eigenda](https://github.com/Layr-Labs/eigenda) - Secure, high-throughput, and decentralized Data Availability
 * 【2024-04-22】[OJ / gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 * 【2024-04-22】[DNSCrypt / dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
@@ -170,6 +175,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[plandex-ai / plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 ## Python
 
+* 【2024-04-23】[benbusby / whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 * 【2024-04-22】[Ultimaker / Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 * 【2024-04-22】[MetaCubeX / mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 * 【2024-04-22】[liming-ai / ControlNet_Plus_Plus](https://github.com/liming-ai/ControlNet_Plus_Plus) - Inference code for: ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback
@@ -277,6 +283,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[decodingml / llm-twin-course](https://github.com/decodingml/llm-twin-course) - 🤖 LLM Twin FREE Course: Building Your Production-Ready AI Replica | An End-to-End Framework for Production-Ready LLM Systems by Building Your LLM Twin | WIP...
 ## Javascript
 
+* 【2024-04-23】[horizon-ui / horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - Horizon UI JavaScript ⭐️ The trendiest & innovative Open Source Admin Template for Chakra UI & React!
+* 【2024-04-23】[Misaka-blog / cf-wkrs-pages-vless](https://github.com/Misaka-blog/cf-wkrs-pages-vless) - 在 CloudFlare Workers 或 Pages 部署 vless 节点，支持 Base64、Clash 及 Sing-box 配置文件订阅文件生成
 * 【2024-04-22】[surfbryce / beautiful-lyrics](https://github.com/surfbryce/beautiful-lyrics) - Completely revolutionizes the Spotify Lyrics Experience by introducing Live Lyrics, Dynamic Backgrounds, and Immersive Views
 * 【2024-04-21】[timpaul / form-extractor-prototype](https://github.com/timpaul/form-extractor-prototype) - 
 * 【2024-04-21】[replicate / llama-chat](https://github.com/replicate/llama-chat) - A boilerplate for creating a Llama 3 chat app
@@ -324,6 +332,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[anticensority / runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) - Chromium extension for bypassing censorship in Russia
 ## C
 
+* 【2024-04-23】[wareya / DIY-Gaming-Mouse](https://github.com/wareya/DIY-Gaming-Mouse) - Completely open source DIY gaming mouse, including hardware (PCB, shell) design files
+* 【2024-04-23】[plasma-umass / coz](https://github.com/plasma-umass/coz) - Coz: Causal Profiling
 * 【2024-04-22】[khanhduytran0 / LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run iOS app without actually installing it!
 * 【2024-04-22】[htop-dev / htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 * 【2024-04-21】[fgkeepalive / AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) - 2024年最新 Android 高可用黑科技应用保活，实现终极目标，最高适配Android 14 小米 华为 Oppo vivo 等最新机型 拒绝强杀 开机自启动
@@ -404,6 +414,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[TranslucentTB / TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 ## Typescript
 
+* 【2024-04-23】[latentcat / latentbox](https://github.com/latentcat/latentbox) - A collection of awesome-lists for AI, creativity and art. AI、创意和艺术领域的精选合集。https://latentbox.com
+* 【2024-04-23】[telekom / create-tsi](https://github.com/telekom/create-tsi) - Create-tsi is a generative AI RAG toolkit which generates AI Applications with low code.
+* 【2024-04-23】[hello-nav / hello-nav](https://github.com/hello-nav/hello-nav) - 🗺 A navigation for developer
 * 【2024-04-22】[wvit / web-document](https://github.com/wvit/web-document) - A browser extension for saving web documents locally, allowing you to access them offline and quickly search for webpage content without an internet connection, while also saving browser memory usage.
 * 【2024-04-22】[PKief / vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme) - Available on the VSCode Marketplace
 * 【2024-04-21】[code100x / chess](https://github.com/code100x/chess) - A multiplayer chess platform similar to https://chess.com/
