@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-04-25】[mztacat / Base](https://github.com/mztacat/Base) - 
 * 【2024-04-24】[ntdevlabs / tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 * 【2024-04-24】[CrazyBoyM / llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3 中文仓库（聚合资料：各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、部署教程视频 & 文档）
 * 【2024-04-24】[mishushakov / llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
@@ -142,6 +143,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[jagrosh / MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 ## Go
 
+* 【2024-04-25】[panjf2000 / gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 * 【2024-04-23】[amuluze / amprobe](https://github.com/amuluze/amprobe) - 轻量级主机及容器监控服务
 * 【2024-04-23】[aurorax-neo / free-gpt3.5-2api](https://github.com/aurorax-neo/free-gpt3.5-2api) - free chat gpt api
 * 【2024-04-23】[1buran / rHttp](https://github.com/1buran/rHttp) - REPL for HTTP
@@ -179,6 +181,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[plandex-ai / plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 ## Python
 
+* 【2024-04-25】[UnicomAI / Unichat-llama3-Chinese](https://github.com/UnicomAI/Unichat-llama3-Chinese) - 
+* 【2024-04-25】[lipku / metahuman-stream](https://github.com/lipku/metahuman-stream) - Real time streaming digital human based on nerf
 * 【2024-04-24】[haizelabs / llama3-jailbreak](https://github.com/haizelabs/llama3-jailbreak) - A trivial programmatic Llama 3 jailbreak. Sorry Zuck!
 * 【2024-04-24】[yuka-friends / Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics.
 * 【2024-04-23】[benbusby / whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -289,6 +293,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[decodingml / llm-twin-course](https://github.com/decodingml/llm-twin-course) - 🤖 LLM Twin FREE Course: Building Your Production-Ready AI Replica | An End-to-End Framework for Production-Ready LLM Systems by Building Your LLM Twin | WIP...
 ## Javascript
 
+* 【2024-04-25】[catdad / canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
+* 【2024-04-25】[code-charity / youtube](https://github.com/code-charity/youtube) - [Top~1 open YouTube / Video Web-Extension] Enrich your experience & choice! 🧰100+ clever features📌set & forget📌Longest-standing (yet rare & tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|content discovery|player|extra buttons|distractions|related videos|shorts|ads|quality|codec|full tab|full screen}
+* 【2024-04-25】[apache / cordova-ios](https://github.com/apache/cordova-ios) - Apache Cordova iOS
+* 【2024-04-25】[alyssaxuu / flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 * 【2024-04-24】[Sbermarketing-Analytics / InternFrontend-EntryTask](https://github.com/Sbermarketing-Analytics/InternFrontend-EntryTask) - 
 * 【2024-04-24】[OpenDroneMap / WebODM](https://github.com/OpenDroneMap/WebODM) - User-friendly, commercial-grade software for processing aerial imagery. 🛩
 * 【2024-04-23】[horizon-ui / horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - Horizon UI JavaScript ⭐️ The trendiest & innovative Open Source Admin Template for Chakra UI & React!
@@ -340,6 +348,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[anticensority / runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) - Chromium extension for bypassing censorship in Russia
 ## C
 
+* 【2024-04-25】[OpenNJet / OpenNJet](https://github.com/OpenNJet/OpenNJet) - 
+* 【2024-04-25】[Recognito-Vision / Linux-FaceRecognition-FaceLivenessDetection](https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection) - NIST_FRVT Top 1🏆 Face Recognition, Liveness Detection(Face Anti-Spoof), Face Attribute Analysis Linux Server SDK Demo ☑️ Face Recognition ☑️ Face Liveness Detection ☑️ Face Attribute Analysis
 * 【2024-04-24】[luainkernel / lunatik](https://github.com/luainkernel/lunatik) - Lunatik is a framework for scripting the Linux kernel with Lua.
 * 【2024-04-24】[floesen / KExecDD](https://github.com/floesen/KExecDD) - Admin to Kernel code execution using the KSecDD driver
 * 【2024-04-23】[wareya / DIY-Gaming-Mouse](https://github.com/wareya/DIY-Gaming-Mouse) - Completely open source DIY gaming mouse, including hardware (PCB, shell) design files
@@ -389,6 +399,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[dayanch96 / YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) - The best tweak for YouTube Music iOS.
 ## C++
 
+* 【2024-04-25】[mansk1es / CVE-2024-21111](https://github.com/mansk1es/CVE-2024-21111) - Oracle VirtualBox Elevation of Privilege (Local Privilege Escalation) Vulnerability
 * 【2024-04-24】[SasaKaranovic / winfidel-sensor](https://github.com/SasaKaranovic/winfidel-sensor) - Wireless Inline Filament Diameter Estimator Low-cost Sensor
 * 【2024-04-22】[stanuwu / PixelGunCheatInternal](https://github.com/stanuwu/PixelGunCheatInternal) - Pixel Gun 3D Internal Cheat in C++
 * 【2024-04-21】[gottingen / hercules](https://github.com/gottingen/hercules) - aot compiler
@@ -425,6 +436,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[TranslucentTB / TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 ## Typescript
 
+* 【2024-04-25】[Molunerfinn / PicGo](https://github.com/Molunerfinn/PicGo) - 🚀A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 * 【2024-04-24】[scalar / scalar](https://github.com/scalar/scalar) - Beautiful API references from OpenAPI/Swagger files ✨
 * 【2024-04-24】[coder-hxl / x-crawl](https://github.com/coder-hxl/x-crawl) - Flexible Node.js AI-assisted crawler library
 * 【2024-04-24】[run-llama / create-llama](https://github.com/run-llama/create-llama) - The easiest way to get started with LlamaIndex
