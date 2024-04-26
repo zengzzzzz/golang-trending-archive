@@ -53,6 +53,14 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-04-26】[digitalinnovationone / dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source) - ⚠LEIA A ISSUE FIXADA! Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.
+* 【2024-04-26】[CyanVoxel / TagStudio](https://github.com/CyanVoxel/TagStudio) - A file and photo management application and system.
+* 【2024-04-26】[whoeevee / EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) - A tweak to get Spotify Premium for free, just like Spotilife
+* 【2024-04-26】[mentalDetector / Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9](https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9) - Reverse engineering of the Quansheng UV-K5 V1.4 PCB in KiCad 7
+* 【2024-04-26】[Profluent-AI / OpenCRISPR](https://github.com/Profluent-AI/OpenCRISPR) - AI-generated gene editing systems
+* 【2024-04-26】[ml-explore / mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples) - Examples using MLX Swift
+* 【2024-04-26】[McGill-NLP / webllama](https://github.com/McGill-NLP/webllama) - Llama-3 agents that can browse the web by following instructions and talking to you
+* 【2024-04-26】[academic / awesome-datascience](https://github.com/academic/awesome-datascience) - 📝 An awesome Data Science repository to learn and apply for real world problems.
 * 【2024-04-25】[mztacat / Base](https://github.com/mztacat/Base) - 
 * 【2024-04-24】[ntdevlabs / tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 * 【2024-04-24】[CrazyBoyM / llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3 中文仓库（聚合资料：各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、部署教程视频 & 文档）
@@ -143,6 +151,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[jagrosh / MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 ## Go
 
+* 【2024-04-26】[filecoin-project / lotus](https://github.com/filecoin-project/lotus) - Reference implementation of the Filecoin protocol, written in Go
 * 【2024-04-25】[panjf2000 / gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 * 【2024-04-23】[amuluze / amprobe](https://github.com/amuluze/amprobe) - 轻量级主机及容器监控服务
 * 【2024-04-23】[aurorax-neo / free-gpt3.5-2api](https://github.com/aurorax-neo/free-gpt3.5-2api) - free chat gpt api
@@ -181,6 +190,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[plandex-ai / plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 ## Python
 
+* 【2024-04-26】[FareedKhan-dev / Detect-AI-text-Easily](https://github.com/FareedKhan-dev/Detect-AI-text-Easily) - Some words that LLM regularly uses
+* 【2024-04-26】[a1600012888 / PhysDreamer](https://github.com/a1600012888/PhysDreamer) - Code for PhysDreamer
+* 【2024-04-26】[yisol / IDM-VTON](https://github.com/yisol/IDM-VTON) - IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild
 * 【2024-04-25】[UnicomAI / Unichat-llama3-Chinese](https://github.com/UnicomAI/Unichat-llama3-Chinese) - 
 * 【2024-04-25】[lipku / metahuman-stream](https://github.com/lipku/metahuman-stream) - Real time streaming digital human based on nerf
 * 【2024-04-24】[haizelabs / llama3-jailbreak](https://github.com/haizelabs/llama3-jailbreak) - A trivial programmatic Llama 3 jailbreak. Sorry Zuck!
@@ -293,6 +305,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[decodingml / llm-twin-course](https://github.com/decodingml/llm-twin-course) - 🤖 LLM Twin FREE Course: Building Your Production-Ready AI Replica | An End-to-End Framework for Production-Ready LLM Systems by Building Your LLM Twin | WIP...
 ## Javascript
 
+* 【2024-04-26】[0xlau / biliplus](https://github.com/0xlau/biliplus) - 🧩 A Chrome/Edge extension to feel better in bilibili.com
+* 【2024-04-26】[ErickWendel / parallelizing-nodejs-ops](https://github.com/ErickWendel/parallelizing-nodejs-ops) - Example of how to Migrate 1M items from MongoDB to Postgres in just a few minutes using Node.js child process
 * 【2024-04-25】[catdad / canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
 * 【2024-04-25】[code-charity / youtube](https://github.com/code-charity/youtube) - [Top~1 open YouTube / Video Web-Extension] Enrich your experience & choice! 🧰100+ clever features📌set & forget📌Longest-standing (yet rare & tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|content discovery|player|extra buttons|distractions|related videos|shorts|ads|quality|codec|full tab|full screen}
 * 【2024-04-25】[apache / cordova-ios](https://github.com/apache/cordova-ios) - Apache Cordova iOS
@@ -436,6 +450,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[TranslucentTB / TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 ## Typescript
 
+* 【2024-04-26】[feiandxs / duckrush](https://github.com/feiandxs/duckrush) - A simple and fast backend API, based on Hono, that can search for relevant content on the internet using keywords and convert it into a format suitable for LLM processing. Supports deployment on Cloudflare.
 * 【2024-04-25】[Molunerfinn / PicGo](https://github.com/Molunerfinn/PicGo) - 🚀A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 * 【2024-04-24】[scalar / scalar](https://github.com/scalar/scalar) - Beautiful API references from OpenAPI/Swagger files ✨
 * 【2024-04-24】[coder-hxl / x-crawl](https://github.com/coder-hxl/x-crawl) - Flexible Node.js AI-assisted crawler library
