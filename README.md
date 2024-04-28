@@ -53,6 +53,11 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-04-28】[adam-maj / tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up
+* 【2024-04-28】[microsoft / MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
+* 【2024-04-28】[EricLBuehler / mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
+* 【2024-04-28】[KingsGambitLab / Lecture_Notes](https://github.com/KingsGambitLab/Lecture_Notes) - This repository is there to store the combined lecture notes of all the lectures. We are using markdown to write the lecture notes.
+* 【2024-04-28】[TheCod3rYouTube / PS5NorModifier](https://github.com/TheCod3rYouTube/PS5NorModifier) - The PS5 Nor Modifier is an easy to use Windows based application to rewrite your PS5 NOR file. This can be useful if your NOR is corrupt, or if you have a disc edition console that needs to be converted to digital in order to bypass the disc drive checks
 * 【2024-04-27】[apple / corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
 * 【2024-04-27】[SAWARATSUKI / ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) - ロゴを可愛く作ろう　節度を持って利用してくださいね🫠
 * 【2024-04-27】[cohere-ai / cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit) - Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications.
@@ -199,6 +204,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[plandex-ai / plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 ## Python
 
+* 【2024-04-28】[CrazyBoyM / phi3-Chinese](https://github.com/CrazyBoyM/phi3-Chinese) - Phi3 中文仓库
+* 【2024-04-28】[TagStudioDev / TagStudio](https://github.com/TagStudioDev/TagStudio) - A file and photo management application and system.
+* 【2024-04-28】[OWASP / OFFAT](https://github.com/OWASP/OFFAT) - The OWASP OFFAT tool autonomously assesses your API for prevalent vulnerabilities, though full compatibility with OAS v3 is pending. The project remains a work in progress, continuously evolving towards completion.
+* 【2024-04-28】[dcharatan / flowmap](https://github.com/dcharatan/flowmap) - Code for "FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent" by Cameron Smith*, David Charatan*, Ayush Tewari, and Vincent Sitzmann
 * 【2024-04-27】[Snowflake-Labs / snowflake-arctic](https://github.com/Snowflake-Labs/snowflake-arctic) - 
 * 【2024-04-27】[ssili126 / tv](https://github.com/ssili126/tv) - 自动收集的IPv4酒店电视直播源，自动测试播放速度，每日自动更新。 有CCTV央视卫视频道，及部分地方频道，播放流畅。也可在openwrt或群辉的docker运行。
 * 【2024-04-26】[FareedKhan-dev / Detect-AI-text-Easily](https://github.com/FareedKhan-dev/Detect-AI-text-Easily) - Some words that LLM regularly uses
@@ -374,6 +383,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[anticensority / runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) - Chromium extension for bypassing censorship in Russia
 ## C
 
+* 【2024-04-28】[KartKrewDev / RingRacers](https://github.com/KartKrewDev/RingRacers) - 
+* 【2024-04-28】[PhysicsDptAngers / polyUAnalog](https://github.com/PhysicsDptAngers/polyUAnalog) - Open source, analog and polyphonic synthesizer
 * 【2024-04-25】[OpenNJet / OpenNJet](https://github.com/OpenNJet/OpenNJet) - 
 * 【2024-04-25】[Recognito-Vision / Linux-FaceRecognition-FaceLivenessDetection](https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection) - NIST_FRVT Top 1🏆 Face Recognition, Liveness Detection(Face Anti-Spoof), Face Attribute Analysis Linux Server SDK Demo ☑️ Face Recognition ☑️ Face Liveness Detection ☑️ Face Attribute Analysis
 * 【2024-04-24】[luainkernel / lunatik](https://github.com/luainkernel/lunatik) - Lunatik is a framework for scripting the Linux kernel with Lua.
@@ -425,6 +436,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[dayanch96 / YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) - The best tweak for YouTube Music iOS.
 ## C++
 
+* 【2024-04-28】[turingmotors / swan](https://github.com/turingmotors/swan) - This project aims to enable language model inference on FPGAs, supporting AI applications in edge devices and environments with limited resources.
+* 【2024-04-28】[facebookexternal / nimble](https://github.com/facebookexternal/nimble) - New file format for storage of large columnar datasets.
+* 【2024-04-28】[prusa3d / Prusa-Firmware-ESP32-Cam](https://github.com/prusa3d/Prusa-Firmware-ESP32-Cam) - Firmware for ESP32 Cam modules to be used in Prusa Connect
 * 【2024-04-27】[microsoft / onnxruntime-genai](https://github.com/microsoft/onnxruntime-genai) - Generative AI extensions for onnxruntime
 * 【2024-04-25】[mansk1es / CVE-2024-21111](https://github.com/mansk1es/CVE-2024-21111) - Oracle VirtualBox Elevation of Privilege (Local Privilege Escalation) Vulnerability
 * 【2024-04-24】[SasaKaranovic / winfidel-sensor](https://github.com/SasaKaranovic/winfidel-sensor) - Wireless Inline Filament Diameter Estimator Low-cost Sensor
@@ -463,6 +477,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-04-01】[TranslucentTB / TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 ## Typescript
 
+* 【2024-04-28】[lrhh123 / ChatGPT-On-CS](https://github.com/lrhh123/ChatGPT-On-CS) - 基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
+* 【2024-04-28】[dubinc / oss-gallery](https://github.com/dubinc/oss-gallery) - A crowdsourced list of the best open-source projects on the internet. Built with the Dub.co API.
+* 【2024-04-28】[CapSoftware / Cap](https://github.com/CapSoftware/Cap) - Effortless, instant screen sharing. Open-source and cross-platform.
+* 【2024-04-28】[stayintarkov / SIT.Aki-Server-Mod](https://github.com/stayintarkov/SIT.Aki-Server-Mod) - A SPT-Aki mod to be used with SPT-Aki Server to allow the Coop Module to communicate with the SPT-Aki Server.
+* 【2024-04-28】[NangoHQ / nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
+* 【2024-04-28】[antvis / G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript.
 * 【2024-04-27】[cvat-ai / cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 * 【2024-04-27】[imsyy / DailyHotApi](https://github.com/imsyy/DailyHotApi) - 🔥 今日热榜 API，一个聚合热门数据的 API 接口，支持 Vercel 部署 | 前端页面：https://github.com/imsyy/DailyHot
 * 【2024-04-27】[surrealdb / surrealist](https://github.com/surrealdb/surrealist) - Surrealist is the ultimate way to visually manage your SurrealDB database
