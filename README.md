@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-05-05】[adrianhajdin / banking](https://github.com/adrianhajdin/banking) - Horizon is a modern banking platform for everyone.
+* 【2024-05-05】[verlab / accelerated_features](https://github.com/verlab/accelerated_features) - Do you need robust and fast local feature extraction? You are in the right place!
 * 【2024-05-04】[KindXiaoming / pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
 * 【2024-05-04】[GistNoesis / FourierKAN](https://github.com/GistNoesis/FourierKAN) - 
 * 【2024-05-04】[a-real-ai / pywinassistant](https://github.com/a-real-ai/pywinassistant) - The first open source Large Action Model generalist Artificial Narrow Intelligence that controls completely human user interfaces by only using natural language. PyWinAssistant utilizes Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models.
@@ -85,6 +87,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[module-federation / core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 ## Go
 
+* 【2024-05-05】[charmbracelet / wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 * 【2024-05-03】[ariga / atlas](https://github.com/ariga/atlas) - Manage your database schema as code
 * 【2024-05-02】[appleboy / gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
 * 【2024-05-02】[kaytu-io / kaytu](https://github.com/kaytu-io/kaytu) - The Kaytu CLI helps you save on cloud costs by finding the perfect server sizes. Kaytu analyzes historical usage and provides tailored recommendations, ensuring you only pay for the resources you need.
@@ -93,6 +96,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[spacemeshos / go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node. 💾⏰💪
 ## Python
 
+* 【2024-05-05】[pypa / pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
+* 【2024-05-05】[florestefano1975 / ComfyUI-HiDiffusion](https://github.com/florestefano1975/ComfyUI-HiDiffusion) - 
+* 【2024-05-05】[zgimszhd61 / prompt-collection-quickstart](https://github.com/zgimszhd61/prompt-collection-quickstart) - 
+* 【2024-05-05】[Nixtla / neuralforecast](https://github.com/Nixtla/neuralforecast) - Scalable and user friendly neural 🧠 forecasting algorithms.
+* 【2024-05-05】[quixio / quix-streams](https://github.com/quixio/quix-streams) - Quix Streams - A library for data streaming and Python Stream Processing
+* 【2024-05-05】[Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
+* 【2024-05-05】[SuperpoweredAI / spRAG](https://github.com/SuperpoweredAI/spRAG) - RAG framework for challenging queries over dense unstructured data
 * 【2024-05-04】[e2b-dev / code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for adding code interpreting to your AI app
 * 【2024-05-04】[dai-motoki / zoltraak](https://github.com/dai-motoki/zoltraak) - 
 * 【2024-05-04】[ToTheBeginning / PuLID](https://github.com/ToTheBeginning/PuLID) - Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment
@@ -113,6 +123,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[VinciGit00 / Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 ## Javascript
 
+* 【2024-05-05】[Pandasswap / PancakeswapBot](https://github.com/Pandasswap/PancakeswapBot) - PancakeSwap Prediction Bot
+* 【2024-05-05】[tencent-connect / bot-docs](https://github.com/tencent-connect/bot-docs) - QQ频道机器人文档
+* 【2024-05-05】[AbhishekSuresh2 / Phoenix-MD](https://github.com/AbhishekSuresh2/Phoenix-MD) - ℹ️ A Simple WhatsApp Bot With Advanced Features
 * 【2024-05-04】[jsdelivr / jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
 * 【2024-05-03】[IvanGlinkin / CCTV](https://github.com/IvanGlinkin/CCTV) - Close-Circuit Telegram Vision revolutionizes location tracking with its open-source design and Telegram API integration. Offering precise tracking within 50-100 meters, users can monitor others in real-time for logistics or safety, redefining how we navigate our surroundings
 * 【2024-05-03】[mouricedevs / Gifted-Md](https://github.com/mouricedevs/Gifted-Md) - Gifted Md is a Cool Multi-Device WhatsApp bot which offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
@@ -124,6 +137,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[appium / appium-inspector](https://github.com/appium/appium-inspector) - A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server
 ## C
 
+* 【2024-05-05】[tsalvo / wipeoutPD](https://github.com/tsalvo/wipeoutPD) - port of wipeout-rewrite to Playdate
+* 【2024-05-05】[danielchasehooper / ShapeUp-public](https://github.com/danielchasehooper/ShapeUp-public) - A 3D Modeler Made in a Week
 * 【2024-05-04】[EdgeTX / edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge open source firmware for your R/C radio
 * 【2024-05-04】[lizrice / learning-ebpf](https://github.com/lizrice/learning-ebpf) - Learning eBPF, published by O'Reilly - out now! Here's where you'll find a VM config for the examples, and more
 * 【2024-05-03】[cpldcpu / BitNetMCU](https://github.com/cpldcpu/BitNetMCU) - Neural Networks with low bit weights on a CH32V003 RISC-V Microcontroller without multiplication
@@ -135,6 +150,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[exploits-forsale / 24h2-nt-exploit](https://github.com/exploits-forsale/24h2-nt-exploit) - Exploit targeting NT kernel in 24H2 Windows Insider Preview
 ## C++
 
+* 【2024-05-05】[rondagayman307 / WhatsApp-Web-Spammer](https://github.com/rondagayman307/WhatsApp-Web-Spammer) - whatsapp web spammer 💥 spammer for whatsapp web 2024 latest update 💥 simple script to spam people on whatsapp web. whatsapp web spammer whatsapp spammer whatsapp message spammer whatsapp group spammer whatsapp web spammer whatsapp spammer whatsapp message spammer whatsapp group spammer whatsapp web spammer whatsapp spammer whatsap scripts tools
+* 【2024-05-05】[rubakloedeil10 / WarfaceHCK](https://github.com/rubakloedeil10/WarfaceHCK) - warface warface-cheat warface-cheats warface-aim warface-aimbot warface-hack warface-hacks warface-esp warface-wallhack warface-wh warface-softaim cheat-warface cheats-warface hack-warface hacks-warface warface-free-hack warface-hack-aim warface-legit warface-rage-download-free-warface-speedbot-warface-2024-best-cheats-warface-mod-menu-skin-changer
+* 【2024-05-05】[rothdezlife34 / PointBlankHCK](https://github.com/rothdezlife34/PointBlankHCK) - point-blank point-blank-cheat point-blank-cheats point-blank-aim point-blank-aimbot point-blank-hack point-blank-hacks point-blank-esp point-blank-wallhack point-blank-wh point-blank-softaim cheat-point-blank cheats-point-blank hack-point-blank hacks-point-blank point-blank-free-hack point-blank-hack-aim point-blank-legit point-blank-rage-download
+* 【2024-05-05】[rondaundefinedyard / worldoftanksHCK](https://github.com/rondaundefinedyard/worldoftanksHCK) - wot-cheat wot-cheats wot-aim wot-aimbot wot-hack wot-hacks wot-esp wot-wallhack wot-wh cheat-wot cheats-wot world of tanks-cheat world of tanks-cheats world of tanks-aim world of tanks-aimbot world of tanks-hack world of tanks-hacks world of tanks-wallhack world of tanks-wh cheat-world of tanks hacks-world of tanks world of tanks-hack-aim
 * 【2024-05-04】[tildearrow / furnace](https://github.com/tildearrow/furnace) - a multi-system chiptune tracker compatible with DefleMask modules
 * 【2024-05-03】[userver-framework / userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framework with rich functionality
 * 【2024-05-03】[open-navigation / navigation2](https://github.com/open-navigation/navigation2) - ROS 2 Navigation Framework and System
@@ -145,6 +164,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[tstack / lnav](https://github.com/tstack/lnav) - Log file navigator
 ## Typescript
 
+* 【2024-05-05】[lmstudio-ai / lms](https://github.com/lmstudio-ai/lms) - LM Studio in your terminal
 * 【2024-05-04】[openai / openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js.
 * 【2024-05-04】[cometchat / cometchat-sample-app-react](https://github.com/cometchat/cometchat-sample-app-react) - Voice & Video Calling and Text Chat App for React (JavaScript/Web)
 * 【2024-05-04】[github-early-access / generate-build-provenance](https://github.com/github-early-access/generate-build-provenance) - Publish a signed build provenance from your GitHub Actions workflow
