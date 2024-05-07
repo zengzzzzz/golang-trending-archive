@@ -53,6 +53,9 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-05-07】[dev-xo / remix-saas](https://github.com/dev-xo/remix-saas) - A Lightweight, Production-Ready Remix Stack for your next SaaS Application.
+* 【2024-05-07】[abi / secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
+* 【2024-05-07】[lencx / ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 * 【2024-05-06】[xM4ddy / OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Removes Ads From Various Places Around Windows 11
 * 【2024-05-06】[Blealtan / efficient-kan](https://github.com/Blealtan/efficient-kan) - An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).
 * 【2024-05-06】[solana-labs / solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
@@ -94,6 +97,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[module-federation / core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 ## Go
 
+* 【2024-05-07】[zhangdi168 / VitePressSimple](https://github.com/zhangdi168/VitePressSimple) - VitePress Visual Configuration Tool
+* 【2024-05-07】[kat-co / concurrency-in-go-src](https://github.com/kat-co/concurrency-in-go-src) - Full sourcecode for the book, "Concurrency in Go" published by O'Reilly.
+* 【2024-05-07】[mauricioabreu / golings](https://github.com/mauricioabreu/golings) - rustlings but for golang this time
+* 【2024-05-07】[filecoin-project / venus](https://github.com/filecoin-project/venus) - Filecoin Full Node Implementation in Go
+* 【2024-05-07】[NVIDIA / nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-container-toolkit) - Build and run containers leveraging NVIDIA GPUs
 * 【2024-05-06】[missuo / FreeDuckDuckGo](https://github.com/missuo/FreeDuckDuckGo) - Use DuckDuckGo for free with GPT-3.5-Turbo.
 * 【2024-05-05】[charmbracelet / wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 * 【2024-05-03】[ariga / atlas](https://github.com/ariga/atlas) - Manage your database schema as code
@@ -104,6 +112,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[spacemeshos / go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node. 💾⏰💪
 ## Python
 
+* 【2024-05-07】[judahpaul16 / gpt-home](https://github.com/judahpaul16/gpt-home) - ChatGPT at home! Basically a better Google Nest Hub or Amazon Alexa home assistant. Built on the Raspberry Pi using the OpenAI API.
+* 【2024-05-07】[Efficient-Large-Model / VILA](https://github.com/Efficient-Large-Model/VILA) - VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)
 * 【2024-05-06】[eureka-research / DrEureka](https://github.com/eureka-research/DrEureka) - 
 * 【2024-05-06】[karpathy / makemore](https://github.com/karpathy/makemore) - An autoregressive character-level language model for making more things
 * 【2024-05-06】[edgedb / edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
@@ -156,6 +166,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[appium / appium-inspector](https://github.com/appium/appium-inspector) - A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server
 ## C
 
+* 【2024-05-07】[LumaTeam / Luma3DS](https://github.com/LumaTeam/Luma3DS) - Nintendo 3DS "Custom Firmware"
 * 【2024-05-06】[asg017 / sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere.
 * 【2024-05-06】[WillPower3309 / swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
 * 【2024-05-05】[tsalvo / wipeoutPD](https://github.com/tsalvo/wipeoutPD) - port of wipeout-rewrite to Playdate
@@ -171,6 +182,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[exploits-forsale / 24h2-nt-exploit](https://github.com/exploits-forsale/24h2-nt-exploit) - Exploit targeting NT kernel in 24H2 Windows Insider Preview
 ## C++
 
+* 【2024-05-07】[zcash / zcash](https://github.com/zcash/zcash) - Zcash - Internet Money
+* 【2024-05-07】[litucks / torzu](https://github.com/litucks/torzu) - Yet another Yuzu fork
 * 【2024-05-05】[rondagayman307 / WhatsApp-Web-Spammer](https://github.com/rondagayman307/WhatsApp-Web-Spammer) - whatsapp web spammer 💥 spammer for whatsapp web 2024 latest update 💥 simple script to spam people on whatsapp web. whatsapp web spammer whatsapp spammer whatsapp message spammer whatsapp group spammer whatsapp web spammer whatsapp spammer whatsapp message spammer whatsapp group spammer whatsapp web spammer whatsapp spammer whatsap scripts tools
 * 【2024-05-05】[rubakloedeil10 / WarfaceHCK](https://github.com/rubakloedeil10/WarfaceHCK) - warface warface-cheat warface-cheats warface-aim warface-aimbot warface-hack warface-hacks warface-esp warface-wallhack warface-wh warface-softaim cheat-warface cheats-warface hack-warface hacks-warface warface-free-hack warface-hack-aim warface-legit warface-rage-download-free-warface-speedbot-warface-2024-best-cheats-warface-mod-menu-skin-changer
 * 【2024-05-05】[rothdezlife34 / PointBlankHCK](https://github.com/rothdezlife34/PointBlankHCK) - point-blank point-blank-cheat point-blank-cheats point-blank-aim point-blank-aimbot point-blank-hack point-blank-hacks point-blank-esp point-blank-wallhack point-blank-wh point-blank-softaim cheat-point-blank cheats-point-blank hack-point-blank hacks-point-blank point-blank-free-hack point-blank-hack-aim point-blank-legit point-blank-rage-download
@@ -185,6 +198,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[tstack / lnav](https://github.com/tstack/lnav) - Log file navigator
 ## Typescript
 
+* 【2024-05-07】[AtotheY / saas-landingpage](https://github.com/AtotheY/saas-landingpage) - https://map.sistilli.dev/public/coding/SaaS+Boilerplate
 * 【2024-05-06】[bepass-org / oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - unofficial desktop version of oblivion
 * 【2024-05-06】[RSSNext / follow](https://github.com/RSSNext/follow) - [WIP] Next generation information browser
 * 【2024-05-06】[danmindru / page-ui](https://github.com/danmindru/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
