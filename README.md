@@ -53,6 +53,11 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-05-09】[huggingface / lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: State-of-the-art Machine Learning for Real-World Robotics in Pytorch
+* 【2024-05-09】[hbb1 / 2d-gaussian-splatting](https://github.com/hbb1/2d-gaussian-splatting) - [SIGGRAPH'24] 2D Gaussian Splatting for Geometrically Accurate Radiance Fields
+* 【2024-05-09】[IcarusRyy / NewJob](https://github.com/IcarusRyy/NewJob) - 一眼看出该职位最后修改时间，绿色为2周之内，暗橙色为1.5个月之内，红色为1.5个月以上
+* 【2024-05-09】[DataTalksClub / mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) - Free MLOps course from DataTalks.Club
+* 【2024-05-09】[Sh4yy / personal-ai](https://github.com/Sh4yy/personal-ai) - 
 * 【2024-05-08】[tangzhiyao / boss-show-time](https://github.com/tangzhiyao/boss-show-time) - 展示boss直聘岗位的发布时间
 * 【2024-05-08】[apache / dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
 * 【2024-05-08】[ca110us / epeius](https://github.com/ca110us/epeius) - Deploy Trojan using a Serverless approach
@@ -101,6 +106,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[module-federation / core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 ## Go
 
+* 【2024-05-09】[PeerDB-io / peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage
 * 【2024-05-08】[minio / minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage
 * 【2024-05-07】[zhangdi168 / VitePressSimple](https://github.com/zhangdi168/VitePressSimple) - VitePress Visual Configuration Tool
 * 【2024-05-07】[kat-co / concurrency-in-go-src](https://github.com/kat-co/concurrency-in-go-src) - Full sourcecode for the book, "Concurrency in Go" published by O'Reilly.
@@ -117,6 +123,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[spacemeshos / go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node. 💾⏰💪
 ## Python
 
+* 【2024-05-09】[Kroery / DiffMOT](https://github.com/Kroery/DiffMOT) - code for CVPR2024 paper: DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction
+* 【2024-05-09】[instructlab / instructlab](https://github.com/instructlab/instructlab) - Command-line interface. Use this to chat with the model or train the model (training consumes the taxonomy data)
 * 【2024-05-08】[NVlabs / RADIO](https://github.com/NVlabs/RADIO) - Official repository for "AM-RADIO: Reduce All Domains Into One"
 * 【2024-05-08】[dmunozv04 / iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
 * 【2024-05-08】[RevoltSecurities / Subdominator](https://github.com/RevoltSecurities/Subdominator) - SubDominator helps you discover subdomains associated with a target domain efficiently and with minimal impact for your Bug Bounty
@@ -157,6 +165,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[VinciGit00 / Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 ## Javascript
 
+* 【2024-05-09】[heyseth / worm-sim](https://github.com/heyseth/worm-sim) - Simulate the C. Elegans worm brain in your browser and interact with the worm as it moves around
+* 【2024-05-09】[Admiral-Billy / Pokerogue-App](https://github.com/Admiral-Billy/Pokerogue-App) - An app to play Pokerogue.net in an app window. Wow!
 * 【2024-05-06】[Astropeda / Asta-Md](https://github.com/Astropeda/Asta-Md) - ᴀ sɪᴍᴘʟᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀsᴛʀᴏᴘᴇᴅᴀ ᴛᴇᴀᴍ
 * 【2024-05-06】[automatisch / automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 * 【2024-05-06】[ibrahimaitech / IBRAHIM-AI-10.10](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10) - BMW MD the faster bot that can do any thing in seconds,Trending Wabot
@@ -174,6 +184,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[appium / appium-inspector](https://github.com/appium/appium-inspector) - A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server
 ## C
 
+* 【2024-05-09】[dcfsswindy / oled-ui-astra](https://github.com/dcfsswindy/oled-ui-astra) - A smooth, easy-to-deploy, and easy-to-extend OLED UI framework, based on C++.
 * 【2024-05-07】[LumaTeam / Luma3DS](https://github.com/LumaTeam/Luma3DS) - Nintendo 3DS "Custom Firmware"
 * 【2024-05-06】[asg017 / sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere.
 * 【2024-05-06】[WillPower3309 / swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
@@ -190,6 +201,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[exploits-forsale / 24h2-nt-exploit](https://github.com/exploits-forsale/24h2-nt-exploit) - Exploit targeting NT kernel in 24H2 Windows Insider Preview
 ## C++
 
+* 【2024-05-09】[baconpaul / airwin2rack](https://github.com/baconpaul/airwin2rack) - Airwindows, Consolidated into a single Library, Rack Plugin and DAW Plugin
 * 【2024-05-08】[dillo-browser / dillo](https://github.com/dillo-browser/dillo) - Dillo, a multi-platform graphical web browser
 * 【2024-05-08】[BYVoid / OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
 * 【2024-05-07】[zcash / zcash](https://github.com/zcash/zcash) - Zcash - Internet Money
@@ -208,6 +220,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[tstack / lnav](https://github.com/tstack/lnav) - Log file navigator
 ## Typescript
 
+* 【2024-05-09】[ali-bouali / book-social-network](https://github.com/ali-bouali/book-social-network) - BSN is a social network platform to exchange books between the members.
 * 【2024-05-08】[joschan21 / casecobra](https://github.com/joschan21/casecobra) - A Modern E-Commerce-Store for Custom Phone Cases
 * 【2024-05-07】[AtotheY / saas-landingpage](https://github.com/AtotheY/saas-landingpage) - https://map.sistilli.dev/public/coding/SaaS+Boilerplate
 * 【2024-05-06】[bepass-org / oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - unofficial desktop version of oblivion
