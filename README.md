@@ -53,6 +53,10 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-05-11】[lllyasviel / IC-Light](https://github.com/lllyasviel/IC-Light) - More relighting!
+* 【2024-05-11】[sophiajt / june](https://github.com/sophiajt/june) - 
+* 【2024-05-11】[SAWARATSUKI / KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) - 
+* 【2024-05-11】[CodingChallengesFYI / SharedSolutions](https://github.com/CodingChallengesFYI/SharedSolutions) - Publicly shared solutions to Coding Challenges
 * 【2024-05-10】[phenaproxima / starshot-prototype](https://github.com/phenaproxima/starshot-prototype) - Prototype of a new kind of Drupal, based on recipes and loaded up with contrib's best modules and themes. Not a fork or a distribution.
 * 【2024-05-10】[FunkinCrew / Funkin](https://github.com/FunkinCrew/Funkin) - A rhythm game made with HaxeFlixel
 * 【2024-05-10】[AdityaNG / kan-gpt](https://github.com/AdityaNG/kan-gpt) - The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling
@@ -111,6 +115,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[module-federation / core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 ## Go
 
+* 【2024-05-11】[intigriti / misconfig-mapper](https://github.com/intigriti/misconfig-mapper) - Misconfig Mapper is a fast tool to help you uncover security misconfigurations on popular third-party services used by your company and/or bug bounty targets!
+* 【2024-05-11】[kubeflow / spark-operator](https://github.com/kubeflow/spark-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
+* 【2024-05-11】[context-labs / mactop](https://github.com/context-labs/mactop) - mactop - Apple Silicon Monitor Top written in pure Go Lang! Under 1,000 lines of code.
+* 【2024-05-11】[go-delve / delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
+* 【2024-05-11】[aurora-develop / Duck2api](https://github.com/aurora-develop/Duck2api) - 
+* 【2024-05-11】[twmb / franz-go](https://github.com/twmb/franz-go) - franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.6+. Producing, consuming, transacting, administrating, etc.
 * 【2024-05-09】[PeerDB-io / peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage
 * 【2024-05-08】[minio / minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage
 * 【2024-05-07】[zhangdi168 / VitePressSimple](https://github.com/zhangdi168/VitePressSimple) - VitePress Visual Configuration Tool
@@ -128,6 +138,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[spacemeshos / go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node. 💾⏰💪
 ## Python
 
+* 【2024-05-11】[google-research / timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+* 【2024-05-11】[JaveleyQAQ / WeChatOpenDevTools-Python](https://github.com/JaveleyQAQ/WeChatOpenDevTools-Python) - WeChatOpenDevTool 微信小程序强制开启开发者工具
+* 【2024-05-11】[vocodedev / vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
 * 【2024-05-10】[mouredev / hello-git](https://github.com/mouredev/hello-git) - Curso para aprender a trabajar con el sistema de control de versiones Git y la plataforma GitHub desde cero y para principiantes. Elaborado durante las emisiones en directo desde Twitch de MoureDev.
 * 【2024-05-09】[Kroery / DiffMOT](https://github.com/Kroery/DiffMOT) - code for CVPR2024 paper: DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction
 * 【2024-05-09】[instructlab / instructlab](https://github.com/instructlab/instructlab) - Command-line interface. Use this to chat with the model or train the model (training consumes the taxonomy data)
@@ -171,6 +184,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[VinciGit00 / Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 ## Javascript
 
+* 【2024-05-11】[react-grid-layout / react-draggable](https://github.com/react-grid-layout/react-draggable) - React draggable component
 * 【2024-05-10】[said7388 / github-portfolio](https://github.com/said7388/github-portfolio) - Create a Portfolio Website using your GitHub username. This website template is constructed with next.js and tailwind CSS, allowing you to display your work and skills as a software developer.
 * 【2024-05-10】[taikoxyz / operations](https://github.com/taikoxyz/operations) - Operations related scripts
 * 【2024-05-10】[yonggekkk / Cloudflare_vless_trojan](https://github.com/yonggekkk/Cloudflare_vless_trojan) - Cloudflare代理脚本，支持workers与pages两种形式部署，实现Vless与Trojan两种协议。CF优选域名、优选官方IP反代IP多平台一键脚本
@@ -211,6 +225,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[exploits-forsale / 24h2-nt-exploit](https://github.com/exploits-forsale/24h2-nt-exploit) - Exploit targeting NT kernel in 24H2 Windows Insider Preview
 ## C++
 
+* 【2024-05-11】[svenundefinedshire / Wallet-stealer](https://github.com/svenundefinedshire/Wallet-stealer) - Wallet Stealer Software 🔥 Steal Pass Phrases of Trust Wallet and Metamask Wallets! Bitcoin Mining, Ethereum, BNB, LTC. Brute Force 12 Word Secret Phrase. Blockchain python windows brute-force wallet btc eth metamask bruteforce-attacks wallet-generator stealer trustwallet seed-phrase bscscan wallet-stealer solana-stealer crypto-stealer-scripts
 * 【2024-05-10】[lilipads / gradient_descent_viz](https://github.com/lilipads/gradient_descent_viz) - interactive visualization of 5 popular gradient descent methods with step-by-step illustration and hyperparameter tuning UI
 * 【2024-05-09】[baconpaul / airwin2rack](https://github.com/baconpaul/airwin2rack) - Airwindows, Consolidated into a single Library, Rack Plugin and DAW Plugin
 * 【2024-05-08】[dillo-browser / dillo](https://github.com/dillo-browser/dillo) - Dillo, a multi-platform graphical web browser
@@ -231,6 +246,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[tstack / lnav](https://github.com/tstack/lnav) - Log file navigator
 ## Typescript
 
+* 【2024-05-11】[wojtekmaj / react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
+* 【2024-05-11】[noahgsolomon / brainrot.js](https://github.com/noahgsolomon/brainrot.js) - Learn about any topic in video form from your favorite personalities
+* 【2024-05-11】[SOS-RS / backend](https://github.com/SOS-RS/backend) - Auxílio RS: Projetos de Resposta a Emergências por Chuvas e Alagamentos
+* 【2024-05-11】[cs-lazy-tools / ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS) - 基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
+* 【2024-05-11】[lyc8503 / UptimeFlare](https://github.com/lyc8503/UptimeFlare) - 📈 Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 * 【2024-05-10】[caprover / caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 * 【2024-05-09】[ali-bouali / book-social-network](https://github.com/ali-bouali/book-social-network) - BSN is a social network platform to exchange books between the members.
 * 【2024-05-08】[joschan21 / casecobra](https://github.com/joschan21/casecobra) - A Modern E-Commerce-Store for Custom Phone Cases
