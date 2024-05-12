@@ -53,6 +53,14 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-05-12】[w3laba / CoinMarketCap-Trending](https://github.com/w3laba/CoinMarketCap-Trending) - CoinMarketCap (CMC) Trending | CMC, Coingecko, Dexscreener, Dextools Trending services
+* 【2024-05-12】[SOS-RS / frontend](https://github.com/SOS-RS/frontend) - 
+* 【2024-05-12】[w3laba / DexScreener-Trending](https://github.com/w3laba/DexScreener-Trending) - DexScreener Trending | CMC, Coingecko, Dexscreener, Dextools Trending services
+* 【2024-05-12】[kyegomez / AlphaFold3](https://github.com/kyegomez/AlphaFold3) - Implementation of Alpha Fold 3 from the paper: "Accurate structure prediction of biomolecular interactions with AlphaFold3" in PyTorch
+* 【2024-05-12】[stooged / PI-Pwn](https://github.com/stooged/PI-Pwn) - pppwn
+* 【2024-05-12】[glanceapp / glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+* 【2024-05-12】[mintisan / awesome-kan](https://github.com/mintisan/awesome-kan) - A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.
+* 【2024-05-12】[cisagov / vulnrichment](https://github.com/cisagov/vulnrichment) - A repo to conduct vulnerability enrichment.
 * 【2024-05-11】[lllyasviel / IC-Light](https://github.com/lllyasviel/IC-Light) - More relighting!
 * 【2024-05-11】[sophiajt / june](https://github.com/sophiajt/june) - 
 * 【2024-05-11】[SAWARATSUKI / KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) - 
@@ -115,6 +123,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[module-federation / core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 ## Go
 
+* 【2024-05-12】[supabase / auth](https://github.com/supabase/auth) - A JWT based API for managing users and issuing JWT tokens
 * 【2024-05-11】[intigriti / misconfig-mapper](https://github.com/intigriti/misconfig-mapper) - Misconfig Mapper is a fast tool to help you uncover security misconfigurations on popular third-party services used by your company and/or bug bounty targets!
 * 【2024-05-11】[kubeflow / spark-operator](https://github.com/kubeflow/spark-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
 * 【2024-05-11】[context-labs / mactop](https://github.com/context-labs/mactop) - mactop - Apple Silicon Monitor Top written in pure Go Lang! Under 1,000 lines of code.
@@ -138,6 +147,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[spacemeshos / go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node. 💾⏰💪
 ## Python
 
+* 【2024-05-12】[jgravelle / AutoGroq](https://github.com/jgravelle/AutoGroq) - 
+* 【2024-05-12】[IAHispano / Applio](https://github.com/IAHispano/Applio) - VITS-based Voice Conversion focused on simplicity, quality and performance.
+* 【2024-05-12】[mustafaaljadery / gemma-2B-10M](https://github.com/mustafaaljadery/gemma-2B-10M) - Gemma 2B with 10M context length using Infini-attention.
 * 【2024-05-11】[google-research / timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
 * 【2024-05-11】[JaveleyQAQ / WeChatOpenDevTools-Python](https://github.com/JaveleyQAQ/WeChatOpenDevTools-Python) - WeChatOpenDevTool 微信小程序强制开启开发者工具
 * 【2024-05-11】[vocodedev / vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
@@ -208,6 +220,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[appium / appium-inspector](https://github.com/appium/appium-inspector) - A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server
 ## C
 
+* 【2024-05-12】[Hirrolot / datatype99](https://github.com/Hirrolot/datatype99) - Algebraic data types for C99
+* 【2024-05-12】[B-Dem / PPPwnUI](https://github.com/B-Dem/PPPwnUI) - PPPwnUI is a program that adds an UI to the exploit PPPwn created by TheFlow.
 * 【2024-05-09】[dcfsswindy / oled-ui-astra](https://github.com/dcfsswindy/oled-ui-astra) - A smooth, easy-to-deploy, and easy-to-extend OLED UI framework, based on C++.
 * 【2024-05-07】[LumaTeam / Luma3DS](https://github.com/LumaTeam/Luma3DS) - Nintendo 3DS "Custom Firmware"
 * 【2024-05-06】[asg017 / sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere.
