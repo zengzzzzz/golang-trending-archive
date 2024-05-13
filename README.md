@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-05-13】[Cry1ngMan / 1](https://github.com/Cry1ngMan/1) - 手机往下滑 ❤️ 定期更新 ❤️ 免费/白嫖/公益/节点/机场/订阅/vpn/翻墙
+* 【2024-05-13】[xfangfang / PPPwn_cpp](https://github.com/xfangfang/PPPwn_cpp) - C++ rewrite of PPPwn (PlayStation 4 PPPoE RCE)
 * 【2024-05-12】[w3laba / CoinMarketCap-Trending](https://github.com/w3laba/CoinMarketCap-Trending) - CoinMarketCap (CMC) Trending | CMC, Coingecko, Dexscreener, Dextools Trending services
 * 【2024-05-12】[SOS-RS / frontend](https://github.com/SOS-RS/frontend) - 
 * 【2024-05-12】[w3laba / DexScreener-Trending](https://github.com/w3laba/DexScreener-Trending) - DexScreener Trending | CMC, Coingecko, Dexscreener, Dextools Trending services
@@ -123,6 +125,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[module-federation / core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 ## Go
 
+* 【2024-05-13】[MHNightCat / superfile](https://github.com/MHNightCat/superfile) - Pretty fancy and modern terminal file manager
 * 【2024-05-12】[supabase / auth](https://github.com/supabase/auth) - A JWT based API for managing users and issuing JWT tokens
 * 【2024-05-11】[intigriti / misconfig-mapper](https://github.com/intigriti/misconfig-mapper) - Misconfig Mapper is a fast tool to help you uncover security misconfigurations on popular third-party services used by your company and/or bug bounty targets!
 * 【2024-05-11】[kubeflow / spark-operator](https://github.com/kubeflow/spark-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
@@ -147,6 +150,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[spacemeshos / go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node. 💾⏰💪
 ## Python
 
+* 【2024-05-13】[sol3dev / SOL-shitcoinbot](https://github.com/sol3dev/SOL-shitcoinbot) - Solana-shitcoinbot! Solana-bot Meme token bots. autotrade, sniper bot, raydium bot, jupiter bot, solana sniper bot, autorade bot, trade bot
+* 【2024-05-13】[modelscope / agentscope](https://github.com/modelscope/agentscope) - Start building LLM-empowered multi-agent applications in an easier way.
+* 【2024-05-13】[Alpha-VLLM / Lumina-T2X](https://github.com/Alpha-VLLM/Lumina-T2X) - Lumina-T2X is a unified framework for Text to Any Modality Generation
 * 【2024-05-12】[jgravelle / AutoGroq](https://github.com/jgravelle/AutoGroq) - 
 * 【2024-05-12】[IAHispano / Applio](https://github.com/IAHispano/Applio) - VITS-based Voice Conversion focused on simplicity, quality and performance.
 * 【2024-05-12】[mustafaaljadery / gemma-2B-10M](https://github.com/mustafaaljadery/gemma-2B-10M) - Gemma 2B with 10M context length using Infini-attention.
@@ -196,6 +202,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[VinciGit00 / Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 ## Javascript
 
+* 【2024-05-13】[kunjgit / GameZone](https://github.com/kunjgit/GameZone) - This open source repository contains collection of games build on basic tech stacks in web development . Use your creativity and build your own game and contribute to the repository by making PR 🎮
+* 【2024-05-13】[swapnilsparsh / 30DaysOfJavaScript](https://github.com/swapnilsparsh/30DaysOfJavaScript) - Projects made during the 30 days of the JavaScript challenge
+* 【2024-05-13】[hugeicons / hugeicons-react](https://github.com/hugeicons/hugeicons-react) - Boost your UI with Hugeicons React Icons. 3,800+ free customizable stroke icons for sleek web development and design projects. An open-source react icon library tailored for React.
+* 【2024-05-13】[x0tools / WeChatOpenDevTools](https://github.com/x0tools/WeChatOpenDevTools) - 
+* 【2024-05-13】[buxuku / VideoSubtitleGenerator](https://github.com/buxuku/VideoSubtitleGenerator) - 批量为本地视频生成字幕文件，并可将字幕文件翻译成其它语言
+* 【2024-05-13】[Rectify11 / Installer](https://github.com/Rectify11/Installer) - A Windows 11 modification which makes it more consistent.
+* 【2024-05-13】[ibrahimaitech / BLACK-PANTHER-XMD](https://github.com/ibrahimaitech/BLACK-PANTHER-XMD) - Black panther md is the fastest wabot that helps WhatsApp users to enjoy smooth life
 * 【2024-05-11】[react-grid-layout / react-draggable](https://github.com/react-grid-layout/react-draggable) - React draggable component
 * 【2024-05-10】[said7388 / github-portfolio](https://github.com/said7388/github-portfolio) - Create a Portfolio Website using your GitHub username. This website template is constructed with next.js and tailwind CSS, allowing you to display your work and skills as a software developer.
 * 【2024-05-10】[taikoxyz / operations](https://github.com/taikoxyz/operations) - Operations related scripts
@@ -239,6 +252,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[exploits-forsale / 24h2-nt-exploit](https://github.com/exploits-forsale/24h2-nt-exploit) - Exploit targeting NT kernel in 24H2 Windows Insider Preview
 ## C++
 
+* 【2024-05-13】[Mr-Wiseguy / Zelda64Recomp](https://github.com/Mr-Wiseguy/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux)
+* 【2024-05-13】[Mr-Wiseguy / N64Recomp](https://github.com/Mr-Wiseguy/N64Recomp) - Tool to statically recompile N64 games into native executables
+* 【2024-05-13】[PolyhedraZK / Expander](https://github.com/PolyhedraZK/Expander) - Expander, an open-source GKR prover designed for scaling large-scale parallel computing.
 * 【2024-05-11】[svenundefinedshire / Wallet-stealer](https://github.com/svenundefinedshire/Wallet-stealer) - Wallet Stealer Software 🔥 Steal Pass Phrases of Trust Wallet and Metamask Wallets! Bitcoin Mining, Ethereum, BNB, LTC. Brute Force 12 Word Secret Phrase. Blockchain python windows brute-force wallet btc eth metamask bruteforce-attacks wallet-generator stealer trustwallet seed-phrase bscscan wallet-stealer solana-stealer crypto-stealer-scripts
 * 【2024-05-10】[lilipads / gradient_descent_viz](https://github.com/lilipads/gradient_descent_viz) - interactive visualization of 5 popular gradient descent methods with step-by-step illustration and hyperparameter tuning UI
 * 【2024-05-09】[baconpaul / airwin2rack](https://github.com/baconpaul/airwin2rack) - Airwindows, Consolidated into a single Library, Rack Plugin and DAW Plugin
@@ -260,6 +276,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[tstack / lnav](https://github.com/tstack/lnav) - Log file navigator
 ## Typescript
 
+* 【2024-05-13】[yuchanns / warpflare](https://github.com/yuchanns/warpflare) - Keep your WARP+ traffic topped up with Cloudflare Workers.
 * 【2024-05-11】[wojtekmaj / react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
 * 【2024-05-11】[noahgsolomon / brainrot.js](https://github.com/noahgsolomon/brainrot.js) - Learn about any topic in video form from your favorite personalities
 * 【2024-05-11】[SOS-RS / backend](https://github.com/SOS-RS/backend) - Auxílio RS: Projetos de Resposta a Emergências por Chuvas e Alagamentos
