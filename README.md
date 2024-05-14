@@ -53,6 +53,10 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-05-14】[rt64 / rt64](https://github.com/rt64/rt64) - RT64 is an N64 graphics renderer for playing with enhancements in emulators and native ports.
+* 【2024-05-14】[linyiLYi / bilibot](https://github.com/linyiLYi/bilibot) - A local chatbot fine-tuned by bilibili user comments.
+* 【2024-05-14】[X-LANCE / AniTalker](https://github.com/X-LANCE/AniTalker) - 
+* 【2024-05-14】[Mega-Gorilla / Index_PDF_Translation](https://github.com/Mega-Gorilla/Index_PDF_Translation) - 
 * 【2024-05-13】[Cry1ngMan / 1](https://github.com/Cry1ngMan/1) - 手机往下滑 ❤️ 定期更新 ❤️ 免费/白嫖/公益/节点/机场/订阅/vpn/翻墙
 * 【2024-05-13】[xfangfang / PPPwn_cpp](https://github.com/xfangfang/PPPwn_cpp) - C++ rewrite of PPPwn (PlayStation 4 PPPoE RCE)
 * 【2024-05-12】[w3laba / CoinMarketCap-Trending](https://github.com/w3laba/CoinMarketCap-Trending) - CoinMarketCap (CMC) Trending | CMC, Coingecko, Dexscreener, Dextools Trending services
@@ -125,6 +129,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[module-federation / core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 ## Go
 
+* 【2024-05-14】[fdx-xdf / darkPulse](https://github.com/fdx-xdf/darkPulse) - darkPulse是一个用go编写的shellcode Packer，用于生成各种各样的shellcode loader，目前免杀火绒，360，360核晶。
+* 【2024-05-14】[NHAS / wag](https://github.com/NHAS/wag) - Simple Wireguard 2FA
 * 【2024-05-13】[MHNightCat / superfile](https://github.com/MHNightCat/superfile) - Pretty fancy and modern terminal file manager
 * 【2024-05-12】[supabase / auth](https://github.com/supabase/auth) - A JWT based API for managing users and issuing JWT tokens
 * 【2024-05-11】[intigriti / misconfig-mapper](https://github.com/intigriti/misconfig-mapper) - Misconfig Mapper is a fast tool to help you uncover security misconfigurations on popular third-party services used by your company and/or bug bounty targets!
@@ -150,6 +156,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[spacemeshos / go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node. 💾⏰💪
 ## Python
 
+* 【2024-05-14】[alibaba-damo-academy / FunClip](https://github.com/alibaba-damo-academy/FunClip) - Open-source, accurate and easy-to-use video clipping tool | 开源、精准、方便的视频切片工具
+* 【2024-05-14】[multimodal-art-projection / MAP-NEO](https://github.com/multimodal-art-projection/MAP-NEO) - 
+* 【2024-05-14】[LLaVA-VL / LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT) - 
+* 【2024-05-14】[OS-Copilot / OS-Copilot](https://github.com/OS-Copilot/OS-Copilot) - An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks.
 * 【2024-05-13】[sol3dev / SOL-shitcoinbot](https://github.com/sol3dev/SOL-shitcoinbot) - Solana-shitcoinbot! Solana-bot Meme token bots. autotrade, sniper bot, raydium bot, jupiter bot, solana sniper bot, autorade bot, trade bot
 * 【2024-05-13】[modelscope / agentscope](https://github.com/modelscope/agentscope) - Start building LLM-empowered multi-agent applications in an easier way.
 * 【2024-05-13】[Alpha-VLLM / Lumina-T2X](https://github.com/Alpha-VLLM/Lumina-T2X) - Lumina-T2X is a unified framework for Text to Any Modality Generation
@@ -202,6 +212,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[VinciGit00 / Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 ## Javascript
 
+* 【2024-05-14】[Dev-tanay / Rubik-Cube](https://github.com/Dev-tanay/Rubik-Cube) - Rubik Cube
+* 【2024-05-14】[Omkar-Sonawane-23 / Maa-Vimala](https://github.com/Omkar-Sonawane-23/Maa-Vimala) - 
+* 【2024-05-14】[GameSphere-MultiPlayer / Dot-Box](https://github.com/GameSphere-MultiPlayer/Dot-Box) - Dot-Box is a game where players take turns drawing lines between dots to create boxes. The player who completes the most boxes wins. It's a simple yet strategic game enjoyed by people of all ages.
+* 【2024-05-14】[JiyaGupta-cs / ShopNex](https://github.com/JiyaGupta-cs/ShopNex) - React Ecommerce App
+* 【2024-05-14】[Kunal-agrawall / AI-Jarvis](https://github.com/Kunal-agrawall/AI-Jarvis) - 
+* 【2024-05-14】[digitomize / digitomize](https://github.com/digitomize/digitomize) - Digitomize, part of Microsoft for Startups Founders Hub, is an open-source platform that combines two main sections: Contests and User Profiles. It allows users to explore upcoming coding contests and dynamically create developer portfolios.
 * 【2024-05-13】[kunjgit / GameZone](https://github.com/kunjgit/GameZone) - This open source repository contains collection of games build on basic tech stacks in web development . Use your creativity and build your own game and contribute to the repository by making PR 🎮
 * 【2024-05-13】[swapnilsparsh / 30DaysOfJavaScript](https://github.com/swapnilsparsh/30DaysOfJavaScript) - Projects made during the 30 days of the JavaScript challenge
 * 【2024-05-13】[hugeicons / hugeicons-react](https://github.com/hugeicons/hugeicons-react) - Boost your UI with Hugeicons React Icons. 3,800+ free customizable stroke icons for sleek web development and design projects. An open-source react icon library tailored for React.
@@ -233,6 +249,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[appium / appium-inspector](https://github.com/appium/appium-inspector) - A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server
 ## C
 
+* 【2024-05-14】[zeldaret / mm](https://github.com/zeldaret/mm) - Decompilation of The Legend of Zelda: Majora's Mask
 * 【2024-05-12】[Hirrolot / datatype99](https://github.com/Hirrolot/datatype99) - Algebraic data types for C99
 * 【2024-05-12】[B-Dem / PPPwnUI](https://github.com/B-Dem/PPPwnUI) - PPPwnUI is a program that adds an UI to the exploit PPPwn created by TheFlow.
 * 【2024-05-09】[dcfsswindy / oled-ui-astra](https://github.com/dcfsswindy/oled-ui-astra) - A smooth, easy-to-deploy, and easy-to-extend OLED UI framework, based on C++.
@@ -252,6 +269,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[exploits-forsale / 24h2-nt-exploit](https://github.com/exploits-forsale/24h2-nt-exploit) - Exploit targeting NT kernel in 24H2 Windows Insider Preview
 ## C++
 
+* 【2024-05-14】[marichardson137 / VerletIntegration](https://github.com/marichardson137/VerletIntegration) - 
+* 【2024-05-14】[vcmi / vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 * 【2024-05-13】[Mr-Wiseguy / Zelda64Recomp](https://github.com/Mr-Wiseguy/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux)
 * 【2024-05-13】[Mr-Wiseguy / N64Recomp](https://github.com/Mr-Wiseguy/N64Recomp) - Tool to statically recompile N64 games into native executables
 * 【2024-05-13】[PolyhedraZK / Expander](https://github.com/PolyhedraZK/Expander) - Expander, an open-source GKR prover designed for scaling large-scale parallel computing.
@@ -276,6 +295,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[tstack / lnav](https://github.com/tstack/lnav) - Log file navigator
 ## Typescript
 
+* 【2024-05-14】[privatenumber / tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
 * 【2024-05-13】[yuchanns / warpflare](https://github.com/yuchanns/warpflare) - Keep your WARP+ traffic topped up with Cloudflare Workers.
 * 【2024-05-11】[wojtekmaj / react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
 * 【2024-05-11】[noahgsolomon / brainrot.js](https://github.com/noahgsolomon/brainrot.js) - Learn about any topic in video form from your favorite personalities
