@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-05-15】[elder-plinius / L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - J41LBR34K PR0MPT5
 * 【2024-05-14】[rt64 / rt64](https://github.com/rt64/rt64) - RT64 is an N64 graphics renderer for playing with enhancements in emulators and native ports.
 * 【2024-05-14】[linyiLYi / bilibot](https://github.com/linyiLYi/bilibot) - A local chatbot fine-tuned by bilibili user comments.
 * 【2024-05-14】[X-LANCE / AniTalker](https://github.com/X-LANCE/AniTalker) - 
@@ -156,6 +157,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[spacemeshos / go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node. 💾⏰💪
 ## Python
 
+* 【2024-05-15】[entropy-research / Devon](https://github.com/entropy-research/Devon) - Devon: An open-source pair programmer
+* 【2024-05-15】[CTFd / CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
+* 【2024-05-15】[Chaphlagical / Deblur-GS](https://github.com/Chaphlagical/Deblur-GS) - [I3D 2024] Deblur-GS: 3D Gaussian Splatting from Camera Motion Blurred Images
 * 【2024-05-14】[alibaba-damo-academy / FunClip](https://github.com/alibaba-damo-academy/FunClip) - Open-source, accurate and easy-to-use video clipping tool | 开源、精准、方便的视频切片工具
 * 【2024-05-14】[multimodal-art-projection / MAP-NEO](https://github.com/multimodal-art-projection/MAP-NEO) - 
 * 【2024-05-14】[LLaVA-VL / LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT) - 
@@ -212,6 +216,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[VinciGit00 / Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 ## Javascript
 
+* 【2024-05-15】[aegir-assembly / omni-clip](https://github.com/aegir-assembly/omni-clip) - Open source video editing web application
+* 【2024-05-15】[lowlighter / metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 * 【2024-05-14】[Dev-tanay / Rubik-Cube](https://github.com/Dev-tanay/Rubik-Cube) - Rubik Cube
 * 【2024-05-14】[Omkar-Sonawane-23 / Maa-Vimala](https://github.com/Omkar-Sonawane-23/Maa-Vimala) - 
 * 【2024-05-14】[GameSphere-MultiPlayer / Dot-Box](https://github.com/GameSphere-MultiPlayer/Dot-Box) - Dot-Box is a game where players take turns drawing lines between dots to create boxes. The player who completes the most boxes wins. It's a simple yet strategic game enjoyed by people of all ages.
@@ -249,6 +255,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[appium / appium-inspector](https://github.com/appium/appium-inspector) - A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server
 ## C
 
+* 【2024-05-15】[BasedHardware / OpenGlass](https://github.com/BasedHardware/OpenGlass) - Turn any glasses into AI-powered smart glasses
+* 【2024-05-15】[ARM-software / CMSIS-DSP](https://github.com/ARM-software/CMSIS-DSP) - CMSIS-DSP embedded compute library for Cortex-M and Cortex-A
+* 【2024-05-15】[cocomelonc / bsprishtina-2024-maldev-workshop](https://github.com/cocomelonc/bsprishtina-2024-maldev-workshop) - BSides Prishtina 2024 Malware Development and Persistence workshop
 * 【2024-05-14】[zeldaret / mm](https://github.com/zeldaret/mm) - Decompilation of The Legend of Zelda: Majora's Mask
 * 【2024-05-12】[Hirrolot / datatype99](https://github.com/Hirrolot/datatype99) - Algebraic data types for C99
 * 【2024-05-12】[B-Dem / PPPwnUI](https://github.com/B-Dem/PPPwnUI) - PPPwnUI is a program that adds an UI to the exploit PPPwn created by TheFlow.
@@ -269,6 +278,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[exploits-forsale / 24h2-nt-exploit](https://github.com/exploits-forsale/24h2-nt-exploit) - Exploit targeting NT kernel in 24H2 Windows Insider Preview
 ## C++
 
+* 【2024-05-15】[ShahjalalShohag / code-library](https://github.com/ShahjalalShohag/code-library) - Templates, algorithms and data structures implemented and collected for programming contests.
+* 【2024-05-15】[mirage-project / mirage](https://github.com/mirage-project/mirage) - A multi-level tensor algebra superoptimizer
+* 【2024-05-15】[flutter-webrtc / flutter-webrtc](https://github.com/flutter-webrtc/flutter-webrtc) - WebRTC plugin for Flutter Mobile/Desktop/Web
+* 【2024-05-15】[ros-navigation / navigation2](https://github.com/ros-navigation/navigation2) - ROS 2 Navigation Framework and System
 * 【2024-05-14】[marichardson137 / VerletIntegration](https://github.com/marichardson137/VerletIntegration) - 
 * 【2024-05-14】[vcmi / vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 * 【2024-05-13】[Mr-Wiseguy / Zelda64Recomp](https://github.com/Mr-Wiseguy/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux)
@@ -295,6 +308,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[tstack / lnav](https://github.com/tstack/lnav) - Log file navigator
 ## Typescript
 
+* 【2024-05-15】[googleapis / release-please-action](https://github.com/googleapis/release-please-action) - automated releases based on conventional commits
 * 【2024-05-14】[privatenumber / tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
 * 【2024-05-13】[yuchanns / warpflare](https://github.com/yuchanns/warpflare) - Keep your WARP+ traffic topped up with Cloudflare Workers.
 * 【2024-05-11】[wojtekmaj / react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
