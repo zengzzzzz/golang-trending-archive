@@ -53,6 +53,10 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-05-17】[controlpaths / hackbat](https://github.com/controlpaths/hackbat) - Hackbat repository
+* 【2024-05-17】[andydunstall / piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
+* 【2024-05-17】[Tencent / HunyuanDiT](https://github.com/Tencent/HunyuanDiT) - Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding
+* 【2024-05-17】[android / kotlin-multiplatform-samples](https://github.com/android/kotlin-multiplatform-samples) - Samples showcasing the experimental Kotlin Multiplatform Jetpack libraries
 * 【2024-05-16】[HazyResearch / ThunderKittens](https://github.com/HazyResearch/ThunderKittens) - Tile primitives for speedy kernels
 * 【2024-05-16】[dependabot / dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
 * 【2024-05-16】[pipecat-ai / pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
@@ -135,6 +139,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[module-federation / core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 ## Go
 
+* 【2024-05-17】[chapar-rest / chapar](https://github.com/chapar-rest/chapar) - Chapar is a simple and easy to use api testing tools aims to help developers to test their api endpoints. it will support http and grpc protocols.
+* 【2024-05-17】[containers / buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 * 【2024-05-16】[camunda / camunda-platform](https://github.com/camunda/camunda-platform) - Links to Camunda Platform 8 resources, releases, and local development config
 * 【2024-05-14】[fdx-xdf / darkPulse](https://github.com/fdx-xdf/darkPulse) - darkPulse是一个用go编写的shellcode Packer，用于生成各种各样的shellcode loader，目前免杀火绒，360，360核晶。
 * 【2024-05-14】[NHAS / wag](https://github.com/NHAS/wag) - Simple Wireguard 2FA
@@ -163,6 +169,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[spacemeshos / go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node. 💾⏰💪
 ## Python
 
+* 【2024-05-17】[livekit / agents](https://github.com/livekit/agents) - Build real-time multimodal AI applications 🤖🎙️📹
+* 【2024-05-17】[microsoft / EveryoneCanCode-US](https://github.com/microsoft/EveryoneCanCode-US) - Everyone Can Code Event (U.S. Edition)
+* 【2024-05-17】[AgentOps-AI / agentops](https://github.com/AgentOps-AI/agentops) - Open source Python SDK for agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
 * 【2024-05-16】[aqlaboratory / openfold](https://github.com/aqlaboratory/openfold) - Trainable, memory-efficient, and GPU-friendly PyTorch reproduction of AlphaFold 2
 * 【2024-05-16】[nkasmanoff / pi-card](https://github.com/nkasmanoff/pi-card) - Raspberry Pi Voice Assistant
 * 【2024-05-16】[Aabyss-Team / ARL](https://github.com/Aabyss-Team/ARL) - ARL官方仓库备份项目：ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
@@ -227,6 +236,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[VinciGit00 / Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 ## Javascript
 
+* 【2024-05-17】[google-marketing-solutions / ga4_dataform](https://github.com/google-marketing-solutions/ga4_dataform) - 
+* 【2024-05-17】[evil-huawei / evil-huawei](https://github.com/evil-huawei/evil-huawei) - Evil Huawei - 华为作过的恶
 * 【2024-05-16】[react-native-datetimepicker / datetimepicker](https://github.com/react-native-datetimepicker/datetimepicker) - React Native date & time picker component for iOS, Android and Windows
 * 【2024-05-15】[aegir-assembly / omni-clip](https://github.com/aegir-assembly/omni-clip) - Open source video editing web application
 * 【2024-05-15】[lowlighter / metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -267,6 +278,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[appium / appium-inspector](https://github.com/appium/appium-inspector) - A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server
 ## C
 
+* 【2024-05-17】[Modos-Labs / Glider](https://github.com/Modos-Labs/Glider) - Open-source E-ink monitor. Mirror of https://gitlab.com/zephray/glider
+* 【2024-05-17】[risinek / esp32-wifi-penetration-tool](https://github.com/risinek/esp32-wifi-penetration-tool) - Exploring possibilities of ESP32 platform to attack on nearby Wi-Fi networks.
 * 【2024-05-16】[PabloMK7 / ArticBaseServer](https://github.com/PabloMK7/ArticBaseServer) - 3DS Game Broadcaster
 * 【2024-05-16】[ArtifexSoftware / mupdf](https://github.com/ArtifexSoftware/mupdf) - mupdf mirror
 * 【2024-05-15】[BasedHardware / OpenGlass](https://github.com/BasedHardware/OpenGlass) - Turn any glasses into AI-powered smart glasses
@@ -292,6 +305,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[exploits-forsale / 24h2-nt-exploit](https://github.com/exploits-forsale/24h2-nt-exploit) - Exploit targeting NT kernel in 24H2 Windows Insider Preview
 ## C++
 
+* 【2024-05-17】[okalachev / flix](https://github.com/okalachev/flix) - Making an ESP32-based quadcopter from scratch
+* 【2024-05-17】[ValveSoftware / halflife](https://github.com/ValveSoftware/halflife) - Half-Life 1 engine based games
+* 【2024-05-17】[google-ai-edge / mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
+* 【2024-05-17】[GJDuck / RRFuzz](https://github.com/GJDuck/RRFuzz) - Fuzz anything with Program Environment Fuzzing
+* 【2024-05-17】[moveit / moveit2](https://github.com/moveit/moveit2) - 🤖 MoveIt for ROS 2
 * 【2024-05-16】[Flutterando / calamidade](https://github.com/Flutterando/calamidade) - 
 * 【2024-05-16】[ceres-solver / ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
 * 【2024-05-15】[ShahjalalShohag / code-library](https://github.com/ShahjalalShohag/code-library) - Templates, algorithms and data structures implemented and collected for programming contests.
@@ -324,6 +342,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[tstack / lnav](https://github.com/tstack/lnav) - Log file navigator
 ## Typescript
 
+* 【2024-05-17】[devcontainers / cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json.
 * 【2024-05-16】[n4ze3m / page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 * 【2024-05-15】[googleapis / release-please-action](https://github.com/googleapis/release-please-action) - automated releases based on conventional commits
 * 【2024-05-14】[privatenumber / tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
