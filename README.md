@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-05-18】[likejazz / llama3.np](https://github.com/likejazz/llama3.np) - llama3.np is pure NumPy implementation for Llama 3 model.
+* 【2024-05-18】[google / project-gameface](https://github.com/google/project-gameface) - 
 * 【2024-05-17】[controlpaths / hackbat](https://github.com/controlpaths/hackbat) - Hackbat repository
 * 【2024-05-17】[andydunstall / piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
 * 【2024-05-17】[Tencent / HunyuanDiT](https://github.com/Tencent/HunyuanDiT) - Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding
@@ -139,6 +141,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[module-federation / core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 ## Go
 
+* 【2024-05-18】[umutcamliyurt / PingRAT](https://github.com/umutcamliyurt/PingRAT) - PingRAT secretly passes C2 traffic through firewalls using ICMP payloads.
+* 【2024-05-18】[initia-labs / initia](https://github.com/initia-labs/initia) - 
 * 【2024-05-17】[chapar-rest / chapar](https://github.com/chapar-rest/chapar) - Chapar is a simple and easy to use api testing tools aims to help developers to test their api endpoints. it will support http and grpc protocols.
 * 【2024-05-17】[containers / buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 * 【2024-05-16】[camunda / camunda-platform](https://github.com/camunda/camunda-platform) - Links to Camunda Platform 8 resources, releases, and local development config
@@ -169,6 +173,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[spacemeshos / go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node. 💾⏰💪
 ## Python
 
+* 【2024-05-18】[yuweihao / MambaOut](https://github.com/yuweihao/MambaOut) - MambaOut: Do We Really Need Mamba for Vision?
+* 【2024-05-18】[matplotlib / matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
+* 【2024-05-18】[roboflow / sports](https://github.com/roboflow/sports) - computer vision and sports
+* 【2024-05-18】[AiGptCode / WordPress-Auto-Admin-Account-and-Reverse-Shell-cve-2024-27956](https://github.com/AiGptCode/WordPress-Auto-Admin-Account-and-Reverse-Shell-cve-2024-27956) - WordPress Auto Admin Account Creation and Reverse Shell cve-2024-27956 automates the process of creating a new administrator account in a WordPress site and executing a reverse shell on the target server. It utilizes the wp-automatic plugin's CSV injection vulnerability to execute SQL queries
 * 【2024-05-17】[livekit / agents](https://github.com/livekit/agents) - Build real-time multimodal AI applications 🤖🎙️📹
 * 【2024-05-17】[microsoft / EveryoneCanCode-US](https://github.com/microsoft/EveryoneCanCode-US) - Everyone Can Code Event (U.S. Edition)
 * 【2024-05-17】[AgentOps-AI / agentops](https://github.com/AgentOps-AI/agentops) - Open source Python SDK for agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
@@ -278,6 +286,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[appium / appium-inspector](https://github.com/appium/appium-inspector) - A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server
 ## C
 
+* 【2024-05-18】[mcknly / breadboard-os](https://github.com/mcknly/breadboard-os) - A firmware platform aimed at quick prototyping, built around FreeRTOS and a feature-packed CLI
+* 【2024-05-18】[arut / nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
 * 【2024-05-17】[Modos-Labs / Glider](https://github.com/Modos-Labs/Glider) - Open-source E-ink monitor. Mirror of https://gitlab.com/zephray/glider
 * 【2024-05-17】[risinek / esp32-wifi-penetration-tool](https://github.com/risinek/esp32-wifi-penetration-tool) - Exploring possibilities of ESP32 platform to attack on nearby Wi-Fi networks.
 * 【2024-05-16】[PabloMK7 / ArticBaseServer](https://github.com/PabloMK7/ArticBaseServer) - 3DS Game Broadcaster
@@ -305,6 +315,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[exploits-forsale / 24h2-nt-exploit](https://github.com/exploits-forsale/24h2-nt-exploit) - Exploit targeting NT kernel in 24H2 Windows Insider Preview
 ## C++
 
+* 【2024-05-18】[serge1 / ELFIO](https://github.com/serge1/ELFIO) - ELFIO - ELF (Executable and Linkable Format) reader and producer implemented as a header only C++ library
+* 【2024-05-18】[Lymphatus / caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats. You can quickly reduce the file size (and resolution, if you want) by preserving the overall quality of the image.
 * 【2024-05-17】[okalachev / flix](https://github.com/okalachev/flix) - Making an ESP32-based quadcopter from scratch
 * 【2024-05-17】[ValveSoftware / halflife](https://github.com/ValveSoftware/halflife) - Half-Life 1 engine based games
 * 【2024-05-17】[google-ai-edge / mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
@@ -342,6 +354,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[tstack / lnav](https://github.com/tstack/lnav) - Log file navigator
 ## Typescript
 
+* 【2024-05-18】[nkzw-tech / athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
 * 【2024-05-17】[devcontainers / cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json.
 * 【2024-05-16】[n4ze3m / page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 * 【2024-05-15】[googleapis / release-please-action](https://github.com/googleapis/release-please-action) - automated releases based on conventional commits
