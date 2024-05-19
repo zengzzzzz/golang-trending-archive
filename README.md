@@ -53,6 +53,15 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-05-19】[HigherOrderCO / HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
+* 【2024-05-19】[HigherOrderCO / Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
+* 【2024-05-19】[expo / react-conf-app](https://github.com/expo/react-conf-app) - 
+* 【2024-05-19】[apple / swift-log](https://github.com/apple/swift-log) - A Logging API for Swift
+* 【2024-05-19】[ngc660sec / NGCBot](https://github.com/ngc660sec/NGCBot) - 一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡备案查询，⚡手机号归属地查询，⚡WHOIS信息查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询， 🐛美女视频，⚡美女图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，⚡检测广告，🌱自动群发，👯Ai回复，😄自定义程度丰富，小白也可轻松上手！
+* 【2024-05-19】[felangel / data_class](https://github.com/felangel/data_class) - Experimental support for data classes in Dart using macros.
+* 【2024-05-19】[LayerZero-Labs / sybil-report](https://github.com/LayerZero-Labs/sybil-report) - 
+* 【2024-05-19】[SeleniumHQ / docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
+* 【2024-05-19】[tjdevries / config.nvim](https://github.com/tjdevries/config.nvim) - my nvim config
 * 【2024-05-18】[likejazz / llama3.np](https://github.com/likejazz/llama3.np) - llama3.np is pure NumPy implementation for Llama 3 model.
 * 【2024-05-18】[google / project-gameface](https://github.com/google/project-gameface) - 
 * 【2024-05-17】[controlpaths / hackbat](https://github.com/controlpaths/hackbat) - Hackbat repository
@@ -141,6 +150,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[module-federation / core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 ## Go
 
+* 【2024-05-19】[linux-do / override](https://github.com/linux-do/override) - 啥也不是
+* 【2024-05-19】[kubeflow / training-operator](https://github.com/kubeflow/training-operator) - Distributed ML Training and Fine-Tuning on Kubernetes
+* 【2024-05-19】[firebase / firebase-admin-go](https://github.com/firebase/firebase-admin-go) - Firebase Admin Go SDK
 * 【2024-05-18】[umutcamliyurt / PingRAT](https://github.com/umutcamliyurt/PingRAT) - PingRAT secretly passes C2 traffic through firewalls using ICMP payloads.
 * 【2024-05-18】[initia-labs / initia](https://github.com/initia-labs/initia) - 
 * 【2024-05-17】[chapar-rest / chapar](https://github.com/chapar-rest/chapar) - Chapar is a simple and easy to use api testing tools aims to help developers to test their api endpoints. it will support http and grpc protocols.
@@ -173,6 +185,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[spacemeshos / go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node. 💾⏰💪
 ## Python
 
+* 【2024-05-19】[pypa / hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
+* 【2024-05-19】[JadyXuan / NTTS](https://github.com/JadyXuan/NTTS) - NO TIME TO SLEEP
+* 【2024-05-19】[modelscope / swift](https://github.com/modelscope/swift) - ms-swift: Use PEFT or Full-parameter to finetune 200+ LLMs or 15+ MLLMs
+* 【2024-05-19】[zhenglinpan / SakugaDataset](https://github.com/zhenglinpan/SakugaDataset) - Official Repository for Sakuga-42M Dataset
 * 【2024-05-18】[yuweihao / MambaOut](https://github.com/yuweihao/MambaOut) - MambaOut: Do We Really Need Mamba for Vision?
 * 【2024-05-18】[matplotlib / matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 * 【2024-05-18】[roboflow / sports](https://github.com/roboflow/sports) - computer vision and sports
@@ -244,6 +260,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[VinciGit00 / Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 ## Javascript
 
+* 【2024-05-19】[responsively-org / responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 * 【2024-05-17】[google-marketing-solutions / ga4_dataform](https://github.com/google-marketing-solutions/ga4_dataform) - 
 * 【2024-05-17】[evil-huawei / evil-huawei](https://github.com/evil-huawei/evil-huawei) - Evil Huawei - 华为作过的恶
 * 【2024-05-16】[react-native-datetimepicker / datetimepicker](https://github.com/react-native-datetimepicker/datetimepicker) - React Native date & time picker component for iOS, Android and Windows
@@ -286,6 +303,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[appium / appium-inspector](https://github.com/appium/appium-inspector) - A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server
 ## C
 
+* 【2024-05-19】[0xNinjaCyclone / hellMaker](https://github.com/0xNinjaCyclone/hellMaker) - Generate FUD backdoors
+* 【2024-05-19】[tpunix / SAROO](https://github.com/tpunix/SAROO) - SAROO is a SEGA Saturn HDloader
 * 【2024-05-18】[mcknly / breadboard-os](https://github.com/mcknly/breadboard-os) - A firmware platform aimed at quick prototyping, built around FreeRTOS and a feature-packed CLI
 * 【2024-05-18】[arut / nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
 * 【2024-05-17】[Modos-Labs / Glider](https://github.com/Modos-Labs/Glider) - Open-source E-ink monitor. Mirror of https://gitlab.com/zephray/glider
@@ -315,6 +334,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[exploits-forsale / 24h2-nt-exploit](https://github.com/exploits-forsale/24h2-nt-exploit) - Exploit targeting NT kernel in 24H2 Windows Insider Preview
 ## C++
 
+* 【2024-05-19】[ip7z / 7zip](https://github.com/ip7z/7zip) - 7-Zip
+* 【2024-05-19】[google / lyra](https://github.com/google/lyra) - A Very Low-Bitrate Codec for Speech Compression
+* 【2024-05-19】[snake-4 / Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant) - A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.
 * 【2024-05-18】[serge1 / ELFIO](https://github.com/serge1/ELFIO) - ELFIO - ELF (Executable and Linkable Format) reader and producer implemented as a header only C++ library
 * 【2024-05-18】[Lymphatus / caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats. You can quickly reduce the file size (and resolution, if you want) by preserving the overall quality of the image.
 * 【2024-05-17】[okalachev / flix](https://github.com/okalachev/flix) - Making an ESP32-based quadcopter from scratch
@@ -354,6 +376,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[tstack / lnav](https://github.com/tstack/lnav) - Log file navigator
 ## Typescript
 
+* 【2024-05-19】[visgl / react-google-maps](https://github.com/visgl/react-google-maps) - React components and hooks for the Google Maps JavaScript API
+* 【2024-05-19】[nhn / tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
+* 【2024-05-19】[sqlchat / sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
 * 【2024-05-18】[nkzw-tech / athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
 * 【2024-05-17】[devcontainers / cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json.
 * 【2024-05-16】[n4ze3m / page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
