@@ -53,6 +53,11 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-05-21】[KAYOKG / BibliotecaDev](https://github.com/KAYOKG/BibliotecaDev) - 📚 Biblioteca de livros essenciais da área da programação.
+* 【2024-05-21】[Raphire / Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
+* 【2024-05-21】[folke / tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
+* 【2024-05-21】[neovim / nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
+* 【2024-05-21】[mukel / llama3.java](https://github.com/mukel/llama3.java) - Practical Llama 3 inference in Java
 * 【2024-05-20】[adrianhajdin / portfolio](https://github.com/adrianhajdin/portfolio) - Modern & Minimal JS Mastery Portfolio
 * 【2024-05-20】[iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 * 【2024-05-20】[mainmatter / 100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
@@ -155,6 +160,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[module-federation / core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 ## Go
 
+* 【2024-05-21】[skx / cpmulator](https://github.com/skx/cpmulator) - Golang CP/M emulator for playing zork, lighthouse-of-doom, etc
+* 【2024-05-21】[NibiruChain / nibiru](https://github.com/NibiruChain/nibiru) - Nibiru Chain: The breakthrough smart contract platform ushering in the next era of money. Nibiru powers an ecosystem of dApps including perps, RWAs, and more.
 * 【2024-05-19】[linux-do / override](https://github.com/linux-do/override) - 啥也不是
 * 【2024-05-19】[kubeflow / training-operator](https://github.com/kubeflow/training-operator) - Distributed ML Training and Fine-Tuning on Kubernetes
 * 【2024-05-19】[firebase / firebase-admin-go](https://github.com/firebase/firebase-admin-go) - Firebase Admin Go SDK
@@ -190,6 +197,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[spacemeshos / go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node. 💾⏰💪
 ## Python
 
+* 【2024-05-21】[AzeemIdrisi / PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
+* 【2024-05-21】[minyoungg / platonic-rep](https://github.com/minyoungg/platonic-rep) - 
 * 【2024-05-20】[instaloader / instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 * 【2024-05-19】[pypa / hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 * 【2024-05-19】[JadyXuan / NTTS](https://github.com/JadyXuan/NTTS) - NO TIME TO SLEEP
@@ -266,6 +275,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[VinciGit00 / Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 ## Javascript
 
+* 【2024-05-21】[sindresorhus / create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
+* 【2024-05-21】[laravel / breeze-next](https://github.com/laravel/breeze-next) - An application / authentication starter kit frontend in Next.js for Laravel Breeze.
 * 【2024-05-19】[responsively-org / responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 * 【2024-05-17】[google-marketing-solutions / ga4_dataform](https://github.com/google-marketing-solutions/ga4_dataform) - 
 * 【2024-05-17】[evil-huawei / evil-huawei](https://github.com/evil-huawei/evil-huawei) - Evil Huawei - 华为作过的恶
@@ -309,6 +320,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[appium / appium-inspector](https://github.com/appium/appium-inspector) - A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server
 ## C
 
+* 【2024-05-21】[rvaiya / keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 * 【2024-05-20】[google / wuffs](https://github.com/google/wuffs) - Wrangling Untrusted File Formats Safely
 * 【2024-05-19】[0xNinjaCyclone / hellMaker](https://github.com/0xNinjaCyclone/hellMaker) - Generate FUD backdoors
 * 【2024-05-19】[tpunix / SAROO](https://github.com/tpunix/SAROO) - SAROO is a SEGA Saturn HDloader
@@ -341,6 +353,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[exploits-forsale / 24h2-nt-exploit](https://github.com/exploits-forsale/24h2-nt-exploit) - Exploit targeting NT kernel in 24H2 Windows Insider Preview
 ## C++
 
+* 【2024-05-21】[jsecurity101 / ETWInspector](https://github.com/jsecurity101/ETWInspector) - 
 * 【2024-05-20】[snort3 / snort3](https://github.com/snort3/snort3) - Snort++
 * 【2024-05-20】[yileijin / Bootstrap-3D-GS](https://github.com/yileijin/Bootstrap-3D-GS) - 
 * 【2024-05-20】[ludouzi / fooyin](https://github.com/ludouzi/fooyin) - A customisable music player
@@ -386,6 +399,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[tstack / lnav](https://github.com/tstack/lnav) - Log file navigator
 ## Typescript
 
+* 【2024-05-21】[solidSpoon / DashPlayer](https://github.com/solidSpoon/DashPlayer) - 为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平。#美剧 #播放器 #听力
+* 【2024-05-21】[MCSManager / MCSManager](https://github.com/MCSManager/MCSManager) - Free, Secure, Distributed, Modern Control Panel for Minecraft and Steam Game Servers.
 * 【2024-05-20】[initia-labs / initia-registry](https://github.com/initia-labs/initia-registry) - 
 * 【2024-05-20】[cruip / open-react-template](https://github.com/cruip/open-react-template) - A free React / Next.js landing page template designed to showcase open source projects, SaaS products, online services, and more. Made by
 * 【2024-05-19】[visgl / react-google-maps](https://github.com/visgl/react-google-maps) - React components and hooks for the Google Maps JavaScript API
