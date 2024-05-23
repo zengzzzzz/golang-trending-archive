@@ -53,6 +53,11 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-05-23】[it-ebooks-0 / geektime-books](https://github.com/it-ebooks-0/geektime-books) - 📚 极客时间电子书
+* 【2024-05-23】[amalmurali47 / git_rce](https://github.com/amalmurali47/git_rce) - Exploit PoC for CVE-2024-32002
+* 【2024-05-23】[Codium-ai / cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
+* 【2024-05-23】[THUDM / CogVLM2](https://github.com/THUDM/CogVLM2) - GPT4V-level open-source multi-modal model based on Llama3-8B
+* 【2024-05-23】[khoj-ai / khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or use our web app. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.
 * 【2024-05-22】[naklecha / llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 * 【2024-05-22】[AI4Finance-Foundation / FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.
 * 【2024-05-22】[ZCShou / GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
@@ -202,6 +207,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[spacemeshos / go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node. 💾⏰💪
 ## Python
 
+* 【2024-05-23】[shamhi / TapSwapBot](https://github.com/shamhi/TapSwapBot) - Bot that mines coins in Tapswap
+* 【2024-05-23】[W01fh4cker / CVE-2024-22120-RCE](https://github.com/W01fh4cker/CVE-2024-22120-RCE) - Time Based SQL Injection in Zabbix Server Audit Log --> RCE
 * 【2024-05-22】[IDEA-Research / Grounding-DINO-1.5-API](https://github.com/IDEA-Research/Grounding-DINO-1.5-API) - API for Grounding DINO 1.5: IDEA Research's Most Capable Open-World Object Detection Model Series
 * 【2024-05-22】[alexfazio / viral-clips-crew](https://github.com/alexfazio/viral-clips-crew) - Your CrewAI Powered Video Editing Assistant
 * 【2024-05-22】[lanqian528 / chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
@@ -286,6 +293,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[VinciGit00 / Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 ## Javascript
 
+* 【2024-05-23】[Pactum7 / ticket-grabbing](https://github.com/Pactum7/ticket-grabbing) - 猫眼纷玩岛大麦抢票、余票监控AutoX.js脚本，手机移动端，全场次选购
 * 【2024-05-22】[metaskills / experts](https://github.com/metaskills/experts) - Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.
 * 【2024-05-22】[songquanpeng / message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
 * 【2024-05-22】[brunosimon / my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
@@ -371,6 +379,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[exploits-forsale / 24h2-nt-exploit](https://github.com/exploits-forsale/24h2-nt-exploit) - Exploit targeting NT kernel in 24H2 Windows Insider Preview
 ## C++
 
+* 【2024-05-23】[mrousavy / react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
 * 【2024-05-22】[triton-lang / triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
 * 【2024-05-22】[SaadAhla / IP-Hunter](https://github.com/SaadAhla/IP-Hunter) - Hunt for C2 servers and phishing web sites using VirusTotal API , you can modify code to kill the malicious process
 * 【2024-05-21】[jsecurity101 / ETWInspector](https://github.com/jsecurity101/ETWInspector) - 
@@ -419,6 +428,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[tstack / lnav](https://github.com/tstack/lnav) - Log file navigator
 ## Typescript
 
+* 【2024-05-23】[firebase / genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to integrate, test, and deploy sophisticated AI features to Firebase or Google Cloud.
 * 【2024-05-22】[Worklenz / worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
 * 【2024-05-22】[hudy9x / namviek](https://github.com/hudy9x/namviek) - The open-source project manager for tiny teams
 * 【2024-05-21】[solidSpoon / DashPlayer](https://github.com/solidSpoon/DashPlayer) - 为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平。#美剧 #播放器 #听力
