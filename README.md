@@ -53,6 +53,10 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-05-24】[JetBrains / kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
+* 【2024-05-24】[psf / requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
+* 【2024-05-24】[microsoft / Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook) - This is a Phi-3 book for getting started with Phi-3. Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks.
+* 【2024-05-24】[folke / ts-comments.nvim](https://github.com/folke/ts-comments.nvim) - Tiny plugin to enhance Neovim's native comments
 * 【2024-05-23】[it-ebooks-0 / geektime-books](https://github.com/it-ebooks-0/geektime-books) - 📚 极客时间电子书
 * 【2024-05-23】[amalmurali47 / git_rce](https://github.com/amalmurali47/git_rce) - Exploit PoC for CVE-2024-32002
 * 【2024-05-23】[Codium-ai / cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
@@ -169,6 +173,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[module-federation / core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 ## Go
 
+* 【2024-05-24】[defenseunicorns / zarf](https://github.com/defenseunicorns/zarf) - DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
 * 【2024-05-22】[kubesphere / kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 * 【2024-05-21】[skx / cpmulator](https://github.com/skx/cpmulator) - Golang CP/M emulator for playing zork, lighthouse-of-doom, etc
 * 【2024-05-21】[NibiruChain / nibiru](https://github.com/NibiruChain/nibiru) - Nibiru Chain: The breakthrough smart contract platform ushering in the next era of money. Nibiru powers an ecosystem of dApps including perps, RWAs, and more.
@@ -207,6 +212,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[spacemeshos / go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node. 💾⏰💪
 ## Python
 
+* 【2024-05-24】[R4gd0ll / I-Wanna-Get-All](https://github.com/R4gd0ll/I-Wanna-Get-All) - OA漏洞利用工具
 * 【2024-05-23】[shamhi / TapSwapBot](https://github.com/shamhi/TapSwapBot) - Bot that mines coins in Tapswap
 * 【2024-05-23】[W01fh4cker / CVE-2024-22120-RCE](https://github.com/W01fh4cker/CVE-2024-22120-RCE) - Time Based SQL Injection in Zabbix Server Audit Log --> RCE
 * 【2024-05-22】[IDEA-Research / Grounding-DINO-1.5-API](https://github.com/IDEA-Research/Grounding-DINO-1.5-API) - API for Grounding DINO 1.5: IDEA Research's Most Capable Open-World Object Detection Model Series
@@ -293,6 +299,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[VinciGit00 / Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 ## Javascript
 
+* 【2024-05-24】[ibrahimaitech / BMW-MD](https://github.com/ibrahimaitech/BMW-MD) - BMW MD the faster bot that can do any thing in seconds,Trending Wabot
 * 【2024-05-23】[Pactum7 / ticket-grabbing](https://github.com/Pactum7/ticket-grabbing) - 猫眼纷玩岛大麦抢票、余票监控AutoX.js脚本，手机移动端，全场次选购
 * 【2024-05-22】[metaskills / experts](https://github.com/metaskills/experts) - Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.
 * 【2024-05-22】[songquanpeng / message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
@@ -343,6 +350,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[appium / appium-inspector](https://github.com/appium/appium-inspector) - A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server
 ## C
 
+* 【2024-05-24】[hmgle / graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 * 【2024-05-22】[rovertronic / Mario-Builder-64](https://github.com/rovertronic/Mario-Builder-64) - Mario Builder 64 is a Super Mario 64 ROM hack that allows you to create custom levels in-game.
 * 【2024-05-22】[Decompollaborate / rabbitizer](https://github.com/Decompollaborate/rabbitizer) - MIPS instruction decoder
 * 【2024-05-22】[PortAudio / portaudio](https://github.com/PortAudio/portaudio) - PortAudio is a cross-platform, open-source C language library for real-time audio input and output.
@@ -428,6 +436,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[tstack / lnav](https://github.com/tstack/lnav) - Log file navigator
 ## Typescript
 
+* 【2024-05-24】[huggingface / huggingface.js](https://github.com/huggingface/huggingface.js) - Utilities to use the Hugging Face Hub API
+* 【2024-05-24】[safak / next-ecommerce](https://github.com/safak/next-ecommerce) - 
 * 【2024-05-23】[firebase / genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to integrate, test, and deploy sophisticated AI features to Firebase or Google Cloud.
 * 【2024-05-22】[Worklenz / worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
 * 【2024-05-22】[hudy9x / namviek](https://github.com/hudy9x/namviek) - The open-source project manager for tiny teams
