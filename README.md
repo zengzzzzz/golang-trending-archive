@@ -53,6 +53,13 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-05-25】[Ph0enixKM / Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
+* 【2024-05-25】[nucleuscloud / neosync](https://github.com/nucleuscloud/neosync) - Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments.
+* 【2024-05-25】[vulhub / vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
+* 【2024-05-25】[foolstack-omg / block-tech-sharing](https://github.com/foolstack-omg/block-tech-sharing) - Sharing Valuable Technology & Arbitrage Skill of The Blockchain I have learned.
+* 【2024-05-25】[CADmium-Co / CADmium](https://github.com/CADmium-Co/CADmium) - A CAD program that runs in the browser
+* 【2024-05-25】[6677-ai / tap4-ai-webui](https://github.com/6677-ai/tap4-ai-webui) - One-click to deploy your own ai tools directory with the open source web-ui
+* 【2024-05-25】[astral-sh / ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 * 【2024-05-24】[JetBrains / kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 * 【2024-05-24】[psf / requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 * 【2024-05-24】[microsoft / Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook) - This is a Phi-3 book for getting started with Phi-3. Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks.
@@ -212,6 +219,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[spacemeshos / go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node. 💾⏰💪
 ## Python
 
+* 【2024-05-25】[kangpeilun / VastGaussian](https://github.com/kangpeilun/VastGaussian) - v1.0
+* 【2024-05-25】[baidubce / app-builder](https://github.com/baidubce/app-builder) - appbuilder-sdk, 千帆AppBuilder-SDK帮助开发者灵活、快速的搭建AI原生应用
+* 【2024-05-25】[darrenburns / elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 * 【2024-05-24】[R4gd0ll / I-Wanna-Get-All](https://github.com/R4gd0ll/I-Wanna-Get-All) - OA漏洞利用工具
 * 【2024-05-23】[shamhi / TapSwapBot](https://github.com/shamhi/TapSwapBot) - Bot that mines coins in Tapswap
 * 【2024-05-23】[W01fh4cker / CVE-2024-22120-RCE](https://github.com/W01fh4cker/CVE-2024-22120-RCE) - Time Based SQL Injection in Zabbix Server Audit Log --> RCE
@@ -299,6 +309,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[VinciGit00 / Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 ## Javascript
 
+* 【2024-05-25】[github / relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard <time> element.
+* 【2024-05-25】[imputnet / cobalt](https://github.com/imputnet/cobalt) - save what you love
 * 【2024-05-24】[ibrahimaitech / BMW-MD](https://github.com/ibrahimaitech/BMW-MD) - BMW MD the faster bot that can do any thing in seconds,Trending Wabot
 * 【2024-05-23】[Pactum7 / ticket-grabbing](https://github.com/Pactum7/ticket-grabbing) - 猫眼纷玩岛大麦抢票、余票监控AutoX.js脚本，手机移动端，全场次选购
 * 【2024-05-22】[metaskills / experts](https://github.com/metaskills/experts) - Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.
@@ -350,6 +362,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[appium / appium-inspector](https://github.com/appium/appium-inspector) - A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server
 ## C
 
+* 【2024-05-25】[psycopg / psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 * 【2024-05-24】[hmgle / graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 * 【2024-05-22】[rovertronic / Mario-Builder-64](https://github.com/rovertronic/Mario-Builder-64) - Mario Builder 64 is a Super Mario 64 ROM hack that allows you to create custom levels in-game.
 * 【2024-05-22】[Decompollaborate / rabbitizer](https://github.com/Decompollaborate/rabbitizer) - MIPS instruction decoder
@@ -387,6 +400,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[exploits-forsale / 24h2-nt-exploit](https://github.com/exploits-forsale/24h2-nt-exploit) - Exploit targeting NT kernel in 24H2 Windows Insider Preview
 ## C++
 
+* 【2024-05-25】[sysown / proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
 * 【2024-05-23】[mrousavy / react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
 * 【2024-05-22】[triton-lang / triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
 * 【2024-05-22】[SaadAhla / IP-Hunter](https://github.com/SaadAhla/IP-Hunter) - Hunt for C2 servers and phishing web sites using VirusTotal API , you can modify code to kill the malicious process
@@ -436,6 +450,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[tstack / lnav](https://github.com/tstack/lnav) - Log file navigator
 ## Typescript
 
+* 【2024-05-25】[farcasterxyz / hub-monorepo](https://github.com/farcasterxyz/hub-monorepo) - Implementation of the Farcaster Hub specification and supporting libraries for building applications on Farcaster
+* 【2024-05-25】[ragapp / ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
+* 【2024-05-25】[langchain-ai / langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) - LangChain + Next.js starter template
+* 【2024-05-25】[szimek / signature_pad](https://github.com/szimek/signature_pad) - HTML5 canvas based smooth signature drawing
 * 【2024-05-24】[huggingface / huggingface.js](https://github.com/huggingface/huggingface.js) - Utilities to use the Hugging Face Hub API
 * 【2024-05-24】[safak / next-ecommerce](https://github.com/safak/next-ecommerce) - 
 * 【2024-05-23】[firebase / genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to integrate, test, and deploy sophisticated AI features to Firebase or Google Cloud.
