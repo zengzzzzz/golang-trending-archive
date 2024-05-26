@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-05-26】[apache / flink-cdc](https://github.com/apache/flink-cdc) - Flink CDC is a streaming data integration tool
+* 【2024-05-26】[W01fh4cker / CVE-2024-21683-RCE](https://github.com/W01fh4cker/CVE-2024-21683-RCE) - CVE-2024-21683 Confluence Post Auth RCE
 * 【2024-05-25】[Ph0enixKM / Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
 * 【2024-05-25】[nucleuscloud / neosync](https://github.com/nucleuscloud/neosync) - Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments.
 * 【2024-05-25】[vulhub / vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
@@ -180,6 +182,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[module-federation / core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 ## Go
 
+* 【2024-05-26】[edgelesssys / contrast](https://github.com/edgelesssys/contrast) - Deploy and manage confidential containers on Kubernetes
+* 【2024-05-26】[pagefaultgames / rogueserver](https://github.com/pagefaultgames/rogueserver) - Game server backend and API for PokéRogue
 * 【2024-05-24】[defenseunicorns / zarf](https://github.com/defenseunicorns/zarf) - DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
 * 【2024-05-22】[kubesphere / kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 * 【2024-05-21】[skx / cpmulator](https://github.com/skx/cpmulator) - Golang CP/M emulator for playing zork, lighthouse-of-doom, etc
@@ -219,6 +223,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[spacemeshos / go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node. 💾⏰💪
 ## Python
 
+* 【2024-05-26】[google-research / omniglue](https://github.com/google-research/omniglue) - Code release for CVPR'24 submission 'OmniGlue'
+* 【2024-05-26】[nvaccess / nvda](https://github.com/nvaccess/nvda) - NVDA, the free and open source Screen Reader for Microsoft Windows
+* 【2024-05-26】[epic-open-source / seismometer](https://github.com/epic-open-source/seismometer) - Predictive model evaluation with a focus on healthcare
+* 【2024-05-26】[pathwaycom / pathway](https://github.com/pathwaycom/pathway) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+* 【2024-05-26】[geekcomputers / Python](https://github.com/geekcomputers/Python) - My Python Examples
 * 【2024-05-25】[kangpeilun / VastGaussian](https://github.com/kangpeilun/VastGaussian) - v1.0
 * 【2024-05-25】[baidubce / app-builder](https://github.com/baidubce/app-builder) - appbuilder-sdk, 千帆AppBuilder-SDK帮助开发者灵活、快速的搭建AI原生应用
 * 【2024-05-25】[darrenburns / elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
@@ -309,6 +318,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[VinciGit00 / Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 ## Javascript
 
+* 【2024-05-26】[apple / password-manager-resources](https://github.com/apple/password-manager-resources) - A place for creators and users of password managers to collaborate on resources to make password management better.
+* 【2024-05-26】[mickael-kerjean / filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 * 【2024-05-25】[github / relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard <time> element.
 * 【2024-05-25】[imputnet / cobalt](https://github.com/imputnet/cobalt) - save what you love
 * 【2024-05-24】[ibrahimaitech / BMW-MD](https://github.com/ibrahimaitech/BMW-MD) - BMW MD the faster bot that can do any thing in seconds,Trending Wabot
@@ -362,6 +373,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[appium / appium-inspector](https://github.com/appium/appium-inspector) - A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server
 ## C
 
+* 【2024-05-26】[lanceewing / agi](https://github.com/lanceewing/agi) - Original source code of Sierra On-Line's AGI adventure game interpreter.
+* 【2024-05-26】[koute / bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux.
+* 【2024-05-26】[antirez / kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 * 【2024-05-25】[psycopg / psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 * 【2024-05-24】[hmgle / graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 * 【2024-05-22】[rovertronic / Mario-Builder-64](https://github.com/rovertronic/Mario-Builder-64) - Mario Builder 64 is a Super Mario 64 ROM hack that allows you to create custom levels in-game.
@@ -400,6 +414,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[exploits-forsale / 24h2-nt-exploit](https://github.com/exploits-forsale/24h2-nt-exploit) - Exploit targeting NT kernel in 24H2 Windows Insider Preview
 ## C++
 
+* 【2024-05-26】[es3n1n / no-defender](https://github.com/es3n1n/no-defender) - A slightly more fun way to disable windows defender. (through the WSC api)
+* 【2024-05-26】[pcg-mlp / KsanaLLM](https://github.com/pcg-mlp/KsanaLLM) - 
 * 【2024-05-25】[sysown / proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
 * 【2024-05-23】[mrousavy / react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
 * 【2024-05-22】[triton-lang / triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
@@ -450,6 +466,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[tstack / lnav](https://github.com/tstack/lnav) - Log file navigator
 ## Typescript
 
+* 【2024-05-26】[magicuidesign / magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
+* 【2024-05-26】[Amery2010 / TalkWithGemini](https://github.com/Amery2010/TalkWithGemini) - Deploy your private Gemini application for free with one click, supporting Gemini 1.5 Pro, Gemini 1.5 Flash, Gemini Pro and Gemini Pro Vision models. 一键免费部署您的私人 Gemini 应用, 支持 Gemini 1.5 Pro、Gemini 1.5 Flash、Gemini Pro 和 Gemini Pro Vision 模型。
+* 【2024-05-26】[hoarder-app / hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 * 【2024-05-25】[farcasterxyz / hub-monorepo](https://github.com/farcasterxyz/hub-monorepo) - Implementation of the Farcaster Hub specification and supporting libraries for building applications on Farcaster
 * 【2024-05-25】[ragapp / ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
 * 【2024-05-25】[langchain-ai / langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) - LangChain + Next.js starter template
