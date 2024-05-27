@@ -53,6 +53,10 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-05-27】[THU-MIG / yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection
+* 【2024-05-27】[mistralai / mistral-finetune](https://github.com/mistralai/mistral-finetune) - 
+* 【2024-05-27】[HITsz-TMG / UMOE-Scaling-Unified-Multimodal-LLMs](https://github.com/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs) - The codes about "Uni-MoE: Scaling Unified Multimodal Models with Mixture of Experts"
+* 【2024-05-27】[maitrix-org / Pandora](https://github.com/maitrix-org/Pandora) - Pandora: Towards General World Model with Natural Language Actions and Video States
 * 【2024-05-26】[apache / flink-cdc](https://github.com/apache/flink-cdc) - Flink CDC is a streaming data integration tool
 * 【2024-05-26】[W01fh4cker / CVE-2024-21683-RCE](https://github.com/W01fh4cker/CVE-2024-21683-RCE) - CVE-2024-21683 Confluence Post Auth RCE
 * 【2024-05-25】[Ph0enixKM / Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
@@ -182,6 +186,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[module-federation / core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 ## Go
 
+* 【2024-05-27】[roblillack / spot](https://github.com/roblillack/spot) - React-like desktop GUI toolkit for Go
+* 【2024-05-27】[zuoyebang / bitalostored](https://github.com/zuoyebang/bitalostored) - Bitalostored is a high-performance distributed storage system, core engine based on bitalosdb(self-developed), compatible with Redis protocol.
+* 【2024-05-27】[Threadfin / Threadfin](https://github.com/Threadfin/Threadfin) - an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe
 * 【2024-05-26】[edgelesssys / contrast](https://github.com/edgelesssys/contrast) - Deploy and manage confidential containers on Kubernetes
 * 【2024-05-26】[pagefaultgames / rogueserver](https://github.com/pagefaultgames/rogueserver) - Game server backend and API for PokéRogue
 * 【2024-05-24】[defenseunicorns / zarf](https://github.com/defenseunicorns/zarf) - DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
@@ -223,6 +230,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[spacemeshos / go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node. 💾⏰💪
 ## Python
 
+* 【2024-05-27】[shamhi / HamsterKombatBot](https://github.com/shamhi/HamsterKombatBot) - Bot that mines coins in HamsterKombat
+* 【2024-05-27】[eloialonso / diamond](https://github.com/eloialonso/diamond) - DIAMOND (DIffusion As a Model Of eNvironment Dreams) is a reinforcement learning agent trained in a diffusion world model.
+* 【2024-05-27】[bellingcat / telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - Check if phone numbers are connected to Telegram accounts.
 * 【2024-05-26】[google-research / omniglue](https://github.com/google-research/omniglue) - Code release for CVPR'24 submission 'OmniGlue'
 * 【2024-05-26】[nvaccess / nvda](https://github.com/nvaccess/nvda) - NVDA, the free and open source Screen Reader for Microsoft Windows
 * 【2024-05-26】[epic-open-source / seismometer](https://github.com/epic-open-source/seismometer) - Predictive model evaluation with a focus on healthcare
@@ -414,6 +424,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[exploits-forsale / 24h2-nt-exploit](https://github.com/exploits-forsale/24h2-nt-exploit) - Exploit targeting NT kernel in 24H2 Windows Insider Preview
 ## C++
 
+* 【2024-05-27】[sorayuki / obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) - OBS複数サイト同時配信プラグイン
 * 【2024-05-26】[es3n1n / no-defender](https://github.com/es3n1n/no-defender) - A slightly more fun way to disable windows defender. (through the WSC api)
 * 【2024-05-26】[pcg-mlp / KsanaLLM](https://github.com/pcg-mlp/KsanaLLM) - 
 * 【2024-05-25】[sysown / proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
@@ -466,6 +477,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[tstack / lnav](https://github.com/tstack/lnav) - Log file navigator
 ## Typescript
 
+* 【2024-05-27】[normal-computing / fuji-web](https://github.com/normal-computing/fuji-web) - Fuji is an AI agent that lives in your browser's sidepanel. You can now get tasks done online with a single command!
+* 【2024-05-27】[solidjs / solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 * 【2024-05-26】[magicuidesign / magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 * 【2024-05-26】[Amery2010 / TalkWithGemini](https://github.com/Amery2010/TalkWithGemini) - Deploy your private Gemini application for free with one click, supporting Gemini 1.5 Pro, Gemini 1.5 Flash, Gemini Pro and Gemini Pro Vision models. 一键免费部署您的私人 Gemini 应用, 支持 Gemini 1.5 Pro、Gemini 1.5 Flash、Gemini Pro 和 Gemini Pro Vision 模型。
 * 【2024-05-26】[hoarder-app / hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
