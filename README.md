@@ -53,6 +53,9 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-05-30】[vladmandic / automatic](https://github.com/vladmandic/automatic) - SD.Next: Advanced Implementation of Stable Diffusion and other Diffusion-based generative image models
+* 【2024-05-30】[quickwit-oss / tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+* 【2024-05-30】[bpc-clone / bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) - 
 * 【2024-05-29】[didi / xiaoju-survey](https://github.com/didi/xiaoju-survey) - 「快速」打造「专属」问卷系统, 让调研「更轻松」
 * 【2024-05-29】[iyaja / llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 * 【2024-05-29】[lihaoyun6 / QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
@@ -193,6 +196,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[module-federation / core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 ## Go
 
+* 【2024-05-30】[yorukot / superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
+* 【2024-05-30】[jetify-com / devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 * 【2024-05-28】[ouqiang / gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 * 【2024-05-28】[hardentools / hardentools](https://github.com/hardentools/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
 * 【2024-05-27】[roblillack / spot](https://github.com/roblillack/spot) - React-like desktop GUI toolkit for Go
@@ -239,6 +244,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[spacemeshos / go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node. 💾⏰💪
 ## Python
 
+* 【2024-05-30】[Tele-AI / TeleSpeech-ASR](https://github.com/Tele-AI/TeleSpeech-ASR) - 
+* 【2024-05-30】[octo-models / octo](https://github.com/octo-models/octo) - Octo is a transformer-based robot policy trained on a diverse mix of 800k robot trajectories.
+* 【2024-05-30】[ambionics / cnext-exploits](https://github.com/ambionics/cnext-exploits) - Exploits for CNEXT (CVE-2024-2961), a buffer overflow in the glibc's iconv()
+* 【2024-05-30】[tencent-ailab / V-Express](https://github.com/tencent-ailab/V-Express) - V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images.
 * 【2024-05-29】[lks-ai / anynode](https://github.com/lks-ai/anynode) - A Node for ComfyUI that does what you ask it to do
 * 【2024-05-29】[dbrojas / optlib](https://github.com/dbrojas/optlib) - A library for financial options pricing written in Python.
 * 【2024-05-29】[RUC-NLPIR / FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) - ⚡FlashRAG: A Python Toolkit for Efficient RAG Research
@@ -402,6 +411,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[appium / appium-inspector](https://github.com/appium/appium-inspector) - A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server
 ## C
 
+* 【2024-05-30】[HarbourMasters / 2ship2harkinian](https://github.com/HarbourMasters/2ship2harkinian) - 
+* 【2024-05-30】[No-Chicken / OV-Watch](https://github.com/No-Chicken/OV-Watch) - A powerful Smart Watch based on STM32, FreeRTOS, LVGL. It only cost ￥80 RMB ( $12 USD ).
 * 【2024-05-29】[CDSoft / luax](https://github.com/CDSoft/luax) - luax is a Lua interpreter and REPL based on Lua 5.4, augmented with some useful packages. It is also a "compiler" that produces standalone executables from Lua scripts.
 * 【2024-05-29】[null-luo / btrace](https://github.com/null-luo/btrace) - btrace：binder_transaction+eBPF+Golang实现通用的Android APP动态行为追踪工具
 * 【2024-05-29】[pytorch / cpuinfo](https://github.com/pytorch/cpuinfo) - CPU INFOrmation library (x86/x86-64/ARM/ARM64, Linux/Windows/Android/macOS/iOS)
@@ -446,6 +457,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[exploits-forsale / 24h2-nt-exploit](https://github.com/exploits-forsale/24h2-nt-exploit) - Exploit targeting NT kernel in 24H2 Windows Insider Preview
 ## C++
 
+* 【2024-05-30】[chinosk6 / gakuen-imas-localify](https://github.com/chinosk6/gakuen-imas-localify) - 学园偶像大师 本地化插件（开发中...） / Gakumas localify plugin (Developing...)
 * 【2024-05-29】[DiscoGrad / DiscoGrad](https://github.com/DiscoGrad/DiscoGrad) - DiscoGrad - automatically differentiate across conditional branches in C++ programs
 * 【2024-05-29】[microsoft / GW-BASIC](https://github.com/microsoft/GW-BASIC) - The original source code of Microsoft GW-BASIC from 1983
 * 【2024-05-29】[tnodir / fort](https://github.com/tnodir/fort) - Fort Firewall for Windows
@@ -504,6 +516,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-05-01】[tstack / lnav](https://github.com/tstack/lnav) - Log file navigator
 ## Typescript
 
+* 【2024-05-30】[mqttjs / MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
+* 【2024-05-30】[slab / quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
+* 【2024-05-30】[MrXujiang / next-admin](https://github.com/MrXujiang/next-admin) - An out-of-the-box admin based on NextJS and AntDesign | 一款基于nextjs+antd5.0的中后台系统
 * 【2024-05-29】[M-cheng-web / web-tracing](https://github.com/M-cheng-web/web-tracing) - 为前端项目提供【 埋点、行为、性能、异常、请求、资源、路由、曝光、录屏 】监控手段
 * 【2024-05-28】[software-mansion / react-native-ide](https://github.com/software-mansion/react-native-ide) - 
 * 【2024-05-28】[obsidianmd / obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - 
