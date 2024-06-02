@@ -53,6 +53,14 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-06-02】[jianchang512 / ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) - 一个简单的本地网页界面，直接使用ChatTTS将文字合成为语音，同时支持对外提供API接口。
+* 【2024-06-02】[StasPlov / docker-unlock](https://github.com/StasPlov/docker-unlock) - Unlocks docker hub in Russia, Cuba, Iran, North Korea, Republic of Crimea, Sudan, and Syria
+* 【2024-06-02】[ToonCrafter / ToonCrafter](https://github.com/ToonCrafter/ToonCrafter) - a research paper for generative cartoon interpolation
+* 【2024-06-02】[digital-go-jp / design-system-example-components](https://github.com/digital-go-jp/design-system-example-components) - デジタル庁デザインシステムのサンプルコンポーネント
+* 【2024-06-02】[novitalabs / AnimateAnyone](https://github.com/novitalabs/AnimateAnyone) - Unofficial Implementation of Animate Anyone by Novita AI
+* 【2024-06-02】[apple / swift-migration-guide](https://github.com/apple/swift-migration-guide) - 
+* 【2024-06-02】[openjdk / jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
+* 【2024-06-02】[tspeterkim / insta-chat](https://github.com/tspeterkim/insta-chat) - DIY Instagram Chat Automation with Google Sheets
 * 【2024-06-01】[redpanda-data / connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
 * 【2024-06-01】[alibaba-yuanjing-aigclab / ViViD](https://github.com/alibaba-yuanjing-aigclab/ViViD) - ViViD: Video Virtual Try-on using Diffusion Models
 * 【2024-06-01】[pdm-project / pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
@@ -60,15 +68,23 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[mustafaaljadery / llama3v](https://github.com/mustafaaljadery/llama3v) - A SOTA vision model built on top of llama3 8B.
 ## Python
 
+* 【2024-06-02】[pengHTYX / Era3D](https://github.com/pengHTYX/Era3D) - 
+* 【2024-06-02】[sandeco / prompts](https://github.com/sandeco/prompts) - 
+* 【2024-06-02】[aws-samples / amazon-bedrock-serverless-prompt-chaining](https://github.com/aws-samples/amazon-bedrock-serverless-prompt-chaining) - 
 * 【2024-06-01】[wandb / wandb](https://github.com/wandb/wandb) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
 * 【2024-06-01】[bin123apple / AutoCoder](https://github.com/bin123apple/AutoCoder) - We introduced a new model designed for the Code generation task. Its test accuracy on the HumanEval base dataset surpasses that of GPT-4 Turbo (April 2024) and GPT-4o.
 * 【2024-06-01】[adysec / wechat_sqlite](https://github.com/adysec/wechat_sqlite) - 微信sqlite解密 | 从内存中快速搜索指定数据。获取基址+偏移量与特征，从而达到微信版本每次更新不需要重新查找地址。可获取自己电脑上已登录微信的微信号，wxid，手机号，sqlite解密密钥。解密微信sqlite数据库中存放的历史消息记录
 ## Javascript
 
+* 【2024-06-02】[feiyun0112 / Gradio.Net](https://github.com/feiyun0112/Gradio.Net) - Gradio for .NET – a port of Gradio, an open-source Python package that allows you to quickly build a demo or web application for your machine learning model, API, or any arbitrary Python function. Gradio for .NET – 基于 Gradio 的 .NET 移植，Gradio 是一个开源 Python 包，允许你为机器学习模型、API 或任何任意 Python 函数快速构建演示或 Web 应用程序。
 * 【2024-06-01】[adysec / cf-mirror](https://github.com/adysec/cf-mirror) - AdySec CF拉平镜像站 | 官方源可信度和稳定性最高，但国内访问速度较慢，通过众生平等Cloudflare，利用全球的边缘节点，将用户请求转发到离用户距离最近的节点，同时缓存静态内容加速，减少网络延迟和下载速度，使用Cloudflare Workers配置反代实现
 * 【2024-06-01】[QiuChenlyOpenSource / 91QiuChen](https://github.com/QiuChenlyOpenSource/91QiuChen) - 91 Sex asm code asian cosplay hexinhex porn big dick 花Q
 ## C
 
+* 【2024-06-02】[cococry / leif](https://github.com/cococry/leif) - Minimal, configurable & GPU accelerated Immediate Mode UI Library written with modern OpenGL
+* 【2024-06-02】[cloudberrydb / cloudberrydb](https://github.com/cloudberrydb/cloudberrydb) - Cloudberry Database - Next generation unified database for Analytics and AI
+* 【2024-06-02】[Waterdish / Shipwright-Android](https://github.com/Waterdish/Shipwright-Android) - Ship of Harkinian Android Port
+* 【2024-06-02】[lakinduakash / linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10).
 * 【2024-06-01】[greenplum-db / gpdb-archive](https://github.com/greenplum-db/gpdb-archive) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.
 * 【2024-06-01】[wolfi-dev / os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
 ## C++
@@ -77,5 +93,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[baidu / babylon](https://github.com/baidu/babylon) - High-Performance C++ Fundamental Library
 ## Typescript
 
+* 【2024-06-02】[vuejs / devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
+* 【2024-06-02】[MiningCattiva / x-spider](https://github.com/MiningCattiva/x-spider) - A spider for X (Twitter)
 * 【2024-06-01】[AIsouler / GKD_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
 * 【2024-06-01】[nolly-studio / cult-ui](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. Open source and TypeScript ready.
+## Go
+
+* 【2024-06-02】[google / cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
+* 【2024-06-02】[openkruise / kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (incubating project under CNCF)
