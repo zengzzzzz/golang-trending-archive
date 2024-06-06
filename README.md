@@ -109,6 +109,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[QiuChenlyOpenSource / 91QiuChen](https://github.com/QiuChenlyOpenSource/91QiuChen) - 91 Sex asm code asian cosplay hexinhex porn big dick 花Q
 ## C
 
+* 【2024-06-06】[riscv-software-src / riscv-tests](https://github.com/riscv-software-src/riscv-tests) - 
+* 【2024-06-06】[universal-ctags / ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
+* 【2024-06-06】[AlkaMotors / AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) - Firmware for stm32f051 based speed controllers for use with mutirotors
+* 【2024-06-06】[xroche / httrack](https://github.com/xroche/httrack) - HTTrack Website Copier, copy websites to your computer (Official repository)
 * 【2024-06-05】[CTR-tools / CTR-ModSDK](https://github.com/CTR-tools/CTR-ModSDK) - ModSDK - a modding toolkit to create mods for Crash Team Racing in C. This repository also houses an effort to fully decompile and reverse-engineer CTR in C.
 * 【2024-06-03】[Pzqqt / android_kernel_xiaomi_marble](https://github.com/Pzqqt/android_kernel_xiaomi_marble) - Melt Kernel For Redmi Note 12 Turbo (marble) / Poco F5 (marblein)
 * 【2024-06-02】[cococry / leif](https://github.com/cococry/leif) - Minimal, configurable & GPU accelerated Immediate Mode UI Library written with modern OpenGL
@@ -119,6 +123,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[wolfi-dev / os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
 ## C++
 
+* 【2024-06-06】[boostorg / beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11
 * 【2024-06-05】[pytorch / xla](https://github.com/pytorch/xla) - Enabling PyTorch on XLA Devices (e.g. Google TPU)
 * 【2024-06-04】[samtupy / nvgt](https://github.com/samtupy/nvgt) - The Nonvisual Gaming Toolkit
 * 【2024-06-04】[godot-jolt / godot-jolt](https://github.com/godot-jolt/godot-jolt) - Godot Jolt is a Godot extension that integrates the Jolt physics engine
@@ -128,6 +133,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[baidu / babylon](https://github.com/baidu/babylon) - High-Performance C++ Fundamental Library
 ## Typescript
 
+* 【2024-06-06】[xjh22222228 / nav](https://github.com/xjh22222228/nav) - 🔍 发现导航 , 最强静态导航网站
 * 【2024-06-05】[SawyerHood / tlbrowse](https://github.com/SawyerHood/tlbrowse) - Generate imagined websites on an infinite canvas
 * 【2024-06-05】[NapNeko / NapCatQQ](https://github.com/NapNeko/NapCatQQ) - 基于NTQQ的无头Bot框架
 * 【2024-06-05】[gitbrent / PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
