@@ -53,6 +53,10 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-06-08】[jordanbaird / Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+* 【2024-06-08】[KenneyNL / Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
+* 【2024-06-08】[google / mesop](https://github.com/google/mesop) - 
+* 【2024-06-08】[delta-io / delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
 * 【2024-06-05】[Anduin2017 / HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 * 【2024-06-04】[onuratakan / gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and ubuntu
 * 【2024-06-04】[folke / lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
@@ -81,6 +85,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[mustafaaljadery / llama3v](https://github.com/mustafaaljadery/llama3v) - A SOTA vision model built on top of llama3 8B.
 ## Python
 
+* 【2024-06-08】[mategol / PySilon-malware](https://github.com/mategol/PySilon-malware) - Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.
 * 【2024-06-05】[AiuniAI / Unique3D](https://github.com/AiuniAI/Unique3D) - Official implementation of Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image
 * 【2024-06-05】[tevslin / meeting-reporter](https://github.com/tevslin/meeting-reporter) - Human-AI collaboration to produce a newstory about a meeting from minutes or transcript
 * 【2024-06-05】[julep-ai / julep](https://github.com/julep-ai/julep) - Open-source alternative to Assistant's API with a managed backend for memory, RAG, tools and tasks. ~Supabase for building AI agents.
@@ -126,6 +131,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[wolfi-dev / os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
 ## C++
 
+* 【2024-06-08】[ydb-platform / ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
+* 【2024-06-08】[zealdocs / zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 * 【2024-06-07】[ByConity / ByConity](https://github.com/ByConity/ByConity) - ByConity is an open source cloud data warehouse
 * 【2024-06-07】[FEX-Emu / FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 * 【2024-06-07】[jarro2783 / cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser
@@ -139,6 +146,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[baidu / babylon](https://github.com/baidu/babylon) - High-Performance C++ Fundamental Library
 ## Typescript
 
+* 【2024-06-08】[idootop / mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
+* 【2024-06-08】[vercel / vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
+* 【2024-06-08】[laudspeaker / laudspeaker](https://github.com/laudspeaker/laudspeaker) - 📢 Laudspeaker is an Open Source Customer Engagement and Product Onboarding Platform. Open Source alternative to Braze / One Signal / Customer Io / Appcues / Pendo . Use Laudspeaker to design product onboarding flows and send product and event triggered emails, sms, push and more.
 * 【2024-06-06】[xjh22222228 / nav](https://github.com/xjh22222228/nav) - 🔍 发现导航 , 最强静态导航网站
 * 【2024-06-05】[SawyerHood / tlbrowse](https://github.com/SawyerHood/tlbrowse) - Generate imagined websites on an infinite canvas
 * 【2024-06-05】[NapNeko / NapCatQQ](https://github.com/NapNeko/NapCatQQ) - 基于NTQQ的无头Bot框架
@@ -155,6 +165,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[nolly-studio / cult-ui](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. Open source and TypeScript ready.
 ## Go
 
+* 【2024-06-08】[eksctl-io / eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS
+* 【2024-06-08】[google / osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 * 【2024-06-04】[ivoras / EncryptedNotepad2](https://github.com/ivoras/EncryptedNotepad2) - A Notepad-like simple text editor where files are saved (and later loaded) encrypted with AES-256.
 * 【2024-06-04】[heroiclabs / nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 * 【2024-06-04】[AccentDesign / gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go
