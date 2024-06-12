@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-06-12】[piku / piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
+* 【2024-06-12】[aws / amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) - Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.
 * 【2024-06-11】[DaoCloud / public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
 * 【2024-06-11】[microsoft / winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 * 【2024-06-11】[roboflow / notebooks](https://github.com/roboflow/notebooks) - Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM.
@@ -109,6 +111,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[adysec / wechat_sqlite](https://github.com/adysec/wechat_sqlite) - 微信sqlite解密 | 从内存中快速搜索指定数据。获取基址+偏移量与特征，从而达到微信版本每次更新不需要重新查找地址。可获取自己电脑上已登录微信的微信号，wxid，手机号，sqlite解密密钥。解密微信sqlite数据库中存放的历史消息记录
 ## Javascript
 
+* 【2024-06-12】[Neet-Nestor / Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A Tampermonkey script allowing you to download images and videos from Telegram web even if the group restricts downloading.
 * 【2024-06-07】[xaboy / form-create](https://github.com/xaboy/form-create) - 🔥🔥🔥 强大的动态表单生成器，通过数据驱动表单渲染，支持可视化设计。提高开发者对表单的开发效率。目前在OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
 * 【2024-06-07】[mishoo / UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
 * 【2024-06-07】[pablokbs / peladonerd](https://github.com/pablokbs/peladonerd) - Repo con los archivos que uso para mi videos en youtube
@@ -122,6 +125,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[QiuChenlyOpenSource / 91QiuChen](https://github.com/QiuChenlyOpenSource/91QiuChen) - 91 Sex asm code asian cosplay hexinhex porn big dick 花Q
 ## C
 
+* 【2024-06-12】[nginx / njs](https://github.com/nginx/njs) - A subset of JavaScript language to use in nginx
+* 【2024-06-12】[coreutils / coreutils](https://github.com/coreutils/coreutils) - upstream mirror
+* 【2024-06-12】[haampie / libtree](https://github.com/haampie/libtree) - ldd as a tree
 * 【2024-06-06】[riscv-software-src / riscv-tests](https://github.com/riscv-software-src/riscv-tests) - 
 * 【2024-06-06】[universal-ctags / ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 * 【2024-06-06】[AlkaMotors / AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) - Firmware for stm32f051 based speed controllers for use with mutirotors
@@ -136,6 +142,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[wolfi-dev / os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
 ## C++
 
+* 【2024-06-12】[s3fs-fuse / s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
+* 【2024-06-12】[dalathegreat / Battery-Emulator](https://github.com/dalathegreat/Battery-Emulator) - This software enables EV battery packs to be used for stationary storage in combination with solar inverters.
 * 【2024-06-10】[texstudio-org / texstudio](https://github.com/texstudio-org/texstudio) - TeXstudio is a fully featured LaTeX editor. Our goal is to make writing LaTeX documents as easy and comfortable as possible.
 * 【2024-06-09】[microsoft / onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing.
 * 【2024-06-09】[jellyfin / jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client based on Plex Media Player
@@ -154,6 +162,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[baidu / babylon](https://github.com/baidu/babylon) - High-Performance C++ Fundamental Library
 ## Typescript
 
+* 【2024-06-12】[xenova / whisper-web](https://github.com/xenova/whisper-web) - ML-powered speech recognition directly in your browser
 * 【2024-06-11】[xitanggg / open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 * 【2024-06-10】[mytonwalletorg / mytonwallet](https://github.com/mytonwalletorg/mytonwallet) - The most feature-rich web wallet and browser extension for TON Network
 * 【2024-06-09】[RhysSullivan / shiptalkers](https://github.com/RhysSullivan/shiptalkers) - 
@@ -178,6 +187,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[nolly-studio / cult-ui](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. Open source and TypeScript ready.
 ## Go
 
+* 【2024-06-12】[GoogleCloudPlatform / microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
+* 【2024-06-12】[kubernetes-sigs / secrets-store-csi-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver) - Secrets Store CSI driver for Kubernetes secrets - Integrates secrets stores with Kubernetes via a CSI volume.
+* 【2024-06-12】[kubernetes-sigs / controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 * 【2024-06-11】[wzshiming / crproxy](https://github.com/wzshiming/crproxy) - CRProxy (Container Registry Proxy)
 * 【2024-06-11】[imgproxy / imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 * 【2024-06-10】[danvergara / dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
