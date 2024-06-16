@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-06-16】[lepoco / wpfui](https://github.com/lepoco/wpfui) - WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly.
 * 【2024-06-15】[lexbor / lexbor](https://github.com/lexbor/lexbor) - Lexbor is development of an open source HTML Renderer library. https://lexbor.com
 * 【2024-06-15】[Stability-AI / StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 * 【2024-06-14】[fchollet / ARC-AGI](https://github.com/fchollet/ARC-AGI) - The Abstraction and Reasoning Corpus
@@ -99,6 +100,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[mustafaaljadery / llama3v](https://github.com/mustafaaljadery/llama3v) - A SOTA vision model built on top of llama3 8B.
 ## Python
 
+* 【2024-06-16】[ddgth / cf2dns](https://github.com/ddgth/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
+* 【2024-06-16】[reorx / httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
+* 【2024-06-16】[CollegesChat / university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
+* 【2024-06-16】[autogluon / autogluon](https://github.com/autogluon/autogluon) - Fast and Accurate ML in 3 Lines of Code
 * 【2024-06-15】[kubeflow / pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 * 【2024-06-15】[zauberzeug / nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 * 【2024-06-15】[aws-cloudformation / cfn-lint](https://github.com/aws-cloudformation/cfn-lint) - CloudFormation Linter
@@ -142,6 +147,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[QiuChenlyOpenSource / 91QiuChen](https://github.com/QiuChenlyOpenSource/91QiuChen) - 91 Sex asm code asian cosplay hexinhex porn big dick 花Q
 ## C
 
+* 【2024-06-16】[KhronosGroup / Vulkan-Loader](https://github.com/KhronosGroup/Vulkan-Loader) - Vulkan Loader
+* 【2024-06-16】[a0rtega / pafish](https://github.com/a0rtega/pafish) - Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do
 * 【2024-06-15】[PCRE2Project / pcre2](https://github.com/PCRE2Project/pcre2) - PCRE2 development is now based here.
 * 【2024-06-14】[RubyMetric / chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具. Change Source for every software on every platform from the command line.
 * 【2024-06-12】[nginx / njs](https://github.com/nginx/njs) - A subset of JavaScript language to use in nginx
@@ -183,6 +190,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[baidu / babylon](https://github.com/baidu/babylon) - High-Performance C++ Fundamental Library
 ## Typescript
 
+* 【2024-06-16】[fabian-hiller / valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
+* 【2024-06-16】[refined-github / refined-github](https://github.com/refined-github/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features
+* 【2024-06-16】[streamich / react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 * 【2024-06-15】[dooboolab-community / react-native-iap](https://github.com/dooboolab-community/react-native-iap) - In App Purchase module for React Native!
 * 【2024-06-15】[swiftlang / vscode-swift](https://github.com/swiftlang/vscode-swift) - Visual Studio Code Extension for Swift
 * 【2024-06-15】[mongodb-js / compass](https://github.com/mongodb-js/compass) - The GUI for MongoDB.
