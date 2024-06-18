@@ -102,6 +102,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[mustafaaljadery / llama3v](https://github.com/mustafaaljadery/llama3v) - A SOTA vision model built on top of llama3 8B.
 ## Python
 
+* 【2024-06-18】[satwikkansal / wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
+* 【2024-06-18】[numpy / numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 * 【2024-06-16】[ddgth / cf2dns](https://github.com/ddgth/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
 * 【2024-06-16】[reorx / httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 * 【2024-06-16】[CollegesChat / university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
@@ -170,6 +172,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[wolfi-dev / os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
 ## C++
 
+* 【2024-06-18】[Nevcairiel / LAVFilters](https://github.com/Nevcairiel/LAVFilters) - LAV Filters - Open-Source DirectShow Media Splitter and Decoders
 * 【2024-06-15】[openthread / openthread](https://github.com/openthread/openthread) - OpenThread released by Google is an open-source implementation of the Thread networking protocol
 * 【2024-06-15】[nodejs / node-addon-api](https://github.com/nodejs/node-addon-api) - Module for using Node-API from C++
 * 【2024-06-12】[s3fs-fuse / s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
@@ -228,6 +231,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[nolly-studio / cult-ui](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. Open source and TypeScript ready.
 ## Go
 
+* 【2024-06-18】[simulot / immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 * 【2024-06-17】[davecheney / httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
 * 【2024-06-15】[multiversx / mx-chain-go](https://github.com/multiversx/mx-chain-go) - ⚡ The official implementation of the MultiversX blockchain protocol, written in golang.
 * 【2024-06-15】[hashicorp / vault-secrets-operator](https://github.com/hashicorp/vault-secrets-operator) - The Vault Secrets Operator (VSO) allows Pods to consume Vault secrets natively from Kubernetes Secrets.
