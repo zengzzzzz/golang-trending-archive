@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-06-20】[argilla-io / argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
+* 【2024-06-20】[tencentmusic / supersonic](https://github.com/tencentmusic/supersonic) - SuperSonic is the next-generation BI platform that integrates Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.
 * 【2024-06-19】[datawhalechina / leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 * 【2024-06-17】[pymc-devs / pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling and Probabilistic Programming in Python
 * 【2024-06-17】[NVIDIA / warp](https://github.com/NVIDIA/warp) - A Python framework for high performance GPU simulation and graphics
@@ -103,6 +105,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[mustafaaljadery / llama3v](https://github.com/mustafaaljadery/llama3v) - A SOTA vision model built on top of llama3 8B.
 ## Python
 
+* 【2024-06-20】[SkalskiP / courses](https://github.com/SkalskiP/courses) - This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)
+* 【2024-06-20】[tensorflow / models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 * 【2024-06-19】[TomSchimansky / CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 * 【2024-06-19】[landing-ai / vision-agent](https://github.com/landing-ai/vision-agent) - Vision agent
 * 【2024-06-19】[google-research / bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
@@ -135,6 +139,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[adysec / wechat_sqlite](https://github.com/adysec/wechat_sqlite) - 微信sqlite解密 | 从内存中快速搜索指定数据。获取基址+偏移量与特征，从而达到微信版本每次更新不需要重新查找地址。可获取自己电脑上已登录微信的微信号，wxid，手机号，sqlite解密密钥。解密微信sqlite数据库中存放的历史消息记录
 ## Javascript
 
+* 【2024-06-20】[codemirror / codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
 * 【2024-06-19】[DefiLlama / chainlist](https://github.com/DefiLlama/chainlist) - 
 * 【2024-06-15】[hotwired / turbo-rails](https://github.com/hotwired/turbo-rails) - Use Turbo in your Ruby on Rails app
 * 【2024-06-15】[aws-actions / amazon-ecs-deploy-task-definition](https://github.com/aws-actions/amazon-ecs-deploy-task-definition) - Registers an Amazon ECS task definition and deploys it to an ECS service.
@@ -177,6 +182,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[wolfi-dev / os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
 ## C++
 
+* 【2024-06-20】[rizsotto / Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 * 【2024-06-19】[FrederoxDev / Amethyst](https://github.com/FrederoxDev/Amethyst) - Native c++ modding for MCBE 1.21.0.3 for building client side mods
 * 【2024-06-18】[Nevcairiel / LAVFilters](https://github.com/Nevcairiel/LAVFilters) - LAV Filters - Open-Source DirectShow Media Splitter and Decoders
 * 【2024-06-15】[openthread / openthread](https://github.com/openthread/openthread) - OpenThread released by Google is an open-source implementation of the Thread networking protocol
@@ -201,6 +207,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[baidu / babylon](https://github.com/baidu/babylon) - High-Performance C++ Fundamental Library
 ## Typescript
 
+* 【2024-06-20】[vercel / react-tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application.
 * 【2024-06-16】[fabian-hiller / valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
 * 【2024-06-16】[refined-github / refined-github](https://github.com/refined-github/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features
 * 【2024-06-16】[streamich / react-use](https://github.com/streamich/react-use) - React Hooks — 👍
