@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-06-22】[StamusNetworks / SELKS](https://github.com/StamusNetworks/SELKS) - A Suricata based IDS/IPS/NSM distro
+* 【2024-06-22】[MrKai77 / Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 * 【2024-06-20】[argilla-io / argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
 * 【2024-06-20】[tencentmusic / supersonic](https://github.com/tencentmusic/supersonic) - SuperSonic is the next-generation BI platform that integrates Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.
 * 【2024-06-19】[datawhalechina / leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
@@ -105,6 +107,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[mustafaaljadery / llama3v](https://github.com/mustafaaljadery/llama3v) - A SOTA vision model built on top of llama3 8B.
 ## Python
 
+* 【2024-06-22】[encode / django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
+* 【2024-06-22】[zilliztech / GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
+* 【2024-06-22】[DigitalPhonetics / IMS-Toucan](https://github.com/DigitalPhonetics/IMS-Toucan) - Multilingual and Controllable Text-to-Speech Toolkit of the Speech and Language Technologies Group at the University of Stuttgart.
+* 【2024-06-22】[airtai / faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
 * 【2024-06-21】[XPixelGroup / BasicSR](https://github.com/XPixelGroup/BasicSR) - Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, SwinIR, ECBSR, etc. Also support StyleGAN2, DFDNet.
 * 【2024-06-21】[mesonbuild / meson](https://github.com/mesonbuild/meson) - The Meson Build System
 * 【2024-06-21】[labelmeai / labelme](https://github.com/labelmeai/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
@@ -164,6 +170,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[QiuChenlyOpenSource / 91QiuChen](https://github.com/QiuChenlyOpenSource/91QiuChen) - 91 Sex asm code asian cosplay hexinhex porn big dick 花Q
 ## C
 
+* 【2024-06-22】[rsyslog / rsyslog](https://github.com/rsyslog/rsyslog) - a Rocket-fast SYStem for LOG processing
 * 【2024-06-16】[KhronosGroup / Vulkan-Loader](https://github.com/KhronosGroup/Vulkan-Loader) - Vulkan Loader
 * 【2024-06-16】[a0rtega / pafish](https://github.com/a0rtega/pafish) - Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do
 * 【2024-06-15】[PCRE2Project / pcre2](https://github.com/PCRE2Project/pcre2) - PCRE2 development is now based here.
@@ -185,6 +192,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[wolfi-dev / os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
 ## C++
 
+* 【2024-06-22】[niedev / RTranslator](https://github.com/niedev/RTranslator) - RTranslator is the world's first open source real-time translation app.
 * 【2024-06-21】[vnotex / vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
 * 【2024-06-20】[rizsotto / Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 * 【2024-06-19】[FrederoxDev / Amethyst](https://github.com/FrederoxDev/Amethyst) - Native c++ modding for MCBE 1.21.0.3 for building client side mods
