@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-06-23】[karpathy / micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
+* 【2024-06-23】[dataease / dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源数据可视化分析工具，帆软、Tableau 等商业 BI 工具的开源替代。
 * 【2024-06-22】[StamusNetworks / SELKS](https://github.com/StamusNetworks/SELKS) - A Suricata based IDS/IPS/NSM distro
 * 【2024-06-22】[MrKai77 / Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 * 【2024-06-20】[argilla-io / argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
@@ -107,6 +109,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[mustafaaljadery / llama3v](https://github.com/mustafaaljadery/llama3v) - A SOTA vision model built on top of llama3 8B.
 ## Python
 
+* 【2024-06-23】[saltstack / salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
 * 【2024-06-22】[encode / django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 * 【2024-06-22】[zilliztech / GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 * 【2024-06-22】[DigitalPhonetics / IMS-Toucan](https://github.com/DigitalPhonetics/IMS-Toucan) - Multilingual and Controllable Text-to-Speech Toolkit of the Speech and Language Technologies Group at the University of Stuttgart.
@@ -170,6 +173,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[QiuChenlyOpenSource / 91QiuChen](https://github.com/QiuChenlyOpenSource/91QiuChen) - 91 Sex asm code asian cosplay hexinhex porn big dick 花Q
 ## C
 
+* 【2024-06-23】[robertdavidgraham / wc2](https://github.com/robertdavidgraham/wc2) - Investigates optimizing 'wc', the Unix word count program
 * 【2024-06-22】[rsyslog / rsyslog](https://github.com/rsyslog/rsyslog) - a Rocket-fast SYStem for LOG processing
 * 【2024-06-16】[KhronosGroup / Vulkan-Loader](https://github.com/KhronosGroup/Vulkan-Loader) - Vulkan Loader
 * 【2024-06-16】[a0rtega / pafish](https://github.com/a0rtega/pafish) - Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do
@@ -219,6 +223,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[baidu / babylon](https://github.com/baidu/babylon) - High-Performance C++ Fundamental Library
 ## Typescript
 
+* 【2024-06-23】[chanind / hanzi-writer](https://github.com/chanind/hanzi-writer) - Chinese character stroke order animations and practice quizzes
+* 【2024-06-23】[Shopify / flash-list](https://github.com/Shopify/flash-list) - A better list for React Native
+* 【2024-06-23】[OpenRailAssociation / osrd](https://github.com/OpenRailAssociation/osrd) - An open source web application for railway infrastructure design, capacity analysis, timetabling and simulation
+* 【2024-06-23】[safe-global / safe-smart-account](https://github.com/safe-global/safe-smart-account) - Safe allows secure management of blockchain assets.
 * 【2024-06-21】[sanity-io / sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
 * 【2024-06-20】[vercel / react-tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application.
 * 【2024-06-16】[fabian-hiller / valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
@@ -257,6 +265,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-06-01】[nolly-studio / cult-ui](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. Open source and TypeScript ready.
 ## Go
 
+* 【2024-06-23】[alibaba / higress](https://github.com/alibaba/higress) - Cloud Native API Gateway | 云原生API网关
+* 【2024-06-23】[google / go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests
 * 【2024-06-19】[envoyproxy / ratelimit](https://github.com/envoyproxy/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
 * 【2024-06-19】[amacneil / dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 * 【2024-06-18】[simulot / immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
