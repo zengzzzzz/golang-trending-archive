@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-07-04】[BLAKE3-team / BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
+* 【2024-07-04】[jeremylong / DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 * 【2024-07-03】[NVIDIA / gpu-operator](https://github.com/NVIDIA/gpu-operator) - NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes
 * 【2024-07-02】[YaLTeR / niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 * 【2024-07-01】[ClayAmore / ER-Save-Editor](https://github.com/ClayAmore/ER-Save-Editor) - Elden Ring Save Editor. Compatible with PC and Playstation saves.
@@ -61,15 +63,21 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-07-01】[ruffle-rs / ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 ## Go
 
+* 【2024-07-04】[mr-karan / doggo](https://github.com/mr-karan/doggo) - 🐶 Command-line DNS Client for Humans. Written in Golang
+* 【2024-07-04】[sylabs / singularity](https://github.com/sylabs/singularity) - SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure.
 * 【2024-07-02】[slimtoolkit / slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 * 【2024-07-01】[botlabs-gg / yagpdb](https://github.com/botlabs-gg/yagpdb) - Yet another general purpose discord bot
 * 【2024-07-01】[cloudfoundry / cf-deployment](https://github.com/cloudfoundry/cf-deployment) - The canonical open source deployment manifest for Cloud Foundry
 ## Python
 
+* 【2024-07-04】[coreruleset / coreruleset](https://github.com/coreruleset/coreruleset) - OWASP CRS (Official Repository)
+* 【2024-07-04】[ComposioHQ / composio](https://github.com/ComposioHQ/composio) - Composio equips agents with well-crafted tools empowering them to tackle complex tasks
+* 【2024-07-04】[MiuLab / Taiwan-LLM](https://github.com/MiuLab/Taiwan-LLM) - Traditional Mandarin LLMs for Taiwan
 * 【2024-07-03】[pydata / xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets in Python
 * 【2024-07-01】[bkerler / mtkclient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool
 ## Javascript
 
+* 【2024-07-04】[microsoft / botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
 * 【2024-07-02】[toncenter / tonweb](https://github.com/toncenter/tonweb) - JavaScript SDK for TON (The Open Network)
 * 【2024-07-01】[overleaf / overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 * 【2024-07-01】[antfu / vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
@@ -81,6 +89,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-07-01】[multitheftauto / mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single-player game.
 ## Typescript
 
+* 【2024-07-04】[ant-design / ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
 * 【2024-07-03】[changesets / changesets](https://github.com/changesets/changesets) - 🦋 A way to manage your versioning and changelogs with a focus on monorepos
 * 【2024-07-02】[replit / kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 * 【2024-07-02】[pawelmalak / flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
