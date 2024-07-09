@@ -68,6 +68,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-07-01】[ruffle-rs / ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 ## Go
 
+* 【2024-07-09】[micro / go-micro](https://github.com/micro/go-micro) - A Go microservices framework
+* 【2024-07-09】[gnolang / gno](https://github.com/gnolang/gno) - Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + Gno.land: a blockchain for timeless code and fair open-source
 * 【2024-07-07】[hahwul / dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
 * 【2024-07-06】[screego / server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 * 【2024-07-06】[allora-network / allora-chain](https://github.com/allora-network/allora-chain) - Node software to run the Allora Network
@@ -92,6 +94,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-07-01】[bkerler / mtkclient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool
 ## Javascript
 
+* 【2024-07-09】[evidence-dev / evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown
+* 【2024-07-09】[josdejong / jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
+* 【2024-07-09】[RobinLinus / snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 * 【2024-07-07】[wangrongding / wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于 WeChaty 结合 OpenAi ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
 * 【2024-07-07】[metafloor / bwip-js](https://github.com/metafloor/bwip-js) - Barcode Writer in Pure JavaScript
 * 【2024-07-06】[eligrey / FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
@@ -104,6 +109,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-07-01】[twbs / icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 ## C++
 
+* 【2024-07-09】[swiftlang / swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 * 【2024-07-08】[turanszkij / WickedEngine](https://github.com/turanszkij/WickedEngine) - 3D engine with modern graphics
 * 【2024-07-08】[xfangfang / wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
 * 【2024-07-03】[triple-Mu / YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT) - YOLOv8 using TensorRT accelerate !
