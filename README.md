@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-07-13】[TeamNewPipe / NewPipeExtractor](https://github.com/TeamNewPipe/NewPipeExtractor) - NewPipe's core library for extracting data from streaming sites
+* 【2024-07-13】[apify / crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
 * 【2024-07-08】[alex-shpak / hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 * 【2024-07-07】[albertobsd / keyhunt](https://github.com/albertobsd/keyhunt) - privkey hunt for crypto currencies that use secp256k1 elliptic curve
 * 【2024-07-06】[microsoft / graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
@@ -82,6 +84,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-07-01】[cloudfoundry / cf-deployment](https://github.com/cloudfoundry/cf-deployment) - The canonical open source deployment manifest for Cloud Foundry
 ## Python
 
+* 【2024-07-13】[InternLM / Tutorial](https://github.com/InternLM/Tutorial) - LLM Tutorial
 * 【2024-07-12】[milesial / Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) - PyTorch implementation of the U-Net for image semantic segmentation with high quality images
 * 【2024-07-12】[urchade / GLiNER](https://github.com/urchade/GLiNER) - Generalist and Lightweight Model for Named Entity Recognition (Extract any entity types from texts) @ NAACL 2024
 * 【2024-07-11】[Netflix / dispatch](https://github.com/Netflix/dispatch) - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
@@ -117,6 +120,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-07-01】[twbs / icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 ## C++
 
+* 【2024-07-13】[qiayuanl / legged_control](https://github.com/qiayuanl/legged_control) - Nonlinear MPC and WBC framework for legged robot based on OCS2 and ros-controls
 * 【2024-07-12】[sebastianstarke / AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity
 * 【2024-07-10】[eclipse-sumo / sumo](https://github.com/eclipse-sumo/sumo) - Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
 * 【2024-07-09】[swiftlang / swift](https://github.com/swiftlang/swift) - The Swift Programming Language
@@ -127,6 +131,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-07-01】[multitheftauto / mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single-player game.
 ## Typescript
 
+* 【2024-07-13】[cornerstonejs / cornerstone3D](https://github.com/cornerstonejs/cornerstone3D) - Cornerstone is a set of JavaScript libraries that can be used to build web-based medical imaging applications. It provides a framework to build radiology applications such as the OHIF Viewer.
+* 【2024-07-13】[jquense / yup](https://github.com/jquense/yup) - Dead simple Object schema validation
+* 【2024-07-13】[tensorflow / tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 * 【2024-07-12】[growthbook / growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 * 【2024-07-11】[RamiAwar / dataline](https://github.com/RamiAwar/dataline) - Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite...
 * 【2024-07-11】[sussy-code / smov](https://github.com/sussy-code/smov) - Sudo-flix's source code (Allegedly)
