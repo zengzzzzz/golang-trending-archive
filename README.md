@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-07-14】[MystenLabs / sui](https://github.com/MystenLabs/sui) - Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
 * 【2024-07-13】[TeamNewPipe / NewPipeExtractor](https://github.com/TeamNewPipe/NewPipeExtractor) - NewPipe's core library for extracting data from streaming sites
 * 【2024-07-13】[apify / crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
 * 【2024-07-08】[alex-shpak / hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
@@ -70,6 +71,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-07-01】[ruffle-rs / ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 ## Go
 
+* 【2024-07-14】[vmware / govmomi](https://github.com/vmware/govmomi) - Go library for the VMware vSphere API
 * 【2024-07-12】[boltdb / bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
 * 【2024-07-11】[nerdswords / yet-another-cloudwatch-exporter](https://github.com/nerdswords/yet-another-cloudwatch-exporter) - Prometheus exporter for AWS CloudWatch - Discovers services through AWS tags, gets CloudWatch metrics data and provides them as Prometheus metrics with AWS tags as labels
 * 【2024-07-09】[micro / go-micro](https://github.com/micro/go-micro) - A Go microservices framework
@@ -84,6 +86,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-07-01】[cloudfoundry / cf-deployment](https://github.com/cloudfoundry/cf-deployment) - The canonical open source deployment manifest for Cloud Foundry
 ## Python
 
+* 【2024-07-14】[opendatalab / MinerU](https://github.com/opendatalab/MinerU) - MinerU is a one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
+* 【2024-07-14】[donnemartin / data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 * 【2024-07-13】[InternLM / Tutorial](https://github.com/InternLM/Tutorial) - LLM Tutorial
 * 【2024-07-12】[milesial / Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) - PyTorch implementation of the U-Net for image semantic segmentation with high quality images
 * 【2024-07-12】[urchade / GLiNER](https://github.com/urchade/GLiNER) - Generalist and Lightweight Model for Named Entity Recognition (Extract any entity types from texts) @ NAACL 2024
