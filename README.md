@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-07-17】[free-educa / books](https://github.com/free-educa/books) - o armazém de livros
 * 【2024-07-16】[neo4j-labs / llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
 * 【2024-07-14】[MystenLabs / sui](https://github.com/MystenLabs/sui) - Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
 * 【2024-07-13】[TeamNewPipe / NewPipeExtractor](https://github.com/TeamNewPipe/NewPipeExtractor) - NewPipe's core library for extracting data from streaming sites
@@ -90,6 +91,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-07-01】[cloudfoundry / cf-deployment](https://github.com/cloudfoundry/cf-deployment) - The canonical open source deployment manifest for Cloud Foundry
 ## Python
 
+* 【2024-07-17】[mem0ai / mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
+* 【2024-07-17】[aiwaves-cn / agents](https://github.com/aiwaves-cn/agents) - An Open-source Framework for Autonomous Language Agents
 * 【2024-07-14】[opendatalab / MinerU](https://github.com/opendatalab/MinerU) - MinerU is a one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
 * 【2024-07-14】[donnemartin / data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 * 【2024-07-13】[InternLM / Tutorial](https://github.com/InternLM/Tutorial) - LLM Tutorial
@@ -128,6 +131,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-07-01】[twbs / icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 ## C++
 
+* 【2024-07-17】[ROCm / HIP](https://github.com/ROCm/HIP) - HIP: C++ Heterogeneous-Compute Interface for Portability
+* 【2024-07-17】[strawberrymusicplayer / strawberry](https://github.com/strawberrymusicplayer/strawberry) - 🍓 Strawberry Music Player
 * 【2024-07-13】[qiayuanl / legged_control](https://github.com/qiayuanl/legged_control) - Nonlinear MPC and WBC framework for legged robot based on OCS2 and ros-controls
 * 【2024-07-12】[sebastianstarke / AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity
 * 【2024-07-10】[eclipse-sumo / sumo](https://github.com/eclipse-sumo/sumo) - Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
@@ -139,6 +144,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-07-01】[multitheftauto / mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single-player game.
 ## Typescript
 
+* 【2024-07-17】[codercup / unibest](https://github.com/codercup/unibest) - unibest - 最好用的 uniapp 开发框架。unibest 是由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板，使用 VS Code 开发，具有代码提示、自动格式化、统一配置、代码片段等功能，同时内置了大量平时开发常用的基本组件，开箱即用，让你编写 uniapp 拥有 best 体验。
 * 【2024-07-13】[cornerstonejs / cornerstone3D](https://github.com/cornerstonejs/cornerstone3D) - Cornerstone is a set of JavaScript libraries that can be used to build web-based medical imaging applications. It provides a framework to build radiology applications such as the OHIF Viewer.
 * 【2024-07-13】[jquense / yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 * 【2024-07-13】[tensorflow / tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
