@@ -93,6 +93,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-07-01】[cloudfoundry / cf-deployment](https://github.com/cloudfoundry/cf-deployment) - The canonical open source deployment manifest for Cloud Foundry
 ## Python
 
+* 【2024-07-19】[facebookresearch / detr](https://github.com/facebookresearch/detr) - End-to-End Object Detection with Transformers
 * 【2024-07-17】[mem0ai / mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
 * 【2024-07-17】[aiwaves-cn / agents](https://github.com/aiwaves-cn/agents) - An Open-source Framework for Autonomous Language Agents
 * 【2024-07-14】[opendatalab / MinerU](https://github.com/opendatalab/MinerU) - MinerU is a one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
@@ -117,6 +118,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-07-01】[bkerler / mtkclient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool
 ## Javascript
 
+* 【2024-07-19】[cavi-au / Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
+* 【2024-07-19】[liriliri / eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 * 【2024-07-18】[wordshub / free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
 * 【2024-07-18】[arkenfox / user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 * 【2024-07-10】[foliojs / pdfkit](https://github.com/foliojs/pdfkit) - A JavaScript PDF generation library for Node and the browser
@@ -135,6 +138,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-07-01】[twbs / icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 ## C++
 
+* 【2024-07-19】[flameshot-org / flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software 🖥️ 📸
 * 【2024-07-17】[ROCm / HIP](https://github.com/ROCm/HIP) - HIP: C++ Heterogeneous-Compute Interface for Portability
 * 【2024-07-17】[strawberrymusicplayer / strawberry](https://github.com/strawberrymusicplayer/strawberry) - 🍓 Strawberry Music Player
 * 【2024-07-13】[qiayuanl / legged_control](https://github.com/qiayuanl/legged_control) - Nonlinear MPC and WBC framework for legged robot based on OCS2 and ros-controls
