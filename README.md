@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-07-25】[Netflix / maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 * 【2024-07-24】[sinaatalay / rendercv](https://github.com/sinaatalay/rendercv) - A LaTeX CV/Resume Framework
 * 【2024-07-22】[PathOfBuildingCommunity / PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding) - Offline build planner for Path of Exile.
 * 【2024-07-21】[TraceMachina / nativelink](https://github.com/TraceMachina/nativelink) - NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and significant infrastructure cost savings.
@@ -79,6 +80,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-07-01】[ruffle-rs / ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 ## Go
 
+* 【2024-07-25】[progrium / darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
+* 【2024-07-25】[quay / clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 * 【2024-07-22】[kkdai / youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
 * 【2024-07-21】[quackduck / devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 * 【2024-07-21】[oliver006 / redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for ValKey & Redis Metrics. Supports ValKey and Redis 2.x, 3.x, 4.x, 5.x, 6.x, and 7.x
@@ -129,6 +132,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-07-01】[bkerler / mtkclient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool
 ## Javascript
 
+* 【2024-07-25】[PrismJS / prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
+* 【2024-07-25】[tabler / tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 * 【2024-07-21】[kevin-mizu / domloggerpp](https://github.com/kevin-mizu/domloggerpp) - A browser extension that allows you to monitor, intercept, and debug JavaScript sinks based on customizable configurations.
 * 【2024-07-19】[cavi-au / Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
 * 【2024-07-19】[liriliri / eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
