@@ -105,6 +105,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-07-01】[cloudfoundry / cf-deployment](https://github.com/cloudfoundry/cf-deployment) - The canonical open source deployment manifest for Cloud Foundry
 ## Python
 
+* 【2024-07-26】[ollama / ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
+* 【2024-07-26】[google-research / neuralgcm](https://github.com/google-research/neuralgcm) - Hybrid ML + physics model of the Earth's atmosphere
 * 【2024-07-23】[crewAIInc / crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 * 【2024-07-22】[crewAIInc / crewAI-examples](https://github.com/crewAIInc/crewAI-examples) - 
 * 【2024-07-19】[facebookresearch / detr](https://github.com/facebookresearch/detr) - End-to-End Object Detection with Transformers
@@ -132,6 +134,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-07-01】[bkerler / mtkclient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool
 ## Javascript
 
+* 【2024-07-26】[orestbida / cookieconsent](https://github.com/orestbida/cookieconsent) - 🍪 Simple cross-browser cookie-consent plugin written in vanilla js
 * 【2024-07-25】[PrismJS / prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 * 【2024-07-25】[tabler / tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 * 【2024-07-21】[kevin-mizu / domloggerpp](https://github.com/kevin-mizu/domloggerpp) - A browser extension that allows you to monitor, intercept, and debug JavaScript sinks based on customizable configurations.
@@ -174,6 +177,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-07-01】[multitheftauto / mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single-player game.
 ## Typescript
 
+* 【2024-07-26】[microsoft / vscode-cpptools](https://github.com/microsoft/vscode-cpptools) - Official repository for the Microsoft C/C++ extension for VS Code.
 * 【2024-07-24】[plouc / nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 * 【2024-07-23】[Zettlr / Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 * 【2024-07-21】[stoplightio / prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
