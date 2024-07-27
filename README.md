@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-07-27】[AutoMQ / automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud-first alternative to Kafka by decoupling durability to S3 and EBS. 10x cost-effective. Autoscale in seconds. Single-digit ms latency.
 * 【2024-07-25】[Netflix / maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 * 【2024-07-24】[sinaatalay / rendercv](https://github.com/sinaatalay/rendercv) - A LaTeX CV/Resume Framework
 * 【2024-07-22】[PathOfBuildingCommunity / PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding) - Offline build planner for Path of Exile.
@@ -80,6 +81,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-07-01】[ruffle-rs / ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 ## Go
 
+* 【2024-07-27】[rancher / local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes
 * 【2024-07-25】[progrium / darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 * 【2024-07-25】[quay / clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 * 【2024-07-22】[kkdai / youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
@@ -158,6 +160,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-07-01】[twbs / icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 ## C++
 
+* 【2024-07-27】[pytorch / FBGEMM](https://github.com/pytorch/FBGEMM) - FB (Facebook) + GEMM (General Matrix-Matrix Multiplication) - https://code.fb.com/ml-applications/fbgemm/
 * 【2024-07-24】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 * 【2024-07-22】[OGRECave / ogre](https://github.com/OGRECave/ogre) - scene-oriented, flexible 3D engine (C++, Python, C#, Java)
 * 【2024-07-21】[xournalpp / xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
