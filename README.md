@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-07-30】[miss-mumu / developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
+* 【2024-07-30】[recloudstream / cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
 * 【2024-07-29】[RayTracing / raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books)
 * 【2024-07-29】[OpenGenerativeAI / llm-colosseum](https://github.com/OpenGenerativeAI/llm-colosseum) - Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM
 * 【2024-07-28】[freeCodeCamp / devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
@@ -146,6 +148,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-07-01】[bkerler / mtkclient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool
 ## Javascript
 
+* 【2024-07-30】[spicetify / cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 * 【2024-07-28】[jquery / jquery-ui](https://github.com/jquery/jquery-ui) - The official jQuery user interface library.
 * 【2024-07-26】[orestbida / cookieconsent](https://github.com/orestbida/cookieconsent) - 🍪 Simple cross-browser cookie-consent plugin written in vanilla js
 * 【2024-07-25】[PrismJS / prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
@@ -171,6 +174,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-07-01】[twbs / icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 ## C++
 
+* 【2024-07-30】[zhongyang219 / MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - 这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。
 * 【2024-07-29】[elfmz / far2l](https://github.com/elfmz/far2l) - Linux port of FAR v2
 * 【2024-07-27】[pytorch / FBGEMM](https://github.com/pytorch/FBGEMM) - FB (Facebook) + GEMM (General Matrix-Matrix Multiplication) - https://code.fb.com/ml-applications/fbgemm/
 * 【2024-07-24】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
