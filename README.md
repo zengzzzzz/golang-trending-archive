@@ -60,6 +60,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[LibreHardwareMonitor / LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
 ## Python
 
+* 【2024-08-05】[McGill-NLP / llm2vec](https://github.com/McGill-NLP/llm2vec) - Code for 'LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders'
 * 【2024-08-04】[InternLM / lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM-based agents
 * 【2024-08-02】[pytorch / torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
 * 【2024-08-02】[ohyicong / decrypt-chrome-passwords](https://github.com/ohyicong/decrypt-chrome-passwords) - 
@@ -69,6 +70,16 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[usnistgov / dioptra](https://github.com/usnistgov/dioptra) - Test Software for the Characterization of AI Technologies
 ## Java
 
+* 【2024-08-05】[cabaletta / baritone](https://github.com/cabaletta/baritone) - google maps for block game
+* 【2024-08-05】[LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
+* 【2024-08-05】[spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
+* 【2024-08-05】[PlayPro / CoreProtect](https://github.com/PlayPro/CoreProtect) - CoreProtect is a blazing fast data logging and anti-griefing tool for Minecraft servers.
+* 【2024-08-05】[microg / GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
+* 【2024-08-05】[RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) - The API and the developer guide for Shizuku and Sui.
+* 【2024-08-05】[xiaojieonly / Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) - ehviewer，用爱发电，快乐前行
+* 【2024-08-05】[xpipe-io / xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
+* 【2024-08-05】[MinecraftForge / MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods. New Discord: https://discord.minecraftforge.net/
+* 【2024-08-05】[libgdx / libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 * 【2024-08-04】[Blankj / AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - 🔥 Android developers should collect the following utils(updating).
 * 【2024-08-04】[trinodb / trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 * 【2024-08-04】[alibaba / Sentinel](https://github.com/alibaba/Sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
@@ -123,6 +134,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[alibaba / jetcache](https://github.com/alibaba/jetcache) - JetCache is a Java cache framework.
 ## C
 
+* 【2024-08-05】[pr3y / Bruce](https://github.com/pr3y/Bruce) - Firmware for m5stack Cardputer, StickC and ESP32
 * 【2024-08-04】[hufrea / byedpi](https://github.com/hufrea/byedpi) - Bypass DPI
 * 【2024-08-03】[kiddin9 / openwrt-packages](https://github.com/kiddin9/openwrt-packages) - openwrt packages
 * 【2024-08-02】[basil00 / Divert](https://github.com/basil00/Divert) - WinDivert: Windows Packet Divert
@@ -148,6 +160,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-02】[tailwindlabs / tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
 ## Typescript
 
+* 【2024-08-05】[electron-userland / electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+* 【2024-08-05】[keldaanCommunity / pokemonAutoChess](https://github.com/keldaanCommunity/pokemonAutoChess) - Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon Company.
+* 【2024-08-05】[Jonghakseo / chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - Chrome Extension Boilerplate with React + Vite + Typescript
 * 【2024-08-04】[Tonejs / Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
 * 【2024-08-02】[ssoready / ssoready](https://github.com/ssoready/ssoready) - Open-source dev tools for enterprise SSO. Ship SAML support this afternoon.
 * 【2024-08-02】[reduxjs / redux](https://github.com/reduxjs/redux) - A JS library for predictable global state management
