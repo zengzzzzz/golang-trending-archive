@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-08-06】[marticliment / UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 * 【2024-08-04】[mtdvio / every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 * 【2024-08-04】[xvzc / SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
 * 【2024-08-04】[apache / apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
@@ -60,6 +61,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[LibreHardwareMonitor / LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
 ## Python
 
+* 【2024-08-06】[CodeXBotz / File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) - Telegram Bot to store Posts and Documents and it can Access by Special Links.
+* 【2024-08-06】[Cog-Creators / Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 * 【2024-08-05】[McGill-NLP / llm2vec](https://github.com/McGill-NLP/llm2vec) - Code for 'LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders'
 * 【2024-08-04】[InternLM / lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM-based agents
 * 【2024-08-02】[pytorch / torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
@@ -70,6 +73,14 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[usnistgov / dioptra](https://github.com/usnistgov/dioptra) - Test Software for the Characterization of AI Technologies
 ## Java
 
+* 【2024-08-06】[questdb / questdb](https://github.com/questdb/questdb) - QuestDB is an open source time-series database for fast ingest and SQL queries
+* 【2024-08-06】[apache / rocketmq](https://github.com/apache/rocketmq) - Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
+* 【2024-08-06】[cinit / QAuxiliary](https://github.com/cinit/QAuxiliary) - QNotified phoenix - To make OICQ great again
+* 【2024-08-06】[google / guava](https://github.com/google/guava) - Google core libraries for Java
+* 【2024-08-06】[FabricMC / fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
+* 【2024-08-06】[jhy / jsoup](https://github.com/jhy/jsoup) - jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.
+* 【2024-08-06】[CaffeineMC / sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter
+* 【2024-08-06】[LSPosed / LSPatch](https://github.com/LSPosed/LSPatch) - LSPatch: A non-root Xposed framework extending from LSPosed
 * 【2024-08-05】[cabaletta / baritone](https://github.com/cabaletta/baritone) - google maps for block game
 * 【2024-08-05】[LawnchairLauncher / lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 * 【2024-08-05】[spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
@@ -154,12 +165,14 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-02】[KindlingProject / kindling](https://github.com/KindlingProject/kindling) - eBPF-based Cloud Native Monitoring Tool
 ## Javascript
 
+* 【2024-08-06】[webtorrent / webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 * 【2024-08-04】[SadeghHayeri / GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 * 【2024-08-03】[CanadaHonk / porffor](https://github.com/CanadaHonk/porffor) - A from-scratch experimental AOT JS engine, written in JS
 * 【2024-08-03】[pcottle / learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 * 【2024-08-02】[tailwindlabs / tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
 ## Typescript
 
+* 【2024-08-06】[Jigsaw-Code / outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Server, developed by Jigsaw. The Outline Server is a proxy server that runs a Shadowsocks instance and provides a REST API for access key management.
 * 【2024-08-05】[electron-userland / electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 * 【2024-08-05】[keldaanCommunity / pokemonAutoChess](https://github.com/keldaanCommunity/pokemonAutoChess) - Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon Company.
 * 【2024-08-05】[Jonghakseo / chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - Chrome Extension Boilerplate with React + Vite + Typescript
