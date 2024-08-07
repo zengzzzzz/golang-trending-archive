@@ -53,6 +53,9 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-08-07】[trailofbits / multiplier](https://github.com/trailofbits/multiplier) - Code auditing productivity multiplier.
+* 【2024-08-07】[bghira / SimpleTuner](https://github.com/bghira/SimpleTuner) - A general fine-tuning kit geared toward Stable Diffusion 2.1, Stable Diffusion 3, DeepFloyd, and SDXL.
+* 【2024-08-07】[ardalis / CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
 * 【2024-08-06】[marticliment / UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 * 【2024-08-04】[mtdvio / every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 * 【2024-08-04】[xvzc / SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
@@ -73,6 +76,18 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[usnistgov / dioptra](https://github.com/usnistgov/dioptra) - Test Software for the Characterization of AI Technologies
 ## Java
 
+* 【2024-08-07】[google / gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
+* 【2024-08-07】[apache / pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
+* 【2024-08-07】[Activiti / Activiti](https://github.com/Activiti/Activiti) - Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the…
+* 【2024-08-07】[alibaba / transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) - 📌 a missing Java std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using thread pooling components.
+* 【2024-08-07】[OpenAPITools / openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+* 【2024-08-07】[apache / fury](https://github.com/apache/fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
+* 【2024-08-07】[camunda / camunda](https://github.com/camunda/camunda) - Process Orchestration Framework
+* 【2024-08-07】[preslavmihaylov / booknotes](https://github.com/preslavmihaylov/booknotes) - A collection of my book notes on various subjects, mainly computer science
+* 【2024-08-07】[DataDog / dd-trace-java](https://github.com/DataDog/dd-trace-java) - Datadog APM client for Java
+* 【2024-08-07】[apache / avro](https://github.com/apache/avro) - Apache Avro is a data serialization system.
+* 【2024-08-07】[alibaba / spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
+* 【2024-08-07】[thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 * 【2024-08-06】[questdb / questdb](https://github.com/questdb/questdb) - QuestDB is an open source time-series database for fast ingest and SQL queries
 * 【2024-08-06】[apache / rocketmq](https://github.com/apache/rocketmq) - Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
 * 【2024-08-06】[cinit / QAuxiliary](https://github.com/cinit/QAuxiliary) - QNotified phoenix - To make OICQ great again
@@ -145,6 +160,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[alibaba / jetcache](https://github.com/alibaba/jetcache) - JetCache is a Java cache framework.
 ## C
 
+* 【2024-08-07】[ataradov / usb-sniffer-lite](https://github.com/ataradov/usb-sniffer-lite) - A simple USB sniffer based on Raspberry Pi RP2040
 * 【2024-08-05】[pr3y / Bruce](https://github.com/pr3y/Bruce) - Firmware for m5stack Cardputer, StickC and ESP32
 * 【2024-08-04】[hufrea / byedpi](https://github.com/hufrea/byedpi) - Bypass DPI
 * 【2024-08-03】[kiddin9 / openwrt-packages](https://github.com/kiddin9/openwrt-packages) - openwrt packages
@@ -162,9 +178,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[randombit / botan](https://github.com/randombit/botan) - Cryptography Toolkit
 ## Go
 
+* 【2024-08-07】[encoredev / encore](https://github.com/encoredev/encore) - Encore is the Backend Development Platform for building distributed systems and event-driven applications.
+* 【2024-08-07】[99designs / aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 * 【2024-08-02】[KindlingProject / kindling](https://github.com/KindlingProject/kindling) - eBPF-based Cloud Native Monitoring Tool
 ## Javascript
 
+* 【2024-08-07】[hackthedev / dcts-shipping](https://github.com/hackthedev/dcts-shipping) - A Chat Platform like Discord but self-hostable like TeamSpeak
 * 【2024-08-06】[webtorrent / webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 * 【2024-08-04】[SadeghHayeri / GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 * 【2024-08-03】[CanadaHonk / porffor](https://github.com/CanadaHonk/porffor) - A from-scratch experimental AOT JS engine, written in JS
