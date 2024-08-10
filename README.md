@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-08-10】[goldbergyoni / nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2024)
 * 【2024-08-07】[trailofbits / multiplier](https://github.com/trailofbits/multiplier) - Code auditing productivity multiplier.
 * 【2024-08-07】[bghira / SimpleTuner](https://github.com/bghira/SimpleTuner) - A general fine-tuning kit geared toward Stable Diffusion 2.1, Stable Diffusion 3, DeepFloyd, and SDXL.
 * 【2024-08-07】[ardalis / CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
@@ -64,6 +65,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[LibreHardwareMonitor / LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
 ## Python
 
+* 【2024-08-10】[heshengtao / comfyui_LLM_party](https://github.com/heshengtao/comfyui_LLM_party) - Dify in comfyui is compatible with Omost,ChatTTS,access to Feishu,discord,and adapts to all models with similar openai interfaces, such as ollama, qwen, GLM, deepseek, moonshot,doubao. Adapted to local models such as llama/qwen/GLM,Linkage neo4j KG，Implemented the function of graphRAG.Supports a variety of RAG.
 * 【2024-08-09】[pytorch / rl](https://github.com/pytorch/rl) - A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.
 * 【2024-08-09】[statsmodels / statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
 * 【2024-08-09】[jorhelp / Ingram](https://github.com/jorhelp/Ingram) - 网络摄像头漏洞扫描工具 | Webcam vulnerability scanning tool
@@ -82,6 +84,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[usnistgov / dioptra](https://github.com/usnistgov/dioptra) - Test Software for the Characterization of AI Technologies
 ## Java
 
+* 【2024-08-10】[mapstruct / mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers
+* 【2024-08-10】[spring-projects / spring-security](https://github.com/spring-projects/spring-security) - Spring Security
+* 【2024-08-10】[jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
+* 【2024-08-10】[junit-team / junit5](https://github.com/junit-team/junit5) - ✅ The 5th major version of the programmer-friendly testing framework for Java and the JVM
+* 【2024-08-10】[alibaba / canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
 * 【2024-08-09】[zongzibinbin / MallChat](https://github.com/zongzibinbin/MallChat) - mallchat的后端项目，是一个既能购物又能聊天的电商系统。以互联网企业级开发规范的要求来实现它，电商该有的购物车，订单，支付，推荐，搜索，拉新，促活，推送，物流，客服，它都必须有。持续更新ing。。（点个star，不迷路）
 * 【2024-08-09】[pentaho / pentaho-kettle](https://github.com/pentaho/pentaho-kettle) - Pentaho Data Integration ( ETL ) a.k.a Kettle
 * 【2024-08-09】[provectus / kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management
@@ -205,6 +212,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-02】[KindlingProject / kindling](https://github.com/KindlingProject/kindling) - eBPF-based Cloud Native Monitoring Tool
 ## Javascript
 
+* 【2024-08-10】[cables-gl / cables](https://github.com/cables-gl/cables) - cables is a tool for creating beautiful interactive content
 * 【2024-08-07】[hackthedev / dcts-shipping](https://github.com/hackthedev/dcts-shipping) - A Chat Platform like Discord but self-hostable like TeamSpeak
 * 【2024-08-06】[webtorrent / webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 * 【2024-08-04】[SadeghHayeri / GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
@@ -213,6 +221,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-02】[tailwindlabs / tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
 ## Typescript
 
+* 【2024-08-10】[Kanaries / GWalkR](https://github.com/Kanaries/GWalkR) - Turn your data frame into a tableau style drag and drop UI interface to build visualization in R.
 * 【2024-08-09】[certd / certd](https://github.com/certd/certd) - 免费通配符域名SSL证书全自动申请、更新、续期、部署安装，支持部署到阿里云、腾讯云、ssh主机。Automatically apply, renew and deploy free Generic domain SSL Certificates。
 * 【2024-08-06】[Jigsaw-Code / outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Server, developed by Jigsaw. The Outline Server is a proxy server that runs a Shadowsocks instance and provides a REST API for access key management.
 * 【2024-08-05】[electron-userland / electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
