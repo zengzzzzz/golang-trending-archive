@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-08-11】[MahmoudAshraf97 / whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
+* 【2024-08-11】[onceupon / Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 * 【2024-08-10】[goldbergyoni / nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2024)
 * 【2024-08-07】[trailofbits / multiplier](https://github.com/trailofbits/multiplier) - Code auditing productivity multiplier.
 * 【2024-08-07】[bghira / SimpleTuner](https://github.com/bghira/SimpleTuner) - A general fine-tuning kit geared toward Stable Diffusion 2.1, Stable Diffusion 3, DeepFloyd, and SDXL.
@@ -84,6 +86,13 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[usnistgov / dioptra](https://github.com/usnistgov/dioptra) - Test Software for the Characterization of AI Technologies
 ## Java
 
+* 【2024-08-11】[signalapp / Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
+* 【2024-08-11】[SuperMonster003 / AutoJs6](https://github.com/SuperMonster003/AutoJs6) - 安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)
+* 【2024-08-11】[spring-projects / spring-session](https://github.com/spring-projects/spring-session) - Spring Session
+* 【2024-08-11】[apache / solr](https://github.com/apache/solr) - Apache Solr open-source search software
+* 【2024-08-11】[apache / doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database.
+* 【2024-08-11】[liquibase / liquibase](https://github.com/liquibase/liquibase) - Main Liquibase Source
+* 【2024-08-11】[google / ExoPlayer](https://github.com/google/ExoPlayer) - This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media
 * 【2024-08-10】[mapstruct / mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers
 * 【2024-08-10】[spring-projects / spring-security](https://github.com/spring-projects/spring-security) - Spring Security
 * 【2024-08-10】[jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
@@ -212,6 +221,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-02】[KindlingProject / kindling](https://github.com/KindlingProject/kindling) - eBPF-based Cloud Native Monitoring Tool
 ## Javascript
 
+* 【2024-08-11】[WebKit / WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 * 【2024-08-10】[cables-gl / cables](https://github.com/cables-gl/cables) - cables is a tool for creating beautiful interactive content
 * 【2024-08-07】[hackthedev / dcts-shipping](https://github.com/hackthedev/dcts-shipping) - A Chat Platform like Discord but self-hostable like TeamSpeak
 * 【2024-08-06】[webtorrent / webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
@@ -221,6 +231,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-02】[tailwindlabs / tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
 ## Typescript
 
+* 【2024-08-11】[playcanvas / supersplat](https://github.com/playcanvas/supersplat) - 3D Gaussian Splat Editor
+* 【2024-08-11】[toss / es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
 * 【2024-08-10】[Kanaries / GWalkR](https://github.com/Kanaries/GWalkR) - Turn your data frame into a tableau style drag and drop UI interface to build visualization in R.
 * 【2024-08-09】[certd / certd](https://github.com/certd/certd) - 免费通配符域名SSL证书全自动申请、更新、续期、部署安装，支持部署到阿里云、腾讯云、ssh主机。Automatically apply, renew and deploy free Generic domain SSL Certificates。
 * 【2024-08-06】[Jigsaw-Code / outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Server, developed by Jigsaw. The Outline Server is a proxy server that runs a Shadowsocks instance and provides a REST API for access key management.
