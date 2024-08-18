@@ -75,6 +75,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[LibreHardwareMonitor / LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
 ## Python
 
+* 【2024-08-18】[opendatalab / labelU](https://github.com/opendatalab/labelU) - Data annotation toolbox supports image, audio and video data.
 * 【2024-08-17】[RasaHQ / rasa](https://github.com/RasaHQ/rasa) - 💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
 * 【2024-08-17】[intelowlproject / IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
 * 【2024-08-16】[sustcsonglin / flash-linear-attention](https://github.com/sustcsonglin/flash-linear-attention) - Efficient implementations of state-of-the-art linear attention models in Pytorch and Triton
@@ -106,6 +107,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[usnistgov / dioptra](https://github.com/usnistgov/dioptra) - Test Software for the Characterization of AI Technologies
 ## Java
 
+* 【2024-08-18】[alibaba / easyexcel](https://github.com/alibaba/easyexcel) - 快速、简洁、解决大文件内存溢出的java处理Excel工具
+* 【2024-08-18】[amitshekhariitbhu / android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions and Answers
+* 【2024-08-18】[648540858 / wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) - WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。
+* 【2024-08-18】[spring-projects / spring-security-samples](https://github.com/spring-projects/spring-security-samples) - 
+* 【2024-08-18】[apache / kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
 * 【2024-08-17】[prestodb / presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 * 【2024-08-17】[apache / skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 * 【2024-08-17】[rtm516 / MCXboxBroadcast](https://github.com/rtm516/MCXboxBroadcast) - A simple Geyser extension that broadcasts the server over Xbox Live.
@@ -259,6 +265,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[alibaba / jetcache](https://github.com/alibaba/jetcache) - JetCache is a Java cache framework.
 ## C
 
+* 【2024-08-18】[Wren6991 / PicoDVI](https://github.com/Wren6991/PicoDVI) - Bitbanged DVI on the RP2040 Microcontroller
 * 【2024-08-16】[libAudioFlux / audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 * 【2024-08-15】[kilograham / rp2040-doom](https://github.com/kilograham/rp2040-doom) - Fully-featured Doom port for the Raspberry Pi RP2040 microcontroller
 * 【2024-08-09】[openocd-org / openocd](https://github.com/openocd-org/openocd) - Official OpenOCD Read-Only Mirror (no pull requests)
@@ -284,6 +291,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[randombit / botan](https://github.com/randombit/botan) - Cryptography Toolkit
 ## Go
 
+* 【2024-08-18】[erigontech / erigon](https://github.com/erigontech/erigon) - Ethereum implementation on the efficiency frontier https://erigon.gitbook.io
 * 【2024-08-16】[cloudwego / hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
 * 【2024-08-16】[argoproj / argo-events](https://github.com/argoproj/argo-events) - Event-driven Automation Framework for Kubernetes
 * 【2024-08-16】[NVIDIA / dcgm-exporter](https://github.com/NVIDIA/dcgm-exporter) - NVIDIA GPU metrics exporter for Prometheus leveraging DCGM
@@ -295,6 +303,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-02】[KindlingProject / kindling](https://github.com/KindlingProject/kindling) - eBPF-based Cloud Native Monitoring Tool
 ## Javascript
 
+* 【2024-08-18】[shimohq / chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 * 【2024-08-17】[marcelscruz / public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 * 【2024-08-17】[d07RiV / diabloweb](https://github.com/d07RiV/diabloweb) - Diablo 1 for web browsers
 * 【2024-08-12】[seanprashad / leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for learning technical interview questions
@@ -308,6 +317,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-02】[tailwindlabs / tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
 ## Typescript
 
+* 【2024-08-18】[tonkeeper / tonkeeper-web](https://github.com/tonkeeper/tonkeeper-web) - Tonkeeper Web is a multi-platform open-source non-custodial TON crypto wallet and gateway to blockchain dApps
+* 【2024-08-18】[tutao / tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
+* 【2024-08-18】[JoshuaKGoldberg / create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 💝
 * 【2024-08-17】[ajayyy / SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 * 【2024-08-17】[apollographql / apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 * 【2024-08-16】[conanbatt / interview-practice](https://github.com/conanbatt/interview-practice) - A repo for interview practice.
