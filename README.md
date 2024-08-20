@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-08-20】[SorellaLabs / brontes](https://github.com/SorellaLabs/brontes) - A blazingly fast general purpose blockchain analytics engine specialized in systematic mev detection
 * 【2024-08-19】[AriaLyy / Aria](https://github.com/AriaLyy/Aria) - 
 * 【2024-08-19】[OpenBB-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 * 【2024-08-17】[chen08209 / FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
@@ -77,6 +78,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[LibreHardwareMonitor / LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
 ## Python
 
+* 【2024-08-20】[magic-wormhole / magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
+* 【2024-08-20】[tornadoweb / tornado](https://github.com/tornadoweb/tornado) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
 * 【2024-08-19】[ZhengPeng7 / BiRefNet](https://github.com/ZhengPeng7/BiRefNet) - [CAAI AIR'24] Bilateral Reference for High-Resolution Dichotomous Image Segmentation
 * 【2024-08-18】[opendatalab / labelU](https://github.com/opendatalab/labelU) - Data annotation toolbox supports image, audio and video data.
 * 【2024-08-17】[RasaHQ / rasa](https://github.com/RasaHQ/rasa) - 💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
@@ -110,6 +113,14 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[usnistgov / dioptra](https://github.com/usnistgov/dioptra) - Test Software for the Characterization of AI Technologies
 ## Java
 
+* 【2024-08-20】[PBH-BTN / PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。PeerId黑名单/UserAgent黑名单/IP CIDR/假进度/超量下载/进度回退/多播追猎/连锁封禁/伪装检测 支持 qBittorrent/Transmission/Deluge/BiglyBT/Vuze(Azureus)
+* 【2024-08-20】[REAndroid / APKEditor](https://github.com/REAndroid/APKEditor) - Powerful android apk editor - aapt/aapt2 independent
+* 【2024-08-20】[Minestom / Minestom](https://github.com/Minestom/Minestom) - 1.21 Lightweight Minecraft server
+* 【2024-08-20】[00-Evan / shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.
+* 【2024-08-20】[gahogg / Leetcode-Solutions](https://github.com/gahogg/Leetcode-Solutions) - The repository for all of the solutions to the Leetcode problems solved on my YouTube, Instagram and TikTok
+* 【2024-08-20】[alibaba / fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
+* 【2024-08-20】[iBotPeaches / Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
+* 【2024-08-20】[nextcloud / android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 * 【2024-08-19】[mywalkb / LSPosed_mod](https://github.com/mywalkb/LSPosed_mod) - My changes to LSPosed
 * 【2024-08-19】[FCL-Team / FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) - Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
 * 【2024-08-19】[jplag / JPlag](https://github.com/jplag/JPlag) - State-of-the-Art Software Plagiarism & Collusion Detection
@@ -311,6 +322,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-02】[KindlingProject / kindling](https://github.com/KindlingProject/kindling) - eBPF-based Cloud Native Monitoring Tool
 ## Javascript
 
+* 【2024-08-20】[tobspr-games / shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
+* 【2024-08-20】[Floorp-Projects / Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 * 【2024-08-19】[TiddlyWiki / TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 * 【2024-08-19】[KilledByAPixel / LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is a fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
 * 【2024-08-18】[shimohq / chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
@@ -327,6 +340,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-02】[tailwindlabs / tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
 ## Typescript
 
+* 【2024-08-20】[mxkaske / mxkaske.dev](https://github.com/mxkaske/mxkaske.dev) - 
 * 【2024-08-18】[tonkeeper / tonkeeper-web](https://github.com/tonkeeper/tonkeeper-web) - Tonkeeper Web is a multi-platform open-source non-custodial TON crypto wallet and gateway to blockchain dApps
 * 【2024-08-18】[tutao / tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 * 【2024-08-18】[JoshuaKGoldberg / create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 💝
