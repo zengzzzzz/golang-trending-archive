@@ -78,6 +78,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[LibreHardwareMonitor / LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
 ## Python
 
+* 【2024-08-22】[pymupdf / PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
+* 【2024-08-22】[asavinov / intelligent-trading-bot](https://github.com/asavinov/intelligent-trading-bot) - Intelligent Trading Bot: Automatically generating signals and trading based on machine learning and feature engineering
+* 【2024-08-22】[NVlabs / VILA](https://github.com/NVlabs/VILA) - VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)
 * 【2024-08-21】[YvanYin / Metric3D](https://github.com/YvanYin/Metric3D) - The repo for "Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image" and "Metric3Dv2: A Versatile Monocular Geometric Foundation Model..."
 * 【2024-08-20】[magic-wormhole / magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 * 【2024-08-20】[tornadoweb / tornado](https://github.com/tornadoweb/tornado) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
@@ -114,6 +117,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[usnistgov / dioptra](https://github.com/usnistgov/dioptra) - Test Software for the Characterization of AI Technologies
 ## Java
 
+* 【2024-08-22】[brettwooldridge / HikariCP](https://github.com/brettwooldridge/HikariCP) - 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
+* 【2024-08-22】[geoserver / geoserver](https://github.com/geoserver/geoserver) - Official GeoServer repository
+* 【2024-08-22】[spring-projects / spring-integration](https://github.com/spring-projects/spring-integration) - Spring Integration provides an extension of the Spring programming model to support the well-known Enterprise Integration Patterns (EIP)
 * 【2024-08-21】[logisim-evolution / logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
 * 【2024-08-21】[PhilJay / MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
 * 【2024-08-21】[kekingcn / kkFileView](https://github.com/kekingcn/kkFileView) - Universal File Online Preview Project based on Spring-Boot
@@ -318,6 +324,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[randombit / botan](https://github.com/randombit/botan) - Cryptography Toolkit
 ## Go
 
+* 【2024-08-22】[sourcegraph / sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
+* 【2024-08-22】[adnanh / webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 * 【2024-08-19】[rusq / slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 * 【2024-08-18】[erigontech / erigon](https://github.com/erigontech/erigon) - Ethereum implementation on the efficiency frontier https://erigon.gitbook.io
 * 【2024-08-16】[cloudwego / hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
@@ -331,6 +339,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-02】[KindlingProject / kindling](https://github.com/KindlingProject/kindling) - eBPF-based Cloud Native Monitoring Tool
 ## Javascript
 
+* 【2024-08-22】[bluewave-labs / bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime) - BlueWave Uptime Monitor application
 * 【2024-08-21】[alvarotrigo / fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 * 【2024-08-20】[tobspr-games / shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
 * 【2024-08-20】[Floorp-Projects / Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
@@ -350,6 +359,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-02】[tailwindlabs / tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
 ## Typescript
 
+* 【2024-08-22】[mattpocock / total-typescript-monorepo](https://github.com/mattpocock/total-typescript-monorepo) - The home of all Matt's internal tooling
 * 【2024-08-21】[captbaritone / webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 * 【2024-08-20】[mxkaske / mxkaske.dev](https://github.com/mxkaske/mxkaske.dev) - 
 * 【2024-08-18】[tonkeeper / tonkeeper-web](https://github.com/tonkeeper/tonkeeper-web) - Tonkeeper Web is a multi-platform open-source non-custodial TON crypto wallet and gateway to blockchain dApps
