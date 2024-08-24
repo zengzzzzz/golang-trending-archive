@@ -79,6 +79,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[LibreHardwareMonitor / LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
 ## Python
 
+* 【2024-08-24】[cookiecutter / cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
+* 【2024-08-24】[SylphAI-Inc / AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The “PyTorch” library to auto-optimize any LLM tasks.
 * 【2024-08-23】[kubernetes-client / python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 * 【2024-08-22】[pymupdf / PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 * 【2024-08-22】[asavinov / intelligent-trading-bot](https://github.com/asavinov/intelligent-trading-bot) - Intelligent Trading Bot: Automatically generating signals and trading based on machine learning and feature engineering
@@ -119,6 +121,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[usnistgov / dioptra](https://github.com/usnistgov/dioptra) - Test Software for the Characterization of AI Technologies
 ## Java
 
+* 【2024-08-24】[redis / jedis](https://github.com/redis/jedis) - Redis Java client
+* 【2024-08-24】[apache / fineract](https://github.com/apache/fineract) - Apache Fineract
+* 【2024-08-24】[ben-manes / caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java
+* 【2024-08-24】[apache / cassandra](https://github.com/apache/cassandra) - Apache Cassandra®
 * 【2024-08-23】[nashtech-garage / yas](https://github.com/nashtech-garage/yas) - YAS: Yet Another Shop, a sample microservices project in Java
 * 【2024-08-23】[kubernetes-client / java](https://github.com/kubernetes-client/java) - Official Java client library for kubernetes
 * 【2024-08-23】[testcontainers / testcontainers-java](https://github.com/testcontainers/testcontainers-java) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
@@ -300,6 +306,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[alibaba / jetcache](https://github.com/alibaba/jetcache) - JetCache is a Java cache framework.
 ## C
 
+* 【2024-08-24】[pawelsalawa / sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
+* 【2024-08-24】[open-telemetry / opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation) - OpenTelemetry Auto Instrumentation using eBPF
 * 【2024-08-21】[unbit / uwsgi](https://github.com/unbit/uwsgi) - uWSGI application server container
 * 【2024-08-18】[Wren6991 / PicoDVI](https://github.com/Wren6991/PicoDVI) - Bitbanged DVI on the RP2040 Microcontroller
 * 【2024-08-16】[libAudioFlux / audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
@@ -345,6 +353,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-02】[KindlingProject / kindling](https://github.com/KindlingProject/kindling) - eBPF-based Cloud Native Monitoring Tool
 ## Javascript
 
+* 【2024-08-24】[micromatch / micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, ract-native, taro, bulma, browser-sync, stylelint, nyc, ava, and many others! Follow micromatch's author: https://github.com/jonschlinkert
 * 【2024-08-23】[mermaid-js / mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 * 【2024-08-23】[jfedor2 / hid-remapper](https://github.com/jfedor2/hid-remapper) - USB input remapping dongle
 * 【2024-08-22】[bluewave-labs / bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime) - BlueWave Uptime Monitor application
@@ -367,6 +376,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-02】[tailwindlabs / tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
 ## Typescript
 
+* 【2024-08-24】[kamranahmedse / driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
+* 【2024-08-24】[Jigsaw-Code / outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
 * 【2024-08-23】[PlasmoHQ / plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 * 【2024-08-22】[mattpocock / total-typescript-monorepo](https://github.com/mattpocock/total-typescript-monorepo) - The home of all Matt's internal tooling
 * 【2024-08-21】[captbaritone / webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
