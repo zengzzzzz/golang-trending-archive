@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-08-25】[flxzt / rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 * 【2024-08-23】[All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 * 【2024-08-20】[SorellaLabs / brontes](https://github.com/SorellaLabs/brontes) - A blazingly fast general purpose blockchain analytics engine specialized in systematic mev detection
 * 【2024-08-19】[AriaLyy / Aria](https://github.com/AriaLyy/Aria) - 
@@ -79,6 +80,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[LibreHardwareMonitor / LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
 ## Python
 
+* 【2024-08-25】[Lightning-AI / LitServe](https://github.com/Lightning-AI/LitServe) - High-throughput serving engine for AI models. Easy to use. Flexible. Enterprise scale.
+* 【2024-08-25】[bobbyiliev / 101-linux-commands-ebook](https://github.com/bobbyiliev/101-linux-commands-ebook) - 101 Linux commands Open-source eBook
 * 【2024-08-24】[cookiecutter / cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 * 【2024-08-24】[SylphAI-Inc / AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The “PyTorch” library to auto-optimize any LLM tasks.
 * 【2024-08-23】[kubernetes-client / python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
@@ -121,6 +124,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[usnistgov / dioptra](https://github.com/usnistgov/dioptra) - Test Software for the Characterization of AI Technologies
 ## Java
 
+* 【2024-08-25】[nfcgate / nfcgate](https://github.com/nfcgate/nfcgate) - An NFC research toolkit application for Android
+* 【2024-08-25】[apache / lucene](https://github.com/apache/lucene) - Apache Lucene open-source search software
+* 【2024-08-25】[CarGuo / GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，16k page size，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。
+* 【2024-08-25】[elastic / elasticsearch-java](https://github.com/elastic/elasticsearch-java) - Official Elasticsearch Java Client
 * 【2024-08-24】[redis / jedis](https://github.com/redis/jedis) - Redis Java client
 * 【2024-08-24】[apache / fineract](https://github.com/apache/fineract) - Apache Fineract
 * 【2024-08-24】[ben-manes / caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java
@@ -321,6 +328,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[open-sdr / openwifi](https://github.com/open-sdr/openwifi) - open-source IEEE 802.11 WiFi baseband FPGA (chip) design: driver, software
 ## C++
 
+* 【2024-08-25】[EsotericSoftware / spine-runtimes](https://github.com/EsotericSoftware/spine-runtimes) - 2D skeletal animation runtimes for Spine.
+* 【2024-08-25】[srsran / srsRAN_4G](https://github.com/srsran/srsRAN_4G) - Open source SDR 4G software suite from Software Radio Systems (SRS) https://docs.srsran.com/projects/4g
 * 【2024-08-23】[ros-controls / ros2_controllers](https://github.com/ros-controls/ros2_controllers) - Generic robotic controllers to accompany ros2_control
 * 【2024-08-21】[chrxh / alien](https://github.com/chrxh/alien) - ALIEN is a CUDA-powered artificial life simulation program.
 * 【2024-08-19】[PlatformLab / NanoLog](https://github.com/PlatformLab/NanoLog) - Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API.
@@ -353,6 +362,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-02】[KindlingProject / kindling](https://github.com/KindlingProject/kindling) - eBPF-based Cloud Native Monitoring Tool
 ## Javascript
 
+* 【2024-08-25】[EmulatorJS / EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) - A web-based frontend for RetroArch
 * 【2024-08-24】[micromatch / micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, ract-native, taro, bulma, browser-sync, stylelint, nyc, ava, and many others! Follow micromatch's author: https://github.com/jonschlinkert
 * 【2024-08-23】[mermaid-js / mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 * 【2024-08-23】[jfedor2 / hid-remapper](https://github.com/jfedor2/hid-remapper) - USB input remapping dongle
@@ -376,6 +386,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-02】[tailwindlabs / tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
 ## Typescript
 
+* 【2024-08-25】[xushengfeng / eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 滚动截屏 Screenshot OCR search translate search for picture paste the picture on the screen screen recorder
 * 【2024-08-24】[kamranahmedse / driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 * 【2024-08-24】[Jigsaw-Code / outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
 * 【2024-08-23】[PlasmoHQ / plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
