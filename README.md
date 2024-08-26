@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## All language
 
+* 【2024-08-26】[casey / just](https://github.com/casey/just) - 🤖 Just a command runner
 * 【2024-08-25】[flxzt / rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 * 【2024-08-23】[All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 * 【2024-08-20】[SorellaLabs / brontes](https://github.com/SorellaLabs/brontes) - A blazingly fast general purpose blockchain analytics engine specialized in systematic mev detection
@@ -80,6 +81,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[LibreHardwareMonitor / LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
 ## Python
 
+* 【2024-08-26】[google / vizier](https://github.com/google/vizier) - Python-based research interface for blackbox and hyperparameter optimization, based on the internal Google Vizier Service.
+* 【2024-08-26】[s0md3v / Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 * 【2024-08-25】[Lightning-AI / LitServe](https://github.com/Lightning-AI/LitServe) - High-throughput serving engine for AI models. Easy to use. Flexible. Enterprise scale.
 * 【2024-08-25】[bobbyiliev / 101-linux-commands-ebook](https://github.com/bobbyiliev/101-linux-commands-ebook) - 101 Linux commands Open-source eBook
 * 【2024-08-24】[cookiecutter / cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
@@ -124,6 +127,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[usnistgov / dioptra](https://github.com/usnistgov/dioptra) - Test Software for the Characterization of AI Technologies
 ## Java
 
+* 【2024-08-26】[Querz / mcaselector](https://github.com/Querz/mcaselector) - A tool to select chunks from Minecraft worlds for deletion or export.
+* 【2024-08-26】[redisson / redisson](https://github.com/redisson/redisson) - Redisson - Easy Redis Java client and Real-Time Data Platform. Valkey compatible. Sync/Async/RxJava/Reactive API. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache ...
+* 【2024-08-26】[in28minutes / master-spring-and-spring-boot](https://github.com/in28minutes/master-spring-and-spring-boot) - Spring and Spring Boot Tutorial For Absolute Beginners - 10-in-1 - Spring to Spring Boot to REST API to Full Stack to Containers to Cloud
 * 【2024-08-25】[nfcgate / nfcgate](https://github.com/nfcgate/nfcgate) - An NFC research toolkit application for Android
 * 【2024-08-25】[apache / lucene](https://github.com/apache/lucene) - Apache Lucene open-source search software
 * 【2024-08-25】[CarGuo / GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，16k page size，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。
@@ -328,6 +334,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[open-sdr / openwifi](https://github.com/open-sdr/openwifi) - open-source IEEE 802.11 WiFi baseband FPGA (chip) design: driver, software
 ## C++
 
+* 【2024-08-26】[dpjudas / SurrealEngine](https://github.com/dpjudas/SurrealEngine) - Unreal Tournament Engine Reimplementation
+* 【2024-08-26】[man-group / ArcticDB](https://github.com/man-group/ArcticDB) - ArcticDB is a high performance, serverless DataFrame database built for the Python Data Science ecosystem.
+* 【2024-08-26】[nisargjhaveri / WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle) - Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi.
 * 【2024-08-25】[EsotericSoftware / spine-runtimes](https://github.com/EsotericSoftware/spine-runtimes) - 2D skeletal animation runtimes for Spine.
 * 【2024-08-25】[srsran / srsRAN_4G](https://github.com/srsran/srsRAN_4G) - Open source SDR 4G software suite from Software Radio Systems (SRS) https://docs.srsran.com/projects/4g
 * 【2024-08-23】[ros-controls / ros2_controllers](https://github.com/ros-controls/ros2_controllers) - Generic robotic controllers to accompany ros2_control
@@ -347,6 +356,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-08-01】[randombit / botan](https://github.com/randombit/botan) - Cryptography Toolkit
 ## Go
 
+* 【2024-08-26】[rabilrbl / jiotv_go](https://github.com/rabilrbl/jiotv_go) - Unlock the magic of JioTV across all your devices, without the need for the JioTV App. Crafted with love in Golang for a delightful blend of speed and efficiency! 🌟✨
 * 【2024-08-22】[sourcegraph / sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 * 【2024-08-22】[adnanh / webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 * 【2024-08-19】[rusq / slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
