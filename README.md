@@ -51,3 +51,23 @@ To get started with the Golang Trending Archive, follow these steps:
 
 # Daily Trending
 
+## Go
+
+* 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
+## Python
+
+* 【2024-09-01】[scikit-image / scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python
+* 【2024-09-01】[mlfoundations / open_clip](https://github.com/mlfoundations/open_clip) - An open source implementation of CLIP.
+* 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
+## Java
+
+* 【2024-09-01】[rememberber / MooTool](https://github.com/rememberber/MooTool) - Handy tool set for developers. 开发者常备小工具
+* 【2024-09-01】[supertokens / supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
+* 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
+## Typescript
+
+* 【2024-09-01】[jehna / humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
+* 【2024-09-01】[electron-react-boilerplate / electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
+* 【2024-09-01】[gitroomhq / postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social posts, measure them, exchange with other members and get a lot of help from AI 🚀
+* 【2024-09-01】[RSSNext / Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
+* 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
