@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2024-09-04】[cbeuw / Cloak](https://github.com/cbeuw/Cloak) - A censorship circumvention tool to evade detection by authoritarian state adversaries
 * 【2024-09-03】[safing / portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 * 【2024-09-03】[txthinking / brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
 * 【2024-09-02】[aceberg / WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
@@ -60,6 +61,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2024-09-04】[OWASP / Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 * 【2024-09-03】[Recol / DLSS-Updater](https://github.com/Recol/DLSS-Updater) - What if you could update all the games that are detected on your system?
 * 【2024-09-03】[hanxi / xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
 * 【2024-09-02】[mpoon / gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
@@ -68,6 +70,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2024-09-04】[apache / tika](https://github.com/apache/tika) - The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF).
+* 【2024-09-04】[irsdl / IIS-ShortName-Scanner](https://github.com/irsdl/IIS-ShortName-Scanner) - latest version of scanners for IIS short filename (8.3) disclosure vulnerability
+* 【2024-09-04】[gyoogle / tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) - 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 * 【2024-09-03】[Dev4Mod / WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp tools for Android
 * 【2024-09-02】[Wynntils / Wynntils](https://github.com/Wynntils/Wynntils) - Wynntils (Artemis) is a rewrite of Wynntils in 1.21 using Architectury, to support Fabric and Forge.
 * 【2024-09-02】[ReChronoRain / HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) - MIUI & HyperOS enhancement module - Make MIUI & HyperOS Great Again!
@@ -93,13 +98,16 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-02】[AppFlowy-IO / AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 ## Javascript
 
+* 【2024-09-04】[iam-veeramalla / observability-zero-to-hero](https://github.com/iam-veeramalla/observability-zero-to-hero) - [WIP]: Repo for learning observability
 * 【2024-09-03】[xnx3 / translate](https://github.com/xnx3/translate) - Two lines of js realize automatic html translation. No need to change the page, no language configuration file, no API key, SEO friendly!
 * 【2024-09-02】[VirgilClyne / iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
 ## C
 
+* 【2024-09-04】[coop-deluxe / sm64coopdx](https://github.com/coop-deluxe/sm64coopdx) - An official continuation of https://github.com/djoslin0/sm64ex-coop on sm64coopdx for the enhancements and progress it already has.
 * 【2024-09-03】[bluekitchen / btstack](https://github.com/bluekitchen/btstack) - Dual-mode Bluetooth stack, with small memory footprint.
 * 【2024-09-02】[libsdl-org / SDL_image](https://github.com/libsdl-org/SDL_image) - Image decoding for many popular formats for Simple Directmedia Layer.
 ## C++
 
+* 【2024-09-04】[LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 * 【2024-09-03】[simulationcraft / simc](https://github.com/simulationcraft/simc) - Simulationcraft engine/GUI
 * 【2024-09-02】[DistroAV / DistroAV](https://github.com/DistroAV/DistroAV) - DistroAV (formerly OBS-NDI): NewTek NDI integration for OBS Studio
