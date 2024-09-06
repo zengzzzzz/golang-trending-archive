@@ -61,6 +61,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2024-09-06】[axolotl-ai-cloud / axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 * 【2024-09-05】[microsoft / torchgeo](https://github.com/microsoft/torchgeo) - TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data
 * 【2024-09-05】[spyder-ide / spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
 * 【2024-09-05】[derv82 / wifite2](https://github.com/derv82/wifite2) - Rewrite of the popular wireless network auditor, "wifite"
@@ -74,6 +75,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2024-09-06】[apache / hbase](https://github.com/apache/hbase) - Apache HBase
 * 【2024-09-05】[plantuml / plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 * 【2024-09-05】[neo4j / neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 * 【2024-09-04】[apache / tika](https://github.com/apache/tika) - The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF).
@@ -90,6 +92,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2024-09-06】[atinux / nuxt-auth-utils](https://github.com/atinux/nuxt-auth-utils) - Minimal Auth module for Nuxt 3.
 * 【2024-09-01】[jehna / humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
 * 【2024-09-01】[electron-react-boilerplate / electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 * 【2024-09-01】[gitroomhq / postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social posts, measure them, exchange with other members and get a lot of help from AI 🚀
@@ -97,6 +100,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## All language
 
+* 【2024-09-06】[odygrd / quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C++ Logging Library
+* 【2024-09-06】[paritytech / polkadot-sdk](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK
 * 【2024-09-05】[librespot-org / librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 * 【2024-09-05】[PaddlePaddle / PaddleHelix](https://github.com/PaddlePaddle/PaddleHelix) - Bio-Computing Platform Featuring Large-Scale Representation Learning and Multi-Task Deep Learning “螺旋桨”生物计算工具集
 * 【2024-09-05】[Freika / dawarich](https://github.com/Freika/dawarich) - Self-hosted alternative to Google Location History (Google Maps Timeline)
