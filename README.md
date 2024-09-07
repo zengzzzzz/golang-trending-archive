@@ -61,6 +61,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2024-09-07】[polarsource / polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
+* 【2024-09-07】[devanshbatham / Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups) - A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference
 * 【2024-09-06】[axolotl-ai-cloud / axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 * 【2024-09-05】[microsoft / torchgeo](https://github.com/microsoft/torchgeo) - TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data
 * 【2024-09-05】[spyder-ide / spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
@@ -75,6 +77,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2024-09-07】[OpenBAS-Platform / openbas](https://github.com/OpenBAS-Platform/openbas) - Open Breach and Attack Simulation Platform
 * 【2024-09-06】[apache / hbase](https://github.com/apache/hbase) - Apache HBase
 * 【2024-09-05】[plantuml / plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 * 【2024-09-05】[neo4j / neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
@@ -100,6 +103,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## All language
 
+* 【2024-09-07】[autowarefoundation / autoware](https://github.com/autowarefoundation/autoware) - Autoware - the world's leading open-source software project for autonomous driving
 * 【2024-09-06】[odygrd / quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C++ Logging Library
 * 【2024-09-06】[paritytech / polkadot-sdk](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK
 * 【2024-09-05】[librespot-org / librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
@@ -112,17 +116,22 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-02】[AppFlowy-IO / AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 ## Javascript
 
+* 【2024-09-07】[stripe-samples / accept-a-payment](https://github.com/stripe-samples/accept-a-payment) - Learn how to accept a payment from customers around the world with a variety of payment methods.
+* 【2024-09-07】[KaTeX / KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 * 【2024-09-04】[iam-veeramalla / observability-zero-to-hero](https://github.com/iam-veeramalla/observability-zero-to-hero) - [WIP]: Repo for learning observability
 * 【2024-09-03】[xnx3 / translate](https://github.com/xnx3/translate) - Two lines of js realize automatic html translation. No need to change the page, no language configuration file, no API key, SEO friendly!
 * 【2024-09-02】[VirgilClyne / iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
 ## C
 
+* 【2024-09-07】[sz3 / cfc](https://github.com/sz3/cfc) - Demo/test android app for libcimbar. Copy files over the cell phone camera!
 * 【2024-09-05】[SuperIlu / DOjS](https://github.com/SuperIlu/DOjS) - A MS-DOS Creative Coding IDE/platform based on JavaScript
 * 【2024-09-04】[coop-deluxe / sm64coopdx](https://github.com/coop-deluxe/sm64coopdx) - An official continuation of https://github.com/djoslin0/sm64ex-coop on sm64coopdx for the enhancements and progress it already has.
 * 【2024-09-03】[bluekitchen / btstack](https://github.com/bluekitchen/btstack) - Dual-mode Bluetooth stack, with small memory footprint.
 * 【2024-09-02】[libsdl-org / SDL_image](https://github.com/libsdl-org/SDL_image) - Image decoding for many popular formats for Simple Directmedia Layer.
 ## C++
 
+* 【2024-09-07】[sz3 / libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
+* 【2024-09-07】[RWKV / rwkv.cpp](https://github.com/RWKV/rwkv.cpp) - INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model
 * 【2024-09-04】[LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 * 【2024-09-03】[simulationcraft / simc](https://github.com/simulationcraft/simc) - Simulationcraft engine/GUI
 * 【2024-09-02】[DistroAV / DistroAV](https://github.com/DistroAV/DistroAV) - DistroAV (formerly OBS-NDI): NewTek NDI integration for OBS Studio
