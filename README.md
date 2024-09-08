@@ -77,6 +77,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2024-09-08】[oracle / graal](https://github.com/oracle/graal) - GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
+* 【2024-09-08】[JabRef / jabref](https://github.com/JabRef/jabref) - Graphical Java application for managing BibTeX and biblatex (.bib) databases
 * 【2024-09-07】[OpenBAS-Platform / openbas](https://github.com/OpenBAS-Platform/openbas) - Open Breach and Attack Simulation Platform
 * 【2024-09-06】[apache / hbase](https://github.com/apache/hbase) - Apache HBase
 * 【2024-09-05】[plantuml / plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
@@ -95,6 +97,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2024-09-08】[langchain-ai / langgraphjs](https://github.com/langchain-ai/langgraphjs) - ⚡ Build language agents as graphs ⚡
+* 【2024-09-08】[oldj / SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
+* 【2024-09-08】[cloudflare / serverless-registry](https://github.com/cloudflare/serverless-registry) - A Docker registry backed by Workers and R2.
 * 【2024-09-06】[atinux / nuxt-auth-utils](https://github.com/atinux/nuxt-auth-utils) - Minimal Auth module for Nuxt 3.
 * 【2024-09-01】[jehna / humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
 * 【2024-09-01】[electron-react-boilerplate / electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
@@ -103,6 +108,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## All language
 
+* 【2024-09-08】[ChrisTitusTech / linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 * 【2024-09-07】[autowarefoundation / autoware](https://github.com/autowarefoundation/autoware) - Autoware - the world's leading open-source software project for autonomous driving
 * 【2024-09-06】[odygrd / quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C++ Logging Library
 * 【2024-09-06】[paritytech / polkadot-sdk](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK
