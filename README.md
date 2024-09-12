@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2024-09-12】[openziti / ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @openziti
 * 【2024-09-10】[arduino / arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 * 【2024-09-09】[dop251 / goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
 * 【2024-09-04】[cbeuw / Cloak](https://github.com/cbeuw/Cloak) - A censorship circumvention tool to evade detection by authoritarian state adversaries
@@ -63,6 +64,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2024-09-12】[run-llama / llama_deploy](https://github.com/run-llama/llama_deploy) - 
+* 【2024-09-12】[DataDog / integrations-core](https://github.com/DataDog/integrations-core) - Core integrations of the Datadog Agent
 * 【2024-09-11】[iryna-kondr / scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
 * 【2024-09-11】[unclecode / crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
 * 【2024-09-09】[simonw / datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
@@ -84,6 +87,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2024-09-12】[in28minutes / devops-master-class](https://github.com/in28minutes/devops-master-class) - Devops Tutorial for Beginners - Learn Docker, Kubernetes, Terraform, Ansible, Jenkins and Azure Devops
 * 【2024-09-11】[tronprotocol / java-tron](https://github.com/tronprotocol/java-tron) - Java implementation of the Tron whitepaper
 * 【2024-09-11】[pytorch / serve](https://github.com/pytorch/serve) - Serve, optimize and scale PyTorch models in production
 * 【2024-09-09】[rubenlagus / TelegramBots](https://github.com/rubenlagus/TelegramBots) - Java library to create bots using Telegram Bots API
@@ -110,6 +114,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2024-09-12】[Stability-AI / StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
 * 【2024-09-08】[langchain-ai / langgraphjs](https://github.com/langchain-ai/langgraphjs) - ⚡ Build language agents as graphs ⚡
 * 【2024-09-08】[oldj / SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 * 【2024-09-08】[cloudflare / serverless-registry](https://github.com/cloudflare/serverless-registry) - A Docker registry backed by Workers and R2.
@@ -138,6 +143,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-02】[AppFlowy-IO / AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 ## Javascript
 
+* 【2024-09-12】[rabbitmq / rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
 * 【2024-09-09】[lyfe00011 / whatsapp-bot](https://github.com/lyfe00011/whatsapp-bot) - A whatsapp bot based on baileys
 * 【2024-09-09】[bitfocus / companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the reasonably priced Elgato Streamdeck and other controllers to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadcast equipment.
 * 【2024-09-07】[stripe-samples / accept-a-payment](https://github.com/stripe-samples/accept-a-payment) - Learn how to accept a payment from customers around the world with a variety of payment methods.
@@ -154,6 +160,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-02】[libsdl-org / SDL_image](https://github.com/libsdl-org/SDL_image) - Image decoding for many popular formats for Simple Directmedia Layer.
 ## C++
 
+* 【2024-09-12】[turing-machines / mentals-ai](https://github.com/turing-machines/mentals-ai) - 🍓🍓🍓 Agents in Markdown syntax (loops, memory and tools included).
+* 【2024-09-12】[mawww / kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 * 【2024-09-09】[openblack / openblack](https://github.com/openblack/openblack) - openblack is an open-source game engine that supports playing Black & White (2001).
 * 【2024-09-07】[sz3 / libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
 * 【2024-09-07】[RWKV / rwkv.cpp](https://github.com/RWKV/rwkv.cpp) - INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model
