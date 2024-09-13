@@ -64,6 +64,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2024-09-13】[runhey / OnmyojiAutoScript](https://github.com/runhey/OnmyojiAutoScript) - Onmyoji Auto Script | 阴阳师脚本
 * 【2024-09-12】[run-llama / llama_deploy](https://github.com/run-llama/llama_deploy) - 
 * 【2024-09-12】[DataDog / integrations-core](https://github.com/DataDog/integrations-core) - Core integrations of the Datadog Agent
 * 【2024-09-11】[iryna-kondr / scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
