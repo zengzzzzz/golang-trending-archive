@@ -65,6 +65,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2024-09-17】[CadQuery / cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT
+* 【2024-09-17】[ai-to-ai / Auto-Gmail-Creator](https://github.com/ai-to-ai/Auto-Gmail-Creator) - Open Source Bulk Auto Gmail Creator Bot with Selenium & Seleniumwire ( Python ). Feel free to contact me with Django/Flask, ML, AI, GPT, Automation, Scraping.
 * 【2024-09-14】[Future-House / paper-qa](https://github.com/Future-House/paper-qa) - High accuracy RAG for answering questions from scientific documents with citations
 * 【2024-09-14】[open-compass / VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - Open-source evaluation toolkit of large vision-language models (LVLMs), support ~100 VLMs, 40+ benchmarks
 * 【2024-09-13】[runhey / OnmyojiAutoScript](https://github.com/runhey/OnmyojiAutoScript) - Onmyoji Auto Script | 阴阳师脚本
@@ -138,6 +140,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## All language
 
+* 【2024-09-17】[krayin / laravel-crm](https://github.com/krayin/laravel-crm) - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
 * 【2024-09-16】[frdel / agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 * 【2024-09-16】[phil-opp / blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 * 【2024-09-16】[0voice / expert_readed_books](https://github.com/0voice/expert_readed_books) - 2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍
@@ -180,6 +183,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-02】[libsdl-org / SDL_image](https://github.com/libsdl-org/SDL_image) - Image decoding for many popular formats for Simple Directmedia Layer.
 ## C++
 
+* 【2024-09-17】[AaronFeng753 / Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x, Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN, and ACNet.
+* 【2024-09-17】[mrousavy / nitro](https://github.com/mrousavy/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
 * 【2024-09-14】[symless / synergy](https://github.com/symless/synergy) - Synergy lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
 * 【2024-09-14】[spotify / annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
 * 【2024-09-12】[turing-machines / mentals-ai](https://github.com/turing-machines/mentals-ai) - 🍓🍓🍓 Agents in Markdown syntax (loops, memory and tools included).
