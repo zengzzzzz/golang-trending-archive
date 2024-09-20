@@ -97,6 +97,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2024-09-20】[dromara / Sa-Token](https://github.com/dromara/Sa-Token) - 一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0
+* 【2024-09-20】[confluentinc / schema-registry](https://github.com/confluentinc/schema-registry) - Confluent Schema Registry for Kafka
 * 【2024-09-19】[ali-bouali / spring-boot-3-jwt-security](https://github.com/ali-bouali/spring-boot-3-jwt-security) - Sample project on how to implement JWT security based using Spring boot 3 and Spring security 6
 * 【2024-09-19】[beemdevelopment / Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 * 【2024-09-19】[material-components / material-components-android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android
@@ -132,6 +134,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2024-09-20】[salesforce / tough-cookie](https://github.com/salesforce/tough-cookie) - RFC6265 Cookies and CookieJar for Node.js
 * 【2024-09-18】[BuilderIO / micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
 * 【2024-09-16】[aws-amplify / amplify-ui](https://github.com/aws-amplify/amplify-ui) - Amplify UI is a collection of accessible, themeable, performant React (and more!) components that can connect directly to the cloud.
 * 【2024-09-16】[pyoncord / Bunny](https://github.com/pyoncord/Bunny) - A client mod for Discord mobile, fork of Vendetta
@@ -148,6 +151,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## All language
 
+* 【2024-09-20】[achristmascarl / rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres
 * 【2024-09-19】[tungbq / devops-basics](https://github.com/tungbq/devops-basics) - 🚀 Practical and document place for DevOps toolchain
 * 【2024-09-18】[HariSekhon / DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..
 * 【2024-09-18】[Morganamilo / paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
@@ -186,6 +190,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-02】[VirgilClyne / iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
 ## C
 
+* 【2024-09-20】[klonyyy / MCUViewer](https://github.com/klonyyy/MCUViewer) - Real-time embedded variable & trace viewer
 * 【2024-09-14】[libssh2 / libssh2](https://github.com/libssh2/libssh2) - the SSH library
 * 【2024-09-07】[sz3 / cfc](https://github.com/sz3/cfc) - Demo/test android app for libcimbar. Copy files over the cell phone camera!
 * 【2024-09-05】[SuperIlu / DOjS](https://github.com/SuperIlu/DOjS) - A MS-DOS Creative Coding IDE/platform based on JavaScript
