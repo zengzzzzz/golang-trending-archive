@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2024-09-24】[mikestefanello / pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit in Go
 * 【2024-09-23】[konstructio / kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
 * 【2024-09-19】[getzep / zep](https://github.com/getzep/zep) - Zep: Long-Term Memory for ‍AI Assistants.
 * 【2024-09-19】[cloudflare / terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider
@@ -68,6 +69,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2024-09-24】[LibraHp / GetQzonehistory](https://github.com/LibraHp/GetQzonehistory) - 获取QQ空间发布的历史说说
 * 【2024-09-21】[rspeer / wordfreq](https://github.com/rspeer/wordfreq) - Access a database of word frequencies, in various natural languages.
 * 【2024-09-18】[pypa / pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 * 【2024-09-18】[cupy / cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
@@ -99,6 +101,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2024-09-24】[Tencent / APIJSON](https://github.com/Tencent/APIJSON) - 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 🏆 Real-Time coding-free, powerful and secure ORM 🚀 providing APIs and Docs without coding by Backend, and the returned JSON of API can be customized by Frontend(Client) users
+* 【2024-09-24】[shmykelsa / AAAD](https://github.com/shmykelsa/AAAD) - 
 * 【2024-09-23】[hiteshchoudhary / React-native-projects](https://github.com/hiteshchoudhary/React-native-projects) - Learn React native with this free series on youtube (powered by Hashnode)
 * 【2024-09-22】[apache / commons-lang](https://github.com/apache/commons-lang) - Apache Commons Lang
 * 【2024-09-21】[comet-ml / opik](https://github.com/comet-ml/opik) - Open-source end-to-end LLM Development Platform
@@ -140,6 +144,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2024-09-24】[mickasmt / next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter) - Open-source SaaS Starter with User Roles & Admin Panel. Built using Next.js 14, Prisma, Neon, Auth.js v5, Resend, React Email, Shadcn/ui, Stripe, Server Actions.
 * 【2024-09-22】[reown-com / appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
 * 【2024-09-21】[kangfenmao / cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
 * 【2024-09-20】[salesforce / tough-cookie](https://github.com/salesforce/tough-cookie) - RFC6265 Cookies and CookieJar for Node.js
@@ -159,6 +164,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## All language
 
+* 【2024-09-24】[n8n-io / self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 * 【2024-09-23】[thomhurst / TUnit](https://github.com/thomhurst/TUnit) - A modern, fast and flexible .NET testing framework
 * 【2024-09-23】[SharifiZarchi / Introduction_to_Machine_Learning](https://github.com/SharifiZarchi/Introduction_to_Machine_Learning) - دوره‌ی مقدمه‌ای بر یادگیری ماشین، برای دانشجویان
 * 【2024-09-23】[basecamp / kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
