@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2024-09-27】[hemilabs / heminetwork](https://github.com/hemilabs/heminetwork) - The hemi network core daemons.
 * 【2024-09-24】[mikestefanello / pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit in Go
 * 【2024-09-23】[konstructio / kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
 * 【2024-09-19】[getzep / zep](https://github.com/getzep/zep) - Zep: Long-Term Memory for ‍AI Assistants.
@@ -104,6 +105,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2024-09-27】[apache / parquet-java](https://github.com/apache/parquet-java) - Apache Parquet Java
+* 【2024-09-27】[FasterXML / jackson-core](https://github.com/FasterXML/jackson-core) - Core part of Jackson that defines Streaming API as well as basic shared abstractions
 * 【2024-09-26】[quarkusio / quarkus-quickstarts](https://github.com/quarkusio/quarkus-quickstarts) - Quarkus quickstart code
 * 【2024-09-26】[frohoff / ysoserial](https://github.com/frohoff/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
 * 【2024-09-25】[CodePhiliaX / Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
@@ -150,6 +153,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2024-09-27】[stripe / stripe-node](https://github.com/stripe/stripe-node) - Node.js library for the Stripe API.
+* 【2024-09-27】[Yonom / assistant-ui](https://github.com/Yonom/assistant-ui) - React Components for AI Chat 💬 🚀
+* 【2024-09-27】[WalletConnect / walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
 * 【2024-09-26】[panoratech / Panora](https://github.com/panoratech/Panora) - One API to connect your data sources to your LLMs
 * 【2024-09-25】[tensorflow / tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 * 【2024-09-24】[mickasmt / next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter) - Open-source SaaS Starter with User Roles & Admin Panel. Built using Next.js 14, Prisma, Neon, Auth.js v5, Resend, React Email, Shadcn/ui, Stripe, Server Actions.
@@ -172,6 +178,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## All language
 
+* 【2024-09-27】[meta-llama / llama-stack](https://github.com/meta-llama/llama-stack) - Model components of the Llama Stack APIs
+* 【2024-09-27】[hyperknot / openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
+* 【2024-09-27】[meta-llama / llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) - Agentic components of the Llama Stack APIs
 * 【2024-09-26】[wgh136 / PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
 * 【2024-09-26】[microsoft / azurelinux](https://github.com/microsoft/azurelinux) - Linux OS for Azure 1P services and edge appliances
 * 【2024-09-25】[srush / GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA.
@@ -207,6 +216,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-02】[AppFlowy-IO / AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 ## Javascript
 
+* 【2024-09-27】[ThePansmith / Monifactory](https://github.com/ThePansmith/Monifactory) - A Modern Remaster of Nomifactory
 * 【2024-09-25】[chrishubert / whatsapp-api](https://github.com/chrishubert/whatsapp-api) - This project is a REST API wrapper for the whatsapp-web.js library, providing an easy-to-use interface to interact with the WhatsApp Web platform.
 * 【2024-09-21】[bvaughn / react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
 * 【2024-09-21】[Unitech / pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
@@ -233,6 +243,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-02】[libsdl-org / SDL_image](https://github.com/libsdl-org/SDL_image) - Image decoding for many popular formats for Simple Directmedia Layer.
 ## C++
 
+* 【2024-09-27】[ksnip / ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
 * 【2024-09-23】[DarthTon / Xenos](https://github.com/DarthTon/Xenos) - Windows dll injector
 * 【2024-09-21】[exaloop / codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 * 【2024-09-19】[zufuliu / notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and documents, bundled with file browser plugin matepath.
