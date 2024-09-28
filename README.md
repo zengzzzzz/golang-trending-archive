@@ -105,6 +105,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2024-09-28】[mik3y / usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android) - Android USB host serial driver library for CDC, FTDI, Arduino and other devices.
 * 【2024-09-27】[apache / parquet-java](https://github.com/apache/parquet-java) - Apache Parquet Java
 * 【2024-09-27】[FasterXML / jackson-core](https://github.com/FasterXML/jackson-core) - Core part of Jackson that defines Streaming API as well as basic shared abstractions
 * 【2024-09-26】[quarkusio / quarkus-quickstarts](https://github.com/quarkusio/quarkus-quickstarts) - Quarkus quickstart code
@@ -178,6 +179,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## All language
 
+* 【2024-09-28】[src-d / hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
+* 【2024-09-28】[systeminit / si](https://github.com/systeminit/si) - The System Initiative software
+* 【2024-09-28】[statamic / cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
+* 【2024-09-28】[meta-llama / llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models.
 * 【2024-09-27】[meta-llama / llama-stack](https://github.com/meta-llama/llama-stack) - Model components of the Llama Stack APIs
 * 【2024-09-27】[hyperknot / openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
 * 【2024-09-27】[meta-llama / llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) - Agentic components of the Llama Stack APIs
@@ -232,6 +237,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-02】[VirgilClyne / iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
 ## C
 
+* 【2024-09-28】[seL4 / seL4](https://github.com/seL4/seL4) - The seL4 microkernel
+* 【2024-09-28】[dethrace-labs / dethrace](https://github.com/dethrace-labs/dethrace) - Reverse engineering the 1997 game "Carmageddon"
 * 【2024-09-25】[cnlohr / rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) - Build android apps without any java, entirely in C and Make
 * 【2024-09-23】[TechUnRestricted / WinDiskWriter](https://github.com/TechUnRestricted/WinDiskWriter) - 🖥 Windows Bootable USB creator for macOS. 🛠 Patches Windows 11 to bypass TPM and Secure Boot requirements. 👾 UEFI & Legacy Support
 * 【2024-09-20】[klonyyy / MCUViewer](https://github.com/klonyyy/MCUViewer) - Real-time embedded variable & trace viewer
@@ -243,6 +250,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-02】[libsdl-org / SDL_image](https://github.com/libsdl-org/SDL_image) - Image decoding for many popular formats for Simple Directmedia Layer.
 ## C++
 
+* 【2024-09-28】[swig / swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 * 【2024-09-27】[ksnip / ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
 * 【2024-09-23】[DarthTon / Xenos](https://github.com/DarthTon/Xenos) - Windows dll injector
 * 【2024-09-21】[exaloop / codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
