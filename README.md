@@ -72,6 +72,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2024-10-04】[fedirz / faster-whisper-server](https://github.com/fedirz/faster-whisper-server) - 
+* 【2024-10-04】[lightly-ai / lightly](https://github.com/lightly-ai/lightly) - A python library for self-supervised learning on images.
 * 【2024-10-03】[boto / boto3](https://github.com/boto/boto3) - AWS SDK for Python
 * 【2024-10-01】[google / langfun](https://github.com/google/langfun) - OO for LLMs
 * 【2024-09-29】[pytorch / ao](https://github.com/pytorch/ao) - PyTorch native quantization and sparsity for training and inference
@@ -201,6 +203,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## All language
 
+* 【2024-10-04】[XengShi / materialYouNewTab](https://github.com/XengShi/materialYouNewTab) - A Simple New Tab ( browsers's home page ) inspired with Google's 'Material You' design
+* 【2024-10-04】[simplex-chat / simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+* 【2024-10-04】[armbian / build](https://github.com/armbian/build) - Armbian Linux build framework generates custom Debian or Ubuntu image for x86, aarch64, riscv64 & armhf
 * 【2024-10-03】[github-linguist / linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 * 【2024-10-02】[godotengine / godot-docs](https://github.com/godotengine/godot-docs) - Godot Engine official documentation
 * 【2024-10-01】[Hannibal046 / Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
@@ -213,6 +218,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-10-01】[Autossh / autossh](https://github.com/Autossh/autossh) - Automatically restart SSH sessions and tunnels
 ## C++
 
+* 【2024-10-04】[deskflow / deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
+* 【2024-10-04】[tenstorrent / tt-metal](https://github.com/tenstorrent/tt-metal) - 🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.
 * 【2024-10-03】[electronicarts / EASTL](https://github.com/electronicarts/EASTL) - EASTL stands for Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance.
 * 【2024-10-03】[oneapi-src / level-zero](https://github.com/oneapi-src/level-zero) - oneAPI Level Zero Specification Headers and Loader
 * 【2024-10-02】[sonic-net / sonic-swss](https://github.com/sonic-net/sonic-swss) - SONiC Switch State Service (SwSS)
