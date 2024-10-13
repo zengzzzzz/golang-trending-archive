@@ -195,6 +195,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2024-10-13】[molvqingtai / WebChat](https://github.com/molvqingtai/WebChat) - 💬 Chat with anyone on any website.
+* 【2024-10-13】[latitude-dev / latitude-llm](https://github.com/latitude-dev/latitude-llm) - Work in progress
+* 【2024-10-13】[surveyjs / survey-library](https://github.com/surveyjs/survey-library) - Free JavaScript form builder library with integration for React, Angular, Vue, jQuery, and Knockout.
 * 【2024-10-11】[revoltchat / desktop](https://github.com/revoltchat/desktop) - Revolt Desktop App
 * 【2024-10-07】[adrianhajdin / healthcare](https://github.com/adrianhajdin/healthcare) - Build a healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and learn to implement complex forms and SMS notifications.
 * 【2024-10-02】[mbnuqw / sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
@@ -225,6 +228,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## All language
 
+* 【2024-10-13】[cline / cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
+* 【2024-10-13】[nextcloud / server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 * 【2024-10-11】[clinebot / cline](https://github.com/clinebot/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 * 【2024-10-11】[hcengineering / huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
 * 【2024-10-11】[openai / CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image
@@ -240,6 +245,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-10-01】[Hannibal046 / Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 ## C
 
+* 【2024-10-13】[rspamd / rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system.
 * 【2024-10-10】[google / XNNPACK](https://github.com/google/XNNPACK) - High-efficiency floating-point neural network inference operators for mobile, server, and Web
 * 【2024-10-09】[openresty / openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 * 【2024-10-09】[cage-kiosk / cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
@@ -262,6 +268,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-10-01】[getml / reflect-cpp](https://github.com/getml/reflect-cpp) - A C++20 library for fast serialization, deserialization and validation using reflection. Supports JSON, BSON, CBOR, flexbuffers, msgpack, TOML, XML, YAML / msgpack.org[C++20]
 ## Javascript
 
+* 【2024-10-13】[sindresorhus / eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 * 【2024-10-11】[revoltchat / self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
 * 【2024-10-08】[iamrahulmahato / master-web-development](https://github.com/iamrahulmahato/master-web-development) - Learn to code by building projects.
 * 【2024-10-05】[Pythagora-io / pythagora](https://github.com/Pythagora-io/pythagora) - Generate automated tests for your Node.js app via LLMs without developers having to write a single line of code.
