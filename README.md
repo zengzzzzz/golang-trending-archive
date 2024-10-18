@@ -80,6 +80,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2024-10-18】[yakami129 / VirtualWife](https://github.com/yakami129/VirtualWife) - VirtualWife是一个虚拟数字人项目，支持B站直播，支持openai、ollama
 * 【2024-10-17】[homebrewltd / ichigo](https://github.com/homebrewltd/ichigo) - Llama3.1 learns to Listen
 * 【2024-10-16】[TEN-framework / TEN-Agent](https://github.com/TEN-framework/TEN-Agent) - TEN Agent is the world’s first real-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities.
 * 【2024-10-15】[kyegomez / swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework Join our Community: https://discord.com/servers/agora-999382051935506503
@@ -133,6 +134,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2024-10-18】[eclipse-platform / eclipse.platform.ui](https://github.com/eclipse-platform/eclipse.platform.ui) - Eclipse Platform
+* 【2024-10-18】[mockito / mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java
 * 【2024-10-17】[quartz-scheduler / quartz](https://github.com/quartz-scheduler/quartz) - Code for Quartz Scheduler
 * 【2024-10-17】[mybatis / mybatis-3](https://github.com/mybatis/mybatis-3) - MyBatis SQL mapper framework for Java
 * 【2024-10-17】[Netflix / zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
@@ -246,6 +249,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## All language
 
+* 【2024-10-18】[firecracker-microvm / firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 * 【2024-10-17】[CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 * 【2024-10-15】[openai / swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 * 【2024-10-15】[3b1b / videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
@@ -267,6 +271,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-10-01】[Hannibal046 / Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 ## C
 
+* 【2024-10-18】[espressif / esp-iot-solution](https://github.com/espressif/esp-iot-solution) - Espressif IoT Library. IoT Device Drivers, Documentations And Solutions.
+* 【2024-10-18】[xicodomingues / francinette](https://github.com/xicodomingues/francinette) - An easy to use testing framework for the 42 projects
 * 【2024-10-17】[CodeWithHarry / The-Ultimate-C-Programming-Course](https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course) - This is the C language code and supplement material for the Ultimate C language Course on CodeWithHarry
 * 【2024-10-16】[Yowkees / keyball](https://github.com/Yowkees/keyball) - keyball is split keyboard has 100% track ball
 * 【2024-10-13】[rspamd / rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system.
