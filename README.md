@@ -82,6 +82,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2024-10-23】[electricitymaps / electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
 * 【2024-10-21】[qxresearch / qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - Python hands on tutorial with 50+ Python Application (10 lines of code) By @xiaowuc2
 * 【2024-10-19】[Guovin / TV](https://github.com/Guovin/TV) - 📺IPTV电视直播源更新工具🚀：包含💰央视(付费)、📡卫视、🏠广东、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐；支持自定义增加频道（含图标）；支持组播源、酒店源、订阅源、线上检索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、软件界面多种部署/运行方式 | IPTV live TV source update tool
 * 【2024-10-18】[yakami129 / VirtualWife](https://github.com/yakami129/VirtualWife) - VirtualWife是一个虚拟数字人项目，支持B站直播，支持openai、ollama
@@ -138,6 +139,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2024-10-23】[Catfriend1 / syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
+* 【2024-10-23】[ionic-team / capacitor-plugins](https://github.com/ionic-team/capacitor-plugins) - Official plugins for Capacitor ⚡️
+* 【2024-10-23】[TechEmpower / FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
+* 【2024-10-23】[apache / zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
+* 【2024-10-23】[akhilkammila / leetcode-screenshotter](https://github.com/akhilkammila/leetcode-screenshotter) - screenshots leetcode editorials and problems
 * 【2024-10-22】[SoLegendary / reignofnether](https://github.com/SoLegendary/reignofnether) - 
 * 【2024-10-22】[syncthing / syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android.
 * 【2024-10-22】[VanceVagell / kv4p-ht](https://github.com/VanceVagell/kv4p-ht) - Open source handheld ham radio project KV4P-HT
@@ -225,6 +231,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2024-10-23】[mui / toolpad](https://github.com/mui/toolpad) - Toolpad: Full stack components and low-code builder for dashboards and internal apps.
 * 【2024-10-22】[google / wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
 * 【2024-10-20】[inertiajs / inertia](https://github.com/inertiajs/inertia) - Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
 * 【2024-10-20】[kimlimjustin / xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
@@ -264,6 +271,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## All language
 
+* 【2024-10-23】[chrislgarry / Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 * 【2024-10-22】[getomni-ai / zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
 * 【2024-10-22】[norvig / pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 * 【2024-10-21】[solana-developers / program-examples](https://github.com/solana-developers/program-examples) - A repository of Solana program examples
@@ -292,6 +300,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-10-01】[Hannibal046 / Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 ## C
 
+* 【2024-10-23】[samtools / bcftools](https://github.com/samtools/bcftools) - This is the official development repository for BCFtools. See installation instructions and other documentation here http://samtools.github.io/bcftools/howtos/install.html
 * 【2024-10-18】[espressif / esp-iot-solution](https://github.com/espressif/esp-iot-solution) - Espressif IoT Library. IoT Device Drivers, Documentations And Solutions.
 * 【2024-10-18】[xicodomingues / francinette](https://github.com/xicodomingues/francinette) - An easy to use testing framework for the 42 projects
 * 【2024-10-17】[CodeWithHarry / The-Ultimate-C-Programming-Course](https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course) - This is the C language code and supplement material for the Ultimate C language Course on CodeWithHarry
@@ -309,6 +318,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-10-01】[Autossh / autossh](https://github.com/Autossh/autossh) - Automatically restart SSH sessions and tunnels
 ## C++
 
+* 【2024-10-23】[microsoft / T-MAC](https://github.com/microsoft/T-MAC) - Low-bit LLM inference on CPU with lookup table
 * 【2024-10-21】[k4yt3x / video2x](https://github.com/k4yt3x/video2x) - A machine learning-based lossless video super resolution framework. Est. Hack the Valley II, 2018.
 * 【2024-10-19】[shader-slang / slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
 * 【2024-10-16】[OSGeo / PROJ](https://github.com/OSGeo/PROJ) - PROJ - Cartographic Projections and Coordinate Transformations Library
@@ -323,6 +333,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-10-01】[getml / reflect-cpp](https://github.com/getml/reflect-cpp) - A C++20 library for fast serialization, deserialization and validation using reflection. Supports JSON, BSON, CBOR, flexbuffers, msgpack, TOML, XML, YAML / msgpack.org[C++20]
 ## Javascript
 
+* 【2024-10-23】[torinmb / mediapipe-touchdesigner](https://github.com/torinmb/mediapipe-touchdesigner) - GPU Accelerated MediaPipe Plugin for TouchDesigner
+* 【2024-10-23】[statsd / statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 * 【2024-10-21】[PranshulGG / WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
 * 【2024-10-20】[huggingface / transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 * 【2024-10-13】[sindresorhus / eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
