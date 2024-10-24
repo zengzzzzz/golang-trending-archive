@@ -82,6 +82,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2024-10-24】[ucbepic / docetl](https://github.com/ucbepic/docetl) - A system for agentic LLM-powered data processing and ETL
 * 【2024-10-23】[electricitymaps / electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
 * 【2024-10-21】[qxresearch / qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - Python hands on tutorial with 50+ Python Application (10 lines of code) By @xiaowuc2
 * 【2024-10-19】[Guovin / TV](https://github.com/Guovin/TV) - 📺IPTV电视直播源更新工具🚀：包含💰央视(付费)、📡卫视、🏠广东、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐；支持自定义增加频道（含图标）；支持组播源、酒店源、订阅源、线上检索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、软件界面多种部署/运行方式 | IPTV live TV source update tool
@@ -231,6 +232,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2024-10-24】[yamadashy / repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.
 * 【2024-10-23】[mui / toolpad](https://github.com/mui/toolpad) - Toolpad: Full stack components and low-code builder for dashboards and internal apps.
 * 【2024-10-22】[google / wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
 * 【2024-10-20】[inertiajs / inertia](https://github.com/inertiajs/inertia) - Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
