@@ -82,6 +82,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2024-10-25】[DeepLabCut / DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans
 * 【2024-10-24】[ucbepic / docetl](https://github.com/ucbepic/docetl) - A system for agentic LLM-powered data processing and ETL
 * 【2024-10-23】[electricitymaps / electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
 * 【2024-10-21】[qxresearch / qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - Python hands on tutorial with 50+ Python Application (10 lines of code) By @xiaowuc2
@@ -140,6 +141,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2024-10-25】[eclipse-jdtls / eclipse.jdt.ls](https://github.com/eclipse-jdtls/eclipse.jdt.ls) - Java language server
+* 【2024-10-25】[jacoco / jacoco](https://github.com/jacoco/jacoco) - 🔬 Java Code Coverage Library
 * 【2024-10-23】[Catfriend1 / syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 * 【2024-10-23】[ionic-team / capacitor-plugins](https://github.com/ionic-team/capacitor-plugins) - Official plugins for Capacitor ⚡️
 * 【2024-10-23】[TechEmpower / FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
@@ -302,6 +305,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-10-01】[Hannibal046 / Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 ## C
 
+* 【2024-10-25】[HDFGroup / hdf5](https://github.com/HDFGroup/hdf5) - Official HDF5® Library Repository
 * 【2024-10-23】[samtools / bcftools](https://github.com/samtools/bcftools) - This is the official development repository for BCFtools. See installation instructions and other documentation here http://samtools.github.io/bcftools/howtos/install.html
 * 【2024-10-18】[espressif / esp-iot-solution](https://github.com/espressif/esp-iot-solution) - Espressif IoT Library. IoT Device Drivers, Documentations And Solutions.
 * 【2024-10-18】[xicodomingues / francinette](https://github.com/xicodomingues/francinette) - An easy to use testing framework for the 42 projects
@@ -320,6 +324,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-10-01】[Autossh / autossh](https://github.com/Autossh/autossh) - Automatically restart SSH sessions and tunnels
 ## C++
 
+* 【2024-10-25】[hiyohiyo / CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo
 * 【2024-10-23】[microsoft / T-MAC](https://github.com/microsoft/T-MAC) - Low-bit LLM inference on CPU with lookup table
 * 【2024-10-21】[k4yt3x / video2x](https://github.com/k4yt3x/video2x) - A machine learning-based lossless video super resolution framework. Est. Hack the Valley II, 2018.
 * 【2024-10-19】[shader-slang / slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
@@ -335,6 +340,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-10-01】[getml / reflect-cpp](https://github.com/getml/reflect-cpp) - A C++20 library for fast serialization, deserialization and validation using reflection. Supports JSON, BSON, CBOR, flexbuffers, msgpack, TOML, XML, YAML / msgpack.org[C++20]
 ## Javascript
 
+* 【2024-10-25】[winstonjs / winston](https://github.com/winstonjs/winston) - A logger for just about everything.
 * 【2024-10-23】[torinmb / mediapipe-touchdesigner](https://github.com/torinmb/mediapipe-touchdesigner) - GPU Accelerated MediaPipe Plugin for TouchDesigner
 * 【2024-10-23】[statsd / statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 * 【2024-10-21】[PranshulGG / WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
