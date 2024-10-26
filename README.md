@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2024-10-26】[hacdias / webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
 * 【2024-10-22】[lucaslorentz / caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
 * 【2024-10-19】[GreenmaskIO / greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization and synthetic data generation tool
 * 【2024-10-17】[johnfercher / maroto](https://github.com/johnfercher/maroto) - A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple.
@@ -82,6 +83,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2024-10-26】[sergree / matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
+* 【2024-10-26】[pyvista / pyvista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 * 【2024-10-25】[DeepLabCut / DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans
 * 【2024-10-24】[ucbepic / docetl](https://github.com/ucbepic/docetl) - A system for agentic LLM-powered data processing and ETL
 * 【2024-10-23】[electricitymaps / electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
@@ -141,6 +144,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2024-10-26】[eclipse-vertx / vert.x](https://github.com/eclipse-vertx/vert.x) - Vert.x is a tool-kit for building reactive applications on the JVM
 * 【2024-10-25】[eclipse-jdtls / eclipse.jdt.ls](https://github.com/eclipse-jdtls/eclipse.jdt.ls) - Java language server
 * 【2024-10-25】[jacoco / jacoco](https://github.com/jacoco/jacoco) - 🔬 Java Code Coverage Library
 * 【2024-10-23】[Catfriend1 / syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
@@ -235,6 +239,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2024-10-26】[mattermost-community / focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 * 【2024-10-24】[yamadashy / repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.
 * 【2024-10-23】[mui / toolpad](https://github.com/mui/toolpad) - Toolpad: Full stack components and low-code builder for dashboards and internal apps.
 * 【2024-10-22】[google / wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
@@ -276,6 +281,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## All language
 
+* 【2024-10-26】[dittofeed / dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
+* 【2024-10-26】[vfsfitvnm / ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 * 【2024-10-23】[chrislgarry / Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 * 【2024-10-22】[getomni-ai / zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
 * 【2024-10-22】[norvig / pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
@@ -340,6 +347,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-10-01】[getml / reflect-cpp](https://github.com/getml/reflect-cpp) - A C++20 library for fast serialization, deserialization and validation using reflection. Supports JSON, BSON, CBOR, flexbuffers, msgpack, TOML, XML, YAML / msgpack.org[C++20]
 ## Javascript
 
+* 【2024-10-26】[titaniumnetwork-dev / Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - A highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers. Works by intercepting HTTP requests with a service worker script that follows the TompHTTP specifications.
+* 【2024-10-26】[GSSoC24 / Postman-Challenge](https://github.com/GSSoC24/Postman-Challenge) - This is the all in one place for documentation help regarding the postman challenge.
+* 【2024-10-26】[ai-shifu / ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 * 【2024-10-25】[winstonjs / winston](https://github.com/winstonjs/winston) - A logger for just about everything.
 * 【2024-10-23】[torinmb / mediapipe-touchdesigner](https://github.com/torinmb/mediapipe-touchdesigner) - GPU Accelerated MediaPipe Plugin for TouchDesigner
 * 【2024-10-23】[statsd / statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
