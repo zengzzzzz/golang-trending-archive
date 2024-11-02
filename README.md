@@ -306,3 +306,9 @@ To get started with the Golang Trending Archive, follow these steps:
 ## C++
 
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
+## All language
+
+* 【2024-11-02】[microsoft / genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
+* 【2024-11-02】[filamentphp / filament](https://github.com/filamentphp/filament) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
+* 【2024-11-02】[getmaxun / maxun](https://github.com/getmaxun/maxun) - Free, open-source no-code web data extraction platform. Build custom robots to automate data scraping [In Beta]
+* 【2024-11-02】[GeostatsGuy / DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython) - Python interactive dashboards for learning data science
