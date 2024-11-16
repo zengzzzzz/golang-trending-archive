@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2024-11-16】[openai / openai-go](https://github.com/openai/openai-go) - The official Go library for the OpenAI API
+* 【2024-11-16】[telepresenceio / telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 * 【2024-11-11】[helm-unittest / helm-unittest](https://github.com/helm-unittest/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.
 * 【2024-11-11】[JohannesKaufmann / html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 * 【2024-11-04】[MightyMoud / sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
@@ -91,6 +93,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2024-11-16】[g0ldyy / comet](https://github.com/g0ldyy/comet) - Stremio's fastest torrent/debrid search add-on.
 * 【2024-11-15】[aigc-apps / EasyAnimate](https://github.com/aigc-apps/EasyAnimate) - 📺 An End-to-End Solution for High-Resolution and Long Video Generation Based on Transformer Diffusion
 * 【2024-11-13】[dockur / macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
 * 【2024-11-13】[home-assistant / supervisor](https://github.com/home-assistant/supervisor) - 🏡 Home Assistant Supervisor
@@ -169,6 +172,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2024-11-16】[Julow / Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
 * 【2024-11-15】[smithy-lang / smithy](https://github.com/smithy-lang/smithy) - Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
 * 【2024-11-13】[xdsopl / robot36](https://github.com/xdsopl/robot36) - Decode SSTV encoded audio signals to images
 * 【2024-11-13】[nayuki / QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
@@ -283,6 +287,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2024-11-16】[ntegrals / aura-voice](https://github.com/ntegrals/aura-voice) - Aura is like Siri, but in your browser. An AI voice assistant optimized for low latency responses.
 * 【2024-11-12】[mlc-ai / web-llm-chat](https://github.com/mlc-ai/web-llm-chat) - Chat with AI large language models running natively in your browser. Enjoy private, server-free, seamless AI conversations.
 * 【2024-11-11】[requestly / requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly in browsers without VPN and proxy Issues. It is used by more than 200,000+ front-end developers and 11,000+ companies worldwide.
 * 【2024-11-11】[TypeStrong / typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
@@ -341,6 +346,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2024-11-16】[lucahammer / tweetXer](https://github.com/lucahammer/tweetXer) - Delete all your Tweets for free
+* 【2024-11-16】[QuiteAFancyEmerald / Holy-Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker) - Holy Unblocker LTS is a web proxy service that helps you access websites that may be blocked by your network or policy extensions all within your browser with no download or setup. It does this securely and with additional privacy features. This repository is for Holy Unblocker LTS; specifically for the v6.x.x versions. (Star if you fork it!!)⚡
 * 【2024-11-15】[InternLM / MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
 * 【2024-11-13】[qeeqbox / social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 * 【2024-11-11】[muxinc / media-elements](https://github.com/muxinc/media-elements) - A collection of HTMLMediaElement compatible elements and add-ons
@@ -352,12 +359,14 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2024-11-16】[soedinglab / MMseqs2](https://github.com/soedinglab/MMseqs2) - MMseqs2: ultra fast and sensitive search and clustering suite
 * 【2024-11-15】[eclipse-mosquitto / mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 * 【2024-11-13】[pvvx / THB2](https://github.com/pvvx/THB2) - Custom firmware for Tuya devices on the PHY622x2 chipset
 * 【2024-11-10】[Cateners / tiny_computer](https://github.com/Cateners/tiny_computer) - Click-to-run debian 12 xfce on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. No termux required.
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2024-11-16】[cra-ros-pkg / robot_localization](https://github.com/cra-ros-pkg/robot_localization) - robot_localization is a package of nonlinear state estimation nodes. The package was developed by Charles River Analytics, Inc. Please ask questions on answers.ros.org.
 * 【2024-11-13】[lava / matplotlib-cpp](https://github.com/lava/matplotlib-cpp) - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
 * 【2024-11-12】[NASA-SW-VnV / ikos](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation.
 * 【2024-11-10】[ComodoSecurity / openedr](https://github.com/ComodoSecurity/openedr) - Open EDR public repository
@@ -367,6 +376,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2024-11-16】[bluesky-social / pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation
 * 【2024-11-15】[microsoft / TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
 * 【2024-11-15】[Huanshere / VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
 * 【2024-11-15】[motiondivision / motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
