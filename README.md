@@ -96,6 +96,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2024-11-20】[gusye1234 / nano-graphrag](https://github.com/gusye1234/nano-graphrag) - A simple, easy-to-hack GraphRAG implementation
+* 【2024-11-20】[DrewThomasson / ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generates an audiobook with chapters and ebook metadata using Calibre and Xtts from Coqui tts, and with optional voice cloning, and supports multiple languages
+* 【2024-11-20】[PacktPublishing / LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) - The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices
+* 【2024-11-20】[Peterande / D-FINE](https://github.com/Peterande/D-FINE) - D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement 💥💥💥
 * 【2024-11-19】[openwrt-xiaomi / xmir-patcher](https://github.com/openwrt-xiaomi/xmir-patcher) - Firmware patcher for Xiaomi routers
 * 【2024-11-19】[pyro-ppl / numpyro](https://github.com/pyro-ppl/numpyro) - Probabilistic programming with NumPy powered by JAX for autograd and JIT compilation to GPU/TPU/CPU.
 * 【2024-11-18】[NexaAI / nexa-sdk](https://github.com/NexaAI/nexa-sdk) - Nexa SDK is a comprehensive toolkit for supporting ONNX and GGML models. It supports text generation, image generation, vision-language models (VLM), auto-speech-recognition (ASR), and text-to-speech (TTS) capabilities.
@@ -181,6 +185,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2024-11-20】[iterate-ch / cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 * 【2024-11-19】[exteraSquad / exteraGram](https://github.com/exteraSquad/exteraGram) - Telegram client based on Android sources with new features
 * 【2024-11-19】[MuntashirAkon / AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 * 【2024-11-18】[deepjavalibrary / djl](https://github.com/deepjavalibrary/djl) - An Engine-Agnostic Deep Learning Framework in Java
@@ -300,6 +305,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2024-11-20】[primer / react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 * 【2024-11-19】[rckprtr / pumpdotfun-sdk](https://github.com/rckprtr/pumpdotfun-sdk) - PumpDotFun SDK
 * 【2024-11-18】[Comfy-Org / ComfyUI_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) - Official front-end implementation of ComfyUI
 * 【2024-11-16】[ntegrals / aura-voice](https://github.com/ntegrals/aura-voice) - Aura is like Siri, but in your browser. An AI voice assistant optimized for low latency responses.
@@ -375,6 +381,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2024-11-20】[oracle / bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto-tune Linux systems
 * 【2024-11-19】[libsndfile / libsndfile](https://github.com/libsndfile/libsndfile) - A C library for reading and writing sound files containing sampled audio data.
 * 【2024-11-19】[mpc-hc / mpc-hc](https://github.com/mpc-hc/mpc-hc) - MPC-HC's main repository. For support use our Trac: https://trac.mpc-hc.org/
 * 【2024-11-18】[AdAway / AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
@@ -385,6 +392,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2024-11-20】[fritzing / fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
 * 【2024-11-19】[crawl / crawl](https://github.com/crawl/crawl) - Dungeon Crawl: Stone Soup official repository
 * 【2024-11-18】[ValveSoftware / source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
 * 【2024-11-18】[kth-competitive-programming / kactl](https://github.com/kth-competitive-programming/kactl) - KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp)
@@ -400,6 +408,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2024-11-20】[arkohut / pensieve](https://github.com/arkohut/pensieve) - A passive recording project allows you to have complete control over your data. 一个完全由你掌控数据的「被动记录」项目。
+* 【2024-11-20】[awslabs / multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 * 【2024-11-19】[olimorris / codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama, OpenAI and xAI LLMs
 * 【2024-11-18】[leaningtech / webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 * 【2024-11-18】[epasveer / seer](https://github.com/epasveer/seer) - Seer - a gui frontend to gdb
