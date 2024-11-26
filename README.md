@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2024-11-26】[bluesky-social / indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky's atproto services.
 * 【2024-11-21】[hugomd / ascii-live](https://github.com/hugomd/ascii-live) - An extension to parrot.live, with support for more animations! http://ascii.live
 * 【2024-11-18】[adonovan / gopl.io](https://github.com/adonovan/gopl.io) - Example programs from "The Go Programming Language"
 * 【2024-11-18】[jesusprubio / up](https://github.com/jesusprubio/up) - 📶 Troubleshoot problems with your Internet connection
@@ -97,6 +98,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2024-11-26】[Guovin / IPTV](https://github.com/Guovin/IPTV) - 📺IPTV电视直播源更新工具🚀：包含💰央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool
+* 【2024-11-26】[Bambu-Research-Group / RFID-Tag-Guide](https://github.com/Bambu-Research-Group/RFID-Tag-Guide) - Instructions on how to read out the bambulab nfc tags
 * 【2024-11-24】[sngyai / Sequoia](https://github.com/sngyai/Sequoia) - A股自动选股程序，实现了海龟交易法则、缠中说禅牛市买点，以及其他若干种技术形态
 * 【2024-11-23】[encode / starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
 * 【2024-11-23】[junyanz / pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Image-to-Image Translation in PyTorch
@@ -190,6 +193,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2024-11-26】[Telegram-FOSS-Team / Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Unofficial, FOSS-friendly fork of the original Telegram client for Android
+* 【2024-11-26】[GregTechCEu / GregTech-Modern](https://github.com/GregTechCEu/GregTech-Modern) - GregTech CE Unofficial for modern versions
 * 【2024-11-23】[EnterpriseQualityCoding / FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 * 【2024-11-22】[killme2008 / aviatorscript](https://github.com/killme2008/aviatorscript) - A high performance scripting language hosted on the JVM.
 * 【2024-11-20】[iterate-ch / cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
@@ -312,6 +317,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2024-11-26】[codestoryai / aide](https://github.com/codestoryai/aide) - The open-source AI-native IDE
 * 【2024-11-25】[ant-design / x](https://github.com/ant-design/x) - The ready-made partner for building Copilot applications 🤖
 * 【2024-11-24】[mastra-ai / mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI framework.
 * 【2024-11-20】[primer / react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
@@ -391,6 +397,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2024-11-26】[Ysurac / openmptcprouter](https://github.com/Ysurac/openmptcprouter) - OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 * 【2024-11-25】[apache / cloudberry](https://github.com/apache/cloudberry) - One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database.
 * 【2024-11-24】[quickjs-ng / quickjs](https://github.com/quickjs-ng/quickjs) - QuickJS, the Next Generation: a mighty JavaScript engine
 * 【2024-11-24】[matrixcascade / PainterEngine](https://github.com/matrixcascade/PainterEngine) - PainterEngine is a application/game engine with software renderer,PainterEngine can be transplanted to any platform that supports C
