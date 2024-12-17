@@ -105,6 +105,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2024-12-17】[wger-project / wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
 * 【2024-12-16】[chainstacklabs / pump-fun-bot](https://github.com/chainstacklabs/pump-fun-bot) - A fully functional pump.fun trading and sniping bot not relying on any 3rd party APIs
 * 【2024-12-14】[derv82 / wifite](https://github.com/derv82/wifite) - 
 * 【2024-12-13】[sparckles / Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
@@ -220,6 +221,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2024-12-17】[android-hacker / VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
 * 【2024-12-16】[novicezk / midjourney-proxy](https://github.com/novicezk/midjourney-proxy) - 代理 MidJourney 的discord频道，实现api形式调用AI绘图
 * 【2024-12-16】[opentripplanner / OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) - An open source multi-modal trip planner
 * 【2024-12-16】[ssssssss-team / spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
@@ -535,6 +537,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2024-12-17】[Radarr / Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
 * 【2024-12-16】[microsoft / windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 * 【2024-12-16】[flame-engine / flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 * 【2024-12-15】[Saghen / blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
