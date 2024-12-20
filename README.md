@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2024-12-20】[mailru / easyjson](https://github.com/mailru/easyjson) - Fast JSON serializer for golang.
+* 【2024-12-20】[osmosis-labs / osmosis](https://github.com/osmosis-labs/osmosis) - The AMM Laboratory
 * 【2024-12-19】[chromedp / chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 * 【2024-12-11】[direnv / direnv](https://github.com/direnv/direnv) - unclutter your .profile
 * 【2024-12-10】[D3Ext / Hooka](https://github.com/D3Ext/Hooka) - Shellcode loader generator with multiples features
@@ -224,6 +226,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2024-12-20】[Consensys / teku](https://github.com/Consensys/teku) - Open-source Ethereum consensus client written in Java
 * 【2024-12-19】[resilience4j / resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming
 * 【2024-12-17】[android-hacker / VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
 * 【2024-12-16】[novicezk / midjourney-proxy](https://github.com/novicezk/midjourney-proxy) - 代理 MidJourney 的discord频道，实现api形式调用AI绘图
@@ -370,6 +373,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2024-12-20】[Helicone / helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM-Observability Platform for Developers. One-line integration for monitoring, metrics, evals, agent tracing, prompt management, playground, etc. Supports OpenAI SDK, Vercel AI SDK, Anthropic SDK, LiteLLM, LLamaIndex, LangChain, and more. 🍓 YC W23
 * 【2024-12-19】[zaidmukaddam / miniperplx](https://github.com/zaidmukaddam/miniperplx) - A minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like GPT-4o mini, GPT-4o and Claude 3.5 Sonnet(New)!
 * 【2024-12-18】[zwave-js / node-zwave-js](https://github.com/zwave-js/node-zwave-js) - Z-Wave driver written entirely in JavaScript/TypeScript
 * 【2024-12-16】[SteamDeckHomebrew / decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
@@ -488,6 +492,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2024-12-20】[contiki-ng / contiki-ng](https://github.com/contiki-ng/contiki-ng) - Contiki-NG: The OS for Next Generation IoT Devices
+* 【2024-12-20】[KreitinnSoftware / MiceWine-Application](https://github.com/KreitinnSoftware/MiceWine-Application) - MiceWine is a project that aims to run Windows applications and games on Android smartphones.
+* 【2024-12-20】[ClassiCube / ClassiCube](https://github.com/ClassiCube/ClassiCube) - Custom Minecraft Classic / ClassiCube client written in C from scratch (formerly ClassicalSharp in C#)
 * 【2024-12-19】[abishekvashok / cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
 * 【2024-12-16】[LuckfoxTECH / luckfox-pico](https://github.com/LuckfoxTECH/luckfox-pico) - luckfox-pico sdk
 * 【2024-12-14】[78 / xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
@@ -550,6 +557,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2024-12-20】[konfig-dev / konfig](https://github.com/konfig-dev/konfig) - SDK & API Docs Generator. Sunset as of December 2024
+* 【2024-12-20】[mui / base-ui](https://github.com/mui/base-ui) - Base UI is an open-source library of accessible, unstyled UI components for React.
 * 【2024-12-19】[XiaoMi / ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
 * 【2024-12-19】[anoma / anoma](https://github.com/anoma/anoma) - Reference implementation of Anoma
 * 【2024-12-19】[luckjiawei / frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本
