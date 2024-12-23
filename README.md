@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2024-12-23】[eatmoreapple / openwechat](https://github.com/eatmoreapple/openwechat) - golang微信SDK
 * 【2024-12-20】[mailru / easyjson](https://github.com/mailru/easyjson) - Fast JSON serializer for golang.
 * 【2024-12-20】[osmosis-labs / osmosis](https://github.com/osmosis-labs/osmosis) - The AMM Laboratory
 * 【2024-12-19】[chromedp / chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
@@ -108,6 +109,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2024-12-23】[haosulab / ManiSkill](https://github.com/haosulab/ManiSkill) - SAPIEN Manipulation Skill Framework, a open source GPU parallelized robotics simulator and benchmark, led by Hillbot, Inc.
+* 【2024-12-23】[codelion / optillm](https://github.com/codelion/optillm) - Optimizing inference proxy for LLMs
 * 【2024-12-22】[AnswerDotAI / ModernBERT](https://github.com/AnswerDotAI/ModernBERT) - Bringing BERT into modernity via both architecture changes and scaling
 * 【2024-12-21】[onyx-dot-app / onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 * 【2024-12-21】[Upsonic / gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Dockerized Computer Use Agents with Production Ready API’s - MCP Client for Langchain - GCA
@@ -231,6 +234,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2024-12-23】[etianl / Trouser-Streak](https://github.com/etianl/Trouser-Streak) - A compilation of modules optimized for maximum grief. Featuring powerful mods & exploits for Chunk Tracing, Base Hunting, and Griefing servers! A few modules were not originally written by me, but have been modified. Check the Github for credits and updates!
+* 【2024-12-23】[CeuiLiSA / Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft) - Pixiv第三方Android客户端
 * 【2024-12-20】[Consensys / teku](https://github.com/Consensys/teku) - Open-source Ethereum consensus client written in Java
 * 【2024-12-19】[resilience4j / resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming
 * 【2024-12-17】[android-hacker / VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
@@ -378,6 +383,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2024-12-23】[elizaOS / agent-twitter-client](https://github.com/elizaOS/agent-twitter-client) - A Twitter client for agents-- no API key necessary
 * 【2024-12-21】[vernu / textbee](https://github.com/vernu/textbee) - textbee.dev is an opensource and free sms-gatway for sending SMS messages through API or dashboard web interface.
 * 【2024-12-21】[noodle-run / noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 * 【2024-12-21】[glacambre / firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
@@ -471,6 +477,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2024-12-23】[violentmonkey / violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 * 【2024-12-21】[huggingface / transformers.js-examples](https://github.com/huggingface/transformers.js-examples) - A collection of 🤗 Transformers.js demos and example applications
 * 【2024-12-19】[dbt-labs / docs.getdbt.com](https://github.com/dbt-labs/docs.getdbt.com) - The code behind docs.getdbt.com
 * 【2024-12-16】[666ghj / Weibo_PublicOpinion_AnalysisSystem](https://github.com/666ghj/Weibo_PublicOpinion_AnalysisSystem) - An excellent Weibo public opinion analysis and prediction system.
@@ -569,6 +576,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2024-12-23】[bytedance / monolith](https://github.com/bytedance/monolith) - ByteDance's Recommendation System
 * 【2024-12-22】[apankrat / nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
 * 【2024-12-22】[web-infra-dev / midscene](https://github.com/web-infra-dev/midscene) - An AI-powered automation SDK can control the page, perform assertions, and extract data in JSON format using natural language.
 * 【2024-12-22】[microsoft / PromptWizard](https://github.com/microsoft/PromptWizard) - Task-Aware Agent-driven Prompt Optimization Framework
