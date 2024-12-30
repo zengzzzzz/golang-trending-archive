@@ -53,6 +53,9 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2024-12-30】[cadence-workflow / cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+* 【2024-12-30】[prysmaticlabs / prysm](https://github.com/prysmaticlabs/prysm) - Go implementation of Ethereum proof of stake
+* 【2024-12-30】[qdm12 / ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
 * 【2024-12-29】[gin-gonic / examples](https://github.com/gin-gonic/examples) - A repository to host examples and tutorials for Gin.
 * 【2024-12-28】[cashapp / cloner](https://github.com/cashapp/cloner) - 
 * 【2024-12-27】[Mikaelemmmm / go-zero-looklook](https://github.com/Mikaelemmmm/go-zero-looklook) - 🔥基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.
@@ -115,6 +118,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2024-12-30】[bottlesdevs / Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
+* 【2024-12-30】[jingyaogong / minimind](https://github.com/jingyaogong/minimind) - 「大模型」3小时完全从0训练26M的小参数GPT，个人显卡即可推理训练！
+* 【2024-12-30】[pgadmin-org / pgadmin4](https://github.com/pgadmin-org/pgadmin4) - pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.
 * 【2024-12-28】[modelcontextprotocol / python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 * 【2024-12-27】[freqtrade / freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot
 * 【2024-12-27】[lipku / LiveTalking](https://github.com/lipku/LiveTalking) - Real time interactive streaming digital human
@@ -245,6 +251,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2024-12-30】[CellularPrivacy / Android-IMSI-Catcher-Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) - AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!
 * 【2024-12-29】[javaparser / javaparser](https://github.com/javaparser/javaparser) - Java 1-21 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
 * 【2024-12-29】[bisq-network / bisq](https://github.com/bisq-network/bisq) - A decentralized bitcoin exchange network
 * 【2024-12-24】[mekanism / Mekanism](https://github.com/mekanism/Mekanism) - A mod for Minecraft
@@ -493,6 +500,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2024-12-30】[amarullz / AnimeTV](https://github.com/amarullz/AnimeTV) - Watch Anime in Your AndroidTV
 * 【2024-12-29】[dexie / Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 * 【2024-12-28】[browserslist / browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
 * 【2024-12-28】[Superalgos / Superalgos](https://github.com/Superalgos/Superalgos) - Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, data-mining, backtesting, paper trading, and multi-server crypto bot deployments.
@@ -529,6 +537,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2024-12-30】[TA-Lib / ta-lib](https://github.com/TA-Lib/ta-lib) - TA-Lib (Core C Library)
+* 【2024-12-30】[skot / ESP-Miner](https://github.com/skot/ESP-Miner) - A bitcoin ASIC miner for the ESP32
 * 【2024-12-28】[rusefi / rusefi](https://github.com/rusefi/rusefi) - rusefi - GPL internal combustion engine control unit
 * 【2024-12-28】[RamonUnch / AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
 * 【2024-12-24】[siduck / chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
@@ -603,6 +613,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2024-12-30】[elizaOS / eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 * 【2024-12-29】[mbadolato / iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, and many more
 * 【2024-12-27】[openai / openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
 * 【2024-12-27】[OpenSPG / KAG](https://github.com/OpenSPG/KAG) - KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.
