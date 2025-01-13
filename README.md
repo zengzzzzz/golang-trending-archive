@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-01-13】[dlvhdr / gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+* 【2025-01-13】[icereed / paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 * 【2025-01-09】[apache / answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 * 【2025-01-06】[devtron-labs / devtron](https://github.com/devtron-labs/devtron) - The only Kubernetes dashboard you need
 * 【2025-01-04】[asdf-vm / asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -123,6 +125,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-01-13】[NVlabs / Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
+* 【2025-01-13】[beetbox / beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 * 【2025-01-11】[apple / ml-depth-pro](https://github.com/apple/ml-depth-pro) - Depth Pro: Sharp Monocular Metric Depth in Less Than a Second.
 * 【2025-01-11】[PriorLabs / TabPFN](https://github.com/PriorLabs/TabPFN) - ⚡ TabPFN: Foundation Model for Tabular Data ⚡
 * 【2025-01-11】[enarjord / passivbot](https://github.com/enarjord/passivbot) - Trading bot running on Bybit, Bitget, OKX, GateIO, Binance and Hyperliquid
@@ -265,6 +269,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-01-13】[Gedsh / InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
+* 【2025-01-13】[chainbase-labs / manuscript-core](https://github.com/chainbase-labs/manuscript-core) - 
 * 【2025-01-08】[CodePhiliaX / fastexcel](https://github.com/CodePhiliaX/fastexcel) - easyexcel作者最新升级版本， 快速、简洁、解决大文件内存溢出的java处理Excel工具
 * 【2025-01-04】[RipMeApp / ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
 * 【2025-01-01】[youngyangyang04 / RPC-Java](https://github.com/youngyangyang04/RPC-Java) - 【代码随想录知识星球】项目分享-手撕RPC框架🔥
