@@ -126,6 +126,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-01-15】[KoljaB / RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
 * 【2025-01-14】[nautechsystems / nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
 * 【2025-01-13】[NVlabs / Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
 * 【2025-01-13】[beetbox / beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
@@ -543,6 +544,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-01-15】[i-am-shodan / USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife) - USB Army Knife – the ultimate close access tool for penetration testers and red teamers.
 * 【2025-01-12】[besuper / TwitchNoSub](https://github.com/besuper/TwitchNoSub) - An extension to watch sub only VOD on Twitch
 * 【2025-01-08】[facebookexperimental / Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
 * 【2025-01-08】[openai / openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
@@ -590,6 +592,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-01-15】[apache / guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
 * 【2025-01-11】[riscv-software-src / opensbi](https://github.com/riscv-software-src/opensbi) - RISC-V Open Source Supervisor Binary Interface
 * 【2025-01-10】[HarbourMasters / Starship](https://github.com/HarbourMasters/Starship) - SF64 PC Port
 * 【2025-01-09】[ericstoneking / 42](https://github.com/ericstoneking/42) - Simulation for spacecraft attitude control system analysis and design
