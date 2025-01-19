@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-01-19】[aquasecurity / tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
 * 【2025-01-14】[yusing / go-proxy](https://github.com/yusing/go-proxy) - Easy to use reverse proxy with docker integration
 * 【2025-01-13】[dlvhdr / gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 * 【2025-01-13】[icereed / paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
@@ -126,6 +127,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-01-19】[databrickslabs / dqx](https://github.com/databrickslabs/dqx) - Databricks framework to validate Data Quality of pySpark DataFrames
+* 【2025-01-19】[vastsa / FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
+* 【2025-01-19】[AutoGPTQ / AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ) - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
+* 【2025-01-19】[ArchipelagoMW / Archipelago](https://github.com/ArchipelagoMW/Archipelago) - Archipelago Multi-Game Randomizer and Server
 * 【2025-01-17】[AmberSahdev / Open-Interface](https://github.com/AmberSahdev/Open-Interface) - Control Any Computer Using LLMs.
 * 【2025-01-17】[instructor-ai / instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
 * 【2025-01-17】[qhjqhj00 / MemoRAG](https://github.com/qhjqhj00/MemoRAG) - Empowering RAG with a memory-based data interface for all-purpose applications!
@@ -277,6 +282,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-01-19】[scottyab / rootbeer](https://github.com/scottyab/rootbeer) - Simple to use root checking Android library and sample app
 * 【2025-01-13】[Gedsh / InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
 * 【2025-01-13】[chainbase-labs / manuscript-core](https://github.com/chainbase-labs/manuscript-core) - 
 * 【2025-01-08】[CodePhiliaX / fastexcel](https://github.com/CodePhiliaX/fastexcel) - easyexcel作者最新升级版本， 快速、简洁、解决大文件内存溢出的java处理Excel工具
@@ -435,6 +441,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-01-19】[langwatch / langwatch](https://github.com/langwatch/langwatch) - The ultimate LLM Ops platform - Monitoring, Analytics, Evaluations, Datasets and Prompt Optimization ✨
 * 【2025-01-18】[frontio-ai / heroui](https://github.com/frontio-ai/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 * 【2025-01-17】[podman-desktop / podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
 * 【2025-01-14】[mathuo / dockview](https://github.com/mathuo/dockview) - Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue.
@@ -551,6 +558,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-01-19】[tengbao / vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 * 【2025-01-17】[pixelfed / pixelfed-rn](https://github.com/pixelfed/pixelfed-rn) - Pixelfed mobile app
 * 【2025-01-15】[i-am-shodan / USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife) - USB Army Knife – the ultimate close access tool for penetration testers and red teamers.
 * 【2025-01-12】[besuper / TwitchNoSub](https://github.com/besuper/TwitchNoSub) - An extension to watch sub only VOD on Twitch
@@ -699,6 +707,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-01-19】[unionlabs / union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+* 【2025-01-19】[linuxserver / docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 * 【2025-01-17】[fluentassertions / fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3.
 * 【2025-01-17】[pixelfed / pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 * 【2025-01-16】[steven2358 / awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
