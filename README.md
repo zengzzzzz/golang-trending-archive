@@ -53,6 +53,9 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-01-20】[stonith404 / pocket-id](https://github.com/stonith404/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
+* 【2025-01-20】[harvester / harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
+* 【2025-01-20】[koho / frpmgr](https://github.com/koho/frpmgr) - Windows 平台的 FRP GUI 客户端 / A user-friendly desktop GUI client for FRP on Windows.
 * 【2025-01-19】[aquasecurity / tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
 * 【2025-01-14】[yusing / go-proxy](https://github.com/yusing/go-proxy) - Easy to use reverse proxy with docker integration
 * 【2025-01-13】[dlvhdr / gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
@@ -127,6 +130,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-01-20】[jxxghp / MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具
 * 【2025-01-19】[databrickslabs / dqx](https://github.com/databrickslabs/dqx) - Databricks framework to validate Data Quality of pySpark DataFrames
 * 【2025-01-19】[vastsa / FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
 * 【2025-01-19】[AutoGPTQ / AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ) - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
@@ -282,6 +286,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-01-20】[oliexdev / openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales
+* 【2025-01-20】[PhotonVision / photonvision](https://github.com/PhotonVision/photonvision) - PhotonVision is the free, fast, and easy-to-use computer vision solution for the FIRST Robotics Competition.
+* 【2025-01-20】[AsamK / signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 * 【2025-01-19】[scottyab / rootbeer](https://github.com/scottyab/rootbeer) - Simple to use root checking Android library and sample app
 * 【2025-01-13】[Gedsh / InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
 * 【2025-01-13】[chainbase-labs / manuscript-core](https://github.com/chainbase-labs/manuscript-core) - 
@@ -558,6 +565,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-01-20】[bluewave-labs / Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
 * 【2025-01-19】[tengbao / vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 * 【2025-01-17】[pixelfed / pixelfed-rn](https://github.com/pixelfed/pixelfed-rn) - Pixelfed mobile app
 * 【2025-01-15】[i-am-shodan / USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife) - USB Army Knife – the ultimate close access tool for penetration testers and red teamers.
@@ -608,6 +616,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-01-20】[YTEC-info / CH341A-Softwares](https://github.com/YTEC-info/CH341A-Softwares) - CH341A Softwares (Windows, Linux, Mac and Android)
 * 【2025-01-15】[apache / guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
 * 【2025-01-11】[riscv-software-src / opensbi](https://github.com/riscv-software-src/opensbi) - RISC-V Open Source Supervisor Binary Interface
 * 【2025-01-10】[HarbourMasters / Starship](https://github.com/HarbourMasters/Starship) - SF64 PC Port
@@ -657,6 +666,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-01-20】[WiseLibs / better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
+* 【2025-01-20】[LeelaChessZero / lc0](https://github.com/LeelaChessZero/lc0) - The rewritten engine, originally for tensorflow. Now all other backends have been ported here.
+* 【2025-01-20】[aliyun / SimAI](https://github.com/aliyun/SimAI) - 
 * 【2025-01-17】[microsoft / microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.
 * 【2025-01-17】[GuijiAI / duix.ai](https://github.com/GuijiAI/duix.ai) - 
 * 【2025-01-17】[windirstat / windirstat](https://github.com/windirstat/windirstat) - WinDirStat is a disk usage statistics viewer and cleanup tool for Microsoft Windows
@@ -707,6 +719,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-01-20】[frappe / helpdesk](https://github.com/frappe/helpdesk) - Modern, Streamlined, Free and Open Source Customer Service Software
+* 【2025-01-20】[emcie-co / parlant](https://github.com/emcie-co/parlant) - The behavior guidance framework for customer-facing LLM agents
+* 【2025-01-20】[echasnovski / mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
 * 【2025-01-19】[unionlabs / union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 * 【2025-01-19】[linuxserver / docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 * 【2025-01-17】[fluentassertions / fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3.
