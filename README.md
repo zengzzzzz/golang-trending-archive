@@ -136,6 +136,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-01-29】[fylein / fyle-interview-intern-backend](https://github.com/fylein/fyle-interview-intern-backend) - 
 * 【2025-01-26】[THUDM / CogAgent](https://github.com/THUDM/CogAgent) - An open-sourced end-to-end VLM-based GUI Agent
 * 【2025-01-26】[kyutai-labs / moshi](https://github.com/kyutai-labs/moshi) - 
 * 【2025-01-25】[DepthAnything / Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) - [NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
@@ -297,6 +298,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-01-29】[fabric8io / kubernetes-client](https://github.com/fabric8io/kubernetes-client) - Java client for Kubernetes & OpenShift
+* 【2025-01-29】[confluentinc / kafka-rest](https://github.com/confluentinc/kafka-rest) - Confluent REST Proxy for Kafka
+* 【2025-01-29】[wso2 / product-is](https://github.com/wso2/product-is) - Welcome to the WSO2 Identity Server source code! For info on working with the WSO2 Identity Server repository and contributing code, click the link below.
 * 【2025-01-28】[AppliedEnergistics / Applied-Energistics-2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world..
 * 【2025-01-28】[anonfaded / FadCam](https://github.com/anonfaded/FadCam) - Seamless background video recorder for Android – ad-free and open-source, with customizable options.
 * 【2025-01-27】[PurpurMC / Purpur](https://github.com/PurpurMC/Purpur) - Purpur is a drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.
@@ -467,6 +471,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-01-29】[ruilisi / fortune-sheet](https://github.com/ruilisi/fortune-sheet) - A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets
 * 【2025-01-28】[Nutlope / blinkshot](https://github.com/Nutlope/blinkshot) - A realtime AI image generator
 * 【2025-01-25】[zaidmukaddam / scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
 * 【2025-01-25】[satnaing / shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
@@ -763,6 +768,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-01-29】[deepseek-ai / Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
 * 【2025-01-27】[onlook-dev / onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers. Design directly in your live React app and publish your changes to code.
 * 【2025-01-26】[lightpanda-io / browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 * 【2025-01-26】[yassinebenaid / bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries.
