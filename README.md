@@ -139,6 +139,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-02-01】[QwenLM / Qwen2.5-Math](https://github.com/QwenLM/Qwen2.5-Math) - A series of math-specific large language models of our Qwen2 series.
+* 【2025-02-01】[volcengine / verl](https://github.com/volcengine/verl) - veRL: Volcano Engine Reinforcement Learning for LLM
 * 【2025-01-31】[aws-samples / bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) - OpenAI-Compatible RESTful APIs for Amazon Bedrock
 * 【2025-01-29】[fylein / fyle-interview-intern-backend](https://github.com/fylein/fyle-interview-intern-backend) - 
 * 【2025-01-26】[THUDM / CogAgent](https://github.com/THUDM/CogAgent) - An open-sourced end-to-end VLM-based GUI Agent
@@ -477,6 +479,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-02-01】[fuma-nama / fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js.
 * 【2025-01-30】[Abstract-Foundation / examples](https://github.com/Abstract-Foundation/examples) - Cloneable starter templates & example repos to help kickstart your next project on Abstract.
 * 【2025-01-29】[ruilisi / fortune-sheet](https://github.com/ruilisi/fortune-sheet) - A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets
 * 【2025-01-28】[Nutlope / blinkshot](https://github.com/Nutlope/blinkshot) - A realtime AI image generator
@@ -778,3 +781,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-08】[UniversalRobots / Universal_Robots_ROS2_Driver](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver) - Universal Robots ROS2 driver supporting CB3 and e-Series
 * 【2024-11-05】[unum-cloud / usearch](https://github.com/unum-cloud/usearch) - Fast Open-Source Search & Clustering engine × for Vectors & 🔜 Strings × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
+## All language
+
+* 【2025-02-01】[jef / streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
+* 【2025-02-01】[google / meridian](https://github.com/google/meridian) - Meridian is an MMM framework that enables advertisers to set up and run their own in-house models.
