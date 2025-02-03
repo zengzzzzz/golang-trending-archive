@@ -139,6 +139,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-02-03】[lllyasviel / Paints-UNDO](https://github.com/lllyasviel/Paints-UNDO) - Understand Human Behavior to Align True Needs
 * 【2025-02-01】[QwenLM / Qwen2.5-Math](https://github.com/QwenLM/Qwen2.5-Math) - A series of math-specific large language models of our Qwen2 series.
 * 【2025-02-01】[volcengine / verl](https://github.com/volcengine/verl) - veRL: Volcano Engine Reinforcement Learning for LLM
 * 【2025-01-31】[aws-samples / bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) - OpenAI-Compatible RESTful APIs for Amazon Bedrock
@@ -304,6 +305,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-02-03】[HMCL-dev / HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
 * 【2025-01-31】[firebase / firebase-android-sdk](https://github.com/firebase/firebase-android-sdk) - Firebase Android SDK
 * 【2025-01-30】[infinispan / infinispan](https://github.com/infinispan/infinispan) - Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.
 * 【2025-01-29】[fabric8io / kubernetes-client](https://github.com/fabric8io/kubernetes-client) - Java client for Kubernetes & OpenShift
@@ -479,6 +481,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-02-03】[ChatGPTNextWeb / NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows
+* 【2025-02-03】[lmstudio-ai / lmstudio.js](https://github.com/lmstudio-ai/lmstudio.js) - 👾 LM Studio TypeScript SDK (pre-release public alpha)
 * 【2025-02-02】[upstash / jstack](https://github.com/upstash/jstack) - Build seriously fast, lightweight and end-to-end typesafe Next.js apps
 * 【2025-02-02】[jordan-dalby / ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js
 * 【2025-02-01】[fuma-nama / fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js.
@@ -787,6 +791,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-02-03】[solidtime-io / solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
+* 【2025-02-03】[coinbase / agentkit](https://github.com/coinbase/agentkit) - 
+* 【2025-02-03】[HITsz-TMG / FilmAgent](https://github.com/HITsz-TMG/FilmAgent) - Resources of our paper "FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in Virtual 3D Spaces". New versions in the making!
 * 【2025-02-02】[oumi-ai / oumi](https://github.com/oumi-ai/oumi) - Everything you need to build state-of-the-art foundation models, end-to-end.
 * 【2025-02-02】[containers / ramalama](https://github.com/containers/ramalama) - The goal of RamaLama is to make working with AI boring.
 * 【2025-02-01】[jef / streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
