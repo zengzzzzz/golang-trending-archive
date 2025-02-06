@@ -141,6 +141,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-02-06】[redis / redis-py](https://github.com/redis/redis-py) - Redis Python client
 * 【2025-02-05】[tcgoetz / GarminDB](https://github.com/tcgoetz/GarminDB) - Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.
 * 【2025-02-04】[Soulter / AstrBot](https://github.com/Soulter/AstrBot) - ✨易上手的多平台 LLM 聊天机器人及开发框架✨。支持 QQ、QQ频道、Telegram、微信平台(Gewechat)、内置 Web Chat，OpenAI GPT、DeepSeek、Ollama、Llama、GLM、Gemini、OneAPI、LLMTuner，支持 LLM Agent 插件开发，可视化面板。一键部署。支持 Dify 工作流、代码执行器、Whisper 语音转文字。
 * 【2025-02-04】[agno-agi / agno](https://github.com/agno-agi/agno) - Agno is a lightweight framework for building multi-modal Agents
@@ -488,6 +489,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-02-06】[useplunk / plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
 * 【2025-02-05】[mnfst / manifest](https://github.com/mnfst/manifest) - The 1-file micro-backend. ⭐ to support the project !
 * 【2025-02-05】[2004Scape / Server](https://github.com/2004Scape/Server) - RuneScape 2 emulation (remake)
 * 【2025-02-04】[transformerlab / transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Open Source Application for Advanced LLM Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.
@@ -742,6 +744,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-02-06】[TigerVNC / tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
 * 【2025-02-05】[mkckr0 / audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
 * 【2025-02-05】[steveicarus / iverilog](https://github.com/steveicarus/iverilog) - Icarus Verilog
 * 【2025-02-04】[Chatterino / chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
@@ -807,6 +810,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-02-06】[monasticacademy / httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
+* 【2025-02-06】[elastic / integrations](https://github.com/elastic/integrations) - 
+* 【2025-02-06】[llvm / llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 * 【2025-02-05】[folke / snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
 * 【2025-02-04】[TencentCloud / tencentcloud-sdk-nodejs](https://github.com/TencentCloud/tencentcloud-sdk-nodejs) - Tencent Cloud API 3.0 SDK for NodeJS
 * 【2025-02-04】[ossu / math](https://github.com/ossu/math) - 🧮 Path to a free self-taught education in Mathematics!
