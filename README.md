@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-02-10】[mayswind / ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight personal bookkeeping app hosted by yourself.
 * 【2025-02-09】[fastenhealth / fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
 * 【2025-02-05】[terraform-linters / tflint](https://github.com/terraform-linters/tflint) - A Pluggable Terraform Linter
 * 【2025-02-04】[starfederation / datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
@@ -142,6 +143,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-02-10】[potpie-ai / potpie](https://github.com/potpie-ai/potpie) - Prompt-To-Agent : Create custom engineering agents for your codebase
 * 【2025-02-09】[roboflow / maestro](https://github.com/roboflow/maestro) - streamline the fine-tuning process for multimodal models: PaliGemma 2, Florence-2, and Qwen2.5-VL
 * 【2025-02-07】[RockChinQ / LangBot](https://github.com/RockChinQ/LangBot) - 😎丰富生态、🧩支持扩展、🦄多模态 - 大模型原生即时通信机器人平台 🤖 | 适配 QQ / 微信（企业微信、个人微信）/ 飞书（feishu）/ Discord / OneBot 等消息平台 | 支持 OpenAI GPT、ChatGPT、DeepSeek、Dify、Claude、Gemini、Ollama、LM Studio、SiliconFlow、Qwen、Moonshot、ChatGLM 等 LLM 的机器人 / Agent | LLM-based instant messaging bots platform, supports Discord, WeChat, Lark, QQ platform, OpenAI ChatGPT, DeepSeek.
 * 【2025-02-06】[redis / redis-py](https://github.com/redis/redis-py) - Redis Python client
@@ -492,6 +494,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-02-10】[microsoft / data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
 * 【2025-02-06】[useplunk / plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
 * 【2025-02-05】[mnfst / manifest](https://github.com/mnfst/manifest) - The 1-file micro-backend. ⭐ to support the project !
 * 【2025-02-05】[2004Scape / Server](https://github.com/2004Scape/Server) - RuneScape 2 emulation (remake)
