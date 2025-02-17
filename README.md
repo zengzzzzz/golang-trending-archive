@@ -512,6 +512,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-02-17】[assistant-ui / assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat💬🚀
 * 【2025-02-16】[buxuku / video-subtitle-master](https://github.com/buxuku/video-subtitle-master) - 批量为视频或者音频生成字幕，并可批量将字幕翻译成其它语言。这是一个客户端工具, 跨平台支持 mac 和 windows 系统, 支持百度，火山，deeplx, openai, deepseek, ollama 等多个翻译服务
 * 【2025-02-16】[eez-open / studio](https://github.com/eez-open/studio) - Cross-platform low-code GUI and automation
 * 【2025-02-13】[google / brotli](https://github.com/google/brotli) - Brotli compression format
@@ -653,6 +654,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-02-17】[enatega / food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) - Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: 🚀🛒📦🌐
 * 【2025-02-11】[ftde0 / yt2009](https://github.com/ftde0/yt2009) - 2009 youtube frontend.
 * 【2025-02-05】[Lumon-Industries / Macrodata-Refinement](https://github.com/Lumon-Industries/Macrodata-Refinement) - Marcrodata Refinement
 * 【2025-02-02】[shipshapecode / shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
@@ -779,6 +781,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-02-17】[ggml-org / llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
+* 【2025-02-17】[NickvisionApps / Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 * 【2025-02-15】[CollaboraOnline / online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
 * 【2025-02-15】[cvxpy / cvxpy](https://github.com/cvxpy/cvxpy) - A Python-embedded modeling language for convex optimization problems.
 * 【2025-02-12】[ripose-jp / Memento](https://github.com/ripose-jp/Memento) - An mpv-based video player for studying Japanese
@@ -850,6 +854,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-02-17】[microsoft / OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
+* 【2025-02-17】[cordx56 / rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
+* 【2025-02-17】[mongodb-developer / GenAI-Showcase](https://github.com/mongodb-developer/GenAI-Showcase) - GenAI Cookbook
 * 【2025-02-16】[tpn / pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 * 【2025-02-16】[souzatharsis / podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
 * 【2025-02-15】[kuchin / awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
