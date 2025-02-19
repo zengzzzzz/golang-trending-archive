@@ -513,6 +513,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-02-19】[unovue / motion-vue](https://github.com/unovue/motion-vue) - A animation library for Vue
 * 【2025-02-18】[xynehq / xyne](https://github.com/xynehq/xyne) - AI-first Search & Answer Engine for work. Open-source alternative to Glean.
 * 【2025-02-17】[assistant-ui / assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat💬🚀
 * 【2025-02-16】[buxuku / video-subtitle-master](https://github.com/buxuku/video-subtitle-master) - 批量为视频或者音频生成字幕，并可批量将字幕翻译成其它语言。这是一个客户端工具, 跨平台支持 mac 和 windows 系统, 支持百度，火山，deeplx, openai, deepseek, ollama 等多个翻译服务
@@ -656,6 +657,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-02-19】[damianeickhoff / HaCasa](https://github.com/damianeickhoff/HaCasa) - Custom theme and cards for Home Assistant
 * 【2025-02-17】[enatega / food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) - Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: 🚀🛒📦🌐
 * 【2025-02-11】[ftde0 / yt2009](https://github.com/ftde0/yt2009) - 2009 youtube frontend.
 * 【2025-02-05】[Lumon-Industries / Macrodata-Refinement](https://github.com/Lumon-Industries/Macrodata-Refinement) - Marcrodata Refinement
