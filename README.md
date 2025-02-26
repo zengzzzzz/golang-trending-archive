@@ -151,6 +151,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-02-26】[fla-org / flash-linear-attention](https://github.com/fla-org/flash-linear-attention) - 🚀 Efficient implementations of state-of-the-art linear attention models in Torch and Triton
+* 【2025-02-26】[KellerJordan / Muon](https://github.com/KellerJordan/Muon) - Muon optimizer: +>30% sample efficiency with <3% wallclock overhead
+* 【2025-02-26】[Upsonic / Upsonic](https://github.com/Upsonic/Upsonic) - Most Reliable AI Agent Framework
 * 【2025-02-25】[crossbario / autobahn-testsuite](https://github.com/crossbario/autobahn-testsuite) - Autobahn WebSocket protocol testsuite
 * 【2025-02-24】[icloud-photos-downloader / icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 * 【2025-02-23】[fastapi / sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
@@ -339,6 +342,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-02-26】[tjake / Jlama](https://github.com/tjake/Jlama) - Jlama is a modern LLM inference engine for Java
+* 【2025-02-26】[apache / netbeans](https://github.com/apache/netbeans) - Apache NetBeans
 * 【2025-02-21】[LMAX-Exchange / disruptor](https://github.com/LMAX-Exchange/disruptor) - High Performance Inter-Thread Messaging Library
 * 【2025-02-20】[dependency-check / DependencyCheck](https://github.com/dependency-check/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 * 【2025-02-20】[YunaiV / yudao-cloud](https://github.com/YunaiV/yudao-cloud) - ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
@@ -526,6 +531,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-02-26】[PySpur-Dev / pyspur](https://github.com/PySpur-Dev/pyspur) - AI Agent Builder in Python
 * 【2025-02-24】[base / web](https://github.com/base/web) - 
 * 【2025-02-23】[felixrieseberg / windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 * 【2025-02-21】[jetkvm / kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
@@ -675,6 +681,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-02-26】[pollinations / pollinations](https://github.com/pollinations/pollinations) - Free Open-Source Image and Text Generation
 * 【2025-02-25】[steveseguin / social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams and much more
 * 【2025-02-25】[devlikeapro / waha](https://github.com/devlikeapro/waha) - WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
 * 【2025-02-21】[DavidHDev / react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces.
@@ -884,6 +891,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-02-26】[NirDiamant / GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
 * 【2025-02-25】[vllm-project / aibrix](https://github.com/vllm-project/aibrix) - Cost-efficient and pluggable Infrastructure components for GenAI inference
 * 【2025-02-25】[Flowseal / zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) - 
 * 【2025-02-25】[langchain-ai / open_deep_research](https://github.com/langchain-ai/open_deep_research) - 
