@@ -342,6 +342,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-02-27】[TyCoding / langchat](https://github.com/TyCoding/langchat) - LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用
 * 【2025-02-26】[tjake / Jlama](https://github.com/tjake/Jlama) - Jlama is a modern LLM inference engine for Java
 * 【2025-02-26】[apache / netbeans](https://github.com/apache/netbeans) - Apache NetBeans
 * 【2025-02-21】[LMAX-Exchange / disruptor](https://github.com/LMAX-Exchange/disruptor) - High Performance Inter-Thread Messaging Library
@@ -681,6 +682,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-02-27】[cyb3rfox / Aurora-Incident-Response](https://github.com/cyb3rfox/Aurora-Incident-Response) - Incident Response Documentation made easy. Developed by Incident Responders for Incident Responders
+* 【2025-02-27】[LimeSurvey / LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched flexibility.
 * 【2025-02-26】[pollinations / pollinations](https://github.com/pollinations/pollinations) - Free Open-Source Image and Text Generation
 * 【2025-02-25】[steveseguin / social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams and much more
 * 【2025-02-25】[devlikeapro / waha](https://github.com/devlikeapro/waha) - WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
@@ -746,6 +749,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-02-27】[espressif / esp-sr](https://github.com/espressif/esp-sr) - Speech recognition
+* 【2025-02-27】[unkyulee / micro-journal](https://github.com/unkyulee/micro-journal) - 
 * 【2025-02-25】[pi-hole / FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine
 * 【2025-02-24】[stlink-org / stlink](https://github.com/stlink-org/stlink) - Open source STM32 MCU programming toolset
 * 【2025-02-21】[ghaerr / elks](https://github.com/ghaerr/elks) - Embeddable Linux Kernel Subset - Linux for 8086
@@ -816,6 +821,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-02-27】[ROCm / composable_kernel](https://github.com/ROCm/composable_kernel) - Composable Kernel: Performance Portable Programming Model for Machine Learning Tensor Operators
 * 【2025-02-24】[mausimus / ShaderGlass](https://github.com/mausimus/ShaderGlass) - Overlay for running GPU shaders on top of Windows desktop
 * 【2025-02-20】[catboost / catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
 * 【2025-02-17】[ggml-org / llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
@@ -891,6 +897,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-02-27】[ggerganov / ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 * 【2025-02-26】[NirDiamant / GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
 * 【2025-02-25】[vllm-project / aibrix](https://github.com/vllm-project/aibrix) - Cost-efficient and pluggable Infrastructure components for GenAI inference
 * 【2025-02-25】[Flowseal / zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) - 
