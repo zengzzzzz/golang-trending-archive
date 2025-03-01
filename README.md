@@ -151,6 +151,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-03-01】[HKUDS / LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 * 【2025-02-26】[fla-org / flash-linear-attention](https://github.com/fla-org/flash-linear-attention) - 🚀 Efficient implementations of state-of-the-art linear attention models in Torch and Triton
 * 【2025-02-26】[KellerJordan / Muon](https://github.com/KellerJordan/Muon) - Muon optimizer: +>30% sample efficiency with <3% wallclock overhead
 * 【2025-02-26】[Upsonic / Upsonic](https://github.com/Upsonic/Upsonic) - Most Reliable AI Agent Framework
@@ -342,6 +343,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-03-01】[allure-framework / allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of information from the everyday testing process
+* 【2025-03-01】[noties / Markwon](https://github.com/noties/Markwon) - Android markdown library (no WebView)
 * 【2025-02-27】[TyCoding / langchat](https://github.com/TyCoding/langchat) - LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用
 * 【2025-02-26】[tjake / Jlama](https://github.com/tjake/Jlama) - Jlama is a modern LLM inference engine for Java
 * 【2025-02-26】[apache / netbeans](https://github.com/apache/netbeans) - Apache NetBeans
