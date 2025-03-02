@@ -151,6 +151,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-03-02】[LazoCoder / Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes.
 * 【2025-03-01】[HKUDS / LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 * 【2025-02-26】[fla-org / flash-linear-attention](https://github.com/fla-org/flash-linear-attention) - 🚀 Efficient implementations of state-of-the-art linear attention models in Torch and Triton
 * 【2025-02-26】[KellerJordan / Muon](https://github.com/KellerJordan/Muon) - Muon optimizer: +>30% sample efficiency with <3% wallclock overhead
@@ -343,6 +344,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-03-02】[synthetichealth / synthea](https://github.com/synthetichealth/synthea) - Synthetic Patient Population Simulator
 * 【2025-03-01】[allure-framework / allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of information from the everyday testing process
 * 【2025-03-01】[noties / Markwon](https://github.com/noties/Markwon) - Android markdown library (no WebView)
 * 【2025-02-27】[TyCoding / langchat](https://github.com/TyCoding/langchat) - LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用
@@ -535,6 +537,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-03-02】[subnub / myDrive](https://github.com/subnub/myDrive) - Node.js and mongoDB Google Drive Clone
+* 【2025-03-02】[SSShooter / mind-elixir-core](https://github.com/SSShooter/mind-elixir-core) - ⚗ Mind Elixir is a JavaScript, framework-agnostic mind map core.
 * 【2025-02-26】[PySpur-Dev / pyspur](https://github.com/PySpur-Dev/pyspur) - AI Agent Builder in Python
 * 【2025-02-24】[base / web](https://github.com/base/web) - 
 * 【2025-02-23】[felixrieseberg / windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
@@ -685,6 +689,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-03-02】[klaudiosinani / hyper-pokemon](https://github.com/klaudiosinani/hyper-pokemon) - Tailor-made Pokémon themes for your Hyper terminal
 * 【2025-02-27】[cyb3rfox / Aurora-Incident-Response](https://github.com/cyb3rfox/Aurora-Incident-Response) - Incident Response Documentation made easy. Developed by Incident Responders for Incident Responders
 * 【2025-02-27】[LimeSurvey / LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched flexibility.
 * 【2025-02-26】[pollinations / pollinations](https://github.com/pollinations/pollinations) - Free Open-Source Image and Text Generation
