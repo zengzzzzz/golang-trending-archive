@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-03-04】[vinceanalytics / vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics
 * 【2025-03-03】[DeepSourceCorp / globstar](https://github.com/DeepSourceCorp/globstar) - Globstar is a fast, feature-rich, and open-source static analysis toolkit for writing and running code checkers. Based on tree-sitter.
 * 【2025-03-03】[gagliardetto / solana-go](https://github.com/gagliardetto/solana-go) - Go SDK library and RPC client for the Solana Blockchain
 * 【2025-03-03】[langgenius / dify-plugin-daemon](https://github.com/langgenius/dify-plugin-daemon) - 
@@ -154,6 +155,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-03-04】[jjleng / copilot-more](https://github.com/jjleng/copilot-more) - GPT-4o and Claude-3.7-Sonnet APIs for coding.
 * 【2025-03-03】[baihengaead / wifi-crack-tool](https://github.com/baihengaead/wifi-crack-tool) - WiFi密码暴力破解工具-图形界面，支持WPA/WPA2/WPA3、多开并发、自动破解、自定义密码本、自动生成密码字典
 * 【2025-03-03】[casualsnek / waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
 * 【2025-03-03】[salesforce / Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
@@ -544,6 +546,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-03-04】[langchain-ai / social-media-agent](https://github.com/langchain-ai/social-media-agent) - 📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.
+* 【2025-03-04】[heyverse / hey](https://github.com/heyverse/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 * 【2025-03-03】[iib0011 / omni-tools](https://github.com/iib0011/omni-tools) - Collection of handy online tools for everyone
 * 【2025-03-02】[subnub / myDrive](https://github.com/subnub/myDrive) - Node.js and mongoDB Google Drive Clone
 * 【2025-03-02】[SSShooter / mind-elixir-core](https://github.com/SSShooter/mind-elixir-core) - ⚗ Mind Elixir is a JavaScript, framework-agnostic mind map core.
@@ -838,6 +842,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-03-04】[hedge-dev / UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) - An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.
 * 【2025-02-27】[ROCm / composable_kernel](https://github.com/ROCm/composable_kernel) - Composable Kernel: Performance Portable Programming Model for Machine Learning Tensor Operators
 * 【2025-02-24】[mausimus / ShaderGlass](https://github.com/mausimus/ShaderGlass) - Overlay for running GPU shaders on top of Windows desktop
 * 【2025-02-20】[catboost / catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
