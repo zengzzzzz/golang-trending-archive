@@ -155,6 +155,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-03-06】[gpustack / gpustack](https://github.com/gpustack/gpustack) - Manage GPU clusters for running AI models
 * 【2025-03-04】[jjleng / copilot-more](https://github.com/jjleng/copilot-more) - GPT-4o and Claude-3.7-Sonnet APIs for coding.
 * 【2025-03-03】[baihengaead / wifi-crack-tool](https://github.com/baihengaead/wifi-crack-tool) - WiFi密码暴力破解工具-图形界面，支持WPA/WPA2/WPA3、多开并发、自动破解、自定义密码本、自动生成密码字典
 * 【2025-03-03】[casualsnek / waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
@@ -546,6 +547,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-03-06】[crimx / ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
+* 【2025-03-06】[JOYCEQL / magic-resume](https://github.com/JOYCEQL/magic-resume) - free online AI resume editor
 * 【2025-03-05】[jyjblrd / Low-Cost-Mocap](https://github.com/jyjblrd/Low-Cost-Mocap) - Low cost motion capture system for room scale tracking
 * 【2025-03-05】[ourongxing / newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 * 【2025-03-05】[vitabaks / autobase](https://github.com/vitabaks/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS. The open-source alternative to cloud-managed databases.
@@ -922,5 +925,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-03-06】[kubernetes-sigs / kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
+* 【2025-03-06】[TanStack / form](https://github.com/TanStack/form) - 🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.
+* 【2025-03-06】[commixproject / commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
+* 【2025-03-06】[cloudwego / eino](https://github.com/cloudwego/eino) - The ultimate LLM/AI application development framework in Golang.
 * 【2025-03-05】[virattt / ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 * 【2025-03-05】[acmesh-official / acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
