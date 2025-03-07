@@ -155,6 +155,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-03-07】[THUDM / CogView4](https://github.com/THUDM/CogView4) - CogView4, CogView3-Plus and CogView3(ECCV 2024)
 * 【2025-03-06】[gpustack / gpustack](https://github.com/gpustack/gpustack) - Manage GPU clusters for running AI models
 * 【2025-03-04】[jjleng / copilot-more](https://github.com/jjleng/copilot-more) - GPT-4o and Claude-3.7-Sonnet APIs for coding.
 * 【2025-03-03】[baihengaead / wifi-crack-tool](https://github.com/baihengaead/wifi-crack-tool) - WiFi密码暴力破解工具-图形界面，支持WPA/WPA2/WPA3、多开并发、自动破解、自定义密码本、自动生成密码字典
@@ -353,6 +354,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-03-07】[microsoft / HydraLab](https://github.com/microsoft/HydraLab) - Intelligent cloud testing made easy.
 * 【2025-03-03】[guardianproject / orbot-android](https://github.com/guardianproject/orbot-android) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 * 【2025-03-02】[synthetichealth / synthea](https://github.com/synthetichealth/synthea) - Synthetic Patient Population Simulator
 * 【2025-03-01】[allure-framework / allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of information from the everyday testing process
@@ -707,6 +709,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-03-07】[maxi1134 / Home-Assistant-Config](https://github.com/maxi1134/Home-Assistant-Config) - This is my Smart-home Installation repository
+* 【2025-03-07】[microsoft / generative-ai-with-javascript](https://github.com/microsoft/generative-ai-with-javascript) - Join a time-traveling adventure where you meet history’s legends while learning Generative AI technologies! ✨
 * 【2025-03-03】[lyfe00011 / levanter](https://github.com/lyfe00011/levanter) - 
 * 【2025-03-02】[klaudiosinani / hyper-pokemon](https://github.com/klaudiosinani/hyper-pokemon) - Tailor-made Pokémon themes for your Hyper terminal
 * 【2025-02-27】[cyb3rfox / Aurora-Incident-Response](https://github.com/cyb3rfox/Aurora-Incident-Response) - Incident Response Documentation made easy. Developed by Incident Responders for Incident Responders
@@ -925,6 +929,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-03-07】[clockworklabs / SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
+* 【2025-03-07】[zigtools / zls](https://github.com/zigtools/zls) - A Zig language server supporting Zig developers with features like autocomplete and goto definition
+* 【2025-03-07】[Plachtaa / seed-vc](https://github.com/Plachtaa/seed-vc) - zero-shot voice conversion & singing voice conversion, with real-time support
 * 【2025-03-06】[kubernetes-sigs / kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 * 【2025-03-06】[TanStack / form](https://github.com/TanStack/form) - 🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.
 * 【2025-03-06】[commixproject / commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
