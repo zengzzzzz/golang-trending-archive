@@ -162,6 +162,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-03-17】[subframe7536 / maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+* 【2025-03-17】[exo-lang / exo](https://github.com/exo-lang/exo) - Exocompilation for productive programming of hardware accelerators
 * 【2025-03-16】[QiuChenly / InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么
 * 【2025-03-16】[jiji262 / douyin-downloader](https://github.com/jiji262/douyin-downloader) - 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
 * 【2025-03-16】[tensortrade-org / tensortrade](https://github.com/tensortrade-org/tensortrade) - An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.
@@ -371,6 +373,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-03-17】[sqlancer / sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic and performance bugs in database systems
 * 【2025-03-16】[HbmMods / Hbm-s-Nuclear-Tech-GIT](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT) - A flaming wreck of a minecraft mod about nuclear technology that is somehow still in development.
 * 【2025-03-16】[spring-projects / spring-data-jpa](https://github.com/spring-projects/spring-data-jpa) - Simplifies the development of creating a JPA-based data access layer.
 * 【2025-03-14】[sleuthkit / autopsy](https://github.com/sleuthkit/autopsy) - Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It can be used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera's memory card.
@@ -576,6 +579,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-03-17】[nanbingxyz / 5ire](https://github.com/nanbingxyz/5ire) - 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers, supports local knowledge base and tools via model context protocol servers .
 * 【2025-03-16】[TriliumNext / Notes](https://github.com/TriliumNext/Notes) - Build your personal knowledge base with TriliumNext Notes
 * 【2025-03-14】[Zippland / worth-calculator](https://github.com/Zippland/worth-calculator) - 一个帮你计算当前工作"值不值得"的在线工具
 * 【2025-03-09】[executeautomation / mcp-playwright](https://github.com/executeautomation/mcp-playwright) - Repository contains Playwright Model Context Protocol to automate Browser and APIs
@@ -818,6 +822,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-03-17】[lwfinger / rtw88](https://github.com/lwfinger/rtw88) - A backport of the Realtek Wifi 5 drivers from the wireless-next repo.
 * 【2025-03-15】[open-quantum-safe / oqs-provider](https://github.com/open-quantum-safe/oqs-provider) - OpenSSL 3 provider containing post-quantum algorithms
 * 【2025-03-09】[easychen / pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
 * 【2025-02-27】[espressif / esp-sr](https://github.com/espressif/esp-sr) - Speech recognition
@@ -974,6 +979,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-03-17】[ai-christianson / RA.Aid](https://github.com/ai-christianson/RA.Aid) - Develop software autonomously.
+* 【2025-03-17】[RIP-Comm / sossoldi](https://github.com/RIP-Comm/sossoldi) - "Sossoldi" is a wealth management / personal finance / Net Worth tracking app, made with Flutter.
 * 【2025-03-16】[nvim-lualine / lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 * 【2025-03-16】[langchain-ai / ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher) - Fully local web research and report writing assistant
 * 【2025-03-15】[yuaotian / go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
