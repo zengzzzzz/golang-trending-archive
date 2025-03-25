@@ -168,6 +168,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-03-25】[MarkusPfundstein / mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - MCP server that interacts with Obsidian via the Obsidian rest API community plugin
+* 【2025-03-25】[Zulko / moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
+* 【2025-03-25】[amd / gaia](https://github.com/amd/gaia) - Run LLM Agents on Ryzen AI PCs in Minutes
 * 【2025-03-24】[SafeAILab / EAGLE](https://github.com/SafeAILab/EAGLE) - Official Implementation of EAGLE-1 (ICML'24), EAGLE-2 (EMNLP'24), and EAGLE-3.
 * 【2025-03-22】[lastmile-ai / mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 * 【2025-03-21】[NVIDIA / physicsnemo](https://github.com/NVIDIA/physicsnemo) - Open-source deep-learning framework for building, training, and fine-tuning deep learning models using state-of-the-art Physics-ML methods
@@ -596,6 +599,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-03-25】[web-infra-dev / rsdoctor](https://github.com/web-infra-dev/rsdoctor) - A one-stop build analyzer for Rspack and webpack. Support us with a star ⭐️
 * 【2025-03-22】[wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er/ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control
 * 【2025-03-21】[better-auth / better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 * 【2025-03-20】[cloudflare / mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - 
@@ -847,6 +851,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-03-25】[bootchk / resynthesizer](https://github.com/bootchk/resynthesizer) - Suite of gimp plugins for texture synthesis
 * 【2025-03-24】[bitaxeorg / ESP-Miner](https://github.com/bitaxeorg/ESP-Miner) - A bitcoin ASIC miner for the ESP32
 * 【2025-03-23】[tuya / TuyaOpen](https://github.com/tuya/TuyaOpen) - Tuya open source AI+IoT development framework for device for T2, T3, T5AI, esp32, esp32c3, ln882h, bk7231n
 * 【2025-03-21】[gozfree / gear-lib](https://github.com/gozfree/gear-lib) - Gear-Lib, C library for IOT Embedded Multimedia and Network
@@ -1013,6 +1018,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-03-25】[Cryakl / Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders including screenshots.
 * 【2025-03-24】[Devolutions / IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 * 【2025-03-24】[joanrod / star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.
 * 【2025-03-24】[microsoft / ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
