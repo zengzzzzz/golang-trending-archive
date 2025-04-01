@@ -404,6 +404,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-04-01】[LSPosed / CorePatch](https://github.com/LSPosed/CorePatch) - Disable signature verification For Android
+* 【2025-04-01】[leck995 / WutheringWavesTool](https://github.com/leck995/WutheringWavesTool) - 鸣潮助手，鸣潮工具集与启动器，主要功能有获取角色信息，解锁帧率，实现库街区签到，游戏时长统计以及抽卡分析(支持国际服账号)。
+* 【2025-04-01】[Canner / wren-engine](https://github.com/Canner/wren-engine) - 🤖 The Semantic Engine for Model Context Protocol(MCP) Clients and AI Agents 🔥
 * 【2025-03-24】[Col-E / Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
 * 【2025-03-22】[valkey-io / valkey-glide](https://github.com/valkey-io/valkey-glide) - An open source Valkey client library that supports Valkey, and Redis open source 6.2, 7.0 and 7.2. Valkey GLIDE is designed for reliability, optimized performance, and high-availability, for Valkey and Redis OSS based applications. GLIDE is a multi language client library, written in Rust with programming language bindings, such as Java and Python
 * 【2025-03-21】[ageerle / ruoyi-ai](https://github.com/ageerle/ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
@@ -615,6 +618,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-04-01】[btjawa / BiliTools](https://github.com/btjawa/BiliTools) - A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持视频、音乐、番剧、课程下载……持续更新
 * 【2025-03-30】[yaklang / yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
 * 【2025-03-27】[wonderwhy-er / DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 * 【2025-03-27】[supercorp-ai / supergateway](https://github.com/supercorp-ai/supergateway) - Run MCP stdio servers over SSE and SSE over stdio. AI gateway.
@@ -873,6 +877,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-04-01】[Johannes4Linux / Linux_Driver_Tutorial_legacy](https://github.com/Johannes4Linux/Linux_Driver_Tutorial_legacy) - A Tutorial how to get started with Linux Kernel Modules and Linux Drivers.
 * 【2025-03-29】[zinongli / KeyCopier](https://github.com/zinongli/KeyCopier) - Key Copier App for Flipper Zero
 * 【2025-03-28】[espressif / esp-drone](https://github.com/espressif/esp-drone) - Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.
 * 【2025-03-26】[GuijiAI / HeyGem.ai](https://github.com/GuijiAI/HeyGem.ai) - 
@@ -956,6 +961,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-04-01】[shdwmtr / millennium](https://github.com/shdwmtr/millennium) - Apply themes/skins/customize Steam® after the 2023-04-27 Chromium UI update
 * 【2025-03-31】[hedge-dev / XenonRecomp](https://github.com/hedge-dev/XenonRecomp) - A tool for recompiling Xbox 360 games to native executables.
 * 【2025-03-31】[apache / incubator-graphar](https://github.com/apache/incubator-graphar) - An open source, standard data file format for graph data storage and retrieval.
 * 【2025-03-30】[Zackriya-Solutions / meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon)
@@ -1046,3 +1052,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-08】[UniversalRobots / Universal_Robots_ROS2_Driver](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver) - Universal Robots ROS2 driver supporting CB3 and e-Series
 * 【2024-11-05】[unum-cloud / usearch](https://github.com/unum-cloud/usearch) - Fast Open-Source Search & Clustering engine × for Vectors & 🔜 Strings × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
+## All language
+
+* 【2025-04-01】[yetone / avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
+* 【2025-04-01】[supabase-community / postgres-language-server](https://github.com/supabase-community/postgres-language-server) - A Language Server for Postgres
