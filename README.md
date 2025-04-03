@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-04-03】[infracost / infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 * 【2025-04-02】[mgechev / revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 * 【2025-04-02】[wgpsec / ENScan_GO](https://github.com/wgpsec/ENScan_GO) - 一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。支持MCP接入
 * 【2025-03-31】[0xJacky / nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
@@ -173,6 +174,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-04-03】[dreammis / social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
+* 【2025-04-03】[apirrone / Open_Duck_Mini](https://github.com/apirrone/Open_Duck_Mini) - Making a mini version of the BDX droid. https://discord.gg/UtJZsgfQGe
 * 【2025-03-31】[blazickjp / arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
 * 【2025-03-31】[basicmachines-co / basic-memory](https://github.com/basicmachines-co/basic-memory) - Basic Memory is a knowledge management system that allows you to build a persistent semantic graph from conversations with AI assistants. All knowledge is stored in standard Markdown files on your computer, giving you full control and ownership of your data. Integrates directly with Obsidan.md
 * 【2025-03-31】[leminlimez / Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device
@@ -621,6 +624,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-04-03】[aws-samples / generative-ai-use-cases](https://github.com/aws-samples/generative-ai-use-cases) - Application implementation with business use cases for safely utilizing generative AI in business operations
 * 【2025-04-01】[btjawa / BiliTools](https://github.com/btjawa/BiliTools) - A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持视频、音乐、番剧、课程下载……持续更新
 * 【2025-03-30】[yaklang / yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
 * 【2025-03-27】[wonderwhy-er / DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
@@ -795,6 +799,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-04-03】[JetBrains / mcp-jetbrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio
 * 【2025-03-30】[MUTED64 / SearchEngineJumpPlus](https://github.com/MUTED64/SearchEngineJumpPlus) - 增强版搜索引擎跳转脚本，优化一些使用体验，Tampermonkey Userscript
 * 【2025-03-30】[zen-browser / desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
 * 【2025-03-26】[prateek-chaubey / YTPro](https://github.com/prateek-chaubey/YTPro) - All in one YouTube App with downloader , background player , Google Gemini ✨ and many more features.
@@ -1057,6 +1062,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-04-03】[inkonchain / ink-kit](https://github.com/inkonchain/ink-kit) - Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨
+* 【2025-04-03】[chiphuyen / aie-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
 * 【2025-04-02】[hackclub / hcb](https://github.com/hackclub/hcb) - 🏦 The neobank built for nonprofits.
 * 【2025-04-01】[yetone / avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 * 【2025-04-01】[supabase-community / postgres-language-server](https://github.com/supabase-community/postgres-language-server) - A Language Server for Postgres
