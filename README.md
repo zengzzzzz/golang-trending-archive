@@ -639,6 +639,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-04-11】[anultravioletaurora / Jellify](https://github.com/anultravioletaurora/Jellify) - A cross-platform, free and open source music player for Jellyfin 🪼 Powered by React Native ⚛️
 * 【2025-04-08】[punkpeye / fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 * 【2025-04-07】[laravel / react-starter-kit](https://github.com/laravel/react-starter-kit) - 
 * 【2025-04-06】[supabase-community / supabase-mcp](https://github.com/supabase-community/supabase-mcp) - Connect Supabase to your AI assistants
@@ -818,6 +819,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-04-11】[goldbergyoni / nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
 * 【2025-04-10】[jerhadf / linear-mcp-server](https://github.com/jerhadf/linear-mcp-server) - A server that integrates Linear's project management system with the Model Context Protocol (MCP) to allow LLMs to interact with Linear.
 * 【2025-04-09】[its-a-feature / Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi-platform, red teaming framework
 * 【2025-04-06】[googlecreativelab / chrome-music-lab](https://github.com/googlecreativelab/chrome-music-lab) - A collection of experiments for exploring how music works, all built with the Web Audio API.
@@ -1001,6 +1003,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-04-11】[xtensor-stack / xtensor](https://github.com/xtensor-stack/xtensor) - C++ tensors with broadcasting and lazy computing
 * 【2025-04-07】[PerformanC / ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
 * 【2025-04-07】[kuzudb / kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
 * 【2025-04-07】[NVIDIA-RTX / NVRHI](https://github.com/NVIDIA-RTX/NVRHI) - 
