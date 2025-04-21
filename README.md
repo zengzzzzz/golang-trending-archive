@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-04-21】[ncruces / go-sqlite3](https://github.com/ncruces/go-sqlite3) - Go bindings to SQLite using wazero
+* 【2025-04-21】[OWASP / Go-SCP](https://github.com/OWASP/Go-SCP) - Golang Secure Coding Practices guide
 * 【2025-04-20】[anthropics / anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go) - Access to Anthropic's safety-first language model APIs via Go
 * 【2025-04-18】[donknap / dpanel](https://github.com/donknap/dpanel) - 轻量化 docker 可视化管理面板。lightweight panel for docker
 * 【2025-04-13】[goccy / go-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
@@ -180,6 +182,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-04-21】[robfiras / loco-mujoco](https://github.com/robfiras/loco-mujoco) - Imitation learning benchmark focusing on complex locomotion tasks using MuJoCo.
 * 【2025-04-20】[kijai / ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes) - Various custom nodes for ComfyUI
 * 【2025-04-20】[cyclotruc / gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
 * 【2025-04-20】[Lightricks / LTX-Video](https://github.com/Lightricks/LTX-Video) - Official repository for LTX-Video
@@ -431,6 +434,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-04-21】[CatimaLoyalty / Android](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android
 * 【2025-04-18】[ClickHouse / clickhouse-java](https://github.com/ClickHouse/clickhouse-java) - ClickHouse Java Clients & JDBC Driver
 * 【2025-04-14】[data-integrations / wrangler](https://github.com/data-integrations/wrangler) - Wrangler Transform: A DMD system for transforming Big Data
 * 【2025-04-14】[1024-lab / smart-admin](https://github.com/1024-lab/smart-admin) - SmartAdmin国内首个以「高质量代码」为核心，「简洁、高效、安全」快速开发平台；基于SpringBoot2/3 + Sa-Token + Mybatis-Plus 和 Vue3 + Vite5 + Ant Design Vue 4.x (同时支持JavaScript和TypeScript双版本)；满足国家三级等保要求、支持登录限制、接口数据国产加解密、高防SQL注入等一系列安全体系。
@@ -653,6 +657,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-04-21】[David-patrick-chuks / Instagram-AI-Agent](https://github.com/David-patrick-chuks/Instagram-AI-Agent) - Instagram Ai Agent 🌸 is built using Node.js and TypeScript 🛠️, designed for seamless job execution 📸. It's lightweight, efficient, and still evolving 🚧—exciting new features coming soon! 🌟
+* 【2025-04-21】[lingodotdev / lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡️ Open-source AI-powered CLI for web & mobile localization. Bring your own LLM or use Lingo.dev-managed localization engine.
+* 【2025-04-21】[zcaceres / markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) - A Model Context Protocol server for converting almost anything to Markdown
 * 【2025-04-20】[oslook / cursor-ai-downloads](https://github.com/oslook/cursor-ai-downloads) - All Cursor AI's official download links for both the latest and older versions, making it easy for you to update, downgrade, and choose any version. 🚀
 * 【2025-04-19】[hyperai / tvm-cn](https://github.com/hyperai/tvm-cn) - TVM Documentation in Chinese Simplified / TVM 中文文档
 * 【2025-04-18】[heroui-inc / heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
@@ -840,6 +847,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-04-21】[satellitecomponent / Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
 * 【2025-04-19】[gradio-app / fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
 * 【2025-04-19】[hexgrad / kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
 * 【2025-04-17】[Stremio / stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
@@ -938,6 +946,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-04-21】[oerg866 / win98-quickinstall](https://github.com/oerg866/win98-quickinstall) - A framework + installer to (very) quickly install Windows 98 on anything from a 486 up to a modern system
 * 【2025-04-20】[GermanAizek / WinRing0](https://github.com/GermanAizek/WinRing0) - WinRing0 is a hardware access library for Windows.
 * 【2025-04-19】[marcoroth / herb](https://github.com/marcoroth/herb) - 🌿 Powerful and seamless HTML-aware ERB parsing and tooling.
 * 【2025-04-17】[tsoding / nob.h](https://github.com/tsoding/nob.h) - Header only library for writing build recipes in C.
@@ -1134,6 +1143,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-04-21】[ashvardanian / less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp) - Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO
 * 【2025-04-18】[CVEProject / cvelistV5](https://github.com/CVEProject/cvelistV5) - CVE cache of the official CVE List in CVE JSON 5 format
 * 【2025-04-18】[elastic / detection-rules](https://github.com/elastic/detection-rules) - 
 * 【2025-04-17】[Anxcye / anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。
