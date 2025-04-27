@@ -189,6 +189,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-04-27】[Tencent / Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2) - High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
 * 【2025-04-26】[potamides / DeTikZify](https://github.com/potamides/DeTikZify) - Synthesizing Graphics Programs for Scientific Figures and Sketches with TikZ
 * 【2025-04-25】[thunlp / LLMxMapReduce](https://github.com/thunlp/LLMxMapReduce) - 
 * 【2025-04-25】[FunAudioLLM / CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
@@ -445,6 +446,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-04-27】[jeecgboot / jimureport](https://github.com/jeecgboot/jimureport) - 「数据可视化：报表、大屏、数据看板」积木报表是一款类Excel操作风格，在线拖拽设计的报表工具和和数据可视化产品。功能涵盖: 报表设计、大屏设计、打印设计、图形报表、仪表盘门户设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
 * 【2025-04-26】[eclipse / openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
 * 【2025-04-26】[msfroh / lucene-university](https://github.com/msfroh/lucene-university) - Self-contained worked examples of Apache Lucene features and functionality
 * 【2025-04-25】[kermitt2 / grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
@@ -674,6 +676,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-04-27】[MODSetter / SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily), Slack, Linear, Notion, YouTube, GitHub and more.
 * 【2025-04-25】[bytedance / UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
 * 【2025-04-25】[LegendApp / legend-list](https://github.com/LegendApp/legend-list) - A high-performance list component for React Native
 * 【2025-04-24】[menloresearch / jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
@@ -868,6 +871,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-04-27】[Moustachauve / cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
 * 【2025-04-24】[abhiz123 / todoist-mcp-server](https://github.com/abhiz123/todoist-mcp-server) - MCP server for Todoist integration enabling natural language task management with Claude
 * 【2025-04-23】[yagop / node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Telegram Bot API for NodeJS
 * 【2025-04-22】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
@@ -1069,6 +1073,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-04-27】[intel / pcm](https://github.com/intel/pcm) - Intel® Performance Counter Monitor (Intel® PCM)
+* 【2025-04-27】[ETLCPP / etl](https://github.com/ETLCPP/etl) - Embedded Template Library
 * 【2025-04-26】[unitreerobotics / unitree_mujoco](https://github.com/unitreerobotics/unitree_mujoco) - 
 * 【2025-04-24】[worawit / blutter](https://github.com/worawit/blutter) - Flutter Mobile Application Reverse Engineering Tool
 * 【2025-04-23】[RCInet / LastEpoch_Mods](https://github.com/RCInet/LastEpoch_Mods) - MelonLoader Mods for LastEpoch
@@ -1173,6 +1179,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-04-27】[rowboatlabs / rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
 * 【2025-04-26】[tracel-ai / burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 * 【2025-04-25】[kortix-ai / suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
 * 【2025-04-24】[bytedance / UI-TARS](https://github.com/bytedance/UI-TARS) - 
