@@ -192,6 +192,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-04-29】[Blaizzy / mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS) and Speech-to-Speech (STS) library built on Apple's MLX framework, providing efficient speech synthesis on Apple Silicon.
+* 【2025-04-29】[akfamily / akshare](https://github.com/akfamily/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
 * 【2025-04-27】[Tencent / Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2) - High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
 * 【2025-04-26】[potamides / DeTikZify](https://github.com/potamides/DeTikZify) - Synthesizing Graphics Programs for Scientific Figures and Sketches with TikZ
 * 【2025-04-25】[thunlp / LLMxMapReduce](https://github.com/thunlp/LLMxMapReduce) - 
@@ -877,6 +879,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-04-29】[cv-cat / Spider_XHS](https://github.com/cv-cat/Spider_XHS) - 小红书爬虫数据采集，小红书全域运营解决方案
+* 【2025-04-29】[hmjz100 / LinkSwift](https://github.com/hmjz100/LinkSwift) - 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，自用，去推广，无需输入“暗号”即可使用，甚至比原版还要好用！
 * 【2025-04-28】[tavily-ai / tavily-mcp](https://github.com/tavily-ai/tavily-mcp) - 
 * 【2025-04-27】[Moustachauve / cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
 * 【2025-04-24】[abhiz123 / todoist-mcp-server](https://github.com/abhiz123/todoist-mcp-server) - MCP server for Todoist integration enabling natural language task management with Claude
