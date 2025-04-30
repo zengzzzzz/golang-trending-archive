@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-04-30】[Tencent / AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A comprehensive, intelligent, easy-to-use, and lightweight AI Infrastructure Vulnerability Assessment and MCP Server Security Analysis Tool.
 * 【2025-04-28】[GoogleCloudPlatform / kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
 * 【2025-04-28】[pterodactyl / wings](https://github.com/pterodactyl/wings) - The server control plane for Pterodactyl Panel. Written from the ground-up with security, speed, and stability in mind.
 * 【2025-04-28】[go-vikunja / vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
@@ -1191,6 +1192,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-04-30】[carykh / jes](https://github.com/carykh/jes) - Jelly Evolution Simulator
 * 【2025-04-28】[0xk1h0 / ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
 * 【2025-04-27】[rowboatlabs / rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
 * 【2025-04-26】[tracel-ai / burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
