@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-05-01】[kubernetes-sigs / aws-ebs-csi-driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver) - CSI driver for Amazon EBS https://aws.amazon.com/ebs/
 * 【2025-04-30】[Tencent / AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A comprehensive, intelligent, easy-to-use, and lightweight AI Infrastructure Vulnerability Assessment and MCP Server Security Analysis Tool.
 * 【2025-04-28】[GoogleCloudPlatform / kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
 * 【2025-04-28】[pterodactyl / wings](https://github.com/pterodactyl/wings) - The server control plane for Pterodactyl Panel. Written from the ground-up with security, speed, and stability in mind.
@@ -193,6 +194,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-05-01】[vllm-project / vllm-ascend](https://github.com/vllm-project/vllm-ascend) - Community maintained hardware plugin for vLLM on Ascend
+* 【2025-05-01】[aipotheosis-labs / aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
 * 【2025-04-29】[Blaizzy / mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS) and Speech-to-Speech (STS) library built on Apple's MLX framework, providing efficient speech synthesis on Apple Silicon.
 * 【2025-04-29】[akfamily / akshare](https://github.com/akfamily/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
 * 【2025-04-27】[Tencent / Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2) - High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
@@ -452,6 +455,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-05-01】[lavalink-devs / youtube-source](https://github.com/lavalink-devs/youtube-source) - A rewritten YouTube source manager for Lavaplayer.
 * 【2025-04-28】[oasisfeng / island](https://github.com/oasisfeng/island) - Island for Android
 * 【2025-04-28】[littlehorse-enterprises / littlehorse](https://github.com/littlehorse-enterprises/littlehorse) - LittleHorse Kernel: Open-Source Platform for Distributed Applications.
 * 【2025-04-27】[jeecgboot / jimureport](https://github.com/jeecgboot/jimureport) - 「数据可视化：报表、大屏、数据看板」积木报表是一款类Excel操作风格，在线拖拽设计的报表工具和和数据可视化产品。功能涵盖: 报表设计、大屏设计、打印设计、图形报表、仪表盘门户设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
@@ -684,6 +688,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-05-01】[robertpiosik / gemini-coder](https://github.com/robertpiosik/gemini-coder) - Non-agentic 100% free & open source coding tool for AI-assisted programming.
 * 【2025-04-28】[berty / berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 * 【2025-04-27】[MODSetter / SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily), Slack, Linear, Notion, YouTube, GitHub and more.
 * 【2025-04-25】[bytedance / UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
@@ -986,6 +991,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-05-01】[torvalds / uemacs](https://github.com/torvalds/uemacs) - Random version of microemacs with my private modificatons
 * 【2025-04-25】[microsoft / winfile](https://github.com/microsoft/winfile) - Original Windows File Manager (winfile) with enhancements
 * 【2025-04-24】[debevv / nanoMODBUS](https://github.com/debevv/nanoMODBUS) - A compact MODBUS RTU/TCP C library for embedded/microcontrollers
 * 【2025-04-23】[vgmstream / vgmstream](https://github.com/vgmstream/vgmstream) - vgmstream - A library for playback of various streamed audio formats used in video games.
@@ -1085,6 +1091,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-05-01】[MuShibo / Micro-Wheeled_leg-Robot](https://github.com/MuShibo/Micro-Wheeled_leg-Robot) - 全球最小的桌面级双轮腿机器人！
 * 【2025-04-28】[AutoHotkey / AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 * 【2025-04-27】[intel / pcm](https://github.com/intel/pcm) - Intel® Performance Counter Monitor (Intel® PCM)
 * 【2025-04-27】[ETLCPP / etl](https://github.com/ETLCPP/etl) - Embedded Template Library
@@ -1190,3 +1197,6 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-08】[UniversalRobots / Universal_Robots_ROS2_Driver](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver) - Universal Robots ROS2 driver supporting CB3 and e-Series
 * 【2024-11-05】[unum-cloud / usearch](https://github.com/unum-cloud/usearch) - Fast Open-Source Search & Clustering engine × for Vectors & 🔜 Strings × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
+## All language
+
+* 【2025-05-01】[QwenLM / Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
