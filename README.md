@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-05-06】[sozercan / kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs
 * 【2025-05-05】[googleapis / go-genai](https://github.com/googleapis/go-genai) - Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications.
 * 【2025-05-05】[blacktop / ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 * 【2025-05-03】[benbjohnson / litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
@@ -198,6 +199,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-05-06】[trycua / cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
 * 【2025-05-05】[jaakkopasanen / AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 * 【2025-05-04】[DachunKai / Ev-DeblurVSR](https://github.com/DachunKai/Ev-DeblurVSR) - [AAAI 2025] Event-Enhanced Blurry Video Super-Resolution
 * 【2025-05-01】[vllm-project / vllm-ascend](https://github.com/vllm-project/vllm-ascend) - Community maintained hardware plugin for vLLM on Ascend
@@ -894,6 +896,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-05-06】[serverless-dns / serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
+* 【2025-05-06】[git-tips / tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 * 【2025-05-05】[ilyhalight / voice-over-translation](https://github.com/ilyhalight/voice-over-translation) - Небольшое расширение, которое добавляет закадровый перевод видео из YaBrowser в другие браузеры
 * 【2025-05-03】[ubuntu / gnome-shell-extension-appindicator](https://github.com/ubuntu/gnome-shell-extension-appindicator) - Adds KStatusNotifierItem support to the Shell
 * 【2025-05-02】[muyoou / st-memory-enhancement](https://github.com/muyoou/st-memory-enhancement) - SillyTavern酒馆的长期记忆增强插件
