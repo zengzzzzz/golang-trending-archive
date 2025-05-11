@@ -204,6 +204,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-05-11】[langgenius / dify-official-plugins](https://github.com/langgenius/dify-official-plugins) - 
 * 【2025-05-10】[bee-san / Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 * 【2025-05-09】[huggingface / smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in python code.
 * 【2025-05-07】[Capsize-Games / airunner](https://github.com/Capsize-Games/airunner) - Privacy focused, local-first, multi-modal inference engine and agent platform for running LLMs, image generation, speech processing, and tool-based automation
@@ -711,6 +712,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-05-11】[alibaba / ChatUI](https://github.com/alibaba/ChatUI) - The UI design language and React library for Conversational UI
 * 【2025-05-09】[FellouAI / eko](https://github.com/FellouAI/eko) - Eko (Eko Keeps Operating) - Build Production-ready Agentic Workflow with Natural Language - eko.fellou.ai
 * 【2025-05-08】[sammwyy / MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) - An open-source network stresser tool but it's Hatsune Miku
 * 【2025-05-07】[dzhng / deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models. The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.
@@ -1249,6 +1251,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-05-11】[shane-mason / FieldStation42](https://github.com/shane-mason/FieldStation42) - Broadcast TV simulator
+* 【2025-05-11】[panaversity / learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.
 * 【2025-05-10】[longbridge / gpui-component](https://github.com/longbridge/gpui-component) - UI components for building fantastic desktop application by using GPUI.
 * 【2025-05-10】[mason-org / mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 * 【2025-05-08】[evroon / bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
