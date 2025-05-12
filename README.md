@@ -204,6 +204,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-05-12】[remsky / Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto-stitching
+* 【2025-05-12】[airweave-ai / airweave](https://github.com/airweave-ai/airweave) - Airweave lets agents search any app or database
 * 【2025-05-11】[langgenius / dify-official-plugins](https://github.com/langgenius/dify-official-plugins) - 
 * 【2025-05-10】[bee-san / Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 * 【2025-05-09】[huggingface / smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in python code.
@@ -712,6 +714,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-05-12】[i-am-alice / 3rd-devs](https://github.com/i-am-alice/3rd-devs) - 
+* 【2025-05-12】[unnoq / orpc](https://github.com/unnoq/orpc) - Typesafe APIs Made Simple 🪄
 * 【2025-05-11】[alibaba / ChatUI](https://github.com/alibaba/ChatUI) - The UI design language and React library for Conversational UI
 * 【2025-05-09】[FellouAI / eko](https://github.com/FellouAI/eko) - Eko (Eko Keeps Operating) - Build Production-ready Agentic Workflow with Natural Language - eko.fellou.ai
 * 【2025-05-08】[sammwyy / MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) - An open-source network stresser tool but it's Hatsune Miku
