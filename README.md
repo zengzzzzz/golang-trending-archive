@@ -204,6 +204,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-05-14】[pallets / click](https://github.com/pallets/click) - Python composable command line interface toolkit
+* 【2025-05-14】[simonw / files-to-prompt](https://github.com/simonw/files-to-prompt) - Concatenate a directory full of files into a single prompt for use with LLMs
+* 【2025-05-14】[microsoft / Multi-Agent-Custom-Automation-Engine-Solution-Accelerator](https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator) - The Multi-Agent Custom Automation Engine Solution Accelerator is an AI-driven orchestration system that manages a group of AI agents to accomplish tasks based on user input. Powered by AutoGen, Azure OpenAI, Cosmos, and infrastructure services, it provides a ready to go application to use as a reference, allowing you to hit the ground running.
 * 【2025-05-13】[santinic / audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
 * 【2025-05-12】[remsky / Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto-stitching
 * 【2025-05-12】[airweave-ai / airweave](https://github.com/airweave-ai/airweave) - Airweave lets agents search any app or database
@@ -920,6 +923,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-05-14】[evalstate / fast-agent](https://github.com/evalstate/fast-agent) - Define, Prompt and Test MCP enabled Agents and Workflows
 * 【2025-05-13】[tidalcycles / strudel](https://github.com/tidalcycles/strudel) - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
 * 【2025-05-13】[fmz200 / wool_scripts](https://github.com/fmz200/wool_scripts) - 收集一些QuantumultX、Loon、Surge、ShadowRocket的配置与去广告规则。
 * 【2025-05-09】[zhaoolee / ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
@@ -1040,6 +1044,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-05-14】[duixcom / Duix.Heygem](https://github.com/duixcom/Duix.Heygem) - 
 * 【2025-05-13】[tio / tio](https://github.com/tio/tio) - A serial device I/O tool
 * 【2025-05-07】[skylersaleh / SkyEmu](https://github.com/skylersaleh/SkyEmu) - Game Boy Advance, Game Boy, Game Boy Color, and DS Emulator
 * 【2025-05-05】[medusalix / xone](https://github.com/medusalix/xone) - Linux kernel driver for Xbox One and Xbox Series X|S accessories
@@ -1259,6 +1264,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-05-14】[xming521 / WeClone](https://github.com/xming521/WeClone) - 🚀从聊天记录创造数字分身的一站式解决方案💡 使用微信聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。 数字克隆/数字分身/数字永生/声音克隆/LLM/大语言模型/微信聊天机器人/LoRA
 * 【2025-05-11】[shane-mason / FieldStation42](https://github.com/shane-mason/FieldStation42) - Broadcast TV simulator
 * 【2025-05-11】[panaversity / learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.
 * 【2025-05-10】[longbridge / gpui-component](https://github.com/longbridge/gpui-component) - UI components for building fantastic desktop application by using GPUI.
