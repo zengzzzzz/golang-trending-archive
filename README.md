@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-05-17】[yuin / goldmark](https://github.com/yuin/goldmark) - 🏆 A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
+* 【2025-05-17】[microsoft / typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 * 【2025-05-16】[lejianwen / rustdesk-api](https://github.com/lejianwen/rustdesk-api) - Custom Rustdesk Api Server, include web admin ,web client, web client v2 preview and oidc login
 * 【2025-05-10】[databricks / terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) - Databricks Terraform Provider
 * 【2025-05-09】[hookdeck / outpost](https://github.com/hookdeck/outpost) - Open Source Outbound Webhooks and Event Destinations Infrastructure
@@ -722,6 +724,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-05-17】[langgenius / webapp-conversation](https://github.com/langgenius/webapp-conversation) - 
 * 【2025-05-16】[deskree-inc / nanoservice-ts](https://github.com/deskree-inc/nanoservice-ts) - NanoService is an open-source framework that enables developers to build lightweight, modular, and scalable backend applications using nanoservices.
 * 【2025-05-15】[aws-amplify / amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 * 【2025-05-12】[i-am-alice / 3rd-devs](https://github.com/i-am-alice/3rd-devs) - 
@@ -1050,6 +1053,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-05-17】[espressif / esp-webrtc-solution](https://github.com/espressif/esp-webrtc-solution) - 
+* 【2025-05-17】[strongtz / i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms) - dkms module of Linux i915 driver with SR-IOV support
 * 【2025-05-16】[n64decomp / mk64](https://github.com/n64decomp/mk64) - A speedy Mario Kart 64 decompilation, brought to you by the cousin of a tame racing driver.
 * 【2025-05-16】[TEN-framework / ten-framework](https://github.com/TEN-framework/ten-framework) - Open-source framework and platform for building real-time, multimodal, low-latency conversational voice AI agents. It features a workflow builder and supports C, C++, Go, Python, JavaScript, and TypeScript. TEN also offers ready-to-use extensions for integration with platforms like Dify and Coze.
 * 【2025-05-16】[OpenEPaperLink / OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project
@@ -1157,6 +1162,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-05-17】[berthrage / Devil-May-Cry-3-Crimson](https://github.com/berthrage/Devil-May-Cry-3-Crimson) - New Gameplay Options, Visual/Sound updates, Multiplayer, Fixes and more for Devil May Cry 3 (HD Collection version), based on DDMK.
 * 【2025-05-10】[isledecomp / isle](https://github.com/isledecomp/isle) - A functionally complete decompilation of LEGO Island (1997)
 * 【2025-05-10】[memgraph / memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.
 * 【2025-05-09】[mohsenph69 / Godot-MTerrain-plugin](https://github.com/mohsenph69/Godot-MTerrain-plugin) - A GDExtension plugin which give godot the ability to produce highly optimized Terrain for Open world games
@@ -1273,6 +1279,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-05-17】[git-bug / git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 * 【2025-05-16】[TapXWorld / ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 * 【2025-05-16】[facebookresearch / fairchem](https://github.com/facebookresearch/fairchem) - FAIR Chemistry's library of machine learning methods for chemistry
 * 【2025-05-16】[happycola233 / tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
