@@ -487,6 +487,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-05-19】[adityachandelgit / BookLore](https://github.com/adityachandelgit/BookLore) - BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats.
 * 【2025-05-16】[OpenEMS / openems](https://github.com/OpenEMS/openems) - OpenEMS - Open Source Energy Management System
 * 【2025-05-09】[modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) - The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
 * 【2025-05-09】[google / google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
@@ -724,6 +725,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-05-19】[openai / openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
 * 【2025-05-17】[langgenius / webapp-conversation](https://github.com/langgenius/webapp-conversation) - 
 * 【2025-05-16】[deskree-inc / nanoservice-ts](https://github.com/deskree-inc/nanoservice-ts) - NanoService is an open-source framework that enables developers to build lightweight, modular, and scalable backend applications using nanoservices.
 * 【2025-05-15】[aws-amplify / amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
@@ -1280,6 +1282,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-05-19】[ed-donner / llm_engineering](https://github.com/ed-donner/llm_engineering) - Repo to accompany my mastering LLM engineering course
 * 【2025-05-18】[itdoginfo / podkop](https://github.com/itdoginfo/podkop) - Dev podkop
 * 【2025-05-17】[git-bug / git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 * 【2025-05-16】[TapXWorld / ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
