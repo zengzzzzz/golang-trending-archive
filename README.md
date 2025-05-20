@@ -934,6 +934,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-05-20】[kmeps4 / PSFree](https://github.com/kmeps4/PSFree) - PSFree WebKit Exploit & Lapse Kernel Exploit For PS4 9.00 [WIP] By abc
 * 【2025-05-14】[evalstate / fast-agent](https://github.com/evalstate/fast-agent) - Define, Prompt and Test MCP enabled Agents and Workflows
 * 【2025-05-13】[tidalcycles / strudel](https://github.com/tidalcycles/strudel) - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
 * 【2025-05-13】[fmz200 / wool_scripts](https://github.com/fmz200/wool_scripts) - 收集一些QuantumultX、Loon、Surge、ShadowRocket的配置与去广告规则。
@@ -1165,6 +1166,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-05-20】[supercollider / supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
 * 【2025-05-17】[berthrage / Devil-May-Cry-3-Crimson](https://github.com/berthrage/Devil-May-Cry-3-Crimson) - New Gameplay Options, Visual/Sound updates, Multiplayer, Fixes and more for Devil May Cry 3 (HD Collection version), based on DDMK.
 * 【2025-05-10】[isledecomp / isle](https://github.com/isledecomp/isle) - A functionally complete decompilation of LEGO Island (1997)
 * 【2025-05-10】[memgraph / memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.
@@ -1282,6 +1284,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-05-20】[facebook / pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
 * 【2025-05-19】[ed-donner / llm_engineering](https://github.com/ed-donner/llm_engineering) - Repo to accompany my mastering LLM engineering course
 * 【2025-05-18】[itdoginfo / podkop](https://github.com/itdoginfo/podkop) - Dev podkop
 * 【2025-05-17】[git-bug / git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
