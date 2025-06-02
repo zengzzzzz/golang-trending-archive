@@ -218,6 +218,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-06-02】[dwyl / english-words](https://github.com/dwyl/english-words) - 📝 A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
+* 【2025-06-02】[ivnvxd / arc-export](https://github.com/ivnvxd/arc-export) - Export pinned Arc Browser tabs for importing bookmarks into other browsers
 * 【2025-05-31】[GoogleCloudPlatform / agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) - A collection of production-ready Generative AI Agent templates built for Google Cloud. It accelerates development by providing a holistic, production-ready solution, addressing common challenges (Deployment & Operations, Evaluation, Customization, Observability) in building and deploying GenAI agents.
 * 【2025-05-31】[EvolvingLMMs-Lab / lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) - Accelerating the development of large multimodal models (LMMs) with one-click evaluation module - lmms-eval.
 * 【2025-05-28】[willccbb / verifiers](https://github.com/willccbb/verifiers) - Verifiers for LLM Reinforcement Learning
@@ -753,6 +755,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-06-02】[richardgill / llm-ui](https://github.com/richardgill/llm-ui) - The React library for LLMs
 * 【2025-06-01】[GoogleChromeLabs / squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 * 【2025-06-01】[lukevella / rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 * 【2025-05-31】[tesseral-labs / tesseral](https://github.com/tesseral-labs/tesseral) - Open source auth infrastructure for B2B SaaS
