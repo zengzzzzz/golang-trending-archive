@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-06-03】[dagu-org / dagu](https://github.com/dagu-org/dagu) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
 * 【2025-05-31】[krillinai / KlicStudio](https://github.com/krillinai/KlicStudio) - A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
 * 【2025-05-30】[NVIDIA / KAI-Scheduler](https://github.com/NVIDIA/KAI-Scheduler) - KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale
 * 【2025-05-29】[manusa / kubernetes-mcp-server](https://github.com/manusa/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift
@@ -515,6 +516,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-06-03】[PaperMC / Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
 * 【2025-05-29】[jwtk / jjwt](https://github.com/jwtk/jjwt) - Java JWT: JSON Web Token for Java and Android
 * 【2025-05-27】[boricj / ghidra-delinker-extension](https://github.com/boricj/ghidra-delinker-extension) - Ghidra extension for exporting relocatable object files
 * 【2025-05-19】[adityachandelgit / BookLore](https://github.com/adityachandelgit/BookLore) - BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats.
@@ -982,6 +984,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-06-03】[google-ai-edge / model-explorer](https://github.com/google-ai-edge/model-explorer) - A modern model graph visualizer and debugger
 * 【2025-06-01】[netbymatt / ws4kp](https://github.com/netbymatt/ws4kp) - A web-based WeatherStar 4000
 * 【2025-05-30】[KelvinTegelaar / CIPP](https://github.com/KelvinTegelaar/CIPP) - CIPP is a M365 multitenant management solution
 * 【2025-05-28】[humanwhocodes / crosspost](https://github.com/humanwhocodes/crosspost) - A JavaScript utility for posting across multiple social networks at once
@@ -1115,6 +1118,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-06-03】[nature-lang / nature](https://github.com/nature-lang/nature) - The Nature Programming Language
 * 【2025-05-29】[FlyGoat / csmwrap](https://github.com/FlyGoat/csmwrap) - Get PC BIOS back on UEFI only system
 * 【2025-05-24】[jniebuhr / gaggimate](https://github.com/jniebuhr/gaggimate) - This project upgrades a Gaggia espresso machine with smart controls to improve your coffee-making experience. By adding a display and custom electronics, you can monitor and control the machine more easily.
 * 【2025-05-24】[FDio / vpp](https://github.com/FDio/vpp) - Mirror of VPP code base hosted at git.fd.io
