@@ -220,6 +220,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-06-06】[LMCache / LMCache](https://github.com/LMCache/LMCache) - Redis for LLMs
+* 【2025-06-06】[HKUDS / AutoAgent](https://github.com/HKUDS/AutoAgent) - "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
 * 【2025-06-05】[conda / conda](https://github.com/conda/conda) - A system-level, binary package and environment manager running on all major operating systems and platforms.
 * 【2025-06-05】[mit-han-lab / nunchaku](https://github.com/mit-han-lab/nunchaku) - [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
 * 【2025-06-04】[mofeng-git / One-KVM](https://github.com/mofeng-git/One-KVM) - One-KVM 是基于廉价计算机硬件和 PiKVM 软件二次开发的 BIOS 级远程控制项目。
@@ -520,6 +522,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-06-06】[apache / fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 * 【2025-06-05】[joey-zhou / xiaozhi-esp32-server-java](https://github.com/joey-zhou/xiaozhi-esp32-server-java) - 小智ESP32的Java企业级管理平台，提供设备监控、音色定制、角色切换和对话记录管理的前后端及服务端一体化解决方案
 * 【2025-06-03】[PaperMC / Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
 * 【2025-05-29】[jwtk / jjwt](https://github.com/jwtk/jjwt) - Java JWT: JSON Web Token for Java and Android
@@ -762,6 +765,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-06-06】[tareqimbasher / NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
 * 【2025-06-05】[modelcontextprotocol / inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 * 【2025-06-04】[vercel / next-forge](https://github.com/vercel/next-forge) - Production-grade Turborepo template for Next.js apps.
 * 【2025-06-02】[richardgill / llm-ui](https://github.com/richardgill/llm-ui) - The React library for LLMs
@@ -1244,6 +1248,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-06-06】[unitreerobotics / unitree_sdk2](https://github.com/unitreerobotics/unitree_sdk2) - Unitree robot sdk version 2. https://support.unitree.com/home/zh/developer
 * 【2025-06-01】[su2code / SU2](https://github.com/su2code/SU2) - SU2: An Open-Source Suite for Multiphysics Simulation and Design
 * 【2025-05-28】[Slicer / Slicer](https://github.com/Slicer/Slicer) - Multi-platform, free open source software for visualization and image computing.
 * 【2025-05-24】[pafuhana1213 / KawaiiPhysics](https://github.com/pafuhana1213/KawaiiPhysics) - KawaiiPhysics : Simple fake Physics for UnrealEngine4 & 5
@@ -1368,3 +1373,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-08】[UniversalRobots / Universal_Robots_ROS2_Driver](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver) - Universal Robots ROS2 driver supporting CB3 and e-Series
 * 【2024-11-05】[unum-cloud / usearch](https://github.com/unum-cloud/usearch) - Fast Open-Source Search & Clustering engine × for Vectors & 🔜 Strings × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
+## All language
+
+* 【2025-06-06】[iamgio / quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to presentations, articles and books.
+* 【2025-06-06】[topoteretes / cognee](https://github.com/topoteretes/cognee) - Memory for AI Agents in 5 lines of code
+* 【2025-06-06】[modelcontextprotocol / ruby-sdk](https://github.com/modelcontextprotocol/ruby-sdk) - The official Ruby SDK for the Model Context Protocol. Maintained in collaboration with Shopify.
