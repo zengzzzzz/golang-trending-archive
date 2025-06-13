@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-06-13】[gtsteffaniak / filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
 * 【2025-06-10】[akvorado / akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 * 【2025-06-09】[steveiliop56 / tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 * 【2025-06-07】[Glimesh / broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.
@@ -532,6 +533,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-06-13】[apache / maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon
 * 【2025-06-09】[GeyserMC / Hydraulic](https://github.com/GeyserMC/Hydraulic) - A companion mod to Geyser which allows for Bedrock players to join modded Minecraft: Java Edition servers.
 * 【2025-06-07】[DragonKingpin / Hydra](https://github.com/DragonKingpin/Hydra) - Hydra九头龙，面向PB级别知识库取数、情报系统、数据平台、大规模控制调度系统。建设云计算资源管理、任务/服务统一调度、数仓、微服务化、中台基建系统化能力。——以实现大规模分布式爬虫搜索引擎为例。
 * 【2025-06-06】[apache / fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
@@ -777,6 +779,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-06-13】[leonardsellem / n8n-mcp-server](https://github.com/leonardsellem/n8n-mcp-server) - MCP server that provides tools and resources for interacting with n8n API
 * 【2025-06-12】[Milkdown / milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG markdown editor framework.
 * 【2025-06-11】[NaoTu / DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) - 桌面版脑图 (百度脑图离线版，思维导图) 跨平台支持 Windows/Linux/Mac OS. (A cross-platform multilingual Mind Map Tool)
 * 【2025-06-11】[supermemoryai / apple-mcp](https://github.com/supermemoryai/apple-mcp) - Collection of apple-native tools for the model context protocol.
@@ -1408,6 +1411,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-06-13】[xiangechen / chili3d](https://github.com/xiangechen/chili3d) - A web-based 3D CAD application for online model design and editing
+* 【2025-06-13】[FareedKhan-dev / all-rag-techniques](https://github.com/FareedKhan-dev/all-rag-techniques) - Implementation of all RAG techniques in a simpler way
 * 【2025-06-12】[jdepoix / youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
 * 【2025-06-10】[eythaann / Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 * 【2025-06-09】[tensorzero / tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
