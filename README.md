@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-06-18】[Musixal / Backhaul](https://github.com/Musixal/Backhaul) - Lightning-fast reverse tunneling solution for NAT traversal, optimized for handling massive concurrent connections with tcp, tcpmux, udp, udp over tcp, ws, wsmux, wss and wssmux support.
 * 【2025-06-17】[zachlatta / sshtron](https://github.com/zachlatta/sshtron) - $ ssh sshtron.zachlatta.com
 * 【2025-06-14】[cloudreve / cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 * 【2025-06-13】[gtsteffaniak / filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
@@ -226,6 +227,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-06-18】[facebookresearch / vggt](https://github.com/facebookresearch/vggt) - [CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer
 * 【2025-06-17】[pixeltable / pixeltable](https://github.com/pixeltable/pixeltable) - Pixeltable — AI Data infrastructure providing a declarative, incremental approach for multimodal workloads.
 * 【2025-06-12】[openai / openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 * 【2025-06-11】[confident-ai / deepteam](https://github.com/confident-ai/deepteam) - The LLM Red Teaming Framework
@@ -536,6 +538,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-06-18】[diffplug / spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 * 【2025-06-13】[apache / maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon
 * 【2025-06-09】[GeyserMC / Hydraulic](https://github.com/GeyserMC/Hydraulic) - A companion mod to Geyser which allows for Bedrock players to join modded Minecraft: Java Edition servers.
 * 【2025-06-07】[DragonKingpin / Hydra](https://github.com/DragonKingpin/Hydra) - Hydra九头龙，面向PB级别知识库取数、情报系统、数据平台、大规模控制调度系统。建设云计算资源管理、任务/服务统一调度、数仓、微服务化、中台基建系统化能力。——以实现大规模分布式爬虫搜索引擎为例。
@@ -782,6 +785,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-06-18】[musistudio / claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 * 【2025-06-17】[MotiaDev / motia](https://github.com/MotiaDev/motia) - Unified Backend Framework for APIs, Events, and AI Agents
 * 【2025-06-13】[leonardsellem / n8n-mcp-server](https://github.com/leonardsellem/n8n-mcp-server) - MCP server that provides tools and resources for interacting with n8n API
 * 【2025-06-12】[Milkdown / milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG markdown editor framework.
@@ -1022,6 +1026,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-06-18】[rcourtman / Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes
+* 【2025-06-18】[frankmcsherry / blog](https://github.com/frankmcsherry/blog) - Some notes on things I find interesting and important.
 * 【2025-06-12】[ruvnet / rUv-dev](https://github.com/ruvnet/rUv-dev) - Ai power Dev using the rUv approach
 * 【2025-06-11】[adrianhajdin / react-movies](https://github.com/adrianhajdin/react-movies) - Dive straight into React—from basic JSX to advanced hooks—and build a real, modern app in this hands-on crash course!
 * 【2025-06-08】[eyaltoledano / claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
@@ -1163,6 +1169,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-06-18】[espressif / esp-brookesia](https://github.com/espressif/esp-brookesia) - ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.
+* 【2025-06-18】[cosmos72 / twin](https://github.com/cosmos72/twin) - Text mode window environment. A "retro" program for embedded or remote systems, that doubles as X11 terminal and text-mode equivalent of VNC server
 * 【2025-06-17】[armory3d / armortools](https://github.com/armory3d/armortools) - 3D Content Creation Tools
 * 【2025-06-14】[PostHog / DeskHog](https://github.com/PostHog/DeskHog) - A friend for your desk, a dedicated terminal for numbers
 * 【2025-06-12】[aws / pgactive](https://github.com/aws/pgactive) - 
@@ -1417,6 +1425,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-06-18】[deepseek-ai / DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library
 * 【2025-06-17】[microsoft / fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 * 【2025-06-13】[xiangechen / chili3d](https://github.com/xiangechen/chili3d) - A web-based 3D CAD application for online model design and editing
 * 【2025-06-13】[FareedKhan-dev / all-rag-techniques](https://github.com/FareedKhan-dev/all-rag-techniques) - Implementation of all RAG techniques in a simpler way
