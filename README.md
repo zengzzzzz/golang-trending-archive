@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-06-19】[github / github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 * 【2025-06-18】[Musixal / Backhaul](https://github.com/Musixal/Backhaul) - Lightning-fast reverse tunneling solution for NAT traversal, optimized for handling massive concurrent connections with tcp, tcpmux, udp, udp over tcp, ws, wsmux, wss and wssmux support.
 * 【2025-06-17】[zachlatta / sshtron](https://github.com/zachlatta/sshtron) - $ ssh sshtron.zachlatta.com
 * 【2025-06-14】[cloudreve / cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
@@ -785,6 +786,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-06-19】[marp-team / marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 * 【2025-06-18】[musistudio / claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 * 【2025-06-17】[MotiaDev / motia](https://github.com/MotiaDev/motia) - Unified Backend Framework for APIs, Events, and AI Agents
 * 【2025-06-13】[leonardsellem / n8n-mcp-server](https://github.com/leonardsellem/n8n-mcp-server) - MCP server that provides tools and resources for interacting with n8n API
@@ -1026,6 +1028,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-06-19】[OfficeDev / Office-Add-in-samples](https://github.com/OfficeDev/Office-Add-in-samples) - Code samples for Office Add-in development on the Microsoft 365 platform.
 * 【2025-06-18】[rcourtman / Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes
 * 【2025-06-18】[frankmcsherry / blog](https://github.com/frankmcsherry/blog) - Some notes on things I find interesting and important.
 * 【2025-06-12】[ruvnet / rUv-dev](https://github.com/ruvnet/rUv-dev) - Ai power Dev using the rUv approach
@@ -1425,6 +1428,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-06-19】[php / frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 * 【2025-06-18】[deepseek-ai / DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library
 * 【2025-06-17】[microsoft / fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 * 【2025-06-13】[xiangechen / chili3d](https://github.com/xiangechen/chili3d) - A web-based 3D CAD application for online model design and editing
