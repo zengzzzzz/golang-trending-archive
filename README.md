@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-06-22】[psviderski / uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 * 【2025-06-20】[Ingenimax / agent-sdk-go](https://github.com/Ingenimax/agent-sdk-go) - 
 * 【2025-06-19】[github / github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 * 【2025-06-18】[Musixal / Backhaul](https://github.com/Musixal/Backhaul) - Lightning-fast reverse tunneling solution for NAT traversal, optimized for handling massive concurrent connections with tcp, tcpmux, udp, udp over tcp, ws, wsmux, wss and wssmux support.
@@ -229,6 +230,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-06-22】[kijai / ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) - 
 * 【2025-06-21】[hiyouga / EasyR1](https://github.com/hiyouga/EasyR1) - EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL
 * 【2025-06-21】[dottxt-ai / outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
 * 【2025-06-21】[tadata-org / fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
@@ -1037,6 +1039,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-06-22】[franceking1 / Flash-Md-V2](https://github.com/franceking1/Flash-Md-V2) - Feel Free To Use FLASH-MD, Remember To STAR🌟 The Repo before Forking
+* 【2025-06-22】[sonnylazuardi / cursor-talk-to-figma-mcp](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp) - Cursor Talk To Figma MCP
 * 【2025-06-19】[OfficeDev / Office-Add-in-samples](https://github.com/OfficeDev/Office-Add-in-samples) - Code samples for Office Add-in development on the Microsoft 365 platform.
 * 【2025-06-18】[rcourtman / Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes
 * 【2025-06-18】[frankmcsherry / blog](https://github.com/frankmcsherry/blog) - Some notes on things I find interesting and important.
@@ -1304,6 +1308,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-06-22】[duckdb / ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format
 * 【2025-06-21】[lynx-family / lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 * 【2025-06-20】[stereolabs / zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper) - ROS 2 wrapper for the ZED SDK
 * 【2025-06-12】[ml-explore / mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
