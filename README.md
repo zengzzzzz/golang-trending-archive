@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-06-24】[kitops-ml / kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.
 * 【2025-06-22】[psviderski / uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 * 【2025-06-20】[Ingenimax / agent-sdk-go](https://github.com/Ingenimax/agent-sdk-go) - 
 * 【2025-06-19】[github / github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -230,6 +231,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-06-24】[subzeroid / instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2025 with HikerAPI SaaS
 * 【2025-06-22】[kijai / ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) - 
 * 【2025-06-21】[hiyouga / EasyR1](https://github.com/hiyouga/EasyR1) - EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL
 * 【2025-06-21】[dottxt-ai / outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
@@ -547,6 +549,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-06-24】[mafik / echo](https://github.com/mafik/echo) - Time travelling recorder for Android.
+* 【2025-06-24】[MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 * 【2025-06-23】[ViaVersion / ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
 * 【2025-06-21】[alibaba / fluss](https://github.com/alibaba/fluss) - Fluss is a streaming storage built for real-time analytics.
 * 【2025-06-20】[pixelsdb / pixels](https://github.com/pixelsdb/pixels) - An efficient storage and compute engine for both on-prem and cloud-native data analytics.
@@ -797,6 +801,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-06-24】[TriliumNext / Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
+* 【2025-06-24】[antiwork / helper](https://github.com/antiwork/helper) - Customer support agents
 * 【2025-06-23】[TriliumNext / trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
 * 【2025-06-23】[buxuku / SmartSub](https://github.com/buxuku/SmartSub) - 「妙幕」是一款跨平台客户端工具，可以批量为视频或者音频生成字幕文件，并支持对字幕进行翻译，支持百度、火山、openai、ollama、deepseek 等多家翻译
 * 【2025-06-20】[devflowinc / trieve](https://github.com/devflowinc/trieve) - All-in-one platform for search, recommendations, RAG, and analytics offered via API
@@ -1311,6 +1317,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-06-24】[badaix / snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 * 【2025-06-22】[duckdb / ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format
 * 【2025-06-21】[lynx-family / lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 * 【2025-06-20】[stereolabs / zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper) - ROS 2 wrapper for the ZED SDK
@@ -1447,6 +1454,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-06-24】[ghostty-org / ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+* 【2025-06-24】[x1xhlol / system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
+* 【2025-06-24】[HarbourMasters / SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) - 
+* 【2025-06-24】[isledecomp / isle-portable](https://github.com/isledecomp/isle-portable) - A portable version of LEGO Island (1997)
 * 【2025-06-23】[microsoft / edit](https://github.com/microsoft/edit) - We all edit.
 * 【2025-06-23】[donnemartin / awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.
 * 【2025-06-20】[cloudflare / ai](https://github.com/cloudflare/ai) - 
