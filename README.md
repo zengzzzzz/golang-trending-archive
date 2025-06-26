@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-06-26】[oras-project / oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
 * 【2025-06-25】[weibaohui / k8m](https://github.com/weibaohui/k8m) - 一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，支持大模型+智能体+MCP(支持设置操作权限)，集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
 * 【2025-06-24】[kitops-ml / kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.
 * 【2025-06-22】[psviderski / uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
@@ -232,6 +233,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-06-26】[ROCm / TheRock](https://github.com/ROCm/TheRock) - The HIP Environment and ROCm Kit - A lightweight open source build system for HIP and ROCm
+* 【2025-06-26】[zhaochenyang20 / Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) - My learning notes/codes for ML SYS.
 * 【2025-06-25】[Epodonios / v2ray-configs](https://github.com/Epodonios/v2ray-configs) - Free vless-vmess-shadowsocks-trojan-xray-V2ray Configs Updating Every 5 minutes
 * 【2025-06-25】[LeCAR-Lab / ASAP](https://github.com/LeCAR-Lab/ASAP) - Official implementation of "ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills"
 * 【2025-06-25】[dendenxu / fast-gaussian-rasterization](https://github.com/dendenxu/fast-gaussian-rasterization) - A geometry-shader-based, global CUDA sorted high-performance 3D Gaussian Splatting rasterizer. Can achieve a 5-10x speedup in rendering compared to the vanialla diff-gaussian-rasterization.
@@ -553,6 +556,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-06-26】[junit-team / junit-framework](https://github.com/junit-team/junit-framework) - ✅ The programmer-friendly testing framework for Java and the JVM
 * 【2025-06-25】[Winds-Studio / Leaf](https://github.com/Winds-Studio/Leaf) - A Paper fork aim to find balance between performance, vanilla and stability
 * 【2025-06-24】[mafik / echo](https://github.com/mafik/echo) - Time travelling recorder for Android.
 * 【2025-06-24】[MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
@@ -1323,6 +1327,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-06-26】[airockchip / rknn-llm](https://github.com/airockchip/rknn-llm) - 
 * 【2025-06-24】[badaix / snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 * 【2025-06-22】[duckdb / ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format
 * 【2025-06-21】[lynx-family / lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
@@ -1460,6 +1465,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-06-26】[mikeroyal / Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
 * 【2025-06-24】[ghostty-org / ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 * 【2025-06-24】[x1xhlol / system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
 * 【2025-06-24】[HarbourMasters / SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) - 
