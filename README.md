@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-06-28】[GoogleCloudPlatform / magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
 * 【2025-06-27】[nxtrace / NTrace-core](https://github.com/nxtrace/NTrace-core) - NextTrace, an open source visual route tracking CLI tool
 * 【2025-06-26】[oras-project / oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
 * 【2025-06-25】[weibaohui / k8m](https://github.com/weibaohui/k8m) - 一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，支持大模型+智能体+MCP(支持设置操作权限)，集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
@@ -1212,6 +1213,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-06-28】[Safe3 / uuWAF](https://github.com/Safe3/uuWAF) - An industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.
 * 【2025-06-27】[rxi / microui](https://github.com/rxi/microui) - A tiny immediate-mode UI library
 * 【2025-06-25】[solosky / pixl.js](https://github.com/solosky/pixl.js) - An emulator for Amiibo!
 * 【2025-06-18】[espressif / esp-brookesia](https://github.com/espressif/esp-brookesia) - ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.
