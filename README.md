@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-07-01】[bootdotdev / bootdev](https://github.com/bootdotdev/bootdev) - A CLI used to complete coding challenges and lessons on Boot.dev
 * 【2025-06-30】[Dyneteq / reconya](https://github.com/Dyneteq/reconya) - Network reconnaissance and asset discovery tool
 * 【2025-06-30】[blampe / rreading-glasses](https://github.com/blampe/rreading-glasses) - Corrective lenses for curmudgeonly readars in your life
 * 【2025-06-28】[GoogleCloudPlatform / magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
@@ -237,6 +238,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-07-01】[wyeeeee / hajimi](https://github.com/wyeeeee/hajimi) - 这是一个基于 FastAPI 构建的 Gemini API 代理
 * 【2025-06-30】[neo4j-contrib / mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) - Model Context Protocol with Neo4j
 * 【2025-06-29】[google-deepmind / alphafold3](https://github.com/google-deepmind/alphafold3) - AlphaFold 3 inference pipeline.
 * 【2025-06-29】[huangjunsen0406 / py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - python版本的小智ai，主要帮助那些没有硬件却想体验小智功能的人,如果可以请点个小星星！在重构！重构完会合并到main
@@ -568,6 +570,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-07-01】[AnySoftKeyboard / AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
 * 【2025-06-30】[Nekogram / Nekogram](https://github.com/Nekogram/Nekogram) - Open-source third-party Telegram client with not many but useful modifications.
 * 【2025-06-30】[ReSo7200 / InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
 * 【2025-06-30】[apache / zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
@@ -827,6 +830,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-07-01】[Kilo-Org / kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
 * 【2025-06-30】[rocicorp / mono](https://github.com/rocicorp/mono) - 99% of Queries in Zero Milliseconds
 * 【2025-06-29】[magnitudedev / magnitude](https://github.com/magnitudedev/magnitude) - The AI browser automation framework
 * 【2025-06-27】[microsoft / playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
@@ -1489,3 +1493,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-08】[UniversalRobots / Universal_Robots_ROS2_Driver](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver) - Universal Robots ROS2 driver supporting CB3 and e-Series
 * 【2024-11-05】[unum-cloud / usearch](https://github.com/unum-cloud/usearch) - Fast Open-Source Search & Clustering engine × for Vectors & 🔜 Strings × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
+## All language
+
+* 【2025-07-01】[aldinokemal / go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - API for Whatsapp Web Multi Device Version, Support UI, Webhook & MCP
+* 【2025-07-01】[vanshb03 / Summer2026-Internships](https://github.com/vanshb03/Summer2026-Internships) - Collection of Summer 2026 tech internships!
