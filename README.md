@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-07-12】[RezaSi / go-interview-practice](https://github.com/RezaSi/go-interview-practice) - Go Interview Practice is a series of coding challenges to help you prepare for technical interviews in Go. Solve problems, submit your solutions, and receive instant feedback with automated testing. Track your progress with per-challenge scoreboards and improve your coding skills step by step.
 * 【2025-07-11】[beam-cloud / beta9](https://github.com/beam-cloud/beta9) - Secure, high-performance AI infrastructure in Python.
 * 【2025-07-08】[PlakarKorp / plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
 * 【2025-07-07】[qichiyuhub / rule](https://github.com/qichiyuhub/rule) - Clash、Sing-box、等分流规则
@@ -245,6 +246,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-07-12】[browser-use / macOS-use](https://github.com/browser-use/macOS-use) - Make Mac apps accessible for AI agents
+* 【2025-07-12】[RapidAI / RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, PaddlePaddle and PyTorch.
 * 【2025-07-11】[ali-vilab / VACE](https://github.com/ali-vilab/VACE) - Official implementations for paper: VACE: All-in-One Video Creation and Editing
 * 【2025-07-11】[huggingface / smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM and SmolVLM family of models
 * 【2025-07-10】[awslabs / mcp](https://github.com/awslabs/mcp) - AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.
@@ -851,6 +854,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-07-12】[josdejong / jsonrepair](https://github.com/josdejong/jsonrepair) - Repair invalid JSON documents
+* 【2025-07-12】[docker / build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
 * 【2025-07-10】[braden-w / whispering](https://github.com/braden-w/whispering) - Press shortcut → speak → get text. Free and open source ❤️
 * 【2025-07-10】[bknd-io / bknd](https://github.com/bknd-io/bknd) - Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda & more.
 * 【2025-07-09】[raydium-io / raydium-sdk-V2](https://github.com/raydium-io/raydium-sdk-V2) - Open-source Typescript SDK for Raydium
@@ -1111,6 +1116,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-07-12】[elastic / mcp-server-elasticsearch](https://github.com/elastic/mcp-server-elasticsearch) - 
 * 【2025-07-10】[zereight / gitlab-mcp](https://github.com/zereight/gitlab-mcp) - gitlab mcp
 * 【2025-07-09】[HackTricks-wiki / hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 * 【2025-07-05】[nwjs / nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
@@ -1266,6 +1272,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-07-12】[PufferAI / PufferLib](https://github.com/PufferAI/PufferLib) - Simplifying reinforcement learning for complex game environments
 * 【2025-07-11】[rbaron / b-parasite](https://github.com/rbaron/b-parasite) - 🌱💧 An open source DIY soil moisture sensor
 * 【2025-07-08】[ripplebiz / MeshCore](https://github.com/ripplebiz/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
 * 【2025-07-08】[manaskamal / XenevaOS](https://github.com/manaskamal/XenevaOS) - The Xeneva Operating System
@@ -1399,6 +1406,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-07-12】[lraton / FlopperZiro](https://github.com/lraton/FlopperZiro) - A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE
 * 【2025-07-08】[LeagueToolkit / cslol-manager](https://github.com/LeagueToolkit/cslol-manager) - 
 * 【2025-07-08】[nomacs / nomacs](https://github.com/nomacs/nomacs) - nomacs is a free image viewer for windows, linux, and mac systems.
 * 【2025-07-04】[bytedance / btrace](https://github.com/bytedance/btrace) - 🔥🔥 btrace (AKA RheaTrace) is a high-performance Android & iOS tracing tool built on Perfetto. It not only times your methods but also reveals why they’re slow.
@@ -1543,6 +1551,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-07-12】[landing-ai / agentic-doc](https://github.com/landing-ai/agentic-doc) - Python library for Agentic Document Extraction from LandingAI
+* 【2025-07-12】[antiwork / flexile](https://github.com/antiwork/flexile) - Contractor payments as easy as 1-2-3
 * 【2025-07-11】[WordPress / wordpress-develop](https://github.com/WordPress/wordpress-develop) - WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.
 * 【2025-07-11】[snap-stanford / Biomni](https://github.com/snap-stanford/Biomni) - Biomni: a general-purpose biomedical AI agent
 * 【2025-07-11】[flutter / packages](https://github.com/flutter/packages) - A collection of useful packages maintained by the Flutter team
