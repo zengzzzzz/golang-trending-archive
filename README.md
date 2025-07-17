@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-07-17】[hypermodeinc / badger](https://github.com/hypermodeinc/badger) - Fast key-value DB in Go.
+* 【2025-07-17】[bcicen / ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 * 【2025-07-14】[ArvinLovegood / go-stock](https://github.com/ArvinLovegood/go-stock) - 🦄🦄🦄AI赋能股票分析：自选股行情获取，成本盈亏展示，涨跌报警推送。目前已支持A股，港股，美股，未来计划加入基金，ETF等支持。支持市场整体/个股情绪分析，K线分析等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
 * 【2025-07-14】[ssut / payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 * 【2025-07-13】[Ullaakut / cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
@@ -250,6 +252,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-07-17】[mindverse / Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
+* 【2025-07-17】[philippemerle / KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state
 * 【2025-07-16】[kvcache-ai / ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
 * 【2025-07-14】[OpenPipe / ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
 * 【2025-07-13】[jax-ml / jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
@@ -865,6 +869,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-07-17】[btc-vision / OP_20](https://github.com/btc-vision/OP_20) - OP_20 example token
+* 【2025-07-17】[alibaba / x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案
+* 【2025-07-17】[director-run / director](https://github.com/director-run/director) - Connect any LLM to any MCP server in seconds. Local-first. 100% free and open source.
 * 【2025-07-15】[SiriusScan / Sirius](https://github.com/SiriusScan/Sirius) - 
 * 【2025-07-14】[subhadeeproy3902 / mvpblocks](https://github.com/subhadeeproy3902/mvpblocks) - MVPBlocks is an open-source component library for developers to copy, customize, and launch MVPs lightning-fast—no installations, just pure productivity.
 * 【2025-07-14】[scriptscat / scriptcat](https://github.com/scriptscat/scriptcat) - ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展
@@ -1570,6 +1577,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-07-17】[aws / amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
+* 【2025-07-17】[vpnhood / VpnHood](https://github.com/vpnhood/VpnHood) - Undetectable Fast Portable VPN
+* 【2025-07-17】[nicklockwood / SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A command-line tool and Xcode Extension for formatting Swift code
 * 【2025-07-16】[beeradmoore / dlss-swapper](https://github.com/beeradmoore/dlss-swapper) - 
 * 【2025-07-15】[TomBursch / kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.
 * 【2025-07-12】[landing-ai / agentic-doc](https://github.com/landing-ai/agentic-doc) - Python library for Agentic Document Extraction from LandingAI
