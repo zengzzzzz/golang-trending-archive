@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-07-22】[v2ray / domain-list-community](https://github.com/v2ray/domain-list-community) - Community managed domain list
+* 【2025-07-22】[donetick / donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 * 【2025-07-21】[mudler / LocalRecall](https://github.com/mudler/LocalRecall) - 🧠 100% Local Memory layer and Knowledge base for agents with WebUI
 * 【2025-07-17】[hypermodeinc / badger](https://github.com/hypermodeinc/badger) - Fast key-value DB in Go.
 * 【2025-07-17】[bcicen / ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
@@ -253,6 +255,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-07-22】[p1ngul1n0 / blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
+* 【2025-07-22】[josh0xA / darkdump](https://github.com/josh0xA/darkdump) - Open Source Intelligence Interface for Deep Web Scraping
+* 【2025-07-22】[Yaofang-Liu / Pusa-VidGen](https://github.com/Yaofang-Liu/Pusa-VidGen) - Pusa: Thousands Timesteps Video Diffusion Model
 * 【2025-07-21】[hesreallyhim / awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 * 【2025-07-21】[wasi-master / 13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 * 【2025-07-19】[chubin / wttr.in](https://github.com/chubin/wttr.in) - ⛅ The right way to check the weather
@@ -878,6 +883,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-07-22】[arabold / docs-mcp-server](https://github.com/arabold/docs-mcp-server) - Docs MCP Server: Enhance Your AI Coding Assistant
 * 【2025-07-19】[CherryHQ / cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 * 【2025-07-18】[makenotion / notion-mcp-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server
 * 【2025-07-18】[langchain-ai / open-agent-platform](https://github.com/langchain-ai/open-agent-platform) - An open-source, no-code agent building platform.
@@ -1309,6 +1315,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-07-22】[Zelda64Recomp / Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
 * 【2025-07-21】[gnuton / asuswrt-merlin.ng](https://github.com/gnuton/asuswrt-merlin.ng) - Extends the support of Merlin firmware to more ASUS routers
 * 【2025-07-13】[Crypto-toolbox / HFT-Orderbook](https://github.com/Crypto-toolbox/HFT-Orderbook) - Limit Order Book for high-frequency trading (HFT), as described by WK Selph, implemented in Python3 and C
 * 【2025-07-12】[PufferAI / PufferLib](https://github.com/PufferAI/PufferLib) - Simplifying reinforcement learning for complex game environments
