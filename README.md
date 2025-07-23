@@ -255,6 +255,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-07-23】[sooperset / mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
 * 【2025-07-22】[p1ngul1n0 / blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
 * 【2025-07-22】[josh0xA / darkdump](https://github.com/josh0xA/darkdump) - Open Source Intelligence Interface for Deep Web Scraping
 * 【2025-07-22】[Yaofang-Liu / Pusa-VidGen](https://github.com/Yaofang-Liu/Pusa-VidGen) - Pusa: Thousands Timesteps Video Diffusion Model
@@ -883,6 +884,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-07-23】[AIDC-AI / ComfyUI-Copilot](https://github.com/AIDC-AI/ComfyUI-Copilot) - An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance
 * 【2025-07-22】[arabold / docs-mcp-server](https://github.com/arabold/docs-mcp-server) - Docs MCP Server: Enhance Your AI Coding Assistant
 * 【2025-07-19】[CherryHQ / cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 * 【2025-07-18】[makenotion / notion-mcp-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server
@@ -1602,6 +1604,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-07-23】[karpathy / nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
+* 【2025-07-23】[fujiapple852 / trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
+* 【2025-07-23】[ankitects / anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
 * 【2025-07-21】[TheOdinProject / css-exercises](https://github.com/TheOdinProject/css-exercises) - 
 * 【2025-07-20】[HotCakeX / Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md
 * 【2025-07-18】[Kyome22 / RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar.
