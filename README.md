@@ -630,6 +630,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-07-29】[NemProject / nem](https://github.com/NemProject/nem) - number go up 💹
+* 【2025-07-29】[coze-dev / coze-java](https://github.com/coze-dev/coze-java) - The Java SDK for the Coze API
 * 【2025-07-24】[LaurieWired / GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
 * 【2025-07-20】[oracle / opengrok](https://github.com/oracle/opengrok) - OpenGrok is a fast and usable source code search and cross reference engine, written in Java
 * 【2025-07-20】[Etar-Group / Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar
@@ -899,6 +901,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-07-29】[idosal / git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 * 【2025-07-28】[designcombo / react-video-editor](https://github.com/designcombo/react-video-editor) - Online react video editor using remotion. Capcut and canva clone.
 * 【2025-07-27】[badboysm890 / ClaraVerse](https://github.com/badboysm890/ClaraVerse) - Clara — Privacy-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n-style automation. No backend. No API keys. Just your stack, your machine.
 * 【2025-07-27】[sumithemmadi / truecallerjs](https://github.com/sumithemmadi/truecallerjs) - TruecallerJS: This is a library for retrieving phone number details using the Truecaller API.
@@ -1344,6 +1347,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-07-29】[cellos51 / balatro-gba](https://github.com/cellos51/balatro-gba) - 
 * 【2025-07-27】[EFeru / hoverboard-firmware-hack-FOC](https://github.com/EFeru/hoverboard-firmware-hack-FOC) - With Field Oriented Control (FOC)
 * 【2025-07-22】[Zelda64Recomp / Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
 * 【2025-07-21】[gnuton / asuswrt-merlin.ng](https://github.com/gnuton/asuswrt-merlin.ng) - Extends the support of Merlin firmware to more ASUS routers
@@ -1482,6 +1486,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-07-29】[facebook / watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
+* 【2025-07-29】[OHF-Voice / piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text-to-speech engine
 * 【2025-07-21】[OpenHUTB / hutb](https://github.com/OpenHUTB/hutb) - 人车模拟器
 * 【2025-07-20】[deepseek-ai / DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
 * 【2025-07-20】[ungive / discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
@@ -1632,6 +1638,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-07-29】[ashishpatel26 / 500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
 * 【2025-07-28】[daveebbelaar / ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
 * 【2025-07-28】[tldr-pages / tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 * 【2025-07-26】[semgrep / semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
