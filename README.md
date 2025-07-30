@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-07-30】[inngest / inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.
 * 【2025-07-28】[jhaals / yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 * 【2025-07-27】[google / oss-rebuild](https://github.com/google/oss-rebuild) - Securing open-source package ecosystems by originating, validating, and augmenting build attestations.
 * 【2025-07-27】[modelcontextprotocol / go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.
@@ -630,6 +631,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-07-30】[bytedeco / javacv](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more
 * 【2025-07-29】[NemProject / nem](https://github.com/NemProject/nem) - number go up 💹
 * 【2025-07-29】[coze-dev / coze-java](https://github.com/coze-dev/coze-java) - The Java SDK for the Coze API
 * 【2025-07-24】[LaurieWired / GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
@@ -901,6 +903,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-07-30】[Nutlope / self.so](https://github.com/Nutlope/self.so) - LinkedIn -> personal site generator
+* 【2025-07-30】[coze-dev / coze-js](https://github.com/coze-dev/coze-js) - The JavaScript SDK for the Coze API
 * 【2025-07-29】[idosal / git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 * 【2025-07-28】[designcombo / react-video-editor](https://github.com/designcombo/react-video-editor) - Online react video editor using remotion. Capcut and canva clone.
 * 【2025-07-27】[badboysm890 / ClaraVerse](https://github.com/badboysm890/ClaraVerse) - Clara — Privacy-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n-style automation. No backend. No API keys. Just your stack, your machine.
@@ -1185,6 +1189,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-07-30】[zumerlab / snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures HTML elements to images with exceptional speed and accuracy.
+* 【2025-07-30】[hotheadhacker / no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
+* 【2025-07-30】[zed-industries / zed-fonts](https://github.com/zed-industries/zed-fonts) - The Zed Mono and Sans typefaces, custom built from Iosevka
+* 【2025-07-30】[eoao / cloud-mail](https://github.com/eoao/cloud-mail) - cloudflare email 邮箱 临时邮箱 邮件发送 mail
 * 【2025-07-28】[reisxd / TizenBrew](https://github.com/reisxd/TizenBrew) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
 * 【2025-07-27】[rust-lang / rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 * 【2025-07-25】[acornjs / acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
@@ -1347,6 +1355,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-07-30】[system-linux / FazJammer](https://github.com/system-linux/FazJammer) - A minimal, simple and effective jammer that jams Wi-Fi, BLE and 2.4 GHz band.
+* 【2025-07-30】[openvenues / libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 * 【2025-07-29】[cellos51 / balatro-gba](https://github.com/cellos51/balatro-gba) - 
 * 【2025-07-27】[EFeru / hoverboard-firmware-hack-FOC](https://github.com/EFeru/hoverboard-firmware-hack-FOC) - With Field Oriented Control (FOC)
 * 【2025-07-22】[Zelda64Recomp / Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
@@ -1638,6 +1648,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-07-30】[9001 / copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 * 【2025-07-29】[ashishpatel26 / 500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
 * 【2025-07-28】[daveebbelaar / ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
 * 【2025-07-28】[tldr-pages / tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
