@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-07-31】[envoyproxy / ai-gateway](https://github.com/envoyproxy/ai-gateway) - Envoy AI Gateway is an open source project for using Envoy Gateway to handle request traffic from application clients to Generative AI services.
 * 【2025-07-30】[inngest / inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.
 * 【2025-07-28】[jhaals / yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 * 【2025-07-27】[google / oss-rebuild](https://github.com/google/oss-rebuild) - Securing open-source package ecosystems by originating, validating, and augmenting build attestations.
@@ -261,6 +262,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-07-31】[protectai / vulnhuntr](https://github.com/protectai/vulnhuntr) - Zero shot vulnerability discovery using LLMs
+* 【2025-07-31】[denizsafak / abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
 * 【2025-07-28】[OWASP / Nest](https://github.com/OWASP/Nest) - Your gateway to OWASP. Discover, engage, and help shape the future!
 * 【2025-07-28】[ml-explore / mlx-lm](https://github.com/ml-explore/mlx-lm) - Run LLMs with MLX
 * 【2025-07-28】[emarco177 / ice_breaker](https://github.com/emarco177/ice_breaker) - 
@@ -903,6 +906,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-07-31】[bytebase / dbhub](https://github.com/bytebase/dbhub) - Universal database MCP server connecting to MySQL, PostgreSQL, SQL Server, MariaDB.
+* 【2025-07-31】[workadventure / workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
 * 【2025-07-30】[Nutlope / self.so](https://github.com/Nutlope/self.so) - LinkedIn -> personal site generator
 * 【2025-07-30】[coze-dev / coze-js](https://github.com/coze-dev/coze-js) - The JavaScript SDK for the Coze API
 * 【2025-07-29】[idosal / git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
@@ -1355,6 +1360,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-07-31】[tvheadend / tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C/C2, DVB-S/S2, DVB-T/T2, IPTV, SAT>IP and unix pipe input sources
 * 【2025-07-30】[system-linux / FazJammer](https://github.com/system-linux/FazJammer) - A minimal, simple and effective jammer that jams Wi-Fi, BLE and 2.4 GHz band.
 * 【2025-07-30】[openvenues / libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 * 【2025-07-29】[cellos51 / balatro-gba](https://github.com/cellos51/balatro-gba) - 
