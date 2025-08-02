@@ -263,6 +263,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-08-02】[chu23465 / VT-PR](https://github.com/chu23465/VT-PR) - VineTrimmer with PlayReady and WideVine support, WIP. A DRM Removal Framework for Streaming Services.
 * 【2025-08-01】[microsoft / mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
 * 【2025-08-01】[nikmcfly / ANUS](https://github.com/nikmcfly/ANUS) - 
 * 【2025-07-31】[protectai / vulnhuntr](https://github.com/protectai/vulnhuntr) - Zero shot vulnerability discovery using LLMs
@@ -911,6 +912,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-08-02】[galaxy-s10 / billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Electron搭建的远程桌面控制
+* 【2025-08-02】[sourcebot-dev / sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps you understand your codebase.
 * 【2025-08-01】[puckeditor / puck](https://github.com/puckeditor/puck) - The visual editor for React
 * 【2025-07-31】[bytebase / dbhub](https://github.com/bytebase/dbhub) - Universal database MCP server connecting to MySQL, PostgreSQL, SQL Server, MariaDB.
 * 【2025-07-31】[workadventure / workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
@@ -1367,6 +1370,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-08-02】[sipwise / rtpengine](https://github.com/sipwise/rtpengine) - The Sipwise media proxy for Kamailio
 * 【2025-07-31】[tvheadend / tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C/C2, DVB-S/S2, DVB-T/T2, IPTV, SAT>IP and unix pipe input sources
 * 【2025-07-30】[system-linux / FazJammer](https://github.com/system-linux/FazJammer) - A minimal, simple and effective jammer that jams Wi-Fi, BLE and 2.4 GHz band.
 * 【2025-07-30】[openvenues / libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
@@ -1661,4 +1665,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-08-02】[TandoorRecipes / recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
+* 【2025-08-02】[dyad-sh / dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
+* 【2025-08-02】[playcanvas / editor](https://github.com/playcanvas/editor) - Powerful visual editor environment for building WebGL, WebGPU, WebXR apps
+* 【2025-08-02】[TideDra / zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) - Recommend new arxiv papers of your interest daily according to your Zotero libarary.
 * 【2025-08-01】[EmenstaNougat / ESP32-BlueJammer](https://github.com/EmenstaNougat/ESP32-BlueJammer) - The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interference between the devices communicating, making them unable to work as intended. Ideal for controlled disruption and security testing.
