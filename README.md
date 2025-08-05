@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-08-05】[sky22333 / hubproxy](https://github.com/sky22333/hubproxy) - 基于Go的自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。单域名实现所有功能，支持仓库审计。流式转发，无缓存。
 * 【2025-08-03】[hypermodeinc / dgraph](https://github.com/hypermodeinc/dgraph) - high-performance graph database for real-time use cases
 * 【2025-08-01】[sst / opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 * 【2025-07-31】[envoyproxy / ai-gateway](https://github.com/envoyproxy/ai-gateway) - Envoy AI Gateway is an open source project for using Envoy Gateway to handle request traffic from application clients to Generative AI services.
@@ -264,6 +265,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-08-05】[resemble-ai / chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
+* 【2025-08-05】[google / adk-samples](https://github.com/google/adk-samples) - A collection of sample agents built with Agent Development (ADK)
+* 【2025-08-05】[Tautulli / Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
+* 【2025-08-05】[stanford-cs336 / spring2025-lectures](https://github.com/stanford-cs336/spring2025-lectures) - 
 * 【2025-08-03】[GongRzhe / Office-PowerPoint-MCP-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) - A MCP (Model Context Protocol) server for PowerPoint manipulation using python-pptx. This server provides tools for creating, editing, and manipulating PowerPoint presentations through the MCP protocol.
 * 【2025-08-03】[nerfstudio-project / viser](https://github.com/nerfstudio-project/viser) - Web-based 3D visualization + Python
 * 【2025-08-02】[chu23465 / VT-PR](https://github.com/chu23465/VT-PR) - VineTrimmer with PlayReady and WideVine support, WIP. A DRM Removal Framework for Streaming Services.
@@ -918,6 +923,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-08-05】[homarr-labs / homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 30+ integrations. 10K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
+* 【2025-08-05】[Prat011 / free-cluely](https://github.com/Prat011/free-cluely) - Open Source version of Cluely
+* 【2025-08-05】[usertour / usertour](https://github.com/usertour/usertour) - Usertour is an open-source user onboarding platform. It allows you to create in-app product tours, checklists, and surveys in minutes—effortlessly and with full control.The open-source alternative to Userflow and Appcues
+* 【2025-08-05】[remvze / moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
+* 【2025-08-05】[thewh1teagle / vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 * 【2025-08-02】[galaxy-s10 / billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Electron搭建的远程桌面控制
 * 【2025-08-02】[sourcebot-dev / sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps you understand your codebase.
 * 【2025-08-01】[puckeditor / puck](https://github.com/puckeditor/puck) - The visual editor for React
