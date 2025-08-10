@@ -266,6 +266,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-08-10】[Pointcept / Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: Perceive the world with sparse points, a codebase for point cloud perception research. Latest works: Sonata (CVPR'25 Highlight), PTv3 (CVPR'24 Oral)
+* 【2025-08-10】[dataease / SQLBot](https://github.com/dataease/SQLBot) - 基于大模型和 RAG 的智能问数系统
 * 【2025-08-08】[google / adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 * 【2025-08-07】[hao-ai-lab / FastVideo](https://github.com/hao-ai-lab/FastVideo) - A unified inference and post-training framework for accelerated video generation.
 * 【2025-08-07】[JudgmentLabs / judgeval](https://github.com/JudgmentLabs/judgeval) - The open source post-building layer for agents. Our traces + evals power agent post-training (RL, SFT), monitoring, and regression testing.
@@ -652,6 +654,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-08-10】[FrosSky / Chevstrap](https://github.com/FrosSky/Chevstrap) - Chevstrap is an enhanced Roblox and Roblox VN launcher, built specifically for Android and inspired by Bloxstrap.
 * 【2025-08-09】[SonarSource / sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
 * 【2025-08-08】[dunwu / db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 后端程序员应该掌握的主流数据库知识
 * 【2025-08-08】[google / adk-java](https://github.com/google/adk-java) - An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
@@ -933,6 +936,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-08-10】[browser-use / workflow-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2.0)
 * 【2025-08-08】[cloudflare / workers-oauth-provider](https://github.com/cloudflare/workers-oauth-provider) - OAuth provider library for Cloudflare Workers
 * 【2025-08-07】[AsyncFuncAI / deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 * 【2025-08-05】[homarr-labs / homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 30+ integrations. 10K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
@@ -1709,6 +1713,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-08-10】[lfnovo / open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 * 【2025-08-09】[openai / codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 * 【2025-08-09】[FFmpeg / asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
 * 【2025-08-08】[xiaoyaocz / dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
