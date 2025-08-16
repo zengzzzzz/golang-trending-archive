@@ -667,6 +667,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-08-16】[sepinf-inc / IPED](https://github.com/sepinf-inc/IPED) - IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.
 * 【2025-08-15】[kishanrajput23 / Java-Projects-Collections](https://github.com/kishanrajput23/Java-Projects-Collections) - Contribute in this repository by raising a genuine PR. Then get verified, and earn the free swags from Hacktoberfest 2023.
 * 【2025-08-13】[linlinjava / litemall](https://github.com/linlinjava/litemall) - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
 * 【2025-08-12】[TownyAdvanced / Towny](https://github.com/TownyAdvanced/Towny) - Towny Advanced Minecraft plugin for Bukkit/Spigot.
@@ -954,6 +955,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-08-16】[epicenter-so / epicenter](https://github.com/epicenter-so/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
 * 【2025-08-15】[superagent-ai / vibekit](https://github.com/superagent-ai/vibekit) - Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in.
 * 【2025-08-12】[adrianhajdin / react-native-movie-app](https://github.com/adrianhajdin/react-native-movie-app) - Get hands-on with React Native and Expo in this crash course! Build a mobile movie app from scratch, and learn essential skills for mobile development along the way.
 * 【2025-08-12】[xyTom / snippai](https://github.com/xyTom/snippai) - Snip Anything Solve Everything
@@ -1261,6 +1263,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-08-16】[dimdenGD / OldTwitter](https://github.com/dimdenGD/OldTwitter) - Extension to return old Twitter layout from 2015 / 2018.
 * 【2025-08-14】[mikechambers / adb-mcp](https://github.com/mikechambers/adb-mcp) - 
 * 【2025-08-14】[asgeirtj / system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 * 【2025-08-13】[lint-staged / lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
@@ -1747,6 +1750,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-08-16】[manycore-research / SpatialLM](https://github.com/manycore-research/SpatialLM) - SpatialLM: Training Large Language Models for Structured Indoor Modeling
 * 【2025-08-13】[microsoft / poml](https://github.com/microsoft/poml) - Prompt Orchestration Markup Language
 * 【2025-08-13】[apple / embedding-atlas](https://github.com/apple/embedding-atlas) - Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.
 * 【2025-08-12】[trailofbits / buttercup](https://github.com/trailofbits/buttercup) - 
