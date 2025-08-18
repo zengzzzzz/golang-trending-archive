@@ -270,6 +270,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-08-18】[HunxByts / GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 * 【2025-08-15】[datalab-to / marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 * 【2025-08-14】[microsoft / magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
 * 【2025-08-14】[browserbase / stagehand-python](https://github.com/browserbase/stagehand-python) - The AI Browser Automation Framework
@@ -667,6 +668,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-08-18】[rkkr / simple-keyboard](https://github.com/rkkr/simple-keyboard) - 
 * 【2025-08-16】[sepinf-inc / IPED](https://github.com/sepinf-inc/IPED) - IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.
 * 【2025-08-15】[kishanrajput23 / Java-Projects-Collections](https://github.com/kishanrajput23/Java-Projects-Collections) - Contribute in this repository by raising a genuine PR. Then get verified, and earn the free swags from Hacktoberfest 2023.
 * 【2025-08-13】[linlinjava / litemall](https://github.com/linlinjava/litemall) - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
@@ -955,6 +957,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-08-18】[pipeshub-ai / pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai) - The OpenSource Alternative to Glean's Workplace AI
 * 【2025-08-17】[purocean / yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macro replacement.
 * 【2025-08-17】[ayangweb / BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
 * 【2025-08-16】[epicenter-so / epicenter](https://github.com/epicenter-so/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
@@ -1594,6 +1597,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-08-18】[DS-Homebrew / TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu) - DSi Menu replacement for DS/DSi/3DS/2DS
 * 【2025-08-17】[PanosK92 / SpartanEngine](https://github.com/PanosK92/SpartanEngine) - A game engine with an emphasis on real-time cutting-edge solutions
 * 【2025-08-14】[rpng / open_vins](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
 * 【2025-08-08】[flashinfer-ai / flashinfer](https://github.com/flashinfer-ai/flashinfer) - FlashInfer: Kernel Library for LLM Serving
