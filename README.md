@@ -271,6 +271,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-08-20】[tensorlakeai / tensorlake](https://github.com/tensorlakeai/tensorlake) - Tensorlake is a Document Ingestion API and a serverless platform for building data processing and orchestration APIs
+* 【2025-08-20】[portiaAI / portia-sdk-python](https://github.com/portiaAI/portia-sdk-python) - Portia Labs Python SDK for building agentic workflows.
 * 【2025-08-18】[HunxByts / GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 * 【2025-08-15】[datalab-to / marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 * 【2025-08-14】[microsoft / magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
@@ -1451,6 +1453,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-08-20】[kolunmi / bazaar](https://github.com/kolunmi/bazaar) - New App Store for GNOME
+* 【2025-08-20】[dekuNukem / daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
 * 【2025-08-19】[ComposersDesktop / CDP8](https://github.com/ComposersDesktop/CDP8) - New version of CDP software
 * 【2025-08-17】[duixcom / Duix.Avatar](https://github.com/duixcom/Duix.Avatar) - 
 * 【2025-08-13】[armink / FlashDB](https://github.com/armink/FlashDB) - An ultra-lightweight database that supports key-value and time series data | 一款支持 KV 数据和时序数据的超轻量级数据库
@@ -1763,6 +1767,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-08-20】[imsyy / SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
 * 【2025-08-19】[enescingoz / awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.
 * 【2025-08-19】[bytebot-ai / bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 * 【2025-08-17】[IBM / mcp-context-forge](https://github.com/IBM/mcp-context-forge) - A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE, Streamable HTTP).
