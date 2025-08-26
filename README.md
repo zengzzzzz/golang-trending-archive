@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-08-26】[cloudfoundry / cli](https://github.com/cloudfoundry/cli) - The official command line client for Cloud Foundry
+* 【2025-08-26】[getlago / lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 * 【2025-08-25】[google / mangle](https://github.com/google/mangle) - 
 * 【2025-08-24】[flexprice / flexprice](https://github.com/flexprice/flexprice) - Usage-based pricing and billing for developers 🔓 Cloud or self-hosted ⚙️ No-code UI 💰 Realtime usage metering 🎟 Credits & top-ups 🔑 Control feature access
 * 【2025-08-23】[OpenCSGs / csghub-server](https://github.com/OpenCSGs/csghub-server) - csghub-server is the backend server for CSGHub which helps user to manage datasets, modes, and also run Model Inference, Finetune and Application Spaces.
@@ -278,6 +280,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-08-26】[QuentinFuxa / WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Python package for Real-time, Local Speech-to-Text and Speaker Diarization. FastAPI Server & Web Interface
 * 【2025-08-25】[openai / mle-bench](https://github.com/openai/mle-bench) - MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering
 * 【2025-08-24】[1rgs / claude-code-proxy](https://github.com/1rgs/claude-code-proxy) - Run Claude Code on OpenAI models
 * 【2025-08-24】[SamuelSchmidgall / AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) - Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas
@@ -981,6 +984,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-08-26】[LukeGus / Termix](https://github.com/LukeGus/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
+* 【2025-08-26】[varun-raj / immich-power-tools](https://github.com/varun-raj/immich-power-tools) - Power tools for organizing your immich library
 * 【2025-08-23】[idosal / mcp-ui](https://github.com/idosal/mcp-ui) - SDK for UI over MCP. Create next-gen UI experiences!
 * 【2025-08-18】[pipeshub-ai / pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai) - The OpenSource Alternative to Glean's Workplace AI
 * 【2025-08-17】[purocean / yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macro replacement.
@@ -1293,6 +1298,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-08-26】[fleetbase / fleetbase](https://github.com/fleetbase/fleetbase) - Modular logistics and supply chain operating system (LSOS)
 * 【2025-08-24】[miroslavpejic85 / mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers and platforms.
 * 【2025-08-23】[hargata / lubelog](https://github.com/hargata/lubelog) - LubeLogger is a web-based vehicle maintenance and fuel mileage tracker
 * 【2025-08-21】[YosemiteCrew / Yosemite-Crew](https://github.com/YosemiteCrew/Yosemite-Crew) - Open source operating system for animal health
@@ -1795,6 +1801,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-08-26】[rothgar / awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 * 【2025-08-24】[winapps-org / winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
 * 【2025-08-24】[HKUDS / DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
 * 【2025-08-24】[scottpetrovic / mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app) - Import a 3D Model and automatically assign and export animations
