@@ -280,6 +280,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-08-29】[alpacahq / alpaca-py](https://github.com/alpacahq/alpaca-py) - The Official Python SDK for Alpaca API
+* 【2025-08-29】[h2oai / h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
 * 【2025-08-27】[bytedance / deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
 * 【2025-08-27】[i-am-bee / acp](https://github.com/i-am-bee/acp) - Open protocol for communication between AI agents, applications, and humans.
 * 【2025-08-26】[QuentinFuxa / WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Python package for Real-time, Local Speech-to-Text and Speaker Diarization. FastAPI Server & Web Interface
@@ -694,6 +696,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-08-29】[LaurieWired / Malimite](https://github.com/LaurieWired/Malimite) - iOS and macOS Decompiler
+* 【2025-08-29】[hneemann / Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator.
 * 【2025-08-28】[githubtraining / hellogitworld](https://github.com/githubtraining/hellogitworld) - Hello Git World sample training repository
 * 【2025-08-27】[AIDC-AI / Agentic-ADK](https://github.com/AIDC-AI/Agentic-ADK) - Agentic ADK is an Agent application development framework launched by Alibaba International AI Business, based on Google-ADK and Ali-LangEngine.
 * 【2025-08-27】[sonatype / nexus-public](https://github.com/sonatype/nexus-public) - Sonatype Nexus Repository Open-source codebase mirror
@@ -990,6 +994,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-08-29】[humanlayer / humanlayer](https://github.com/humanlayer/humanlayer) - HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling
+* 【2025-08-29】[gyoridavid / short-video-maker](https://github.com/gyoridavid/short-video-maker) - Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using the Model Context Protocol (MCP) and a REST API.
 * 【2025-08-28】[ryo-ma / github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies on your readme
 * 【2025-08-28】[openai / openai-realtime-twilio-demo](https://github.com/openai/openai-realtime-twilio-demo) - 
 * 【2025-08-28】[anthropics / claude-code-action](https://github.com/anthropics/claude-code-action) - 
@@ -1493,6 +1499,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-08-29】[NVIDIA-RTX / Streamline](https://github.com/NVIDIA-RTX/Streamline) - Streamline Integration Framework
 * 【2025-08-28】[documentdb / documentdb](https://github.com/documentdb/documentdb) - MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity.
 * 【2025-08-22】[Adaptix-Framework / AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) - 
 * 【2025-08-21】[ggreer / the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
