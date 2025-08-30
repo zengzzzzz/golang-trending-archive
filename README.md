@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-08-30】[charmbracelet / crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 * 【2025-08-26】[cloudfoundry / cli](https://github.com/cloudfoundry/cli) - The official command line client for Cloud Foundry
 * 【2025-08-26】[getlago / lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 * 【2025-08-25】[google / mangle](https://github.com/google/mangle) - 
@@ -280,6 +281,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-08-30】[ihmily / StreamCap](https://github.com/ihmily/StreamCap) - Multi-Platform Live Stream Automatic Recording Tool | 多平台直播流自动录制客户端 · 基于FFmpeg · 支持监控/定时/转码
+* 【2025-08-30】[NVIDIA-NeMo / NeMo](https://github.com/NVIDIA-NeMo/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 * 【2025-08-29】[alpacahq / alpaca-py](https://github.com/alpacahq/alpaca-py) - The Official Python SDK for Alpaca API
 * 【2025-08-29】[h2oai / h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
 * 【2025-08-27】[bytedance / deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
@@ -1499,6 +1502,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-08-30】[edk2-porting / edk2-rk3588](https://github.com/edk2-porting/edk2-rk3588) - EDK2 UEFI firmware for Rockchip RK3588 platforms
+* 【2025-08-30】[antirez / sds](https://github.com/antirez/sds) - Simple Dynamic Strings library for C
 * 【2025-08-29】[NVIDIA-RTX / Streamline](https://github.com/NVIDIA-RTX/Streamline) - Streamline Integration Framework
 * 【2025-08-28】[documentdb / documentdb](https://github.com/documentdb/documentdb) - MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity.
 * 【2025-08-22】[Adaptix-Framework / AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) - 
@@ -1820,6 +1825,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-08-30】[microsoft / mcp](https://github.com/microsoft/mcp) - Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
+* 【2025-08-30】[mercurjs / mercur](https://github.com/mercurjs/mercur) - Open-source multi-vendor marketplace platform for B2B & B2C. Built on top of MedusaJS. Create your own custom marketplace. 🛍️
 * 【2025-08-27】[SimplifyJobs / Summer2026-Internships](https://github.com/SimplifyJobs/Summer2026-Internships) - Collection of Summer 2026 tech internships!
 * 【2025-08-26】[rothgar / awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 * 【2025-08-24】[winapps-org / winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
