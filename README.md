@@ -283,6 +283,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-09-05】[slavakurilyak / awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
 * 【2025-09-04】[murtaza-nasir / maestro](https://github.com/murtaza-nasir/maestro) - MAESTRO is an AI-powered research application designed to streamline complex research tasks.
 * 【2025-09-04】[microsoft / rStar](https://github.com/microsoft/rStar) - 
 * 【2025-09-04】[JefferyHcool / BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
@@ -1011,6 +1012,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-09-05】[11cafe / jaaz](https://github.com/11cafe/jaaz) - The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
+* 【2025-09-05】[langchain-ai / open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 * 【2025-09-04】[deepfence / ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
 * 【2025-09-03】[Vanilagy / mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 * 【2025-09-03】[TibixDev / winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
@@ -1336,6 +1339,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-09-05】[bcanseco / github-contribution-graph-action](https://github.com/bcanseco/github-contribution-graph-action) - 🙈 This GitHub action will automatically push empty commits to one of your repositories.
+* 【2025-09-05】[sohzm / cheating-daddy](https://github.com/sohzm/cheating-daddy) - a free and opensource app that lets you gain an unfair advantage
 * 【2025-09-03】[niespodd / browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
 * 【2025-09-01】[met4citizen / TalkingHead](https://github.com/met4citizen/TalkingHead) - Talking Head (3D): A JavaScript class for real-time lip-sync using Ready Player Me full-body 3D avatars.
 * 【2025-08-31】[mrmlnc / fast-glob](https://github.com/mrmlnc/fast-glob) - 🚀 It's a very fast and efficient glob library for Node.js
@@ -1526,6 +1531,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-09-05】[FalkorDB / FalkorDB](https://github.com/FalkorDB/FalkorDB) - A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).
 * 【2025-09-03】[liamelui / zomdroid](https://github.com/liamelui/zomdroid) - Unofficial Project Zomboid launcher for Android
 * 【2025-09-03】[skeeto / w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
 * 【2025-09-01】[nanovms / nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
@@ -1857,6 +1863,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-09-05】[weaviate / elysia](https://github.com/weaviate/elysia) - Python package and backend for the Elysia platform app.
+* 【2025-09-05】[socfortress / Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules) - Advanced Wazuh Rules for more accurate threat detection. Feel free to implement within your own Wazuh environment, contribute, or fork!
 * 【2025-09-04】[appcypher / awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
 * 【2025-09-04】[dipakkr / A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅ Curated list of resources for college students
 * 【2025-09-04】[oraios / serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
