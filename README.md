@@ -284,6 +284,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-09-09】[coderamp-labs / gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 * 【2025-09-08】[NVIDIA / TensorRT-Model-Optimizer](https://github.com/NVIDIA/TensorRT-Model-Optimizer) - A unified library of state-of-the-art model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM or TensorRT to optimize inference speed.
 * 【2025-09-07】[Vector-Wangel / XLeRobot](https://github.com/Vector-Wangel/XLeRobot) - XLeRobot: Practical Dual-Arm Mobile Home Robot for $660
 * 【2025-09-06】[qwersyk / Newelle](https://github.com/qwersyk/Newelle) - Newelle - Your Ultimate Virtual Assistant
@@ -717,6 +718,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-09-09】[GoogleCloudPlatform / bank-of-anthos](https://github.com/GoogleCloudPlatform/bank-of-anthos) - Retail banking sample application showcasing Kubernetes and Google Cloud
 * 【2025-09-08】[Mentra-Community / MentraOS](https://github.com/Mentra-Community/MentraOS) - Smart glasses OS, with dozens of built-in apps. Users get AI assistant, notifications, translation, screen mirror, captions, and more. Devs get to write 1 app that runs on any pair of smart glases.
 * 【2025-09-08】[TimefoldAI / timefold-quickstarts](https://github.com/TimefoldAI/timefold-quickstarts) - Get started with Timefold quickstarts here. Optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.
 * 【2025-09-07】[lhccong / fish-island-backend](https://github.com/lhccong/fish-island-backend) - 摸鱼岛🎣后端 基于爬虫 ➕ Netty ➕ SpringBoot ➕Redis➕ MySQL 开源🌟一站式摸鱼网
@@ -1348,6 +1350,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-09-09】[firecrawl / firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
 * 【2025-09-08】[mindcraft-bots / mindcraft](https://github.com/mindcraft-bots/mindcraft) - Minecraft AI with LLMs+Mineflayer
 * 【2025-09-07】[6Kmfi6HP / EDtunnel](https://github.com/6Kmfi6HP/EDtunnel) - EDtunnel 是一个基于 Cloudflare Workers 和 Pages 的代理工具，支持多种协议和配置选项。 EDtunnel is a proxy tool based on Cloudflare Workers and Pages, supporting multiple protocols and configuration options.
 * 【2025-09-07】[devxprite / infoooze](https://github.com/devxprite/infoooze) - A OSINT tool which helps you to quickly find information effectively. All you need is to input and it will take take care of rest.
@@ -1879,6 +1882,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-09-09】[Zie619 / n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 * 【2025-09-07】[zama-ai / fhevm](https://github.com/zama-ai/fhevm) - FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
 * 【2025-09-07】[Eventual-Inc / Daft](https://github.com/Eventual-Inc/Daft) - Distributed query engine providing simple and reliable data processing for any modality and scale
 * 【2025-09-05】[weaviate / elysia](https://github.com/weaviate/elysia) - Python package and backend for the Elysia platform app.
