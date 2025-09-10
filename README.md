@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-09-10】[yaml / go-yaml](https://github.com/yaml/go-yaml) - The YAML org maintained fork of https://github.com/go-yaml/yaml
 * 【2025-09-07】[k1LoW / deck](https://github.com/k1LoW/deck) - deck is a tool for creating deck using Markdown and Google Slides.
 * 【2025-09-01】[jorgerojas26 / lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
 * 【2025-08-31】[kubernetes-sigs / gateway-api-inference-extension](https://github.com/kubernetes-sigs/gateway-api-inference-extension) - Gateway API Inference Extension
@@ -1021,6 +1022,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-09-10】[EcoPasteHub / EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
+* 【2025-09-10】[microsoft / azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp) - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
+* 【2025-09-10】[apecloud / ApeRAG](https://github.com/apecloud/ApeRAG) - ApeRAG: Production-ready GraphRAG with multi-modal indexing, AI agents, MCP support, and scalable K8s deployment
 * 【2025-09-08】[coinbase / x402](https://github.com/coinbase/x402) - A payments protocol for the internet. Built on HTTP.
 * 【2025-09-08】[ruvnet / claude-flow](https://github.com/ruvnet/claude-flow) - Claude-Flow v2.0.0 Alpha represents a leap in AI-powered development orchestration. Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code integration.
 * 【2025-09-05】[11cafe / jaaz](https://github.com/11cafe/jaaz) - The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
@@ -1546,6 +1550,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-09-10】[izzyreal / vmpc-juce](https://github.com/izzyreal/vmpc-juce) - JUCE implementation of VMPC2000XL
 * 【2025-09-08】[TryQuiet / quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 * 【2025-09-05】[FalkorDB / FalkorDB](https://github.com/FalkorDB/FalkorDB) - A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).
 * 【2025-09-03】[liamelui / zomdroid](https://github.com/liamelui/zomdroid) - Unofficial Project Zomboid launcher for Android
