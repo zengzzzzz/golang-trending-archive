@@ -287,6 +287,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-09-12】[sentient-agi / ROMA](https://github.com/sentient-agi/ROMA) - Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
 * 【2025-09-11】[NEKOparapa / AiNiee](https://github.com/NEKOparapa/AiNiee) - 一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，Srt Vtt Lrc字幕，Word MD文档等等复杂长文本。
 * 【2025-09-09】[coderamp-labs / gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 * 【2025-09-08】[NVIDIA / TensorRT-Model-Optimizer](https://github.com/NVIDIA/TensorRT-Model-Optimizer) - A unified library of state-of-the-art model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM or TensorRT to optimize inference speed.
@@ -722,6 +723,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-09-12】[tchiotludo / akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...
 * 【2025-09-09】[GoogleCloudPlatform / bank-of-anthos](https://github.com/GoogleCloudPlatform/bank-of-anthos) - Retail banking sample application showcasing Kubernetes and Google Cloud
 * 【2025-09-08】[Mentra-Community / MentraOS](https://github.com/Mentra-Community/MentraOS) - Smart glasses OS, with dozens of built-in apps. Users get AI assistant, notifications, translation, screen mirror, captions, and more. Devs get to write 1 app that runs on any pair of smart glases.
 * 【2025-09-08】[TimefoldAI / timefold-quickstarts](https://github.com/TimefoldAI/timefold-quickstarts) - Get started with Timefold quickstarts here. Optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.
@@ -1025,6 +1027,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-09-12】[CodebuffAI / codebuff](https://github.com/CodebuffAI/codebuff) - Generate code from the terminal!
 * 【2025-09-11】[czlonkowski / n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 * 【2025-09-10】[EcoPasteHub / EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
 * 【2025-09-10】[microsoft / azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp) - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
@@ -1358,6 +1361,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-09-12】[github / awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 * 【2025-09-11】[debug-js / debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 * 【2025-09-09】[firecrawl / firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
 * 【2025-09-08】[mindcraft-bots / mindcraft](https://github.com/mindcraft-bots/mindcraft) - Minecraft AI with LLMs+Mineflayer
@@ -1555,6 +1559,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-09-12】[mpaland / printf](https://github.com/mpaland/printf) - Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive test suite passing.
+* 【2025-09-12】[hpjansson / chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 * 【2025-09-10】[izzyreal / vmpc-juce](https://github.com/izzyreal/vmpc-juce) - JUCE implementation of VMPC2000XL
 * 【2025-09-08】[TryQuiet / quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 * 【2025-09-05】[FalkorDB / FalkorDB](https://github.com/FalkorDB/FalkorDB) - A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).
@@ -1719,6 +1725,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-09-12】[ashtf8 / PocketMage_PDA](https://github.com/ashtf8/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
 * 【2025-09-08】[AntiMicroX / antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 * 【2025-09-08】[MrNeRF / LichtFeld-Studio](https://github.com/MrNeRF/LichtFeld-Studio) - LichtFeld Studio: Where reality and the digital world blend.
 * 【2025-09-06】[haoel / leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
@@ -1892,6 +1899,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-09-12】[google / material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
+* 【2025-09-12】[trueadm / ripple](https://github.com/trueadm/ripple) - the elegant TypeScript UI framework
+* 【2025-09-12】[epfml / ML_course](https://github.com/epfml/ML_course) - EPFL Machine Learning Course, Fall 2025
 * 【2025-09-11】[twitter / the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
 * 【2025-09-11】[ahujasid / blender-mcp](https://github.com/ahujasid/blender-mcp) - 
 * 【2025-09-09】[Zie619 / n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
