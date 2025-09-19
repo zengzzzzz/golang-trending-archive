@@ -1035,6 +1035,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-09-19】[SmythOS / sre](https://github.com/SmythOS/sre) - The Operating System for Agents
+* 【2025-09-19】[obsidianmd / obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Obsidian Importer lets you import notes from other apps and file formats into your Obsidian vault.
+* 【2025-09-19】[kanbn / kan](https://github.com/kanbn/kan) - The open source Trello alternative.
 * 【2025-09-18】[allweonedev / presentation-ai](https://github.com/allweonedev/presentation-ai) - Open source AI presentation generator. Create professional slides with customizable themes and AI-generated content in minutes.
 * 【2025-09-18】[graycoreio / daffodil](https://github.com/graycoreio/daffodil) - Build complex Ecommerce store frontends and connect to any backend https://discord.gg/BdaJVZ53sR
 * 【2025-09-17】[freelensapp / freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes
@@ -1377,6 +1380,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-09-19】[angular / angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
 * 【2025-09-18】[Gar-b-age / CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 * 【2025-09-18】[httptoolkit / frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) - Frida scripts to directly MitM all HTTPS traffic from a target mobile application
 * 【2025-09-17】[arkime / arkime](https://github.com/arkime/arkime) - Arkime is an open source, large scale, full packet capturing, indexing, and database system.
@@ -1580,6 +1584,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-09-19】[MidnightCommander / mc](https://github.com/MidnightCommander/mc) - Midnight Commander's repository
 * 【2025-09-13】[VirtualBox / virtualbox](https://github.com/VirtualBox/virtualbox) - Source code for Oracle VirtualBox
 * 【2025-09-12】[mpaland / printf](https://github.com/mpaland/printf) - Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive test suite passing.
 * 【2025-09-12】[hpjansson / chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
