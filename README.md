@@ -1040,6 +1040,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-09-22】[zxh326 / kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard
+* 【2025-09-22】[Merit-Systems / echo](https://github.com/Merit-Systems/echo) - Echo is a billing in a box solution for all AI APIs
+* 【2025-09-22】[bigcapitalhq / bigcapital](https://github.com/bigcapitalhq/bigcapital) - 💵 Bigcapital is financial accounting with intelligent reporting for faster decision-making, an open-source alternative to Quickbooks, Xero, etc.
 * 【2025-09-21】[chaitin / PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
 * 【2025-09-20】[p0lloc / perfice](https://github.com/p0lloc/perfice) - Self-tracking app in Svelte 5
 * 【2025-09-20】[kyantech / Palmr](https://github.com/kyantech/Palmr) - 🌴 Palmr. is an open-source file-sharing platform focused on privacy and security. It enables users to upload, manage, and share files with features like password protection, custom links, and access control without tracking or limitations. Designed for seamless and secure sharing, Palmr. is completely free.
