@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-10-01】[dbos-inc / dbos-transact-golang](https://github.com/dbos-inc/dbos-transact-golang) - Durable Workflow Orchestration with Golang and Postgres
 * 【2025-09-30】[eduardolat / pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
 * 【2025-09-27】[julienschmidt / httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
 * 【2025-09-25】[base / node](https://github.com/base/node) - Everything required to run your own Base node
@@ -293,6 +294,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-10-01】[Oros42 / IMSI-catcher](https://github.com/Oros42/IMSI-catcher) - This program show you IMSI numbers of cellphones around you.
 * 【2025-09-30】[THUDM / slime](https://github.com/THUDM/slime) - slime is an LLM post-training framework for RL Scaling.
 * 【2025-09-29】[elliottech / lighter-python](https://github.com/elliottech/lighter-python) - Public Python SDK for Lighter
 * 【2025-09-28】[Tencent-Hunyuan / Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) - From Images to High-Fidelity 3D Assets with Production-Ready PBR Material
@@ -746,6 +748,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-10-01】[jabrena / cursor-rules-java](https://github.com/jabrena/cursor-rules-java) - A collection of System prompts for Java that help software engineers in their daily programming work & data pipelines. 👉 Your feedback is important to evolve this project. Participate in the following questionnaire: 👈 https://forms.gle/TpNXENjmu45wuXoi6
 * 【2025-09-28】[apache / fesod](https://github.com/apache/fesod) - Fast. Easy. Done. Processing Excels without worrying about large files causing OOM.
 * 【2025-09-27】[apache / sedona](https://github.com/apache/sedona) - A cluster computing framework for processing large-scale geospatial data
 * 【2025-09-24】[Jigsaw-Code / Intra](https://github.com/Jigsaw-Code/Intra) - An experimental tool that allows you to test new DNS-over-HTTPS services on Android
@@ -1054,6 +1057,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-10-01】[hangwin / mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.
+* 【2025-10-01】[coinbase / onchainkit](https://github.com/coinbase/onchainkit) - React components and TypeScript utilities to help you build top-tier onchain apps.
 * 【2025-09-30】[mihomo-party-org / clash-party](https://github.com/mihomo-party-org/clash-party) - Another Mihomo GUI.
 * 【2025-09-28】[ChromeDevTools / devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) - The Chrome DevTools UI
 * 【2025-09-28】[netless-io / flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
@@ -1413,6 +1418,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-10-01】[gkjohnson / three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) - A BVH implementation to speed up raycasting and enable spatial queries against three.js meshes.
 * 【2025-09-28】[perplexityai / modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
 * 【2025-09-25】[asterdex / api-docs](https://github.com/asterdex/api-docs) - 
 * 【2025-09-23】[andrepimenta / claude-code-chat](https://github.com/andrepimenta/claude-code-chat) - Beautiful Claude Code Chat Interface for VS Code
@@ -1968,3 +1974,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-08】[UniversalRobots / Universal_Robots_ROS2_Driver](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver) - Universal Robots ROS2 driver supporting CB3 and e-Series
 * 【2024-11-05】[unum-cloud / usearch](https://github.com/unum-cloud/usearch) - Fast Open-Source Search & Clustering engine × for Vectors & 🔜 Strings × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
+## All language
+
+* 【2025-10-01】[anthropics / claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) - 
+* 【2025-10-01】[cjpais / Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
