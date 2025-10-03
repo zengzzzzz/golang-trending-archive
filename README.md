@@ -296,6 +296,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-10-03】[h2y / Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
+* 【2025-10-03】[Mr-Homeless / waldo](https://github.com/Mr-Homeless/waldo) - Waldo Vision | Cheat detection
 * 【2025-10-02】[volatilityfoundation / volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility 3.0 development
 * 【2025-10-02】[google-deepmind / mujoco_warp](https://github.com/google-deepmind/mujoco_warp) - GPU-optimized version of the MuJoCo physics simulator, designed for NVIDIA hardware.
 * 【2025-10-01】[Oros42 / IMSI-catcher](https://github.com/Oros42/IMSI-catcher) - This program show you IMSI numbers of cellphones around you.
@@ -752,6 +754,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-10-03】[DSpace / DSpace](https://github.com/DSpace/DSpace) - (Official) The DSpace digital asset management system that powers your Institutional Repository
 * 【2025-10-01】[jabrena / cursor-rules-java](https://github.com/jabrena/cursor-rules-java) - A collection of System prompts for Java that help software engineers in their daily programming work & data pipelines. 👉 Your feedback is important to evolve this project. Participate in the following questionnaire: 👈 https://forms.gle/TpNXENjmu45wuXoi6
 * 【2025-09-28】[apache / fesod](https://github.com/apache/fesod) - Fast. Easy. Done. Processing Excels without worrying about large files causing OOM.
 * 【2025-09-27】[apache / sedona](https://github.com/apache/sedona) - A cluster computing framework for processing large-scale geospatial data
@@ -1424,6 +1427,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-10-03】[Coding-Solo / godot-mcp](https://github.com/Coding-Solo/godot-mcp) - MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.
 * 【2025-10-01】[gkjohnson / three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) - A BVH implementation to speed up raycasting and enable spatial queries against three.js meshes.
 * 【2025-09-28】[perplexityai / modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
 * 【2025-09-25】[asterdex / api-docs](https://github.com/asterdex/api-docs) - 
@@ -1632,6 +1636,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-10-03】[mudita / MuditaOS](https://github.com/mudita/MuditaOS) - Mobile operating system based on FreeRTOS™ optimized for E Ink displays - developed for Mudita Pure minimalist phone
 * 【2025-10-02】[rfjakob / earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
 * 【2025-09-29】[lovyan03 / LovyanGFX](https://github.com/lovyan03/LovyanGFX) - SPI LCD graphics library for ESP32 (ESP-IDF/ArduinoESP32) / ESP8266 (ArduinoESP8266) / SAMD51(Seeed ArduinoSAMD51)
 * 【2025-09-24】[zserge / jsmn](https://github.com/zserge/jsmn) - Jsmn is a world fastest JSON parser/tokenizer. This is the official repo replacing the old one at Bitbucket
@@ -1804,6 +1809,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-10-03】[tile-ai / tilelang](https://github.com/tile-ai/tilelang) - Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
 * 【2025-10-02】[brave / brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues
 * 【2025-09-30】[mhogomchungu / media-downloader](https://github.com/mhogomchungu/media-downloader) - Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
 * 【2025-09-29】[luanti-org / luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
@@ -1984,6 +1990,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-10-03】[google / tunix](https://github.com/google/tunix) - A JAX-native LLM Post-Training Library
+* 【2025-10-03】[atuinsh / desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run
+* 【2025-10-03】[MudBlazor / MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility
+* 【2025-10-03】[hsliuping / TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
 * 【2025-10-02】[PHPMailer / PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 * 【2025-10-02】[YILING0013 / AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator) - 使用ai生成多章节的长篇小说，自动衔接上下文、伏笔
 * 【2025-10-01】[anthropics / claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) - 
