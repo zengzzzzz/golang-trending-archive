@@ -296,6 +296,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-10-07】[ScrapeGraphAI / Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 * 【2025-10-05】[sonic-net / sonic-utilities](https://github.com/sonic-net/sonic-utilities) - Command line utilities for the SONiC project
 * 【2025-10-04】[yichuan-w / LEANN](https://github.com/yichuan-w/LEANN) - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 * 【2025-10-03】[h2y / Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
@@ -1068,6 +1069,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-10-07】[wppconnect-team / wppconnect](https://github.com/wppconnect-team/wppconnect) - WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interaction, such as customer service, media sending, intelligence recognition based on phrases artificial and many other things, use your imagination
 * 【2025-10-05】[zilliztech / claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 * 【2025-10-02】[salesforcecli / mcp](https://github.com/salesforcecli/mcp) - MCP Server for interacting with Salesforce instances
 * 【2025-10-02】[intellectronica / ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
@@ -1644,6 +1646,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-10-07】[skuep / AIOC](https://github.com/skuep/AIOC) - Ham Radio All-in-one-Cable
+* 【2025-10-07】[Cairo-Dock / cairo-dock-core](https://github.com/Cairo-Dock/cairo-dock-core) - Core part of Cairo-Dock project.
 * 【2025-10-05】[DanielSant0s / AthenaEnv](https://github.com/DanielSant0s/AthenaEnv) - A complete Javascript environment for creating homebrew applications and games on PlayStation 2.
 * 【2025-10-04】[tvlabs / edge264](https://github.com/tvlabs/edge264) - Simple H.264 decoder
 * 【2025-10-04】[jkuhlmann / cgltf](https://github.com/jkuhlmann/cgltf) - 💠 Single-file glTF 2.0 loader and writer written in C99
@@ -1820,6 +1824,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-10-07】[google-ai-edge / LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) - 
 * 【2025-10-04】[frankarobotics / franka_ros2](https://github.com/frankarobotics/franka_ros2) - ROS 2 integration for Franka research robots
 * 【2025-10-03】[tile-ai / tilelang](https://github.com/tile-ai/tilelang) - Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
 * 【2025-10-02】[brave / brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues
@@ -2002,6 +2007,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-10-07】[BeehiveInnovations / zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
+* 【2025-10-07】[openemr / openemr](https://github.com/openemr/openemr) - The most popular open source electronic health records and medical practice management solution.
+* 【2025-10-07】[google / osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 * 【2025-10-06】[aandrew-me / ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop App for downloading Videos and Audios from hundreds of sites
 * 【2025-10-05】[paaatrick / playball](https://github.com/paaatrick/playball) - Watch MLB games from the comfort of your own terminal
 * 【2025-10-05】[glide-browser / glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
