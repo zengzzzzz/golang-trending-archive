@@ -296,6 +296,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-10-08】[Fannovel16 / comfyui_controlnet_aux](https://github.com/Fannovel16/comfyui_controlnet_aux) - ComfyUI's ControlNet Auxiliary Preprocessors
 * 【2025-10-07】[ScrapeGraphAI / Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 * 【2025-10-05】[sonic-net / sonic-utilities](https://github.com/sonic-net/sonic-utilities) - Command line utilities for the SONiC project
 * 【2025-10-04】[yichuan-w / LEANN](https://github.com/yichuan-w/LEANN) - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
@@ -757,6 +758,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-10-08】[jenkinsci / configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin) - Jenkins Configuration as Code Plugin
 * 【2025-10-05】[DhanushNehru / Hacktoberfest2025](https://github.com/DhanushNehru/Hacktoberfest2025) - Hacktoberfest 2025 OPEN FIRST Pull Request - SUPPORT OPEN SOURCE - Don't forget to spread love and if you like give us a ⭐️
 * 【2025-10-04】[adityatandon15 / LLD](https://github.com/adityatandon15/LLD) - All Code of LLD Playlist
 * 【2025-10-03】[DSpace / DSpace](https://github.com/DSpace/DSpace) - (Official) The DSpace digital asset management system that powers your Institutional Repository
@@ -1069,6 +1071,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-10-08】[cgoinglove / better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by Agent & MCP & Workflows.
 * 【2025-10-07】[wppconnect-team / wppconnect](https://github.com/wppconnect-team/wppconnect) - WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interaction, such as customer service, media sending, intelligence recognition based on phrases artificial and many other things, use your imagination
 * 【2025-10-05】[zilliztech / claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 * 【2025-10-02】[salesforcecli / mcp](https://github.com/salesforcecli/mcp) - MCP Server for interacting with Salesforce instances
@@ -1434,6 +1437,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-10-08】[basecamp / lexxy](https://github.com/basecamp/lexxy) - 
 * 【2025-10-06】[paperwm / PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 * 【2025-10-05】[yep-yogesh / Guessync](https://github.com/yep-yogesh/Guessync) - A full-stack, real-time multiplayer music guessing game built with React, Firebase Auth, Socket.IO, MongoDB, and Vite. Integrated with Spotify, YouTube, and GeminiAI to enable AI-powered hints, audio playback and fuzzy-matched answers.
 * 【2025-10-05】[sahat / hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
@@ -1646,6 +1650,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-10-08】[landley / toybox](https://github.com/landley/toybox) - toybox
 * 【2025-10-07】[skuep / AIOC](https://github.com/skuep/AIOC) - Ham Radio All-in-one-Cable
 * 【2025-10-07】[Cairo-Dock / cairo-dock-core](https://github.com/Cairo-Dock/cairo-dock-core) - Core part of Cairo-Dock project.
 * 【2025-10-05】[DanielSant0s / AthenaEnv](https://github.com/DanielSant0s/AthenaEnv) - A complete Javascript environment for creating homebrew applications and games on PlayStation 2.
@@ -1824,6 +1829,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-10-08】[trilinos / Trilinos](https://github.com/trilinos/Trilinos) - Primary repository for the Trilinos Project
 * 【2025-10-07】[google-ai-edge / LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) - 
 * 【2025-10-04】[frankarobotics / franka_ros2](https://github.com/frankarobotics/franka_ros2) - ROS 2 integration for Franka research robots
 * 【2025-10-03】[tile-ai / tilelang](https://github.com/tile-ai/tilelang) - Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
