@@ -296,6 +296,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-10-09】[giantpinkrobots / varia](https://github.com/giantpinkrobots/varia) - Download manager that supports regular downloads, torrents and videos
 * 【2025-10-08】[Fannovel16 / comfyui_controlnet_aux](https://github.com/Fannovel16/comfyui_controlnet_aux) - ComfyUI's ControlNet Auxiliary Preprocessors
 * 【2025-10-07】[ScrapeGraphAI / Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 * 【2025-10-05】[sonic-net / sonic-utilities](https://github.com/sonic-net/sonic-utilities) - Command line utilities for the SONiC project
@@ -758,6 +759,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-10-09】[timestored / qstudio](https://github.com/timestored/qstudio) - qStudio - Free SQL Analysis Tool
 * 【2025-10-08】[jenkinsci / configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin) - Jenkins Configuration as Code Plugin
 * 【2025-10-05】[DhanushNehru / Hacktoberfest2025](https://github.com/DhanushNehru/Hacktoberfest2025) - Hacktoberfest 2025 OPEN FIRST Pull Request - SUPPORT OPEN SOURCE - Don't forget to spread love and if you like give us a ⭐️
 * 【2025-10-04】[adityatandon15 / LLD](https://github.com/adityatandon15/LLD) - All Code of LLD Playlist
@@ -1071,6 +1073,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-10-09】[tapframe / NuvioStreaming](https://github.com/tapframe/NuvioStreaming) - A simple Media Hub
+* 【2025-10-09】[seerr-team / seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
+* 【2025-10-09】[openai / openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo) - Demo of a customer service use case implemented with the OpenAI Agents SDK
 * 【2025-10-08】[cgoinglove / better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by Agent & MCP & Workflows.
 * 【2025-10-07】[wppconnect-team / wppconnect](https://github.com/wppconnect-team/wppconnect) - WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interaction, such as customer service, media sending, intelligence recognition based on phrases artificial and many other things, use your imagination
 * 【2025-10-05】[zilliztech / claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
@@ -1437,6 +1442,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-10-09】[fineanmol / Hacktoberfest2025](https://github.com/fineanmol/Hacktoberfest2025) - Make your first Pull Request on Hacktoberfest 2025. Don't forget to spread love and if you like give us a ⭐️
+* 【2025-10-09】[ServiceNowDevProgram / code-snippets](https://github.com/ServiceNowDevProgram/code-snippets) - ServiceNow's Code Snippets community repository, managed by the Developer Program and the sndevs community.
 * 【2025-10-08】[basecamp / lexxy](https://github.com/basecamp/lexxy) - 
 * 【2025-10-06】[paperwm / PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 * 【2025-10-05】[yep-yogesh / Guessync](https://github.com/yep-yogesh/Guessync) - A full-stack, real-time multiplayer music guessing game built with React, Firebase Auth, Socket.IO, MongoDB, and Vite. Integrated with Spotify, YouTube, and GeminiAI to enable AI-powered hints, audio playback and fuzzy-matched answers.
