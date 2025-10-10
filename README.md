@@ -296,6 +296,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-10-10】[google / langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+* 【2025-10-10】[sapientinc / HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
+* 【2025-10-10】[aws / bedrock-agentcore-sdk-python](https://github.com/aws/bedrock-agentcore-sdk-python) - Python SDK for transforming any AI agent into a production-ready application. Framework-agnostic primitives for runtime, memory, authentication, and tools with AWS-managed infrastructure.
 * 【2025-10-09】[giantpinkrobots / varia](https://github.com/giantpinkrobots/varia) - Download manager that supports regular downloads, torrents and videos
 * 【2025-10-08】[Fannovel16 / comfyui_controlnet_aux](https://github.com/Fannovel16/comfyui_controlnet_aux) - ComfyUI's ControlNet Auxiliary Preprocessors
 * 【2025-10-07】[ScrapeGraphAI / Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
@@ -1073,6 +1076,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-10-10】[erxes / erxes](https://github.com/erxes/erxes) - Experience Operating System (XOS) that unifies marketing, sales, operations, and support — run your core business seamlessly while replacing HubSpot, Zendesk, Linear, Wix and more.
+* 【2025-10-10】[digitalocean / sea-notes-saas-starter-kit](https://github.com/digitalocean/sea-notes-saas-starter-kit) - A production-ready Next.js SaaS notes starter kit on DigitalOcean App Platform — includes GradientAI, Stripe payments, Resend email, and Spaces storage.
 * 【2025-10-09】[tapframe / NuvioStreaming](https://github.com/tapframe/NuvioStreaming) - A simple Media Hub
 * 【2025-10-09】[seerr-team / seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 * 【2025-10-09】[openai / openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo) - Demo of a customer service use case implemented with the OpenAI Agents SDK
@@ -2020,6 +2025,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-10-10】[google / computer-use-preview](https://github.com/google/computer-use-preview) - 
+* 【2025-10-10】[timelinize / timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
+* 【2025-10-10】[rust-lang / rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
+* 【2025-10-10】[PixelGuys / Cubyz](https://github.com/PixelGuys/Cubyz) - Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
 * 【2025-10-07】[BeehiveInnovations / zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 * 【2025-10-07】[openemr / openemr](https://github.com/openemr/openemr) - The most popular open source electronic health records and medical practice management solution.
 * 【2025-10-07】[google / osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
