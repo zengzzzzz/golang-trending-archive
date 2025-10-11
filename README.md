@@ -296,6 +296,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-10-11】[intruder-io / autoswagger](https://github.com/intruder-io/autoswagger) - Autoswagger by Intruder - detect API auth weaknesses
 * 【2025-10-10】[google / langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 * 【2025-10-10】[sapientinc / HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
 * 【2025-10-10】[aws / bedrock-agentcore-sdk-python](https://github.com/aws/bedrock-agentcore-sdk-python) - Python SDK for transforming any AI agent into a production-ready application. Framework-agnostic primitives for runtime, memory, authentication, and tools with AWS-managed infrastructure.
@@ -1076,6 +1077,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-10-11】[stravu / crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
+* 【2025-10-11】[waifu-project / movie](https://github.com/waifu-project/movie) - 小猫影视是一款全平台的影视播放器, 支持 VOD/JS 扩展源
 * 【2025-10-10】[erxes / erxes](https://github.com/erxes/erxes) - Experience Operating System (XOS) that unifies marketing, sales, operations, and support — run your core business seamlessly while replacing HubSpot, Zendesk, Linear, Wix and more.
 * 【2025-10-10】[digitalocean / sea-notes-saas-starter-kit](https://github.com/digitalocean/sea-notes-saas-starter-kit) - A production-ready Next.js SaaS notes starter kit on DigitalOcean App Platform — includes GradientAI, Stripe payments, Resend email, and Spaces storage.
 * 【2025-10-09】[tapframe / NuvioStreaming](https://github.com/tapframe/NuvioStreaming) - A simple Media Hub
@@ -1447,6 +1450,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-10-11】[davila7 / claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
+* 【2025-10-11】[kairi003 / Get-cookies.txt-LOCALLY](https://github.com/kairi003/Get-cookies.txt-LOCALLY) - Get cookies.txt, NEVER send information outside.
 * 【2025-10-09】[fineanmol / Hacktoberfest2025](https://github.com/fineanmol/Hacktoberfest2025) - Make your first Pull Request on Hacktoberfest 2025. Don't forget to spread love and if you like give us a ⭐️
 * 【2025-10-09】[ServiceNowDevProgram / code-snippets](https://github.com/ServiceNowDevProgram/code-snippets) - ServiceNow's Code Snippets community repository, managed by the Developer Program and the sndevs community.
 * 【2025-10-08】[basecamp / lexxy](https://github.com/basecamp/lexxy) - 
@@ -2025,6 +2030,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-10-11】[coze-dev / coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 * 【2025-10-10】[google / computer-use-preview](https://github.com/google/computer-use-preview) - 
 * 【2025-10-10】[timelinize / timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
 * 【2025-10-10】[rust-lang / rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
