@@ -53,6 +53,9 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-10-16】[vxcontrol / pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+* 【2025-10-16】[docker / model-runner](https://github.com/docker/model-runner) - Docker Model Runner
+* 【2025-10-16】[asternic / wuzapi](https://github.com/asternic/wuzapi) - Simple RESTful API for WhatsApp in Golang (using the Whatsmeow multi device library)
 * 【2025-10-13】[OffchainLabs / prysm](https://github.com/OffchainLabs/prysm) - Go implementation of Ethereum proof of stake
 * 【2025-10-02】[crawlab-team / crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 * 【2025-10-02】[charlie0129 / batt](https://github.com/charlie0129/batt) - Control and limit battery charging on Apple Silicon MacBooks.
@@ -297,6 +300,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-10-16】[Junyi-99 / ChatGPT-API-Scanner](https://github.com/Junyi-99/ChatGPT-API-Scanner) - Scan GitHub for available OpenAI API Keys
 * 【2025-10-14】[harvard-edge / cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems
 * 【2025-10-13】[LuckyOne7777 / ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) - This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.
 * 【2025-10-12】[Ksuriuri / index-tts-vllm](https://github.com/Ksuriuri/index-tts-vllm) - Added vLLM support to IndexTTS for faster inference.
@@ -1088,6 +1092,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-10-16】[ThinkInAIXYZ / deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 * 【2025-10-14】[kozakdenys / qr-code-styling](https://github.com/kozakdenys/qr-code-styling) - Automaticly generate your styled QR code in your web app.
 * 【2025-10-13】[wickenico / WailBrew](https://github.com/wickenico/WailBrew) - Minimalistic Homebrew GUI made with Go, Wails and React.
 * 【2025-10-12】[stan-smith / FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
@@ -1464,6 +1469,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-10-16】[Wei-Shaw / claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 * 【2025-10-15】[pickle-com / glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 * 【2025-10-14】[renmu123 / biliLive-tools](https://github.com/renmu123/biliLive-tools) - 直播一站式处理工具，支持直播录制&视频处理&弹幕处理&录播姬自动上传
 * 【2025-10-13】[scribeocr / scribeocr](https://github.com/scribeocr/scribeocr) - Web interface for recognizing text, proofreading OCR, and creating fully-digitized documents.
@@ -2051,6 +2057,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-10-16】[enactic / openarm](https://github.com/enactic/openarm) - A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.
+* 【2025-10-16】[DigitalPlatDev / FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
+* 【2025-10-16】[ChristianLempa / boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
 * 【2025-10-15】[GorvGoyl / Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 * 【2025-10-15】[chili-chips-ba / wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga) - Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package. Bujrum!
 * 【2025-10-15】[volcengine / MineContext](https://github.com/volcengine/MineContext) - MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
