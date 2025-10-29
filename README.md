@@ -308,6 +308,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-10-29】[TNTwise / REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Interpolate, Upscale, Decompress, and Denoise videos easily on Linux/Windows/MacOS.
 * 【2025-10-26】[moondevonyt / moon-dev-ai-agents](https://github.com/moondevonyt/moon-dev-ai-agents) - autonomous ai agents for trading in python
 * 【2025-10-23】[pollen-robotics / reachy_mini](https://github.com/pollen-robotics/reachy_mini) - Reachy Mini's SDK
 * 【2025-10-22】[hyperliquid-dex / hyperliquid-python-sdk](https://github.com/hyperliquid-dex/hyperliquid-python-sdk) - SDK for Hyperliquid API trading with Python.
@@ -2115,6 +2116,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-10-29】[spipm / Depixelization_poc](https://github.com/spipm/Depixelization_poc) - Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
 * 【2025-10-27】[microsoft / agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
 * 【2025-10-25】[isaac-sim / IsaacSim](https://github.com/isaac-sim/IsaacSim) - NVIDIA Isaac Sim™ is an open-source application on NVIDIA Omniverse for developing, simulating, and testing AI-driven robots in realistic virtual environments.
 * 【2025-10-24】[meta-pytorch / torchforge](https://github.com/meta-pytorch/torchforge) - PyTorch-native post-training at scale
