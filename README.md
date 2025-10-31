@@ -310,6 +310,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-10-31】[Kludex / starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟
+* 【2025-10-31】[HKUDS / ViMax](https://github.com/HKUDS/ViMax) - "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
+* 【2025-10-31】[astral-sh / ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 * 【2025-10-30】[666ghj / BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 * 【2025-10-30】[thinking-machines-lab / tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) - Post-training with Tinker
 * 【2025-10-30】[PrimeIntellect-ai / verifiers](https://github.com/PrimeIntellect-ai/verifiers) - Environments for LLM Reinforcement Learning
@@ -1120,6 +1123,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-10-31】[UfoMiao / zcf](https://github.com/UfoMiao/zcf) - Zero-Config Code Flow for Claude code & Codex
+* 【2025-10-31】[truffle-ai / dexto](https://github.com/truffle-ai/dexto) - The Intelligence Layer for AI agents. Connect your models, tools, and data to create agentic apps that can think, act and talk to you.
 * 【2025-10-30】[nashaofu / shell360](https://github.com/nashaofu/shell360) - Shell360 is a cross-platform SSH and SFTP client.
 * 【2025-10-30】[QwenLM / qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
 * 【2025-10-28】[get-convex / chef](https://github.com/get-convex/chef) - The only AI app builder that knows backend
