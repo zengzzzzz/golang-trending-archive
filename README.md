@@ -310,6 +310,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-11-01】[langchain-ai / deepagents](https://github.com/langchain-ai/deepagents) - 
+* 【2025-11-01】[google-agentic-commerce / AP2](https://github.com/google-agentic-commerce/AP2) - Building a Secure and Interoperable Future for AI-Driven Payments.
 * 【2025-10-31】[Kludex / starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟
 * 【2025-10-31】[HKUDS / ViMax](https://github.com/HKUDS/ViMax) - "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
 * 【2025-10-31】[astral-sh / ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
@@ -797,6 +799,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-11-01】[Tosencen / XMBOX](https://github.com/Tosencen/XMBOX) - 一个看片儿的空盒子软件，需自行配置源
+* 【2025-11-01】[unicode-org / cldr](https://github.com/unicode-org/cldr) - The home of the Unicode Common Locale Data Repository
 * 【2025-10-28】[strivedi4u / hacktoberfest2025](https://github.com/strivedi4u/hacktoberfest2025) - 🌱 This repository is for beginners who want to contribute to open source through 🎉 Hacktoberfest 2025. 🚀 It’s designed to promote learning and growth in 💻 software development with fun 🧩 coding challenges and 🛠️ projects — from basic algorithms to advanced applications. 🤝 Join in, contribute, and level up your skills.
 * 【2025-10-27】[angryip / ipscan](https://github.com/angryip/ipscan) - Angry IP Scanner - fast and friendly network scanner
 * 【2025-10-26】[torakiki / pdfsam](https://github.com/torakiki/pdfsam) - PDFsam, a desktop application to split, merge, mix, rotate PDF files and extract pages
@@ -1123,6 +1127,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-11-01】[mg-chao / snow-shot](https://github.com/mg-chao/snow-shot) - 超好用的截图工具
 * 【2025-10-31】[UfoMiao / zcf](https://github.com/UfoMiao/zcf) - Zero-Config Code Flow for Claude code & Codex
 * 【2025-10-31】[truffle-ai / dexto](https://github.com/truffle-ai/dexto) - The Intelligence Layer for AI agents. Connect your models, tools, and data to create agentic apps that can think, act and talk to you.
 * 【2025-10-30】[nashaofu / shell360](https://github.com/nashaofu/shell360) - Shell360 is a cross-platform SSH and SFTP client.
@@ -1516,6 +1521,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-11-01】[aldenhallak / fishes](https://github.com/aldenhallak/fishes) - 
+* 【2025-11-01】[aunetx / blur-my-shell](https://github.com/aunetx/blur-my-shell) - Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
 * 【2025-10-28】[wangwangit / SubsTracker](https://github.com/wangwangit/SubsTracker) - 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
 * 【2025-10-28】[gnmyt / MySpeed](https://github.com/gnmyt/MySpeed) - A speed test analysis software that shows your internet speed for up to 30 days
 * 【2025-10-26】[develop202 / migu_video](https://github.com/develop202/migu_video) - 
@@ -1934,6 +1941,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-11-01】[mozilla-ai / llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
+* 【2025-11-01】[Redot-Engine / redot-engine](https://github.com/Redot-Engine/redot-engine) - Redot Engine – Multi-platform 2D and 3D game engine
 * 【2025-10-30】[odriverobotics / ODrive](https://github.com/odriverobotics/ODrive) - High performance motor control
 * 【2025-10-28】[ange-yaghi / engine-sim](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
 * 【2025-10-27】[SteamClientHomebrew / Millennium](https://github.com/SteamClientHomebrew/Millennium) - Apply themes/skins/customize Steam® after the 2023-04-27 Chromium UI update
