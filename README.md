@@ -310,6 +310,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-11-03】[Pipelex / pipelex](https://github.com/Pipelex/pipelex) - Pipelex: open-source language for AI Agents to create and run repeatable AI workflows
 * 【2025-11-02】[unitreerobotics / unitree_rl_lab](https://github.com/unitreerobotics/unitree_rl_lab) - This is a repository for reinforcement learning implementation for Unitree robots, based on IsaacLab.
 * 【2025-11-01】[langchain-ai / deepagents](https://github.com/langchain-ai/deepagents) - 
 * 【2025-11-01】[google-agentic-commerce / AP2](https://github.com/google-agentic-commerce/AP2) - Building a Secure and Interoperable Future for AI-Driven Payments.
@@ -800,6 +801,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-11-03】[typetools / checker-framework](https://github.com/typetools/checker-framework) - Pluggable type-checking for Java
 * 【2025-11-01】[Tosencen / XMBOX](https://github.com/Tosencen/XMBOX) - 一个看片儿的空盒子软件，需自行配置源
 * 【2025-11-01】[unicode-org / cldr](https://github.com/unicode-org/cldr) - The home of the Unicode Common Locale Data Repository
 * 【2025-10-28】[strivedi4u / hacktoberfest2025](https://github.com/strivedi4u/hacktoberfest2025) - 🌱 This repository is for beginners who want to contribute to open source through 🎉 Hacktoberfest 2025. 🚀 It’s designed to promote learning and growth in 💻 software development with fun 🧩 coding challenges and 🛠️ projects — from basic algorithms to advanced applications. 🤝 Join in, contribute, and level up your skills.
@@ -1128,6 +1130,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-11-03】[sst / opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 * 【2025-11-02】[YILS-LIN / short-video-factory](https://github.com/YILS-LIN/short-video-factory) - 一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content short videos, AI batch automatic cliping, beautiful cross platform desktop tool
 * 【2025-11-02】[manaflow-ai / cmux](https://github.com/manaflow-ai/cmux) - cmux lets you run Claude Code, Codex CLI, Amp, Gemini CLI, Cursor CLI, Opencode, and other coding agent CLIs in parallel across multiple tasks
 * 【2025-11-02】[richards199999 / Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
@@ -1525,6 +1528,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-11-03】[reisxd / TizenTube](https://github.com/reisxd/TizenTube) - A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV.
 * 【2025-11-01】[aldenhallak / fishes](https://github.com/aldenhallak/fishes) - 
 * 【2025-11-01】[aunetx / blur-my-shell](https://github.com/aunetx/blur-my-shell) - Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
 * 【2025-10-28】[wangwangit / SubsTracker](https://github.com/wangwangit/SubsTracker) - 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
@@ -1946,6 +1950,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-11-03】[BrunoLevy / learn-fpga](https://github.com/BrunoLevy/learn-fpga) - Learning FPGA, yosys, nextpnr, and RISC-V
 * 【2025-11-01】[mozilla-ai / llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 * 【2025-11-01】[Redot-Engine / redot-engine](https://github.com/Redot-Engine/redot-engine) - Redot Engine – Multi-platform 2D and 3D game engine
 * 【2025-10-30】[odriverobotics / ODrive](https://github.com/odriverobotics/ODrive) - High performance motor control
@@ -2143,5 +2148,6 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-11-03】[GeeeekExplorer / nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 * 【2025-11-02】[suitenumerique / docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 * 【2025-11-02】[github / copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
