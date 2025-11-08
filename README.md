@@ -312,6 +312,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-11-08】[droidrun / droidrun](https://github.com/droidrun/droidrun) - 
+* 【2025-11-08】[JerBouma / FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
+* 【2025-11-08】[langchain-ai / langgraph-swarm-py](https://github.com/langchain-ai/langgraph-swarm-py) - For your multi-agent needs
 * 【2025-11-07】[usestrix / strix](https://github.com/usestrix/strix) - ✨ Open-source AI hackers for your apps 👨🏻‍💻
 * 【2025-11-03】[Pipelex / pipelex](https://github.com/Pipelex/pipelex) - Pipelex: open-source language for AI Agents to create and run repeatable AI workflows
 * 【2025-11-02】[unitreerobotics / unitree_rl_lab](https://github.com/unitreerobotics/unitree_rl_lab) - This is a repository for reinforcement learning implementation for Unitree robots, based on IsaacLab.
@@ -1133,6 +1136,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-11-08】[ytmdesktop / ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
+* 【2025-11-08】[microsoft / CopilotStudioSamples](https://github.com/microsoft/CopilotStudioSamples) - 
+* 【2025-11-08】[langchain-ai / deepagentsjs](https://github.com/langchain-ai/deepagentsjs) - Deep Agents in JS
 * 【2025-11-07】[microsoft / SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 * 【2025-11-07】[hedgedoc / hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 * 【2025-11-07】[kottster / kottster](https://github.com/kottster/kottster) - Instant Node.js admin panel. Secure, self-hosted, and easy to set up
@@ -1965,6 +1971,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-11-08】[nndeploy / nndeploy](https://github.com/nndeploy/nndeploy) - 一款简单易用和高性能的AI部署框架 | An Easy-to-Use and High-Performance AI Deployment Framework
 * 【2025-11-06】[weolar / miniblink49](https://github.com/weolar/miniblink49) - a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
 * 【2025-11-05】[jurplel / qView](https://github.com/jurplel/qView) - Practical and minimal image viewer
 * 【2025-11-05】[pqrs-org / Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
@@ -2166,6 +2173,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-11-08】[antiwork / gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks
 * 【2025-11-07】[ad-on-is / rachoon](https://github.com/ad-on-is/rachoon) - 🦝 Rachoon — A self-hostable way to handle invoices
 * 【2025-11-07】[KotatsuApp / Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
 * 【2025-11-06】[GoogleCloudPlatform / vertex-ai-creative-studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio) - GenMedia Creative Studio is a Vertex AI generative media user experience highlighting the use of Imagen, Veo, Gemini 🍌, Gemini TTS, Chirp 3, Lyria and other generative media APIs on Google Cloud.
