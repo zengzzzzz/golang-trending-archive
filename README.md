@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-11-12】[lin-snow / Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级联邦发布平台
 * 【2025-11-10】[kimdre / doco-cd](https://github.com/kimdre/doco-cd) - Docker Compose Continuous Deployment
 * 【2025-11-09】[google / adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 * 【2025-11-09】[coze-dev / coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
@@ -316,6 +317,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-11-12】[GibsonAI / Memori](https://github.com/GibsonAI/Memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
+* 【2025-11-12】[alibaba / ROLL](https://github.com/alibaba/ROLL) - An Efficient and User-Friendly Scaling Library for Reinforcement Learning with Large Language Models
 * 【2025-11-10】[OpenHands / OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 * 【2025-11-10】[mitmproxy / mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 * 【2025-11-10】[mozilla-ai / any-llm](https://github.com/mozilla-ai/any-llm) - Communicate with an LLM provider using a single interface
@@ -816,6 +819,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-11-12】[bancika / diy-layout-creator](https://github.com/bancika/diy-layout-creator) - multi platform circuit layout and schematic drawing tool
 * 【2025-11-11】[JingMatrix / LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
 * 【2025-11-10】[Pugmatt / BedrockConnect](https://github.com/Pugmatt/BedrockConnect) - Join any Minecraft Bedrock Edition server IP on Xbox One, Nintendo Switch, and PS4/PS5
 * 【2025-11-10】[AntiCope / meteor-rejects](https://github.com/AntiCope/meteor-rejects) - An addon to Meteor Client with features that won't be added to Meteor. Because they were either rejected or are ports from other clients.
@@ -1148,6 +1152,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-11-12】[iOfficeAI / AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source GUI app for Gemini CLI — Better Chat UI, Multi-agent, Multi-LLMs & apikey polling, Workspace, MCP, Remote WebUi Mode & more | 🌟 Star if you like it!
 * 【2025-11-10】[chrisbenincasa / tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby
 * 【2025-11-09】[farion1231 / cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop app for managing and switching provider configurations & MCP servers for Claude Code and Codex.
 * 【2025-11-08】[ytmdesktop / ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
@@ -1990,6 +1995,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-11-12】[perspective-dev / perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
+* 【2025-11-12】[NVIDIA / CUDALibrarySamples](https://github.com/NVIDIA/CUDALibrarySamples) - CUDA Library Samples
 * 【2025-11-11】[WiVRn / WiVRn](https://github.com/WiVRn/WiVRn) - The Linux OpenXR streaming application to standalone headsets
 * 【2025-11-11】[TheAssassin / AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 * 【2025-11-08】[nndeploy / nndeploy](https://github.com/nndeploy/nndeploy) - 一款简单易用和高性能的AI部署框架 | An Easy-to-Use and High-Performance AI Deployment Framework
@@ -2194,6 +2201,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-11-12】[google / adk-docs](https://github.com/google/adk-docs) - An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+* 【2025-11-12】[WICG / email-verification-protocol](https://github.com/WICG/email-verification-protocol) - verified autofill
 * 【2025-11-11】[lzhoang2801 / OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) - A tool designed to simplify the creation of OpenCore EFI
 * 【2025-11-11】[bobeff / open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 * 【2025-11-11】[microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) - Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!
