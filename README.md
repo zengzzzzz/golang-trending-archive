@@ -317,6 +317,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-11-13】[googlefonts / googlesans-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
 * 【2025-11-12】[GibsonAI / Memori](https://github.com/GibsonAI/Memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
 * 【2025-11-12】[alibaba / ROLL](https://github.com/alibaba/ROLL) - An Efficient and User-Friendly Scaling Library for Reinforcement Learning with Large Language Models
 * 【2025-11-10】[OpenHands / OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
@@ -1807,6 +1808,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-11-13】[apache / httpd](https://github.com/apache/httpd) - Mirror of Apache HTTP Server. Issues: http://issues.apache.org
 * 【2025-11-10】[NMminer1024 / NMMiner](https://github.com/NMminer1024/NMMiner) - A tiny BTC miner base on esp32 series，I'd rather call it BTC lottery
 * 【2025-11-07】[xodiosx / XoDos](https://github.com/xodiosx/XoDos) - 
 * 【2025-11-04】[vtereshkov / umka-lang](https://github.com/vtereshkov/umka-lang) - Umka: a statically typed embeddable scripting language
@@ -1995,6 +1997,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-11-13】[nst / JSONTestSuite](https://github.com/nst/JSONTestSuite) - A comprehensive test suite for RFC 8259 compliant JSON parsers
 * 【2025-11-12】[perspective-dev / perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 * 【2025-11-12】[NVIDIA / CUDALibrarySamples](https://github.com/NVIDIA/CUDALibrarySamples) - CUDA Library Samples
 * 【2025-11-11】[WiVRn / WiVRn](https://github.com/WiVRn/WiVRn) - The Linux OpenXR streaming application to standalone headsets
