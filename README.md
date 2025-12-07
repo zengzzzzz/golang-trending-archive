@@ -53,6 +53,9 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-12-07】[tesserato / CodeWeaver](https://github.com/tesserato/CodeWeaver) - Weave your codebase into a single, navigable Markdown document
+* 【2025-12-07】[Adembc / lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
+* 【2025-12-07】[docker / cagent](https://github.com/docker/cagent) - Agent Builder and Runtime by Docker Engineering
 * 【2025-11-12】[lin-snow / Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级联邦发布平台
 * 【2025-11-10】[kimdre / doco-cd](https://github.com/kimdre/doco-cd) - Docker Compose Continuous Deployment
 * 【2025-11-09】[google / adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
@@ -827,6 +830,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-12-07】[1Panel-dev / CordysCRM](https://github.com/1Panel-dev/CordysCRM) - 🔥 新一代的开源 AI CRM 系统。An open-source AI CRM alternative to Salesforce.
 * 【2025-11-12】[bancika / diy-layout-creator](https://github.com/bancika/diy-layout-creator) - multi platform circuit layout and schematic drawing tool
 * 【2025-11-11】[JingMatrix / LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
 * 【2025-11-10】[Pugmatt / BedrockConnect](https://github.com/Pugmatt/BedrockConnect) - Join any Minecraft Bedrock Edition server IP on Xbox One, Nintendo Switch, and PS4/PS5
@@ -1160,6 +1164,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-12-07】[badlogic / pi-mono](https://github.com/badlogic/pi-mono) - Monorepo for pi packages: TUI library, agent framework, and pod management CLI
+* 【2025-12-07】[wybert / earth-agent-chrome-ext](https://github.com/wybert/earth-agent-chrome-ext) - 
+* 【2025-12-07】[PaperDebugger / paperdebugger](https://github.com/PaperDebugger/paperdebugger) - Paper Debugger is the best overleaf companion
 * 【2025-12-06】[opactorai / Claudable](https://github.com/opactorai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 * 【2025-12-06】[reconurge / flowsint](https://github.com/reconurge/flowsint) - A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
 * 【2025-12-05】[actions / upload-artifact](https://github.com/actions/upload-artifact) - 
@@ -2222,6 +2229,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-12-07】[anthropics / claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 * 【2025-12-06】[sinelaw / fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
 * 【2025-12-06】[microsoft / VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 * 【2025-12-05】[basecamp / fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
