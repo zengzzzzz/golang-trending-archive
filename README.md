@@ -320,6 +320,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-12-12】[zai-org / GLM-V](https://github.com/zai-org/GLM-V) - GLM-4.6V/4.5V/4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning
+* 【2025-12-12】[ladaapp / lada](https://github.com/ladaapp/lada) - Restore videos with pixelated/mosaic regions
 * 【2025-12-10】[wasserth / TotalSegmentator](https://github.com/wasserth/TotalSegmentator) - Tool for robust segmentation of >100 important anatomical structures in CT and MR images
 * 【2025-12-06】[ModelTC / LightX2V](https://github.com/ModelTC/LightX2V) - Light Video Generation Inference Framework
 * 【2025-12-06】[fastapi-practices / fastapi_best_architecture](https://github.com/fastapi-practices/fastapi_best_architecture) - 基于 FastAPI 构建的企业级后端架构解决方案
@@ -831,6 +833,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-12-12】[senzhk / ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) - Android Virtual Keyboard Input via ADB (Useful for Test Automation)
 * 【2025-12-10】[kknifer7 / FreeBox](https://github.com/kknifer7/FreeBox) - TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展
 * 【2025-12-10】[bastillion-io / Bastillion](https://github.com/bastillion-io/Bastillion) - A modern, web-based SSH console and key management tool. Bastillion gives you a clean, browser-based way to manage SSH access across all your systems. Think of it like a bastion host with a friendly dashboard.
 * 【2025-12-10】[apache / poi](https://github.com/apache/poi) - Mirror of Apache POI gitbox. The Java API for Microsoft Documents.
@@ -1172,6 +1175,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-12-12】[pnd280 / complexity](https://github.com/pnd280/complexity) - ⚡ Supercharge your favourite AI Chat web apps. Currently supports Perplexity AI.
 * 【2025-12-11】[remix-run / remix-store](https://github.com/remix-run/remix-store) - Remix Store - Built on Hydrogen
 * 【2025-12-11】[daeuniverse / daed](https://github.com/daeuniverse/daed) - daed, A modern web dashboard for dae.
 * 【2025-12-10】[codeforreal1 / compressO](https://github.com/codeforreal1/compressO) - Convert any video into a tiny size.
@@ -1845,6 +1849,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-12-12】[DavidXanatos / TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - Power full Task Manager
+* 【2025-12-12】[EZLippi / Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
+* 【2025-12-12】[asmvik / yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 * 【2025-12-11】[linux-rdma / perftest](https://github.com/linux-rdma/perftest) - Infiniband Verbs Performance Tests
 * 【2025-12-10】[vladelaina / Catime](https://github.com/vladelaina/Catime) - A tiny (803KB) but mighty timer in pure C. Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%).
 * 【2025-12-06】[stackia / rtp2httpd](https://github.com/stackia/rtp2httpd) - Multicast RTP/RTSP to Unicast HTTP stream converter, optimized for China IPTV
@@ -2038,6 +2045,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-12-12】[BCN3D / BCN3D-Moveo](https://github.com/BCN3D/BCN3D-Moveo) - Open Source 3D Printed Robotic Arm for educational purposes
+* 【2025-12-12】[juliansteenbakker / flutter_secure_storage](https://github.com/juliansteenbakker/flutter_secure_storage) - A Flutter plugin for securely storing sensitive data using encrypted storage.
 * 【2025-12-06】[royshil / obs-localvocal](https://github.com/royshil/obs-localvocal) - OBS plugin for local speech recognition and captioning using AI
 * 【2025-12-05】[uxlfoundation / oneDNN](https://github.com/uxlfoundation/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
 * 【2025-11-13】[nst / JSONTestSuite](https://github.com/nst/JSONTestSuite) - A comprehensive test suite for RFC 8259 compliant JSON parsers
@@ -2247,6 +2256,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-12-12】[tempoxyz / tempo](https://github.com/tempoxyz/tempo) - the blockchain for payments
 * 【2025-12-11】[agentsmd / agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 * 【2025-12-11】[datawhalechina / hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 * 【2025-12-10】[KaijuEngine / kaiju](https://github.com/KaijuEngine/kaiju) - General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
