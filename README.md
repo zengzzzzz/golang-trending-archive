@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-12-16】[xpzouying / xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) - MCP for xiaohongshu.com
 * 【2025-12-15】[VictoriaMetrics / VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) - Fast and easy to use database for logs, which can efficiently handle terabytes of logs
 * 【2025-12-15】[negokaz / excel-mcp-server](https://github.com/negokaz/excel-mcp-server) - A Model Context Protocol (MCP) server that reads and writes MS Excel data
 * 【2025-12-13】[memodb-io / Acontext](https://github.com/memodb-io/Acontext) - Context Data Platform for Agents. Join the community❤️: https://discord.acontext.io
@@ -843,6 +844,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-12-16】[MCRcortex / voxy](https://github.com/MCRcortex/voxy) - An LoD rendering mod for minecraft
+* 【2025-12-16】[shmuelzon / home-assistant-floor-plan](https://github.com/shmuelzon/home-assistant-floor-plan) - Home Assistant Floor Plan Generator Plugin For Sweet Home 3D
 * 【2025-12-15】[Archmage83 / tvapk](https://github.com/Archmage83/tvapk) - 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。
 * 【2025-12-14】[octoshrimpy / quik](https://github.com/octoshrimpy/quik) - The most beautiful SMS messenger for Android - Revived
 * 【2025-12-13】[zinja-coder / jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) - Plugin for JADX to integrate MCP server
@@ -1188,6 +1191,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-12-16】[wood3n / biu](https://github.com/wood3n/biu) - Bilibili音乐播放器
 * 【2025-12-15】[vas3k / TaxHacker](https://github.com/vas3k/TaxHacker) - Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
 * 【2025-12-14】[livekit-examples / meet](https://github.com/livekit-examples/meet) - Open source video conferencing app built on LiveKit Components, LiveKit Cloud, and Next.js.
 * 【2025-12-14】[shuakami / qq-chat-exporter](https://github.com/shuakami/qq-chat-exporter) - 🚀 QQ聊天记录、表情包导出工具 | 自动化提取图片/文字/图片消息，支持TXT/JSON导出，高效备份，支持NT QQ
@@ -2067,6 +2071,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2025-12-16】[SpacehuhnTech / WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck) - Wireless keystroke injection attack platform
+* 【2025-12-16】[reisxd / TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt) - Experience TizenTube on other devices that are not Tizen.
 * 【2025-12-15】[OrcaSlicer / OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 * 【2025-12-12】[BCN3D / BCN3D-Moveo](https://github.com/BCN3D/BCN3D-Moveo) - Open Source 3D Printed Robotic Arm for educational purposes
 * 【2025-12-12】[juliansteenbakker / flutter_secure_storage](https://github.com/juliansteenbakker/flutter_secure_storage) - A Flutter plugin for securely storing sensitive data using encrypted storage.
@@ -2279,6 +2285,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-12-16】[jellyfin / jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) - Jellyfin Desktop Client
+* 【2025-12-16】[theOehrly / Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
 * 【2025-12-13】[tursodatabase / turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 * 【2025-12-12】[tempoxyz / tempo](https://github.com/tempoxyz/tempo) - the blockchain for payments
 * 【2025-12-11】[agentsmd / agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
