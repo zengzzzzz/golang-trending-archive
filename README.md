@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-12-24】[5rahim / seanime](https://github.com/5rahim/seanime) - Open-source media server with a web interface and desktop app for anime and manga.
+* 【2025-12-24】[evilmartians / lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 * 【2025-12-23】[WCY-dt / MrRSS](https://github.com/WCY-dt/MrRSS) - A modern, cross-platform desktop RSS reader. 一个现代化、跨平台的 RSS 阅读器.
 * 【2025-12-22】[wtfutil / wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 * 【2025-12-21】[bitxeno / atvloadly](https://github.com/bitxeno/atvloadly) - Easily sideload the IPA to AppleTV
@@ -328,6 +330,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2025-12-24】[langbot-app / LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building IM bots - 生产级全平台 LLM 机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for QQ / QQ频道 / Discord / LINE / WeChat(企业微信, 企微智能机器人, 公众号) / Telegram / 飞书 / 钉钉 / Slack e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Google Gemini, Nano Banana, Kimi, Ollama, SiliconFlow, Moonshot, Mimo
 * 【2025-12-23】[vllm-project / vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models
 * 【2025-12-21】[atlassian / atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server) - Remote MCP Server that securely connects Jira and Confluence with your LLM, IDE, or agent platform of choice.
 * 【2025-12-18】[strands-agents / samples](https://github.com/strands-agents/samples) - Agent samples built using the Strands Agents SDK.
@@ -1205,6 +1208,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-12-24】[tractordev / apptron](https://github.com/tractordev/apptron) - Local-first development platform
 * 【2025-12-23】[tambo-ai / tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
 * 【2025-12-23】[kizuna-ai-lab / sokuji](https://github.com/kizuna-ai-lab/sokuji) - Live speech translation application built with Electron 34 and React, using OpenAI's Realtime API.
 * 【2025-12-23】[afkarxyz / SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
@@ -2320,6 +2324,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-12-24】[safety-research / bloom](https://github.com/safety-research/bloom) - bloom - evaluate any behavior immediately  🌸🌱
+* 【2025-12-24】[xerrors / Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
 * 【2025-12-23】[anthropics / skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 * 【2025-12-23】[Semperis / EntraGoat](https://github.com/Semperis/EntraGoat) - A deliberately vulnerable Microsoft Entra ID environment. Learn identity security through hands-on, realistic attack challenges.
 * 【2025-12-22】[cocoindex-io / cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!
