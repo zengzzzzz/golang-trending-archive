@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2025-12-29】[looplj / axonhub](https://github.com/looplj/axonhub) - AxonHub is a modern AI gateway system that provides a unified OpenAI ( Chat Completion, Responses), Anthropic, Gemini and AI SDK compatible API
+* 【2025-12-29】[nginx / nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 * 【2025-12-24】[5rahim / seanime](https://github.com/5rahim/seanime) - Open-source media server with a web interface and desktop app for anime and manga.
 * 【2025-12-24】[evilmartians / lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 * 【2025-12-23】[WCY-dt / MrRSS](https://github.com/WCY-dt/MrRSS) - A modern, cross-platform desktop RSS reader. 一个现代化、跨平台的 RSS 阅读器.
@@ -863,6 +865,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2025-12-29】[helidon-io / helidon](https://github.com/helidon-io/helidon) - Java libraries for writing microservices
+* 【2025-12-29】[apache / groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
+* 【2025-12-29】[apache / storm](https://github.com/apache/storm) - Apache Storm
 * 【2025-12-28】[higress-group / himarket](https://github.com/higress-group/himarket) - HiMarket is an enterprise-level "AI Capability Marketplace and Developer Ecosystem Hub." It is not merely a simple aggregation of traditional APIs, but rather a comprehensive platform that packages, publishes, manages, and operates core AI assets such as enterprise Model APIs, MCP Servers, Agent APIs, etc., through standardized product formats.
 * 【2025-12-26】[gsantner / markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 * 【2025-12-26】[jlortiz0 / PlayerCollars](https://github.com/jlortiz0/PlayerCollars) - Minecraft mod that allows players to wear collars
@@ -1217,6 +1222,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2025-12-29】[supreme-gg-gg / instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's terminal UI app - The ultimate weapon against brainrot
+* 【2025-12-29】[webpro-nl / knip](https://github.com/webpro-nl/knip) - ✂️ Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 * 【2025-12-26】[antvis / Infographic](https://github.com/antvis/Infographic) - 🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!
 * 【2025-12-24】[tractordev / apptron](https://github.com/tractordev/apptron) - Local-first development platform
 * 【2025-12-23】[tambo-ai / tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
@@ -1662,6 +1669,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2025-12-29】[elementdavv / internet_archive_downloader](https://github.com/elementdavv/internet_archive_downloader) - A chrome/firefox extension that download books from Internet Archive(archive.org) and HathiTrust Digital Library (hathitrust.org)
 * 【2025-12-27】[gnmyt / Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
 * 【2025-12-26】[pucherot / Pi.Alert](https://github.com/pucherot/Pi.Alert) - WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of "always connected" devices
 * 【2025-12-26】[parcoil / sparkle](https://github.com/parcoil/sparkle) - A Windows app to debloat and optimize your PC
@@ -1919,6 +1927,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2025-12-29】[streetpea / chiaki-ng](https://github.com/streetpea/chiaki-ng) - Next-Generation of Chiaki (the open-source remote play client for PlayStation)
+* 【2025-12-29】[cgsecurity / testdisk](https://github.com/cgsecurity/testdisk) - TestDisk & PhotoRec
 * 【2025-12-21】[timescale / pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
 * 【2025-12-19】[scallyw4g / bonsai](https://github.com/scallyw4g/bonsai) - The procedural generation voxel engine
 * 【2025-12-18】[0x1abin / MultiButton](https://github.com/0x1abin/MultiButton) - Button driver for embedded system
@@ -2342,6 +2352,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2025-12-29】[tw93 / Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+* 【2025-12-29】[Sergeydigl3 / zapret-discord-youtube-linux](https://github.com/Sergeydigl3/zapret-discord-youtube-linux) - (NOW ONLY FOR NFTABLES) Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux
+* 【2025-12-29】[BloopAI / vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
+* 【2025-12-29】[QuantConnect / Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
 * 【2025-12-28】[agrinman / tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 * 【2025-12-27】[flowsurface-rs / flowsurface](https://github.com/flowsurface-rs/flowsurface) - A native desktop charting platform for crypto markets
 * 【2025-12-25】[apurvsinghgautam / robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool
