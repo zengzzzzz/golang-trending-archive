@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-01-05】[johannesboyne / gofakes3](https://github.com/johannesboyne/gofakes3) - A simple fake AWS S3 object storage (used for local test-runs against AWS S3 APIs)
 * 【2026-01-03】[autobrr / qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go + React.
 * 【2026-01-03】[danielpaulus / go-ios](https://github.com/danielpaulus/go-ios) - This is an operating system independent implementation of iOS device features. You can run UI tests, launch or kill apps, install apps etc. with it.
 * 【2026-01-03】[getfider / fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
@@ -341,6 +342,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-01-05】[PennyLaneAI / pennylane](https://github.com/PennyLaneAI/pennylane) - PennyLane is a cross-platform Python library for quantum computing, quantum machine learning, and quantum chemistry. Built by researchers, for research.
+* 【2026-01-05】[wasmerio / Python-Scripts](https://github.com/wasmerio/Python-Scripts) - A curated list of python scripts for automating your tasks
+* 【2026-01-05】[GodsScion / Auto_job_applier_linkedIn](https://github.com/GodsScion/Auto_job_applier_linkedIn) - Make your job hunt easy by automating your application process with this Auto Applier
 * 【2026-01-04】[absadiki / whatsapp-msgstore-viewer](https://github.com/absadiki/whatsapp-msgstore-viewer) - Free, open source and cross-platform app to decrypt, read and view the Whatsapp msgstore.db database
 * 【2026-01-03】[QwenLM / Qwen-Image](https://github.com/QwenLM/Qwen-Image) - Qwen-Image is a powerful image generation foundation model capable of complex text rendering and precise image editing.
 * 【2026-01-01】[meizhong986 / WhisperJAV](https://github.com/meizhong986/WhisperJAV) - 
@@ -879,6 +883,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-01-05】[FiguraMC / Figura](https://github.com/FiguraMC/Figura) - Extensively customize your character with Figura!
 * 【2026-01-03】[mamiiblt / instafel](https://github.com/mamiiblt/instafel) - Instafel provides fast & up-to-date Instagram Alpha experience for everyone!
 * 【2025-12-30】[ikarus23 / MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.
 * 【2025-12-29】[helidon-io / helidon](https://github.com/helidon-io/helidon) - Java libraries for writing microservices
@@ -2167,6 +2172,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-01-05】[OpenStarbound / OpenStarbound](https://github.com/OpenStarbound/OpenStarbound) - 
 * 【2026-01-02】[BatchDrake / SigDigger](https://github.com/BatchDrake/SigDigger) - Qt-based digital signal analyzer, using Suscan core and Sigutils DSP library
 * 【2026-01-02】[hn / bsh-home-appliances](https://github.com/hn/bsh-home-appliances) - BSH Bosch Siemens home appliances reverse engineering: D-Bus, washing machine, dryer electronics
 * 【2026-01-02】[surge-synthesizer / OB-Xf](https://github.com/surge-synthesizer/OB-Xf) - OB-Xf is a continuation and modernatization of the last open source release of OB-Xd by 2DaT and later discoDSP. It is inspired by the venerable Oberheim OB-X. Get the nightly https://github.com/surge-synthesizer/OB-Xf/releases/tag/Nightly
@@ -2392,6 +2398,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-01-05】[anomalyco / opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 * 【2026-01-04】[beancount / beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files.
 * 【2026-01-02】[awslabs / amazon-bedrock-agentcore-samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples) - Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment.
 * 【2026-01-02】[HQarroum / docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
