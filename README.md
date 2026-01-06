@@ -1243,6 +1243,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-01-06】[vladmeer / polymarket-copy-trading-bot](https://github.com/vladmeer/polymarket-copy-trading-bot) - Polymarket Copy Trading Bot || Polymarket trading bot. Polymarket Copy Trading Bot || Polymarket trading bot. Polymarket Copy Trading Bot || Polymarket trading bot
 * 【2026-01-04】[shareAI-lab / Kode-cli](https://github.com/shareAI-lab/Kode-cli) - Design for post human. Kode is one unit agent for every human & computer task
 * 【2026-01-03】[autobrr / netronome](https://github.com/autobrr/netronome) - Netronome is a modern network speed testing and monitoring tool built with Go and React.
 * 【2026-01-03】[antvis / mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization mcp contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
@@ -1699,6 +1700,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-01-06】[justlovemaki / AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient!
 * 【2026-01-04】[heyitsnoah / claudesidian](https://github.com/heyitsnoah/claudesidian) - 
 * 【2026-01-04】[ljharb / qs](https://github.com/ljharb/qs) - A querystring parser and serializer with nesting support
 * 【2026-01-03】[mrrfv / cloudflare-gateway-pihole-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts) - Use Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains - free alternative to NextDNS, Pi-hole and AdGuard
