@@ -343,6 +343,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-01-08】[camel-ai / owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
+* 【2026-01-08】[trustgraph-ai / trustgraph](https://github.com/trustgraph-ai/trustgraph) - The Context Graph Factory for AI. Build, manage, and deploy AI-optimized Context Graphs.
+* 【2026-01-08】[facebookresearch / sam-audio](https://github.com/facebookresearch/sam-audio) - The repository provides code for running inference with the Meta Segment Anything Audio Model (SAM-Audio), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 * 【2026-01-07】[docling-project / docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 * 【2026-01-05】[PennyLaneAI / pennylane](https://github.com/PennyLaneAI/pennylane) - PennyLane is a cross-platform Python library for quantum computing, quantum machine learning, and quantum chemistry. Built by researchers, for research.
 * 【2026-01-05】[wasmerio / Python-Scripts](https://github.com/wasmerio/Python-Scripts) - A curated list of python scripts for automating your tasks
@@ -1246,6 +1249,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-01-08】[firecrawl / open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 * 【2026-01-07】[anomalyco / models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 * 【2026-01-07】[numman-ali / opencode-openai-codex-auth](https://github.com/numman-ali/opencode-openai-codex-auth) - OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - uses OpenAI's official authentication method
 * 【2026-01-06】[vladmeer / polymarket-copy-trading-bot](https://github.com/vladmeer/polymarket-copy-trading-bot) - Polymarket Copy Trading Bot || Polymarket trading bot. Polymarket Copy Trading Bot || Polymarket trading bot. Polymarket Copy Trading Bot || Polymarket trading bot
@@ -2408,6 +2412,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-01-08】[memvid / memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
+* 【2026-01-08】[MiroMindAI / MiroThinker](https://github.com/MiroMindAI/MiroThinker) - MiroThinker is a series of open-source search agent designed to advance tool-augmented reasoning and information-seeking capabilities.
 * 【2026-01-07】[kirodotdev / Kiro](https://github.com/kirodotdev/Kiro) - Kiro is an agentic IDE that works alongside you from prototype to production.
 * 【2026-01-07】[bobbyiliev / introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 * 【2026-01-05】[anomalyco / opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
