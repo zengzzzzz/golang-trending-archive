@@ -343,6 +343,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-01-09】[hiyouga / LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+* 【2026-01-09】[MiroMindAI / MiroFlow](https://github.com/MiroMindAI/MiroFlow) - MiroMind Research Agent: Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance on FutureX, GAIA, HLE, BrowserComp and xBench.
+* 【2026-01-09】[datawhalechina / all-in-rag](https://github.com/datawhalechina/all-in-rag) - 🔍大模型应用开发实战一：RAG 技术全栈指南，在线阅读地址：https://datawhalechina.github.io/all-in-rag/
 * 【2026-01-08】[camel-ai / owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 * 【2026-01-08】[trustgraph-ai / trustgraph](https://github.com/trustgraph-ai/trustgraph) - The Context Graph Factory for AI. Build, manage, and deploy AI-optimized Context Graphs.
 * 【2026-01-08】[facebookresearch / sam-audio](https://github.com/facebookresearch/sam-audio) - The repository provides code for running inference with the Meta Segment Anything Audio Model (SAM-Audio), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
@@ -888,6 +891,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-01-09】[OpenAEV-Platform / openaev](https://github.com/OpenAEV-Platform/openaev) - Open Adversarial Exposure Validation Platform
 * 【2026-01-07】[google / copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
 * 【2026-01-05】[FiguraMC / Figura](https://github.com/FiguraMC/Figura) - Extensively customize your character with Figura!
 * 【2026-01-03】[mamiiblt / instafel](https://github.com/mamiiblt/instafel) - Instafel provides fast & up-to-date Instagram Alpha experience for everyone!
@@ -2184,6 +2188,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-01-09】[UPBGE / upbge](https://github.com/UPBGE/upbge) - UPBGE, the best integrated game engine in Blender
 * 【2026-01-07】[realsenseai / librealsense](https://github.com/realsenseai/librealsense) - RealSense SDK
 * 【2026-01-07】[univrsal / input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
 * 【2026-01-05】[OpenStarbound / OpenStarbound](https://github.com/OpenStarbound/OpenStarbound) - 
@@ -2412,6 +2417,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-01-09】[NVlabs / alpasim](https://github.com/NVlabs/alpasim) - 
+* 【2026-01-09】[NevaMind-AI / memU](https://github.com/NevaMind-AI/memU) - Memory infrastructure for LLMs and AI agents
 * 【2026-01-08】[memvid / memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 * 【2026-01-08】[MiroMindAI / MiroThinker](https://github.com/MiroMindAI/MiroThinker) - MiroThinker is a series of open-source search agent designed to advance tool-augmented reasoning and information-seeking capabilities.
 * 【2026-01-07】[kirodotdev / Kiro](https://github.com/kirodotdev/Kiro) - Kiro is an agentic IDE that works alongside you from prototype to production.
