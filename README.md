@@ -346,6 +346,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-01-13】[leochlon / pythea](https://github.com/leochlon/pythea) - 
 * 【2026-01-11】[EveryInc / compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin
 * 【2026-01-10】[Comfy-Org / ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 * 【2026-01-09】[hiyouga / LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
@@ -1260,6 +1261,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-01-13】[fal-ai-community / video-starter-kit](https://github.com/fal-ai-community/video-starter-kit) - Enable AI models for video production in the browser
+* 【2026-01-13】[modstart-lib / linkandroid](https://github.com/modstart-lib/linkandroid) - Link Android and PC easily! 全能手机连接助手！
 * 【2026-01-10】[Open-Dev-Society / OpenStock](https://github.com/Open-Dev-Society/OpenStock) - OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
 * 【2026-01-08】[firecrawl / open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 * 【2026-01-07】[anomalyco / models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
