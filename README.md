@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-01-16】[loong / go-concurrency-exercises](https://github.com/loong/go-concurrency-exercises) - Hands on exercises with real-life examples to study and practice Go concurrency patterns. Test-cases are provided to verify your answers.
 * 【2026-01-12】[the-dev-tools / dev-tools](https://github.com/the-dev-tools/dev-tools) - Local-first API testing that goes from HAR file to GitHub Actions in 60 seconds.
 * 【2026-01-12】[badtuxx / girus-cli](https://github.com/badtuxx/girus-cli) - 
 * 【2026-01-11】[ankitpokhrel / jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
@@ -346,6 +347,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-01-16】[music-assistant / server](https://github.com/music-assistant/server) - Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
 * 【2026-01-15】[sierra-research / tau2-bench](https://github.com/sierra-research/tau2-bench) - τ²-Bench: Evaluating Conversational Agents in a Dual-Control Environment
 * 【2026-01-15】[datalab-to / chandra](https://github.com/datalab-to/chandra) - OCR model that handles complex tables, forms, handwriting with full layout.
 * 【2026-01-15】[robert-mcdermott / ai-knowledge-graph](https://github.com/robert-mcdermott/ai-knowledge-graph) - AI Powered Knowledge Graph Generator
@@ -1733,6 +1735,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-01-16】[fex-team / kityminder](https://github.com/fex-team/kityminder) - 百度脑图
 * 【2026-01-14】[yawiii / ComfyUI-Prompt-Assistant](https://github.com/yawiii/ComfyUI-Prompt-Assistant) - 提示词小助手可以一键调用智谱、硅基流动、gemini、本地ollama、百度等大语言模型服务，实现提示词翻译、润色扩写、图片反推。支持提示词预设实现一键插入、历史提示词查找等功能。是一个全能型提示词插件。The Prompt Assistant enables one-click access to LLMs/VLMs for prompt translation, expansion, and image captioning. It also supports one-click preset insertion and historical prompt search.
 * 【2026-01-10】[w1249178256 / xyzw_web_helper](https://github.com/w1249178256/xyzw_web_helper) - 咸鱼之王web端
 * 【2026-01-06】[justlovemaki / AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient!
@@ -2001,6 +2004,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-01-16】[shorepine / tulipcc](https://github.com/shorepine/tulipcc) - The Tulip Creative Computer - a portable Python synthesizer for music and graphics
 * 【2026-01-10】[armink / EasyLogger](https://github.com/armink/EasyLogger) - An ultra-lightweight(ROM<1.6K, RAM<0.3k), high-performance C/C++ log library. | 一款超轻量级(ROM<1.6K, RAM<0.3k)、高性能的 C/C++ 日志库
 * 【2026-01-07】[HermanChen / mpp](https://github.com/HermanChen/mpp) - Rockchip MPP(Media Process Platfrom)
 * 【2026-01-01】[winfsp / sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
@@ -2445,6 +2449,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-01-16】[eigent-ai / eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
 * 【2026-01-15】[dev-sec / ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 * 【2026-01-15】[zoicware / RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
 * 【2026-01-12】[frankbria / ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
