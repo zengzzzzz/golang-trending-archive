@@ -348,6 +348,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-01-20】[The-Pocket / PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
+* 【2026-01-20】[ComposioHQ / awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+* 【2026-01-20】[yusufkaraaslan / Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 * 【2026-01-19】[NVlabs / PyCuVSLAM](https://github.com/NVlabs/PyCuVSLAM) - Highly accurate and efficient VSLAM system for Python
 * 【2026-01-19】[freemocap / freemocap](https://github.com/freemocap/freemocap) - Free Motion Capture for Everyone 💀✨
 * 【2026-01-18】[OpenBMB / VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning
@@ -1275,6 +1278,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-01-20】[dyoshikawa / rulesync](https://github.com/dyoshikawa/rulesync) - 
+* 【2026-01-20】[readest / readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 * 【2026-01-19】[Nagi-ovo / gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager) - An all-in-one enhancement suite for Google Gemini - timeline navigation, folder management, prompt library, and chat export in one powerful extension.
 * 【2026-01-18】[stack-chan / stack-chan](https://github.com/stack-chan/stack-chan) - A JavaScript-driven M5Stack-embedded super-kawaii robot.
 * 【2026-01-17】[vercel / ai-elements](https://github.com/vercel/ai-elements) - AI Elements is a component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster.
@@ -2226,6 +2231,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-01-20】[quickshell-mirror / quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 * 【2026-01-18】[Crementif / BotW-BetterVR](https://github.com/Crementif/BotW-BetterVR) - A project aimed at providing a better PC VR mode for BotW using the Cemu emulator
 * 【2026-01-18】[wjakob / nanobind](https://github.com/wjakob/nanobind) - nanobind: tiny and efficient C++/Python bindings
 * 【2026-01-17】[1q23lyc45 / KitsuneMagisk](https://github.com/1q23lyc45/KitsuneMagisk) - A fork of KitsuneMagisk. Thanks to the original author @HuskyDG.
