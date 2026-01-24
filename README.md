@@ -349,6 +349,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-01-24】[ruvnet / wifi-densepose](https://github.com/ruvnet/wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
 * 【2026-01-22】[karpathy / nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 * 【2026-01-21】[verygoodplugins / automem](https://github.com/verygoodplugins/automem) - AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:
 * 【2026-01-21】[thu-ml / tianshou](https://github.com/thu-ml/tianshou) - An elegant PyTorch deep reinforcement learning library.
@@ -1283,6 +1284,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-01-24】[tonyantony300 / alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
+* 【2026-01-24】[LOG1997 / log-lottery](https://github.com/LOG1997/log-lottery) - 🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。
+* 【2026-01-24】[colanode / colanode](https://github.com/colanode/colanode) - Open-source and local-first Slack and Notion alternative that puts you in control of your data
 * 【2026-01-23】[CyberTimon / RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 * 【2026-01-22】[ryoppippi / ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 * 【2026-01-22】[virattt / dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
@@ -1759,6 +1763,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-01-24】[kagisearch / smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 * 【2026-01-23】[databricks-industry-solutions / pixels](https://github.com/databricks-industry-solutions/pixels) - Facilitates simple large scale processing of HLS Medical images, documents, zip files. OHIF Viewer, 2 segmentation models and interactive learning.
 * 【2026-01-19】[alam00000 / bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 * 【2026-01-16】[fex-team / kityminder](https://github.com/fex-team/kityminder) - 百度脑图
@@ -2030,6 +2035,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-01-24】[X11Libre / xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
+* 【2026-01-24】[sqfmi / Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
 * 【2026-01-21】[voidtools / voidImageViewer](https://github.com/voidtools/voidImageViewer) - Lightweight image viewer for Windows with animated GIF/WEBP support
 * 【2026-01-18】[ValveSoftware / wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
 * 【2026-01-16】[shorepine / tulipcc](https://github.com/shorepine/tulipcc) - The Tulip Creative Computer - a portable Python synthesizer for music and graphics
@@ -2482,6 +2489,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-01-24】[OpenBMB / UltraRAG](https://github.com/OpenBMB/UltraRAG) - UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+* 【2026-01-24】[lyogavin / airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 * 【2026-01-23】[nexmoe / VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
 * 【2026-01-19】[tobi / try](https://github.com/tobi/try) - fresh directories for every vibe
 * 【2026-01-17】[Gentleman-Programming / Gentleman.Dots](https://github.com/Gentleman-Programming/Gentleman.Dots) - My personal configuration for LazyVim !
