@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-01-28】[knadh / koanf](https://github.com/knadh/koanf) - Simple, extremely lightweight, extensible, configuration management library for Go. Supports JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
+* 【2026-01-28】[elC0mpa / aws-doctor](https://github.com/elC0mpa/aws-doctor) - Diagnose AWS costs, detect idle resources, and optimize cloud spending directly from your terminal. 🩺 ☁️
 * 【2026-01-27】[TecharoHQ / anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 * 【2026-01-26】[githubnext / gh-aw](https://github.com/githubnext/gh-aw) - GitHub Agentic Workflows
 * 【2026-01-25】[getarcaneapp / arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
@@ -923,6 +925,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-01-28】[Vineflower / vineflower](https://github.com/Vineflower/vineflower) - Modern Java decompiler aiming to be as accurate as possible, with an emphasis on output quality. Fork of the Fernflower decompiler.
 * 【2026-01-26】[jarvis2f / telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
 * 【2026-01-25】[agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) - AgentScope Java: Agent-Oriented Programming for Building LLM Applications
 * 【2026-01-21】[gaul / s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
@@ -1291,6 +1294,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-01-28】[t0bst4r / home-assistant-matter-hub](https://github.com/t0bst4r/home-assistant-matter-hub) - Publish your Home-Assistant Instance using Matter.
 * 【2026-01-27】[caelestia-dots / caelestia](https://github.com/caelestia-dots/caelestia) - A very segsy rice
 * 【2026-01-27】[wechat-article / wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。 支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。
 * 【2026-01-25】[gemini-cli-extensions / workspace](https://github.com/gemini-cli-extensions/workspace) - Access Google Workspace when using Gemini CLI
@@ -1774,6 +1778,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-01-28】[steffest / DPaint-js](https://github.com/steffest/DPaint-js) - Webbased image editor, modeled after the legendary Deluxe Paint with a focus on retro Amiga file formats: read and write Amiga icon files and IFF ILBM images
+* 【2026-01-28】[anomalyco / opencode-anthropic-auth](https://github.com/anomalyco/opencode-anthropic-auth) - 
 * 【2026-01-27】[evolus / pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 * 【2026-01-27】[linuxmint / cinnamon](https://github.com/linuxmint/cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features.
 * 【2026-01-27】[yctimlin / mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw) - 
@@ -2267,6 +2273,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-01-28】[N64Recomp / N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables
 * 【2026-01-23】[KhronosGroup / SPIRV-Tools](https://github.com/KhronosGroup/SPIRV-Tools) - 
 * 【2026-01-20】[quickshell-mirror / quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 * 【2026-01-18】[Crementif / BotW-BetterVR](https://github.com/Crementif/BotW-BetterVR) - A project aimed at providing a better PC VR mode for BotW using the Cemu emulator
