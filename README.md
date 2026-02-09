@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-02-09】[ramonvermeulen / whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go. Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 * 【2026-02-05】[github / gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
 * 【2026-02-04】[steveyegge / beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent
 * 【2026-02-02】[free5gc / free5gc](https://github.com/free5gc/free5gc) - Open source 5G core network based on 3GPP R15
@@ -359,6 +360,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-02-09】[huggingface / speech-to-speech](https://github.com/huggingface/speech-to-speech) - Speech To Speech: an effort for an open-sourced and modular GPT4-o
 * 【2026-02-07】[SWE-agent / mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!
 * 【2026-02-07】[httpie / cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 * 【2026-02-06】[chenyme / grok2api](https://github.com/chenyme/grok2api) - 基于 FastAPI 重构的 Grok2API，全面适配最新 Web 调用格式，支持流/非流式对话、图像生成/编辑、深度思考，号池并发与自动负载均衡一体化。
@@ -940,6 +942,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-02-09】[Ninjabrain1 / Ninjabrain-Bot](https://github.com/Ninjabrain1/Ninjabrain-Bot) - Accurate stronghold calculator for Minecraft speedrunning.
 * 【2026-02-04】[killbill / killbill](https://github.com/killbill/killbill) - Open-Source Subscription Billing & Payments Platform
 * 【2026-02-03】[pgjdbc / pgjdbc](https://github.com/pgjdbc/pgjdbc) - Postgresql JDBC Driver
 * 【2026-02-02】[Trainguy9512 / locomotion](https://github.com/Trainguy9512/locomotion) - 
@@ -2565,6 +2568,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-02-09】[pydantic / monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
+* 【2026-02-09】[home-assistant / addons](https://github.com/home-assistant/addons) - ➕ Docker add-ons for Home Assistant
 * 【2026-02-08】[KeygraphHQ / shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
 * 【2026-02-08】[microsoft / litebox](https://github.com/microsoft/litebox) - A security-focused library OS supporting kernel- and user-mode execution
 * 【2026-02-08】[p-e-w / heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
