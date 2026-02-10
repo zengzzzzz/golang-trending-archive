@@ -360,6 +360,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-02-10】[IAmTomShaw / f1-race-replay](https://github.com/IAmTomShaw/f1-race-replay) - An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️
+* 【2026-02-10】[ulab-uiuc / LLMRouter](https://github.com/ulab-uiuc/LLMRouter) - LLMRouter: An Open-Source Library for LLM Routing
 * 【2026-02-09】[huggingface / speech-to-speech](https://github.com/huggingface/speech-to-speech) - Speech To Speech: an effort for an open-sourced and modular GPT4-o
 * 【2026-02-07】[SWE-agent / mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!
 * 【2026-02-07】[httpie / cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -942,6 +944,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-02-10】[realnnpg / Glazed](https://github.com/realnnpg/Glazed) - Meteor client addon for DonutSMP
 * 【2026-02-09】[Ninjabrain1 / Ninjabrain-Bot](https://github.com/Ninjabrain1/Ninjabrain-Bot) - Accurate stronghold calculator for Minecraft speedrunning.
 * 【2026-02-04】[killbill / killbill](https://github.com/killbill/killbill) - Open-Source Subscription Billing & Payments Platform
 * 【2026-02-03】[pgjdbc / pgjdbc](https://github.com/pgjdbc/pgjdbc) - Postgresql JDBC Driver
@@ -2323,6 +2326,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-02-10】[paolo-projects / auto-unlocker](https://github.com/paolo-projects/auto-unlocker) - Unlocker for VMWare macOS
 * 【2026-02-07】[deepseek-ai / 3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 * 【2026-02-07】[echavet / MitsubishiCN105ESPHome](https://github.com/echavet/MitsubishiCN105ESPHome) - ESPHome firmware inspired by GeoffDavis’s esphome-mitsubishiheatpump, directly integrating the SwiCago library within its codebase.
 * 【2026-02-04】[StrikerX3 / Ymir](https://github.com/StrikerX3/Ymir) - Sega Saturn emulator
