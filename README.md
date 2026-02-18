@@ -366,6 +366,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-02-18】[kaifcodec / user-scanner](https://github.com/kaifcodec/user-scanner) - 🕵️🫆 (2-in-1) Emaill and Username OSINT tool that analyzes username and email presence across multiple platforms, intended for security research, investigations, legitimate analysis
+* 【2026-02-18】[HKUDS / AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai Tech Report Link: https://arxiv.org/abs/2512.10971
 * 【2026-02-16】[mistralai / mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
 * 【2026-02-14】[K-Dense-AI / claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A set of ready to use scientific skills for Claude
 * 【2026-02-14】[jamwithai / production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) - 
@@ -1336,6 +1338,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-02-18】[open-mercato / open-mercato](https://github.com/open-mercato/open-mercato) - AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!
+* 【2026-02-18】[tobi / qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 * 【2026-02-16】[breaking-brake / cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) - CC Workflow Studio
 * 【2026-02-16】[amicalhq / amical](https://github.com/amicalhq/amical) - 🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.
 * 【2026-02-16】[YishenTu / claudian](https://github.com/YishenTu/claudian) - An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
@@ -1841,6 +1845,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-02-18】[thalesgroup-cert / Watcher](https://github.com/thalesgroup-cert/Watcher) - Watcher - Open Source AI-powered Cyber Threat Intelligence & Hunting Platform. Developed with Django & React JS.
 * 【2026-02-16】[dler-io / Rules](https://github.com/dler-io/Rules) - 
 * 【2026-02-15】[gsd-build / get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
 * 【2026-02-12】[liuw1535 / antigravity2api-nodejs](https://github.com/liuw1535/antigravity2api-nodejs) - 
@@ -2132,6 +2137,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-02-18】[SAT-R / sa2](https://github.com/SAT-R/sa2) - A decompilation and port of Sonic Advance 2 - a GameBoy Advance game written in C
 * 【2026-02-17】[ProjectNyxian / Nyxian](https://github.com/ProjectNyxian/Nyxian) - IDE to develop native code iOS apps on unjailbroken iOS it self just via a certificate and a kernel virtualization layer for those apps.
 * 【2026-02-17】[jaylikesbunda / Ghost_ESP](https://github.com/jaylikesbunda/Ghost_ESP) - GhostESP: Revival turns your ESP32 into a cheap and powerful wireless testing tool.
 * 【2026-02-17】[davidgiven / ack](https://github.com/davidgiven/ack) - The Amsterdam Compiler Kit
@@ -2612,6 +2618,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-02-18】[steipete / summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 * 【2026-02-16】[steipete / gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
 * 【2026-02-16】[moonshine-ai / moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
 * 【2026-02-14】[SynkraAI / aios-core](https://github.com/SynkraAI/aios-core) - Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
