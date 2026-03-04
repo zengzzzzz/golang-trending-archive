@@ -987,6 +987,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-03-04】[Tornaco / Thanox](https://github.com/Tornaco/Thanox) - I am thanos! 😈 👌
 * 【2026-02-23】[Stryker-Defense-Inc / strykerapp](https://github.com/Stryker-Defense-Inc/strykerapp) - Magic tool for pentest from your android device!
 * 【2026-02-20】[adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) - All Code of LLD Playlist
 * 【2026-02-19】[uber / uForwarder](https://github.com/uber/uForwarder) - Apache Kafka is an open-source distributed event streaming platform used by thousands of companies. uForwarder aims to address several pain points while using Apache Kafka for pub-sub message queueing at scale, including partition scalability and head-of-line blocking.
@@ -2197,6 +2198,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-03-04】[pret / pokefirered](https://github.com/pret/pokefirered) - Decompilation of Pokémon FireRed/LeafGreen
 * 【2026-03-03】[ps2homebrew / Open-PS2-Loader](https://github.com/ps2homebrew/Open-PS2-Loader) - Game and app loader for Sony PlayStation 2
 * 【2026-03-02】[heiher / hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - A lightweight, fast and reliable tun2socks
 * 【2026-03-02】[Unidata / netcdf-c](https://github.com/Unidata/netcdf-c) - Official GitHub repository for netCDF-C libraries and utilities.
@@ -2435,6 +2437,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-03-04】[GRAnimated / MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 11.210% - Decompilation of Minecraft: Legacy Console Edition
 * 【2026-03-03】[microsoft / MIDI](https://github.com/microsoft/MIDI) - Windows MIDI Services
 * 【2026-03-02】[FastFlowLM / FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.
 * 【2026-02-28】[autowarefoundation / autoware_vision_pilot](https://github.com/autowarefoundation/autoware_vision_pilot) - Free self-driving car stack - fully open-source ADAS and autonomous driving system
@@ -2693,6 +2696,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-03-04】[ruvnet / RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
+* 【2026-03-04】[agentscope-ai / ReMe](https://github.com/agentscope-ai/ReMe) - ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
 * 【2026-03-01】[NousResearch / hermes-agent](https://github.com/NousResearch/hermes-agent) - 
 * 【2026-03-01】[superset-sh / superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 * 【2026-03-01】[datagouv / datagouv-mcp](https://github.com/datagouv/datagouv-mcp) - Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation.
