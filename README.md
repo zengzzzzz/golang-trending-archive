@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-03-07】[matlab / matlab-mcp-core-server](https://github.com/matlab/matlab-mcp-core-server) - Run MATLAB® using AI applications with the official MATLAB MCP Server from MathWorks®. This MCP server for MATLAB supports a wide range of coding agents like Claude Code® and Visual Studio® Code.
 * 【2026-02-28】[DanielLavrushin / b4](https://github.com/DanielLavrushin/b4) - Network packet processor with a friendly UI for circumventing Deep Packet Inspection (DPI) systems.
 * 【2026-02-27】[rapidaai / voice-ai](https://github.com/rapidaai/voice-ai) - Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents with audio streaming, STT, TTS, VAD, multi-channel integration, agent state management, and observability.
 * 【2026-02-26】[xdevplatform / xurl](https://github.com/xdevplatform/xurl) - The official CLI for the X API
@@ -993,6 +994,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-03-07】[SonarSource / sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) - SonarQube MCP Server
 * 【2026-03-04】[Tornaco / Thanox](https://github.com/Tornaco/Thanox) - I am thanos! 😈 👌
 * 【2026-02-23】[Stryker-Defense-Inc / strykerapp](https://github.com/Stryker-Defense-Inc/strykerapp) - Magic tool for pentest from your android device!
 * 【2026-02-20】[adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) - All Code of LLD Playlist
@@ -1375,6 +1377,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-03-07】[kepano / defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
+* 【2026-03-07】[livekit-examples / agent-starter-react](https://github.com/livekit-examples/agent-starter-react) - A complete voice AI frontend app for LiveKit Agents with Next.js
 * 【2026-03-06】[lgazo / drawio-mcp-server](https://github.com/lgazo/drawio-mcp-server) - Draw.io Model Context Protocol (MCP) Server
 * 【2026-03-05】[FalkorDB / QueryWeaver](https://github.com/FalkorDB/QueryWeaver) - An open-source Text2SQL tool that transforms natural language into SQL using graph-powered schema understanding. Ask your database questions in plain English, QueryWeaver handles the weaving.
 * 【2026-03-01】[dontriskit / awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI.
@@ -1901,6 +1905,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-03-07】[jarrodwatts / claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 * 【2026-03-06】[SynkraAI / aiox-core](https://github.com/SynkraAI/aiox-core) - Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
 * 【2026-03-05】[obsidianmd / obsidian-translations](https://github.com/obsidianmd/obsidian-translations) - Help translate Obsidian into your language.
 * 【2026-03-03】[tiagozip / cap](https://github.com/tiagozip/cap) - The privacy-first, self-hosted CAPTCHA for the modern web.
@@ -2208,6 +2213,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-03-07】[allkern / iris](https://github.com/allkern/iris) - Sony PlayStation 2 emulator for Windows, Linux and macOS
+* 【2026-03-07】[emersion / mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 * 【2026-03-05】[troydhanson / uthash](https://github.com/troydhanson/uthash) - C macros for hash tables and more
 * 【2026-03-04】[pret / pokefirered](https://github.com/pret/pokefirered) - Decompilation of Pokémon FireRed/LeafGreen
 * 【2026-03-03】[ps2homebrew / Open-PS2-Loader](https://github.com/ps2homebrew/Open-PS2-Loader) - Game and app loader for Sony PlayStation 2
@@ -2448,6 +2455,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-03-07】[opengisch / QField](https://github.com/opengisch/QField) - A simplified touch optimized interface for QGIS
 * 【2026-03-04】[GRAnimated / MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 11.210% - Decompilation of Minecraft: Legacy Console Edition
 * 【2026-03-03】[microsoft / MIDI](https://github.com/microsoft/MIDI) - Windows MIDI Services
 * 【2026-03-02】[FastFlowLM / FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.
@@ -2707,6 +2715,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-03-07】[Ed1s0nZ / CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.
+* 【2026-03-07】[lingfengQAQ / webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer) - 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。
 * 【2026-03-06】[inclusionAI / AReaL](https://github.com/inclusionAI/AReaL) - Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.
 * 【2026-03-06】[microsoft / hve-core](https://github.com/microsoft/hve-core) - A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots
 * 【2026-03-05】[msitarzewski / agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
