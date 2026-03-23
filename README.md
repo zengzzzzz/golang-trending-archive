@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-03-23】[modu-ai / moai-adk](https://github.com/modu-ai/moai-adk) - MoAI - Agentic Development Kit
 * 【2026-03-21】[masterking32 / MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) - Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, SOCKS5 multiplexing, resolver load balancing, and high packet-loss stability.
 * 【2026-03-20】[entireio / cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning.
 * 【2026-03-19】[9seconds / mtg](https://github.com/9seconds/mtg) - Highly opinionated MTPROTO proxy for Telegram
@@ -382,6 +383,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-03-23】[langchain-ai / local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
 * 【2026-03-22】[opengaming / osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 * 【2026-03-22】[meta-pytorch / OpenEnv](https://github.com/meta-pytorch/OpenEnv) - An interface library for RL post training with environments.
 * 【2026-03-22】[facebookresearch / vjepa2](https://github.com/facebookresearch/vjepa2) - PyTorch code and models for VJEPA2 self-supervised learning from video.
@@ -1018,6 +1020,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-03-23】[navinreddy20 / Javacode](https://github.com/navinreddy20/Javacode) - 
 * 【2026-03-19】[mit-cml / appinventor-sources](https://github.com/mit-cml/appinventor-sources) - MIT App Inventor Public Open Source
 * 【2026-03-17】[NightscoutFoundation / xDrip](https://github.com/NightscoutFoundation/xDrip) - Nightscout version of xDrip+
 * 【2026-03-17】[tlaplus / tlaplus](https://github.com/tlaplus/tlaplus) - TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.
@@ -1409,6 +1412,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-03-23】[different-ai / openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork built for teams, powered by opencode
+* 【2026-03-23】[ItzCrazyKns / Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
+* 【2026-03-23】[microsoft / aspire](https://github.com/microsoft/aspire) - Aspire is the tool for code-first, extensible, observable dev and deploy.
 * 【2026-03-22】[google-labs-code / stitch-skills](https://github.com/google-labs-code/stitch-skills) - 
 * 【2026-03-21】[code-yeongyu / oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 * 【2026-03-21】[southleft / figma-console-mcp](https://github.com/southleft/figma-console-mcp) - Your design system as an API. Connect AI to Figma for extraction, creation, and debugging.
