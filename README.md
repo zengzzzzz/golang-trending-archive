@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-04-03】[777genius / claude-notifications-go](https://github.com/777genius/claude-notifications-go) - 🔔 Cross-platform smart notifications plugin for Claude Code. 6 types. Click-to-focus. 1 line installation. Instant. Analyze context. Zero dependencies. webhooks (ntfy, slack, telegram...). Linux, MacOS, Windows.
 * 【2026-04-02】[electrikmilk / cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
 * 【2026-04-02】[octelium / octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure.
 * 【2026-04-02】[joshmedeski / sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager
@@ -397,6 +398,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-04-03】[zai-org / GLM-OCR](https://github.com/zai-org/GLM-OCR) - GLM-OCR: Accurate × Fast × Comprehensive
+* 【2026-04-03】[Alishahryar1 / free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
 * 【2026-04-02】[NVIDIA / Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) - A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
 * 【2026-04-02】[allenai / OLMo-core](https://github.com/allenai/OLMo-core) - PyTorch building blocks for the OLMo ecosystem
 * 【2026-04-02】[gumyr / build123d](https://github.com/gumyr/build123d) - A python CAD programming library
@@ -1043,6 +1046,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-04-03】[auth0 / java-jwt](https://github.com/auth0/java-jwt) - Java implementation of JSON Web Token (JWT)
+* 【2026-04-03】[spring-ai-community / spring-ai-agent-utils](https://github.com/spring-ai-community/spring-ai-agent-utils) - A Spring AI library that brings Claude Code-inspired tools and agent skills to your AI applications.
 * 【2026-04-01】[maxwai / NClientV3](https://github.com/maxwai/NClientV3) - An unofficial NHentai android client
 * 【2026-04-01】[iflytek / astron-rpa](https://github.com/iflytek/astron-rpa) - Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises.
 * 【2026-03-31】[anddea / revanced-patches](https://github.com/anddea/revanced-patches) - 🧩 Patches for ReVanced
@@ -2008,6 +2013,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-04-03】[sgoudelis / ground-station](https://github.com/sgoudelis/ground-station) - Ground Station is all-in-one satellite monitoring suite
+* 【2026-04-03】[ComposioHQ / open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) - Open Source version of Claude Cowork with 500+ SaaS app integrations
 * 【2026-04-01】[ChrisWiles / claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
 * 【2026-04-01】[Dispatcharr / Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - 
 * 【2026-04-01】[idinging / freemail](https://github.com/idinging/freemail) - Cloudflare 域名邮箱系统 临时邮箱系统 domain mail tempmail
@@ -2869,4 +2876,5 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-04-03】[Yeachan-Heo / oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 * 【2026-04-01】[Dimillian / Skills](https://github.com/Dimillian/Skills) - My Codex Skills
