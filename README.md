@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-04-04】[QuantumNous / new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
 * 【2026-04-03】[777genius / claude-notifications-go](https://github.com/777genius/claude-notifications-go) - 🔔 Cross-platform smart notifications plugin for Claude Code. 6 types. Click-to-focus. 1 line installation. Instant. Analyze context. Zero dependencies. webhooks (ntfy, slack, telegram...). Linux, MacOS, Windows.
 * 【2026-04-02】[electrikmilk / cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
 * 【2026-04-02】[octelium / octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure.
@@ -1448,6 +1449,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-04-04】[multica-ai / multica](https://github.com/multica-ai/multica) - 
 * 【2026-04-02】[shareAI-lab / Kode-Agent](https://github.com/shareAI-lab/Kode-Agent) - Kode Agent — Design for post-human workflows. One unit agent for every human & computer task.
 * 【2026-04-01】[coder / mux](https://github.com/coder/mux) - A desktop app for isolated, parallel agentic development
 * 【2026-03-29】[benjitaylor / agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents.
@@ -2876,5 +2878,6 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-04-04】[dmtrKovalenko / fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 * 【2026-04-03】[Yeachan-Heo / oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 * 【2026-04-01】[Dimillian / Skills](https://github.com/Dimillian/Skills) - My Codex Skills
