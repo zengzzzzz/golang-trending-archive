@@ -402,6 +402,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-04-11】[FloatingPragma / observer-patch-holography](https://github.com/FloatingPragma/observer-patch-holography) - OPH is an active research program aiming to construct a fundamental theory of physics from observer consistency.
 * 【2026-04-10】[z-lab / dflash](https://github.com/z-lab/dflash) - DFlash: Block Diffusion for Flash Speculative Decoding
 * 【2026-04-08】[NVIDIA-NeMo / DataDesigner](https://github.com/NVIDIA-NeMo/DataDesigner) - 🎨 NeMo Data Designer: Generate high-quality synthetic data from scratch or from seed data.
 * 【2026-04-07】[HKUDS / DeepTutor](https://github.com/HKUDS/DeepTutor) - "DeepTutor: Agent-Native Personalized Learning Assistant"
@@ -1055,6 +1056,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-04-11】[nageoffer / ragent](https://github.com/nageoffer/ragent) - 企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。
 * 【2026-04-08】[DataDog / datadog-api-client-java](https://github.com/DataDog/datadog-api-client-java) - Java client for the Datadog API
 * 【2026-04-06】[TEAMMATES / teammates](https://github.com/TEAMMATES/teammates) - TEAMMATES is a feedback management tool for education
 * 【2026-04-03】[auth0 / java-jwt](https://github.com/auth0/java-jwt) - Java implementation of JSON Web Token (JWT)
@@ -1459,6 +1461,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-04-11】[zhukunpenglinyutong / jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) - Jetbrains Claude Code and Codex GUI Plugin
+* 【2026-04-11】[hellodigua / ChatLab](https://github.com/hellodigua/ChatLab) - Rediscover your social memories with local, AI-powered analysis. 本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。
 * 【2026-04-10】[run-llama / liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
 * 【2026-04-10】[RhysSullivan / executor](https://github.com/RhysSullivan/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.
 * 【2026-04-09】[VoltAgent / voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
@@ -2036,6 +2040,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-04-11】[jo-inc / camofox-browser](https://github.com/jo-inc/camofox-browser) - Headless browser automation server for AI agents to visit sites that are usually blocked
+* 【2026-04-11】[lazaroagomez / BeatDock](https://github.com/lazaroagomez/BeatDock) - 🎵 Free, open-source, self-hosted Discord music bot with slash commands and Docker deployment. Features YouTube playback, queue management, and multilingual support.
+* 【2026-04-11】[Haleclipse / CodexDesktop-Rebuild](https://github.com/Haleclipse/CodexDesktop-Rebuild) - Codex Desktop App - Cross-platform Rebuild
 * 【2026-04-09】[Anil-matcha / Open-Higgsfield-AI](https://github.com/Anil-matcha/Open-Higgsfield-AI) - Open-source alternative to Higgsfield AI — Free AI image generation & cinema studio with 20+ models (Flux, SDXL, Midjourney, Ideogram). Self-hosted, customizable, MIT licensed.
 * 【2026-04-09】[foxhui / WebAI2API](https://github.com/foxhui/WebAI2API) - WebAI2API: 基于 Camoufox 的网页 AI 转 API 工具，支持 LMArena/Gemini等，多窗口并发与账号隔离。 | Web AI to OpenAI API via Camoufox. Supports LMArena/Gemini and more, multi-window concurrency & account isolation.
 * 【2026-04-08】[levnikolaevich / claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) - Plugin suite + bundled MCP servers for Claude Code. Full delivery lifecycle: Agile pipeline with multi-model AI review, project bootstrap, documentation generation, codebase audits, performance optimization, community workflows. Includes hex-line (hash-verified editing), hex-graph (code knowledge graph), and hex-ssh (remote SSH) MCP servers.
@@ -2632,6 +2639,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-04-11】[Euro-Office / desktop-apps](https://github.com/Euro-Office/desktop-apps) - 
 * 【2026-04-09】[google / jsir](https://github.com/google/jsir) - Next-generation JavaScript analysis tooling
 * 【2026-04-02】[doodlum / skyrim-community-shaders](https://github.com/doodlum/skyrim-community-shaders) - Community-driven advanced graphics modifications for AE, SE and VR.
 * 【2026-04-02】[solvespace / solvespace](https://github.com/solvespace/solvespace) - Parametric 2d/3d CAD
