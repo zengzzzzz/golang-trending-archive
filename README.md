@@ -53,6 +53,9 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-04-21】[basecamp / once](https://github.com/basecamp/once) - Easy self-hosting for Docker-based web apps
+* 【2026-04-21】[ParsaKSH / spoof-tunnel](https://github.com/ParsaKSH/spoof-tunnel) - client-server tunnel with IP-Spoofing
+* 【2026-04-21】[Diniboy1123 / usque](https://github.com/Diniboy1123/usque) - Open-source reimplementation of the Cloudflare WARP client's MASQUE protocol.
 * 【2026-04-20】[tphakala / birdnet-go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer
 * 【2026-04-20】[HexmosTech / git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Unlimited AI Code Reviews That Run on Commit
 * 【2026-04-18】[oisee / vibing-steampunk](https://github.com/oisee/vibing-steampunk) - vs-punk: ADT to MCP bridge - Vibe code in ABAP / AMDP
@@ -409,6 +412,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-04-21】[alexzhang13 / rlm](https://github.com/alexzhang13/rlm) - General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.
 * 【2026-04-20】[barry-far / V2ray-Config](https://github.com/barry-far/V2ray-Config) - Free V2ray Configs, Updating Every 15 minutes. 🚀🌐
 * 【2026-04-18】[nv-tlabs / lyra](https://github.com/nv-tlabs/lyra) - Project Lyra: Open Generative 3D World Models
 * 【2026-04-17】[jundot / omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
@@ -1481,6 +1485,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-04-21】[vercel-labs / portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
+* 【2026-04-21】[crbnos / carbon](https://github.com/crbnos/carbon) - Carbon is an open source ERP, MES and QMS for manufacturing. Perfect for complex assembly, contract manufacturing, and configure to order manufacturing.
 * 【2026-04-19】[bitwarden / ai-plugins](https://github.com/bitwarden/ai-plugins) - AI plugin marketplace.
 * 【2026-04-18】[sirmalloc / ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 * 【2026-04-17】[calcom / cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
@@ -2075,6 +2081,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-04-21】[bugbasesecurity / pentest-copilot](https://github.com/bugbasesecurity/pentest-copilot) - Pentest Copilot is an AI-powered browser based ethical hacking assistant tool designed to streamline pentesting workflows.
 * 【2026-04-19】[prem-k-r / MaterialYouNewTab](https://github.com/prem-k-r/MaterialYouNewTab) - MY NewTab: A Simple New Tab (browser's home page) inspired with Google's 'Material You' design
 * 【2026-04-19】[firebase / agent-skills](https://github.com/firebase/agent-skills) - Agent Skills for Firebase
 * 【2026-04-18】[cursor / plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
@@ -2428,6 +2435,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-04-21】[Zaneham / BarraCUDA](https://github.com/Zaneham/BarraCUDA) - Open-source CUDA compiler targeting multiple GPU architectures. Compiles .cu to AMD and Tenstorrent GPU's
 * 【2026-04-20】[iczelia / bzip3](https://github.com/iczelia/bzip3) - A better and stronger spiritual successor to BZip2.
 * 【2026-04-18】[Filoppi / Luma-Framework](https://github.com/Filoppi/Luma-Framework) - Luma is DX11 games modding framework based on the ReShade Addon system. Multiple mods are currently included, the biggest one being Prey (2017), which refactors its post processing rendering phase (e.g. adding HDR support, DLSS). Mod list here: https://github.com/Filoppi/Luma-Framework/wiki/Mods-List
 * 【2026-04-15】[bellard / mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
