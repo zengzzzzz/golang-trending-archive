@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-04-25】[operacle / checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, incident tracking, and alerts. All deployable anywhere.
+* 【2026-04-25】[gastownhall / beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 * 【2026-04-22】[guohuiyuan / go-music-dl](https://github.com/guohuiyuan/go-music-dl) - 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：1074285005
 * 【2026-04-21】[basecamp / once](https://github.com/basecamp/once) - Easy self-hosting for Docker-based web apps
 * 【2026-04-21】[ParsaKSH / spoof-tunnel](https://github.com/ParsaKSH/spoof-tunnel) - client-server tunnel with IP-Spoofing
@@ -2445,6 +2447,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-04-25】[m5stack / StackChan](https://github.com/m5stack/StackChan) - StackChan open source!
 * 【2026-04-22】[Mbed-TLS / TF-PSA-Crypto](https://github.com/Mbed-TLS/TF-PSA-Crypto) - Reference implementation of the PSA Cryptography API
 * 【2026-04-21】[Zaneham / BarraCUDA](https://github.com/Zaneham/BarraCUDA) - Open-source CUDA compiler targeting multiple GPU architectures. Compiles .cu to AMD and Tenstorrent GPU's
 * 【2026-04-20】[iczelia / bzip3](https://github.com/iczelia/bzip3) - A better and stronger spiritual successor to BZip2.
