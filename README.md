@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-04-28】[shridarpatil / whatomate](https://github.com/shridarpatil/whatomate) - Whatomate is an open-source WhatsApp integration
 * 【2026-04-27】[agentscope-ai / HiClaw](https://github.com/agentscope-ai/HiClaw) - An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.
 * 【2026-04-27】[Gentleman-Programming / engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.
 * 【2026-04-26】[gastownhall / gascity](https://github.com/gastownhall/gascity) - Orchestration-builder SDK for multi-agent coding workflows
@@ -418,6 +419,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-04-28】[hydropix / TranslateBooksWithLLMs](https://github.com/hydropix/TranslateBooksWithLLMs) - Translate full-length books and documents with Ollama, OpenAI (comptatible), Gemini, Mistral, Poe or OpenRouter. Preserves formatting. Resumes where you left off. No file size limits.
+* 【2026-04-28】[nikopueringer / CorridorKey](https://github.com/nikopueringer/CorridorKey) - Perfect Green Screen Keys
+* 【2026-04-28】[facebookresearch / ai4animationpy](https://github.com/facebookresearch/ai4animationpy) - A Python framework for AI-driven character animation using neural networks.
 * 【2026-04-26】[zilliztech / memsearch](https://github.com/zilliztech/memsearch) - A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.
 * 【2026-04-22】[OthmanAdi / planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 * 【2026-04-22】[PrefectHQ / fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
@@ -1085,6 +1089,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-04-28】[AndreyPavlenko / Fermata](https://github.com/AndreyPavlenko/Fermata) - 
+* 【2026-04-28】[MojoLauncher / MojoLauncher](https://github.com/MojoLauncher/MojoLauncher) - A Minecraft: Java Edition launcher, based on PojavLauncher
 * 【2026-04-26】[ByteByteGoHq / coding-interview-patterns](https://github.com/ByteByteGoHq/coding-interview-patterns) - 
 * 【2026-04-23】[xandergos / terrain-diffusion-mc](https://github.com/xandergos/terrain-diffusion-mc) - 
 * 【2026-04-19】[AzureAD / microsoft-authentication-library-common-for-android](https://github.com/AzureAD/microsoft-authentication-library-common-for-android) - Common code used by both the Active Directory Authentication Library (ADAL) and the Microsoft Authentication Library (MSAL)
@@ -2096,6 +2102,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-04-28】[fspecii / ace-step-ui](https://github.com/fspecii/ace-step-ui) - 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
+* 【2026-04-28】[prompt-security / clawsec](https://github.com/prompt-security/clawsec) - A complete security skill suite for OpenClaw's and NanoClaw agents (and variants). Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite.
 * 【2026-04-27】[LibreSpark / LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式
 * 【2026-04-27】[libnoname / noname](https://github.com/libnoname/noname) - 
 * 【2026-04-26】[browserbase / skills](https://github.com/browserbase/skills) - Claude Agent SDK with a web browsing tool
@@ -2457,6 +2465,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-04-28】[RightNow-AI / picolm](https://github.com/RightNow-AI/picolm) - Run a 1-billion parameter LLM on a $10 board with 256MB RAM
 * 【2026-04-27】[DeusData / codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 66 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 * 【2026-04-25】[m5stack / StackChan](https://github.com/m5stack/StackChan) - StackChan open source!
 * 【2026-04-22】[Mbed-TLS / TF-PSA-Crypto](https://github.com/Mbed-TLS/TF-PSA-Crypto) - Reference implementation of the PSA Cryptography API
@@ -2719,6 +2728,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-04-28】[BruceDevices / firmware](https://github.com/BruceDevices/firmware) - Predatory ESP32 Firmware
 * 【2026-04-27】[tile-ai / tilelang-ascend](https://github.com/tile-ai/tilelang-ascend) - Ascend TileLang adapter
 * 【2026-04-24】[intel / llm-scaler](https://github.com/intel/llm-scaler) - 
 * 【2026-04-20】[ValveSoftware / GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) - Reliable & unreliable messages over UDP. Robust message fragmentation & reassembly. P2P networking / NAT traversal. Encryption.
