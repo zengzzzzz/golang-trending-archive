@@ -1535,6 +1535,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-05-09】[colbymchenry / codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local
+* 【2026-05-09】[earendil-works / pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+* 【2026-05-09】[rohitg00 / agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
 * 【2026-05-06】[vercel-labs / ai-cli](https://github.com/vercel-labs/ai-cli) - Generate anything from your terminal
 * 【2026-05-05】[withastro / flue](https://github.com/withastro/flue) - The sandbox agent framework.
 * 【2026-05-05】[openclaw / acpx](https://github.com/openclaw/acpx) - Headless CLI client for stateful Agent Client Protocol (ACP) sessions
@@ -3069,6 +3072,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-05-09】[flutter / skills](https://github.com/flutter/skills) - 
 * 【2026-05-08】[aaif-goose / goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 * 【2026-05-08】[Augani / openreel-video](https://github.com/Augani/openreel-video) - OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.
 * 【2026-05-07】[addyosmani / agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
