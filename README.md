@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-05-11】[microsoft / waza](https://github.com/microsoft/waza) - CLI / Framework for Agent Skills - create, test, measure and improve skill quality and effectiveness
 * 【2026-05-10】[enfein / mieru](https://github.com/enfein/mieru) - mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship. 見える是一款 socks5 / HTTP / HTTPS 网络代理翻墙工具。
 * 【2026-05-08】[chenhg5 / cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.
 * 【2026-05-08】[MercuryTechnologies / mercury-cli](https://github.com/MercuryTechnologies/mercury-cli) - 
@@ -2525,6 +2526,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-05-11】[facebook / openzl](https://github.com/facebook/openzl) - A novel data compression framework
 * 【2026-05-10】[califio / publications](https://github.com/califio/publications) - Publications from Calif
 * 【2026-05-06】[ClusterM / wg-obfuscator](https://github.com/ClusterM/wg-obfuscator) - WireGuard Obfuscator - simple obfuscator for WireGuard. Useful if your ISP/government blocks WireGuard traffic.
 * 【2026-05-05】[NetHack / NetHack](https://github.com/NetHack/NetHack) - Official NetHack Git Repository
@@ -2793,6 +2795,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-05-11】[gazebosim / gz-sim](https://github.com/gazebosim/gz-sim) - Open source robotics simulator. The latest version of Gazebo.
 * 【2026-05-07】[awalol / DS5Dongle](https://github.com/awalol/DS5Dongle) - Turn your Pico 2 W into a DualSense 5 dongle.
 * 【2026-05-02】[sirius-db / sirius](https://github.com/sirius-db/sirius) - 
 * 【2026-05-01】[lemonade-sdk / lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
