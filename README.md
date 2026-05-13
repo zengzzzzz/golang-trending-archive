@@ -431,6 +431,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-05-13】[openinterpreter / open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 * 【2026-05-12】[jwadow / kiro-gateway](https://github.com/jwadow/kiro-gateway) - 👻 Proxy API gateway for Kiro IDE & CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude models with any client.
 * 【2026-05-12】[ylytdeng / wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor
 * 【2026-05-12】[wanshuiyin / Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.
@@ -2537,6 +2538,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-05-13】[AcademySoftwareFoundation / openexr](https://github.com/AcademySoftwareFoundation/openexr) - The OpenEXR project provides the specification and reference implementation of the EXR file format, the professional-grade image storage format of the motion picture industry.
 * 【2026-05-12】[MrPowerGamerBR / Butterscotch](https://github.com/MrPowerGamerBR/Butterscotch) - 🥧 An open source re-implementation of GameMaker: Studio's runner (YoYo Runner), targeting Undertale v1.08 (Bytecode Version 16)
 * 【2026-05-12】[meshcore-dev / MeshCore](https://github.com/meshcore-dev/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
 * 【2026-05-11】[facebook / openzl](https://github.com/facebook/openzl) - A novel data compression framework
@@ -2808,6 +2810,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-05-13】[encounter / aurora](https://github.com/encounter/aurora) - A source-level GameCube & Wii compatibility layer
+* 【2026-05-13】[k4zmu2a / SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Decompilation of 3D Pinball for Windows – Space Cadet
+* 【2026-05-13】[zeldaret / tww](https://github.com/zeldaret/tww) - Decompilation of The Legend of Zelda: The Wind Waker
+* 【2026-05-13】[ros-controls / ros2_control](https://github.com/ros-controls/ros2_control) - Generic and simple controls framework for ROS 2
 * 【2026-05-11】[gazebosim / gz-sim](https://github.com/gazebosim/gz-sim) - Open source robotics simulator. The latest version of Gazebo.
 * 【2026-05-07】[awalol / DS5Dongle](https://github.com/awalol/DS5Dongle) - Turn your Pico 2 W into a DualSense 5 dongle.
 * 【2026-05-02】[sirius-db / sirius](https://github.com/sirius-db/sirius) - 
