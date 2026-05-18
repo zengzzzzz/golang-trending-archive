@@ -53,6 +53,9 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-05-18】[bruin-data / dac](https://github.com/bruin-data/dac) - DaC is a dashboard-as-code tool. Build interactive dashboards using YAML and JSX. Built-in semantic layer. Get your agents to build standardized, reviewable dashboards.
+* 【2026-05-18】[sleuth-io / sx](https://github.com/sleuth-io/sx) - sx is a package manager for AI coding assistants
+* 【2026-05-18】[kernel / kernel-images](https://github.com/kernel/kernel-images) - Browsers-as-a-service for automations and web agents
 * 【2026-05-17】[gastownhall / gastown](https://github.com/gastownhall/gastown) - Gas Town - multi-agent workspace manager
 * 【2026-05-16】[komari-monitor / komari](https://github.com/komari-monitor/komari) - A simple server monitor tool.
 * 【2026-05-16】[llm-d / llm-d-router](https://github.com/llm-d/llm-d-router) - llm-d Router: The intelligent entry point for inference requests
@@ -435,6 +438,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-05-18】[Andyyyy64 / whichllm](https://github.com/Andyyyy64/whichllm) - Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
+* 【2026-05-18】[GuDong2003 / xianyu-auto-reply-fix](https://github.com/GuDong2003/xianyu-auto-reply-fix) - 闲鱼智能客服系统，支持多账号管理、AI自动回复、自动发货确认、多渠道消息通知，提供完整的 Web 管理后台
 * 【2026-05-17】[PurpleAILAB / Decepticon](https://github.com/PurpleAILAB/Decepticon) - Autonomous Hacking Agent for Red Team
 * 【2026-05-17】[HKUDS / CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 * 【2026-05-17】[dograh-hq / dograh](https://github.com/dograh-hq/dograh) - Open Source Voice Agent Platform
@@ -1561,6 +1566,12 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-05-18】[NousResearch / hermes-paperclip-adapter](https://github.com/NousResearch/hermes-paperclip-adapter) - Paperclip adapter for Hermes Agent — run Hermes as a managed employee in a Paperclip company
+* 【2026-05-18】[eshaham / israeli-bank-scrapers](https://github.com/eshaham/israeli-bank-scrapers) - Provide scrapers for all major Israeli banks and credit card companies
+* 【2026-05-18】[nilbuild / developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+* 【2026-05-18】[lee-to / ai-factory](https://github.com/lee-to/ai-factory) - You want to build with AI, but setting up the right context, prompts, and workflows takes time. AI Factory handles all of that so you can focus on what matters — shipping quality code.
+* 【2026-05-18】[getsentry / junior](https://github.com/getsentry/junior) - 
+* 【2026-05-18】[rohitg00 / skillkit](https://github.com/rohitg00/skillkit) - Supercharge AI coding agents with portable skills. Install, translate & share skills across Claude Code, Cursor, Codex, Copilot & 40 more
 * 【2026-05-17】[Raiper34 / spooty](https://github.com/Raiper34/spooty) - Self-hosted spotify downloader
 * 【2026-05-17】[getsentry / XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
 * 【2026-05-17】[tech-leads-club / agent-skills](https://github.com/tech-leads-club/agent-skills) - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
@@ -2190,6 +2201,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-05-18】[jackwener / OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.
+* 【2026-05-18】[viru0909-dev / nyay-setu-working](https://github.com/viru0909-dev/nyay-setu-working) - Digitalization of Judiciary System
+* 【2026-05-18】[pdone / lx-music-source](https://github.com/pdone/lx-music-source) - 洛雪音乐源
 * 【2026-05-17】[adobe / skills](https://github.com/adobe/skills) - Adobe Skills for Agents
 * 【2026-05-17】[renatoasse / opensquad](https://github.com/renatoasse/opensquad) - 
 * 【2026-05-16】[ykdojo / claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin.
@@ -2567,6 +2581,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-05-18】[Internet-Architecture-and-Security / PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) - 🎯 A general-purpose protocol stack analysis and debugging tool based on eBPF 🧰
 * 【2026-05-17】[CrazyCritic89 / SteamHapticsSinger](https://github.com/CrazyCritic89/SteamHapticsSinger) - This project is a fork of SteamControllerSinger which aims to be a successor.
 * 【2026-05-14】[hzqst / VmwareHardenedLoader](https://github.com/hzqst/VmwareHardenedLoader) - Vmware Hardened VM detection mitigation loader (anti anti-vm)
 * 【2026-05-14】[bdth-7777777 / OLED_UI](https://github.com/bdth-7777777/OLED_UI) - 一个丝滑的、可以轻松部署的OLED UI界面，包含基本的多级菜单，窗口等组件。
@@ -3135,6 +3150,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-05-18】[NirDiamant / agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
+* 【2026-05-18】[Light-Heart-Labs / DreamServer](https://github.com/Light-Heart-Labs/DreamServer) - Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions.
+* 【2026-05-18】[plausible / analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 * 【2026-05-16】[joeseesun / qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) - Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.
 * 【2026-05-15】[NVIDIA-AI-Blueprints / video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) - Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.
 * 【2026-05-14】[supertone-inc / supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
