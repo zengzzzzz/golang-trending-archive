@@ -441,6 +441,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-05-20】[HanaokaYuzu / Gemini-API](https://github.com/HanaokaYuzu/Gemini-API) - ✨ Reverse-engineered Python API for Google Gemini web app
+* 【2026-05-20】[Flowseal / tg-ws-proxy](https://github.com/Flowseal/tg-ws-proxy) - Local MTProto proxy server for partial bypassing of Telegram loading
 * 【2026-05-19】[mattzh72 / articraft](https://github.com/mattzh72/articraft) - An Agentic System for Scalable Articulated 3D Asset Generation
 * 【2026-05-19】[zinja-coder / jadx-mcp-server](https://github.com/zinja-coder/jadx-mcp-server) - MCP server for JADX-AI Plugin
 * 【2026-05-18】[Andyyyy64 / whichllm](https://github.com/Andyyyy64/whichllm) - Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
@@ -1145,6 +1147,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-05-20】[mubashardev / WaEnhancerX](https://github.com/mubashardev/WaEnhancerX) - 1. Wa Enhancer X | WhatsApp tools for Android
 * 【2026-05-17】[adobe / aem-core-wcm-components](https://github.com/adobe/aem-core-wcm-components) - Standardized components to build websites with AEM.
 * 【2026-05-16】[iflytek / skillhub](https://github.com/iflytek/skillhub) - Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes.
 * 【2026-05-14】[Konloch / bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
@@ -3160,6 +3163,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-05-20】[rtk-ai / rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+* 【2026-05-20】[multica-ai / andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+* 【2026-05-20】[Diolinux / PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 * 【2026-05-18】[NirDiamant / agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
 * 【2026-05-18】[Light-Heart-Labs / DreamServer](https://github.com/Light-Heart-Labs/DreamServer) - Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions.
 * 【2026-05-18】[plausible / analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
