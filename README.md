@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-05-26】[openclaw / gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
 * 【2026-05-25】[mvanhorn / cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.
 * 【2026-05-22】[cinar / indicator](https://github.com/cinar/indicator) - Indicator Go delivers a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework. No dependencies, just pure simplicity. ✨ See how! 👀
 * 【2026-05-22】[safedep / pmg](https://github.com/safedep/pmg) - PMG protects developers, AI agents from malicious open source packages using proxy, sandbox and SafeDep's threat intelligence feed.
@@ -445,6 +446,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-05-26】[st-tech / ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver) - A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.
 * 【2026-05-25】[bleachbit / bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 * 【2026-05-25】[elder-plinius / OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) - OBLITERATE THE CHAINS THAT BIND YOU
 * 【2026-05-23】[facebookresearch / sam3](https://github.com/facebookresearch/sam3) - The repository provides code for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
@@ -1159,6 +1161,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-05-26】[AuthMe / AuthMeReloaded](https://github.com/AuthMe/AuthMeReloaded) - The best authentication plugin for the Bukkit/Spigot API!
 * 【2026-05-24】[microsoft / copilot-for-eclipse](https://github.com/microsoft/copilot-for-eclipse) - GitHub Copilot plugin for Eclipse IDE
 * 【2026-05-23】[ArcadeData / arcadedb](https://github.com/ArcadeData/arcadedb) - ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS. ArcadeDB supports Vector Embeddings.
 * 【2026-05-21】[201206030 / novel-plus](https://github.com/201206030/novel-plus) - novel-plus 是一个多端（PC、WAP）阅读 、功能完善的小说 CMS 系统。包括小说推荐、小说检索、小说排行、小说阅读、小说书架、小说评论、小说爬虫、会员中心、作家专区、充值订阅、新闻发布等功能。
@@ -1589,6 +1592,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-05-26】[NateBJones-Projects / OB1](https://github.com/NateBJones-Projects/OB1) - Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.
 * 【2026-05-24】[chenglou / pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 * 【2026-05-24】[GoogleChrome / modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) - 
 * 【2026-05-23】[MemTensor / MemOS](https://github.com/MemTensor/MemOS) - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings
@@ -2899,6 +2903,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-05-26】[DamRsn / NeuralNote](https://github.com/DamRsn/NeuralNote) - Audio Plugin for Audio to MIDI transcription using deep learning.
 * 【2026-05-25】[jtenniswood / espcontrol](https://github.com/jtenniswood/espcontrol) - Esphome based smart home control panel
 * 【2026-05-25】[ShizCalev / MGSHDFix](https://github.com/ShizCalev/MGSHDFix) - A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.
 * 【2026-05-24】[JACoders / OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software
@@ -3196,6 +3201,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-05-26】[affaan-m / ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+* 【2026-05-26】[Leonxlnx / taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
+* 【2026-05-26】[hardikpandya / stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 * 【2026-05-25】[anthropics / knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 * 【2026-05-24】[mukul975 / Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
 * 【2026-05-24】[NVlabs / LongLive](https://github.com/NVlabs/LongLive) - LongLive 2.0: Infra - Long Video Gen
