@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-06-06】[podman-container-tools / buildah](https://github.com/podman-container-tools/buildah) - A tool that facilitates building OCI images.
 * 【2026-06-05】[podman-container-tools / podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 * 【2026-06-04】[cisco-ai-defense / defenseclaw](https://github.com/cisco-ai-defense/defenseclaw) - Security Governance for Agentic AI
 * 【2026-06-03】[sartoopjj / thefeed](https://github.com/sartoopjj/thefeed) - DNS-based feed reader for Telegram channels and public X accounts. Designed for environments where only DNS queries work.
@@ -1618,6 +1619,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-06-06】[refactoringhq / tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 * 【2026-06-05】[cyberpapiii / chipotlai-max](https://github.com/cyberpapiii/chipotlai-max) - The AI coding agent that runs on stolen Chipotle compute 🌯 Fork of OpenCode with Pepper AI as default model. Community project to add providers from Home Depot, Lowes, Target, Starbucks & more.
 * 【2026-06-05】[NVIDIA / NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 * 【2026-06-05】[fathah / hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
@@ -2275,6 +2277,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-06-06】[santifer / career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+* 【2026-06-06】[eze-is / web-access](https://github.com/eze-is/web-access) - 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治
 * 【2026-06-05】[JuliusBrussee / caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 * 【2026-06-05】[supermemoryai / claude-supermemory](https://github.com/supermemoryai/claude-supermemory) - Enable Claude Code to learn in real-time, update it's knowledge, and grow with you, using supermemory.
 * 【2026-06-04】[outsourc-e / hermes-workspace](https://github.com/outsourc-e/hermes-workspace) - Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.
@@ -2674,6 +2678,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-06-06】[xarray / osgverse](https://github.com/xarray/osgverse) - osgVerse, a complete 3d engine solution based on OpenSceneGraph. It supports OpenGL/OpenGLES/Vulkan/DirectX/Metal backends, and also works on modern browsers using WASM.
 * 【2026-06-04】[zanfranceschi / rinha-de-backend-2026](https://github.com/zanfranceschi/rinha-de-backend-2026) - Rinha de Backend - Quarta Edição: Detecção de Fraude com Busca Vetorial
 * 【2026-06-04】[21cncstudio / project_aura](https://github.com/21cncstudio/project_aura) - ESP32‑S3 air‑quality station with LVGL UI, MQTT, Home Assistant
 * 【2026-06-02】[wolfSSL / wolfCOSE](https://github.com/wolfSSL/wolfCOSE) - A fast, portable, and lightweight COSE + CBOR implementation for embedded systems. Supports PQC, FIPS 140-3, DO-178, and MISRA C. Powered by wolfSSL.
@@ -2960,6 +2965,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-06-06】[ElyPrismLauncher / Launcher](https://github.com/ElyPrismLauncher/Launcher) - This fork of Prism Launcher adds integrated support for Ely.by accounts.
+* 【2026-06-06】[sdatkinson / NeuralAmpModelerPlugin](https://github.com/sdatkinson/NeuralAmpModelerPlugin) - Plugin for Neural Amp Modeler
 * 【2026-06-03】[CopterExpress / clover](https://github.com/CopterExpress/clover) - ROS-based framework and RPi image to control PX4-powered drones 🍀
 * 【2026-06-03】[aenu1 / aps3e](https://github.com/aenu1/aps3e) - An experimental Android PS3 emulator, ported and optimized based on RPCS3.
 * 【2026-05-28】[simplefoc / Arduino-FOC](https://github.com/simplefoc/Arduino-FOC) - Arduino FOC for BLDC and Stepper motors - Arduino Based Field Oriented Control Algorithm Library
@@ -3261,6 +3268,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-06-06】[Panniantong / Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+* 【2026-06-06】[MemPalace / mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 * 【2026-06-05】[NVIDIA / cosmos](https://github.com/NVIDIA/cosmos) - NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.
 * 【2026-06-05】[openclaw / openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node) - Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension
 * 【2026-06-04】[HKUDS / Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
