@@ -1628,6 +1628,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-06-10】[luongnv89 / asm](https://github.com/luongnv89/asm) - The universal skill manager for AI coding agents.
 * 【2026-06-09】[ibelick / ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers
 * 【2026-06-09】[mauriceboe / TREK](https://github.com/mauriceboe/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 * 【2026-06-09】[777genius / agent-teams-ai](https://github.com/777genius/agent-teams-ai) - You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode(200+ models, 75+ LLM providers, free models no auth). Build your AI company with multiple teams.
@@ -2696,6 +2697,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-06-10】[InterceptSuite / ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
+* 【2026-06-10】[vayun-mathur / Modern-Apps](https://github.com/vayun-mathur/Modern-Apps) - A full mobile ecosystem of 19 apps
 * 【2026-06-08】[kaansenol5 / VibeOS](https://github.com/kaansenol5/VibeOS) - A completely vibecoded operating system targeting Aarch64
 * 【2026-06-06】[xarray / osgverse](https://github.com/xarray/osgverse) - osgVerse, a complete 3d engine solution based on OpenSceneGraph. It supports OpenGL/OpenGLES/Vulkan/DirectX/Metal backends, and also works on modern browsers using WASM.
 * 【2026-06-04】[zanfranceschi / rinha-de-backend-2026](https://github.com/zanfranceschi/rinha-de-backend-2026) - Rinha de Backend - Quarta Edição: Detecção de Fraude com Busca Vetorial
@@ -2984,6 +2987,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-06-10】[strukturag / libheif](https://github.com/strukturag/libheif) - libheif is an HEIF and AVIF file format decoder and encoder.
 * 【2026-06-08】[cifertech / ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless offensive and defensive toolkit powered by an ESP32
 * 【2026-06-06】[ElyPrismLauncher / Launcher](https://github.com/ElyPrismLauncher/Launcher) - This fork of Prism Launcher adds integrated support for Ely.by accounts.
 * 【2026-06-06】[sdatkinson / NeuralAmpModelerPlugin](https://github.com/sdatkinson/NeuralAmpModelerPlugin) - Plugin for Neural Amp Modeler
@@ -3288,6 +3292,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-06-10】[maziyarpanahi / openmed](https://github.com/maziyarpanahi/openmed) - open-source healthcare ai
 * 【2026-06-09】[google / skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 * 【2026-06-09】[phuryn / pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 * 【2026-06-08】[RyanCodrai / turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings
