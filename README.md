@@ -465,6 +465,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-06-15】[openinterpreter / openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+* 【2026-06-15】[Ar9av / obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) - Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy's LLM Wiki pattern
 * 【2026-06-14】[py-pdf / pypdf](https://github.com/py-pdf/pypdf) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
 * 【2026-06-13】[shuvonsec / claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) - AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes, autonomous hunting, and report generation. All inside Claude Code.
 * 【2026-06-12】[LLMQuant / quant-mind](https://github.com/LLMQuant/quant-mind) - QuantMind is an intelligent knowledge extraction and retrieval framework for quantitative finance.
@@ -1200,6 +1202,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-06-15】[ls1intum / Artemis](https://github.com/ls1intum/Artemis) - Artemis - Interactive Learning with Automated Feedback
 * 【2026-06-14】[matevip / mateclaw](https://github.com/matevip/mateclaw) - 🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.
 * 【2026-06-12】[primefaces / primefaces](https://github.com/primefaces/primefaces) - Ultimate Component Suite for Jakarta Faces
 * 【2026-06-04】[bethington / ghidra-mcp](https://github.com/bethington/ghidra-mcp) - Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.
@@ -2303,6 +2306,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-06-15】[sigalor / whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) - Reverse engineering WhatsApp Web.
+* 【2026-06-15】[js-org / js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 * 【2026-06-14】[openai / codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 * 【2026-06-12】[rohitg00 / k8sgames](https://github.com/rohitg00/k8sgames) - Learn Kubernetes by playing. Deploy pods, fix CrashLoopBackOff, type real kubectl commands: 3D browser game, no install needed.
 * 【2026-06-09】[y13sint / FreeQwenApi](https://github.com/y13sint/FreeQwenApi) - Локальный API-прокси для Qwen AI с поддержкой сохранения контекста диалогов и управления сессиями через REST API
@@ -3312,6 +3317,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-06-15】[Introduction-to-Autonomous-Robots / Introduction-to-Autonomous-Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots) - Introduction to Autonomous Robots
 * 【2026-06-14】[swc-project / swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 * 【2026-06-12】[NVIDIA / SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
 * 【2026-06-12】[kenn-io / agentsview](https://github.com/kenn-io/agentsview) - Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!
