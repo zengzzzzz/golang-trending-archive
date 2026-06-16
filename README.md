@@ -1202,6 +1202,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-06-16】[JanssenProject / jans](https://github.com/JanssenProject/jans) - The Janssen Project is a home for open source IAM components, featuring Auth Server (OAuth/OpenID), Agama low-code identity orchestration, and the Cedarling policy decision point. The "Janssen Server" distributions bundle IAM components under one control plane.
+* 【2026-06-16】[castorini / anserini](https://github.com/castorini/anserini) - Anserini is a Lucene toolkit for reproducible information retrieval research
 * 【2026-06-15】[ls1intum / Artemis](https://github.com/ls1intum/Artemis) - Artemis - Interactive Learning with Automated Feedback
 * 【2026-06-14】[matevip / mateclaw](https://github.com/matevip/mateclaw) - 🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.
 * 【2026-06-12】[primefaces / primefaces](https://github.com/primefaces/primefaces) - Ultimate Component Suite for Jakarta Faces
@@ -1641,6 +1643,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-06-16】[TencentCloud / TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.
+* 【2026-06-16】[Emanuele-web04 / synara](https://github.com/Emanuele-web04/synara) - The best place to build with your AI sub
+* 【2026-06-16】[smol-ai / GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 * 【2026-06-11】[google-labs-code / design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 * 【2026-06-10】[luongnv89 / asm](https://github.com/luongnv89/asm) - The universal skill manager for AI coding agents.
 * 【2026-06-09】[ibelick / ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers
@@ -2715,6 +2720,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-06-16】[OSGeo / grass](https://github.com/OSGeo/grass) - GRASS - free and open-source geospatial processing engine
+* 【2026-06-16】[tr4m0ryp / tr4mpass](https://github.com/tr4m0ryp/tr4mpass) - Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).
 * 【2026-06-13】[DynamoRIO / dynamorio](https://github.com/DynamoRIO/dynamorio) - Dynamic Instrumentation Tool Platform
 * 【2026-06-11】[PlummersSoftwareLLC / retropad](https://github.com/PlummersSoftwareLLC/retropad) - 
 * 【2026-06-10】[InterceptSuite / ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
@@ -3317,6 +3324,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-06-16】[teslamate-org / teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]
+* 【2026-06-16】[itsfatduck / optimizerDuck](https://github.com/itsfatduck/optimizerDuck) - Free, open-source Windows optimization tool for performance, privacy, and simplicity.
 * 【2026-06-15】[Introduction-to-Autonomous-Robots / Introduction-to-Autonomous-Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots) - Introduction to Autonomous Robots
 * 【2026-06-14】[swc-project / swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 * 【2026-06-12】[NVIDIA / SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
