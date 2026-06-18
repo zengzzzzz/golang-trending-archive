@@ -465,6 +465,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-06-18】[fivetran / great_expectations](https://github.com/fivetran/great_expectations) - Always know what to expect from your data.
+* 【2026-06-18】[fastapi / typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 * 【2026-06-17】[microsoft / fara](https://github.com/microsoft/fara) - Fara-7B: An Efficient Agentic Model for Computer Use
 * 【2026-06-15】[openinterpreter / openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 * 【2026-06-15】[Ar9av / obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) - Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy's LLM Wiki pattern
@@ -1203,6 +1205,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-06-18】[vaadin / platform](https://github.com/vaadin/platform) - Vaadin platform 10+ is a Java web development platform based on Vaadin web components. If you don't know to which repository your bug report should be filed, use this and we'll move it to the right one.
+* 【2026-06-18】[eszdman / PhotonCamera](https://github.com/eszdman/PhotonCamera) - Android Camera that uses Enhanced image processing
 * 【2026-06-17】[dromara / RuoYi-Vue-Plus](https://github.com/dromara/RuoYi-Vue-Plus) - 基于RuoYi-Vue集成 Lombok+Mybatis-Plus+Undertow+knife4j+Hutool+Feign 重写所有原生业务 定期与RuoYi-Vue同步
 * 【2026-06-16】[JanssenProject / jans](https://github.com/JanssenProject/jans) - The Janssen Project is a home for open source IAM components, featuring Auth Server (OAuth/OpenID), Agama low-code identity orchestration, and the Cedarling policy decision point. The "Janssen Server" distributions bundle IAM components under one control plane.
 * 【2026-06-16】[castorini / anserini](https://github.com/castorini/anserini) - Anserini is a Lucene toolkit for reproducible information retrieval research
@@ -3330,6 +3334,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-06-18】[calesthio / OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 * 【2026-06-17】[Universal-Debloater-Alliance / universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 * 【2026-06-16】[teslamate-org / teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]
 * 【2026-06-16】[itsfatduck / optimizerDuck](https://github.com/itsfatduck/optimizerDuck) - Free, open-source Windows optimization tool for performance, privacy, and simplicity.
