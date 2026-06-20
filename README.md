@@ -53,6 +53,10 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-06-20】[VersusControl / versus-incident](https://github.com/VersusControl/versus-incident) - Open-source incident management tool with an AI SRE agent that watches your logs, learns normal patterns, and auto-creates incidents — plus webhook alerts, multi-channel notifications, and on-call escalation.
+* 【2026-06-20】[BishopFox / cloudfox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests.
+* 【2026-06-20】[kubearmor / KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (LSM-BPF, AppArmor).
+* 【2026-06-20】[voocel / ainovel-cli](https://github.com/voocel/ainovel-cli) - ✨多agent实现全自动AI小说生成
 * 【2026-06-19】[zzet / gortex](https://github.com/zzet/gortex) - High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local.
 * 【2026-06-19】[charmbracelet / glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 * 【2026-06-19】[xvzc / spoofdpi](https://github.com/xvzc/spoofdpi) - Simple and fast anti-censorship tool written in Go
@@ -468,6 +472,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-06-20】[VectifyAI / OpenKB](https://github.com/VectifyAI/OpenKB) - OpenKB: Open LLM Knowledge Base
+* 【2026-06-20】[jamesyc / TimeCapsuleSMB](https://github.com/jamesyc/TimeCapsuleSMB) - Hacking the Apple Time Capsule to run modern Samba
 * 【2026-06-19】[cocoindex-io / cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works - saves 70% token and improves speed for coding agent 🌟 Star if you like it!
 * 【2026-06-18】[fivetran / great_expectations](https://github.com/fivetran/great_expectations) - Always know what to expect from your data.
 * 【2026-06-18】[fastapi / typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
@@ -1655,6 +1661,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-06-20】[vercel / workflow](https://github.com/vercel/workflow) - Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript
+* 【2026-06-20】[stablyai / orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
 * 【2026-06-19】[BuilderIO / agent-native](https://github.com/BuilderIO/agent-native) - A framework for building agent-native applications.
 * 【2026-06-19】[garrytan / gbrain](https://github.com/garrytan/gbrain) - Garry's Opinionated OpenClaw/Hermes Agent Brain
 * 【2026-06-17】[Egonex-AI / Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
@@ -2328,6 +2336,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-06-20】[react / react](https://github.com/react/react) - The library for web and native user interfaces.
 * 【2026-06-19】[vllm-project / recipes](https://github.com/vllm-project/recipes) - Common recipes to run vLLM
 * 【2026-06-17】[notionnext-org / NotionNext](https://github.com/notionnext-org/NotionNext) - Turn your Notion workspace into a fast, customizable website. Built with Next.js + Notion API, with multi-platform deployment and no self-hosted server required.
 * 【2026-06-15】[sigalor / whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) - Reverse engineering WhatsApp Web.
@@ -3344,6 +3353,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-06-20】[palmier-io / palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
 * 【2026-06-19】[zai-org / GLM-5](https://github.com/zai-org/GLM-5) - GLM-5: From Vibe Coding to Agentic Engineering
 * 【2026-06-19】[yifanfeng97 / Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) - Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.
 * 【2026-06-18】[calesthio / OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
