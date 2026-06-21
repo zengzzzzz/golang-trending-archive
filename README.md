@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-06-21】[Billionmail / BillionMail](https://github.com/Billionmail/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
 * 【2026-06-20】[VersusControl / versus-incident](https://github.com/VersusControl/versus-incident) - Open-source incident management tool with an AI SRE agent that watches your logs, learns normal patterns, and auto-creates incidents — plus webhook alerts, multi-channel notifications, and on-call escalation.
 * 【2026-06-20】[BishopFox / cloudfox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests.
 * 【2026-06-20】[kubearmor / KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (LSM-BPF, AppArmor).
@@ -1661,6 +1662,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-06-21】[nashsu / llm_wiki](https://github.com/nashsu/llm_wiki) - LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
 * 【2026-06-20】[vercel / workflow](https://github.com/vercel/workflow) - Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript
 * 【2026-06-20】[stablyai / orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
 * 【2026-06-19】[BuilderIO / agent-native](https://github.com/BuilderIO/agent-native) - A framework for building agent-native applications.
@@ -2336,6 +2338,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-06-21】[foundryvtt / dnd5e](https://github.com/foundryvtt/dnd5e) - An implementation of the 5th Edition game system for Foundry Virtual Tabletop (http://foundryvtt.com).
 * 【2026-06-20】[react / react](https://github.com/react/react) - The library for web and native user interfaces.
 * 【2026-06-19】[vllm-project / recipes](https://github.com/vllm-project/recipes) - Common recipes to run vLLM
 * 【2026-06-17】[notionnext-org / NotionNext](https://github.com/notionnext-org/NotionNext) - Turn your Notion workspace into a fast, customizable website. Built with Next.js + Notion API, with multi-platform deployment and no self-hosted server required.
@@ -3353,6 +3356,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-06-21】[pppscn / SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 * 【2026-06-20】[palmier-io / palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
 * 【2026-06-19】[zai-org / GLM-5](https://github.com/zai-org/GLM-5) - GLM-5: From Vibe Coding to Agentic Engineering
 * 【2026-06-19】[yifanfeng97 / Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) - Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.
