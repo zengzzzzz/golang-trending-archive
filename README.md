@@ -1662,6 +1662,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-06-22】[tashfeenahmed / freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+* 【2026-06-22】[modem-dev / hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 * 【2026-06-21】[nashsu / llm_wiki](https://github.com/nashsu/llm_wiki) - LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
 * 【2026-06-20】[vercel / workflow](https://github.com/vercel/workflow) - Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript
 * 【2026-06-20】[stablyai / orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
@@ -2338,6 +2340,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-06-22】[Darkatse / TauriTavern](https://github.com/Darkatse/TauriTavern) - The classic Sillytavern, now has been rewritten in Tauri/Rust.
+* 【2026-06-22】[maillab / cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service | 基于 Cloudflare 的邮箱服务 | Cloudflare Email 邮箱 Mail
 * 【2026-06-21】[foundryvtt / dnd5e](https://github.com/foundryvtt/dnd5e) - An implementation of the 5th Edition game system for Foundry Virtual Tabletop (http://foundryvtt.com).
 * 【2026-06-20】[react / react](https://github.com/react/react) - The library for web and native user interfaces.
 * 【2026-06-19】[vllm-project / recipes](https://github.com/vllm-project/recipes) - Common recipes to run vLLM
@@ -2751,6 +2755,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-06-22】[logicog / RTLPlayground](https://github.com/logicog/RTLPlayground) - A Playground for Firmware development for RTL8372/RTL8373 based 2.5GBit Switches
 * 【2026-06-19】[getsentry / sentry-native](https://github.com/getsentry/sentry-native) - Sentry SDK for C, C++ and native applications.
 * 【2026-06-16】[OSGeo / grass](https://github.com/OSGeo/grass) - GRASS - free and open-source geospatial processing engine
 * 【2026-06-16】[tr4m0ryp / tr4mpass](https://github.com/tr4m0ryp/tr4mpass) - Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).
@@ -3046,6 +3051,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-06-22】[fmrico / book_ros2](https://github.com/fmrico/book_ros2) - 
+* 【2026-06-22】[JRickey / BattleShip](https://github.com/JRickey/BattleShip) - A smashin' port for PC, Mac, and Linux!
 * 【2026-06-14】[GensokyoClub / th06](https://github.com/GensokyoClub/th06) - Decompilation of 東方紅魔郷　～ the Embodiment of Scarlet Devil (1.02h)
 * 【2026-06-14】[kevinpbuckley / VibeUE](https://github.com/kevinpbuckley/VibeUE) - Unreal Engine Vibe Coding tool
 * 【2026-06-13】[react / react-native](https://github.com/react/react-native) - A framework for building native applications using React
