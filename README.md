@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-06-23】[esengine / DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+* 【2026-06-23】[Layr-Labs / d-inference](https://github.com/Layr-Labs/d-inference) - Private Inference Network on Idle Macs
 * 【2026-06-21】[Billionmail / BillionMail](https://github.com/Billionmail/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
 * 【2026-06-20】[VersusControl / versus-incident](https://github.com/VersusControl/versus-incident) - Open-source incident management tool with an AI SRE agent that watches your logs, learns normal patterns, and auto-creates incidents — plus webhook alerts, multi-channel notifications, and on-call escalation.
 * 【2026-06-20】[BishopFox / cloudfox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests.
@@ -473,6 +475,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-06-23】[NVIDIA / skills](https://github.com/NVIDIA/skills) - AI agent skills published by NVIDIA
+* 【2026-06-23】[kernalix7 / winpodx](https://github.com/kernalix7/winpodx) - Windows pod system for Linux
 * 【2026-06-20】[VectifyAI / OpenKB](https://github.com/VectifyAI/OpenKB) - OpenKB: Open LLM Knowledge Base
 * 【2026-06-20】[jamesyc / TimeCapsuleSMB](https://github.com/jamesyc/TimeCapsuleSMB) - Hacking the Apple Time Capsule to run modern Samba
 * 【2026-06-19】[cocoindex-io / cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works - saves 70% token and improves speed for coding agent 🌟 Star if you like it!
@@ -1216,6 +1220,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-06-23】[dromara / ujcms](https://github.com/dromara/ujcms) - Java开源网站内容管理系统(java cms)。使用SpringBoot、MyBatis、Spring Security、Lucene、FreeMarker、TypeScript、Vue3、ElementPlus等技术开发。
 * 【2026-06-19】[redis / docs](https://github.com/redis/docs) - Documentation for Redis, Redis Cloud, and Redis Enterprise
 * 【2026-06-19】[lunasaw / voglander](https://github.com/lunasaw/voglander) - Voglander 是基于 Spring Boot 3.5 + Java 17 的企业级视频监控平台，支持 GB28181、JT/T 1078、ONVIF、SIP Gateway、ZLMediaKit、IPC/NVR 接入、实时点播、录像回放、流媒体转发、NAT 穿透和国标级联。
 * 【2026-06-18】[vaadin / platform](https://github.com/vaadin/platform) - Vaadin platform 10+ is a Java web development platform based on Vaadin web components. If you don't know to which repository your bug report should be filed, use this and we'll move it to the right one.
@@ -1662,6 +1667,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-06-23】[corsairdev / corsair](https://github.com/corsairdev/corsair) - Your Agent's Integration Layer
+* 【2026-06-23】[karakeep-app / karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 * 【2026-06-22】[tashfeenahmed / freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 * 【2026-06-22】[modem-dev / hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 * 【2026-06-21】[nashsu / llm_wiki](https://github.com/nashsu/llm_wiki) - LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
@@ -2340,6 +2347,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-06-23】[FB208 / OpenBidKit_Yibiao](https://github.com/FB208/OpenBidKit_Yibiao) - 开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用
 * 【2026-06-22】[Darkatse / TauriTavern](https://github.com/Darkatse/TauriTavern) - The classic Sillytavern, now has been rewritten in Tauri/Rust.
 * 【2026-06-22】[maillab / cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service | 基于 Cloudflare 的邮箱服务 | Cloudflare Email 邮箱 Mail
 * 【2026-06-21】[foundryvtt / dnd5e](https://github.com/foundryvtt/dnd5e) - An implementation of the 5th Edition game system for Foundry Virtual Tabletop (http://foundryvtt.com).
