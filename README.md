@@ -476,6 +476,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-06-27】[didilili / ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) - 🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径 + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调 · 从0到企业级落地 + 从学习到上线项目 + 面试准备一体化
+* 【2026-06-27】[safishamsi / graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
 * 【2026-06-26】[NVIDIA-NeMo / Speech](https://github.com/NVIDIA-NeMo/Speech) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 * 【2026-06-24】[aws / agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) - Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
 * 【2026-06-23】[NVIDIA / skills](https://github.com/NVIDIA/skills) - AI agent skills published by NVIDIA
@@ -1670,6 +1672,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-06-27】[EKKOLearnAI / hermes-studio](https://github.com/EKKOLearnAI/hermes-studio) - Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics
 * 【2026-06-26】[motion-canvas / motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 * 【2026-06-26】[receptron / mulmoclaude](https://github.com/receptron/mulmoclaude) - Multi-modal Claude Code Client
 * 【2026-06-26】[hoangsonww / Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) - 🚀 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, and WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchestration, providing live analytics, a Kanban status board, status notifications, a cute buddy, and an interactive web UI/MacOS/Windows native app.
@@ -2354,6 +2357,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-06-27】[freestylefly / awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 * 【2026-06-26】[jnMetaCode / superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) - 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活
 * 【2026-06-25】[arunbhardwaj / LeetHub-2.0](https://github.com/arunbhardwaj/LeetHub-2.0) - Automatically sync your leetcode solutions to your github account - with some updates to keep it working
 * 【2026-06-25】[Shopify / Shopify-AI-Toolkit](https://github.com/Shopify/Shopify-AI-Toolkit) - Agent plugins/extensions for CLIs and IDEs
@@ -2773,6 +2777,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-06-27】[sp00nznet / ps3recomp](https://github.com/sp00nznet/ps3recomp) - Static recompilation runtime libraries for PlayStation 3 titles.
+* 【2026-06-27】[espressif / esp-claw](https://github.com/espressif/esp-claw) - ESP-Claw, a "Chat Coding" AI agent framework for IoT devices
 * 【2026-06-26】[winfsp / winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
 * 【2026-06-22】[logicog / RTLPlayground](https://github.com/logicog/RTLPlayground) - A Playground for Firmware development for RTL8372/RTL8373 based 2.5GBit Switches
 * 【2026-06-19】[getsentry / sentry-native](https://github.com/getsentry/sentry-native) - Sentry SDK for C, C++ and native applications.
