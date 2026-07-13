@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-07-13】[Mininglamp-OSS / octo-server](https://github.com/Mininglamp-OSS/octo-server) - 🐙 The Go backend powering OCTO — an open workplace built for humans × AI agents. REST & WebSocket APIs, Lobster (AI agent) orchestration, and WuKongIM real-time messaging control plane.
 * 【2026-07-10】[velero-io / velero](https://github.com/velero-io/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 * 【2026-07-09】[karust / openserp](https://github.com/karust/openserp) - Self-hosted SERP API for AI, SEO & automation. Browser-rendered Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia search with page extraction 🎉
 * 【2026-07-06】[asciimoo / hister](https://github.com/asciimoo/hister) - Your own search engine
@@ -487,6 +488,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-07-13】[youtubediscord / zapret](https://github.com/youtubediscord/zapret) - Zapret (Запрет обход блокировки Дискорда и Ютуба)
+* 【2026-07-13】[microsoft / TRELLIS.2](https://github.com/microsoft/TRELLIS.2) - Native and Compact Structured Latents for 3D Generation
 * 【2026-07-12】[FoundationAgents / OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground. OpenManus is Coming.
 * 【2026-07-12】[cognizant-ai-lab / neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) - A playground for neuro-san
 * 【2026-07-12】[ATH-MaaS / Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
@@ -2407,6 +2410,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-07-13】[venera-app / venera-configs](https://github.com/venera-app/venera-configs) - 
 * 【2026-07-11】[ilysenko / codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman), Nix/NixOS, and AppImage, with Wayland and X11 support.
 * 【2026-07-09】[byoungd / up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
 * 【2026-07-08】[Piebald-AI / claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, statusline, magic docs, WebFetch, Bash cmd, security review, agent creation). Updated for each Claude Code version.
@@ -3147,6 +3151,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-07-13】[InoriRus / Kyty](https://github.com/InoriRus/Kyty) - PS4 & PS5 emulator
 * 【2026-07-10】[carbonengine / core](https://github.com/carbonengine/core) - Provides generic low-level functionality and cross-platform abstractions for system calls
 * 【2026-07-10】[Alex2772 / kuni](https://github.com/Alex2772/kuni) - character ai
 * 【2026-07-06】[xland / ScreenCapture](https://github.com/xland/ScreenCapture) - A feature-rich screen capture software with just a single executable file
@@ -3466,6 +3471,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-07-13】[Dicklesworthstone / destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
+* 【2026-07-13】[k1tbyte / Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) - Advanced UX and interoperability extension for Wand (WeMod) app
+* 【2026-07-13】[par274 / sharpemu](https://github.com/par274/sharpemu) - An experimental PlayStation 5 emulator project.
+* 【2026-07-13】[Nutlope / hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 * 【2026-07-12】[malisper / pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 * 【2026-07-10】[SmartlyDressedGames / U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) - Source code for Unturned, a free open-world zombie survival sandbox game.
 * 【2026-07-10】[VoltAgent / awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
