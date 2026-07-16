@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-07-16】[mk6i / open-oscar-server](https://github.com/mk6i/open-oscar-server) - Self-hostable instant messaging server compatible with classic AIM and ICQ clients written in golang. (Independently developed, not affiliated with or endorsed by AOL)
 * 【2026-07-15】[microsoft / agent-framework-go](https://github.com/microsoft/agent-framework-go) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Go.
 * 【2026-07-14】[perber / leafwiki](https://github.com/perber/leafwiki) - LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required.
 * 【2026-07-13】[Mininglamp-OSS / octo-server](https://github.com/Mininglamp-OSS/octo-server) - 🐙 The Go backend powering OCTO — an open workplace built for humans × AI agents. REST & WebSocket APIs, Lobster (AI agent) orchestration, and WuKongIM real-time messaging control plane.
@@ -490,6 +491,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-07-16】[HKUDS / nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
+* 【2026-07-16】[PrimeIntellect-ai / prime-rl](https://github.com/PrimeIntellect-ai/prime-rl) - Agentic RL Training at Scale
+* 【2026-07-16】[apache / ossie](https://github.com/apache/ossie) - Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data
 * 【2026-07-15】[cactus-compute / needle](https://github.com/cactus-compute/needle) - 26m function call model that runs on incredibly small devices
 * 【2026-07-15】[kangarooking / cangjie-skill](https://github.com/kangarooking/cangjie-skill) - 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 * 【2026-07-14】[simonlin1212 / TradingAgents-astock](https://github.com/simonlin1212/TradingAgents-astock) - A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。
@@ -1714,6 +1718,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-07-16】[raroque / boop-agent](https://github.com/raroque/boop-agent) - iMessage personal agent: choose Claude Agent SDK (Claude Code) or Codex app-server runtime (Codex/ChatGPT), with memory, sub-agents, automations, integrations.
+* 【2026-07-16】[mcp-use / mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 * 【2026-07-15】[zts212653 / clowder-ai](https://github.com/zts212653/clowder-ai) - Build AI teams, not just agents. Hard rails, soft power, shared mission.
 * 【2026-07-10】[traycerai / traycer](https://github.com/traycerai/traycer) - Traycer: Nerve Center for Agentic Coding
 * 【2026-07-09】[browseros-ai / BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
@@ -2853,6 +2859,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-07-16】[qualcomm-linux / kernel](https://github.com/qualcomm-linux/kernel) - Linux Kernel for QLI mainline
 * 【2026-07-15】[theMackabu / ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
 * 【2026-07-15】[LibreDWG / libredwg](https://github.com/LibreDWG/libredwg) - Official mirror of libredwg. With CI hooks and nightly releases. PR's ok
 * 【2026-07-09】[antirez / ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
