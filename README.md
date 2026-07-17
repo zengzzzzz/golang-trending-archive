@@ -491,6 +491,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-07-17】[HKUDS / OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
 * 【2026-07-16】[HKUDS / nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
 * 【2026-07-16】[PrimeIntellect-ai / prime-rl](https://github.com/PrimeIntellect-ai/prime-rl) - Agentic RL Training at Scale
 * 【2026-07-16】[apache / ossie](https://github.com/apache/ossie) - Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data
@@ -1718,6 +1719,11 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-07-17】[callstack / agent-device](https://github.com/callstack/agent-device) - CLI to control iOS and Android devices for AI agents
+* 【2026-07-17】[injaneity / pi-computer-use](https://github.com/injaneity/pi-computer-use) - Let Pi control your apps on MacOS & Windows
+* 【2026-07-17】[mattpocock / dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) - AI coding jargon, explained in plain English.
+* 【2026-07-17】[superdoc-dev / superdoc](https://github.com/superdoc-dev/superdoc) - 🦋️ SuperDoc - Modern DOCX Editor and Agent SDK
+* 【2026-07-17】[denislupookov / altersend](https://github.com/denislupookov/altersend) - Send files directly between devices over the internet - no cloud storage, no size limits.
 * 【2026-07-16】[raroque / boop-agent](https://github.com/raroque/boop-agent) - iMessage personal agent: choose Claude Agent SDK (Claude Code) or Codex app-server runtime (Codex/ChatGPT), with memory, sub-agents, automations, integrations.
 * 【2026-07-16】[mcp-use / mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 * 【2026-07-15】[zts212653 / clowder-ai](https://github.com/zts212653/clowder-ai) - Build AI teams, not just agents. Hard rails, soft power, shared mission.
@@ -2423,6 +2429,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-07-17】[mm7894215 / TokenTracker](https://github.com/mm7894215/TokenTracker) - Local-first AI token usage & cost tracker for 27 coding tools — with a desktop pet, 4 widgets, achievements, native macOS/Windows apps, and a one-command CLI. Never reads prompts.
 * 【2026-07-15】[rpamis / comet](https://github.com/rpamis/comet) - Comet: agent skill harness for turning ideas into evaluated workflows
 * 【2026-07-13】[venera-app / venera-configs](https://github.com/venera-app/venera-configs) - 
 * 【2026-07-11】[ilysenko / codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman), Nix/NixOS, and AppImage, with Wayland and X11 support.
@@ -2859,6 +2866,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-07-17】[V4bel / dirtyfrag](https://github.com/V4bel/dirtyfrag) - 
+* 【2026-07-17】[HermannBjorgvin / Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter) - ESP32 desk dashboard that shows Claude Code usage
 * 【2026-07-16】[qualcomm-linux / kernel](https://github.com/qualcomm-linux/kernel) - Linux Kernel for QLI mainline
 * 【2026-07-15】[theMackabu / ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
 * 【2026-07-15】[LibreDWG / libredwg](https://github.com/LibreDWG/libredwg) - Official mirror of libredwg. With CI hooks and nightly releases. PR's ok
@@ -3490,6 +3499,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-07-17】[PrismML-Eng / Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) - Bonsai Demo
 * 【2026-07-15】[AIEraDev / Clypra](https://github.com/AIEraDev/Clypra) - A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities
 * 【2026-07-13】[Dicklesworthstone / destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 * 【2026-07-13】[k1tbyte / Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) - Advanced UX and interoperability extension for Wand (WeMod) app
