@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-07-18】[agent-substrate / substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
 * 【2026-07-16】[mk6i / open-oscar-server](https://github.com/mk6i/open-oscar-server) - Self-hostable instant messaging server compatible with classic AIM and ICQ clients written in golang. (Independently developed, not affiliated with or endorsed by AOL)
 * 【2026-07-15】[microsoft / agent-framework-go](https://github.com/microsoft/agent-framework-go) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Go.
 * 【2026-07-14】[perber / leafwiki](https://github.com/perber/leafwiki) - LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required.
@@ -491,6 +492,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-07-18】[android / skills](https://github.com/android/skills) - 
+* 【2026-07-18】[open-telemetry / semantic-conventions-genai](https://github.com/open-telemetry/semantic-conventions-genai) - 
 * 【2026-07-17】[HKUDS / OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
 * 【2026-07-16】[HKUDS / nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
 * 【2026-07-16】[PrimeIntellect-ai / prime-rl](https://github.com/PrimeIntellect-ai/prime-rl) - Agentic RL Training at Scale
@@ -1719,6 +1722,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-07-18】[foru17 / neko-master](https://github.com/foru17/neko-master) - A modern and elegant dashboard for network traffic visualization and analysis.
 * 【2026-07-17】[callstack / agent-device](https://github.com/callstack/agent-device) - CLI to control iOS and Android devices for AI agents
 * 【2026-07-17】[injaneity / pi-computer-use](https://github.com/injaneity/pi-computer-use) - Let Pi control your apps on MacOS & Windows
 * 【2026-07-17】[mattpocock / dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) - AI coding jargon, explained in plain English.
@@ -2866,6 +2870,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-07-18】[floooh / chips](https://github.com/floooh/chips) - 8-bit chip and system emulators in standalone C headers
 * 【2026-07-17】[V4bel / dirtyfrag](https://github.com/V4bel/dirtyfrag) - 
 * 【2026-07-17】[HermannBjorgvin / Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter) - ESP32 desk dashboard that shows Claude Code usage
 * 【2026-07-16】[qualcomm-linux / kernel](https://github.com/qualcomm-linux/kernel) - Linux Kernel for QLI mainline
@@ -3177,6 +3182,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-07-18】[autowarefoundation / vision_pilot](https://github.com/autowarefoundation/vision_pilot) - Free and fully open-source L2 ADAS stack powered by End-to-End AI technology
+* 【2026-07-18】[CrispStrobe / CrispASR](https://github.com/CrispStrobe/CrispASR) - C++ ggml runtime hub for multilingual ASR and TTS models: Cohere Transcribe, Parakeet TDT, Voxtral, Canary 1B v2, etc, plus universal forced alignment, and more
 * 【2026-07-15】[sdatkinson / NeuralAmpModelerCore](https://github.com/sdatkinson/NeuralAmpModelerCore) - Core DSP library for NAM plugins
 * 【2026-07-15】[throneproj / Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
 * 【2026-07-13】[InoriRus / Kyty](https://github.com/InoriRus/Kyty) - PS4 & PS5 emulator
@@ -3499,6 +3506,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-07-18】[anthropics / cwc-workshops](https://github.com/anthropics/cwc-workshops) - 
 * 【2026-07-17】[PrismML-Eng / Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) - Bonsai Demo
 * 【2026-07-15】[AIEraDev / Clypra](https://github.com/AIEraDev/Clypra) - A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities
 * 【2026-07-13】[Dicklesworthstone / destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
