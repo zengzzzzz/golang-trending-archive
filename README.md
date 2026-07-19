@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-07-19】[github / gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs
 * 【2026-07-18】[agent-substrate / substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
 * 【2026-07-16】[mk6i / open-oscar-server](https://github.com/mk6i/open-oscar-server) - Self-hostable instant messaging server compatible with classic AIM and ICQ clients written in golang. (Independently developed, not affiliated with or endorsed by AOL)
 * 【2026-07-15】[microsoft / agent-framework-go](https://github.com/microsoft/agent-framework-go) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Go.
@@ -492,6 +493,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-07-19】[OpenSenseNova / SenseNova-U1](https://github.com/OpenSenseNova/SenseNova-U1) - SenseNova-U series: Native Unified Paradigm with NEO-unify from the First Principles
 * 【2026-07-18】[android / skills](https://github.com/android/skills) - 
 * 【2026-07-18】[open-telemetry / semantic-conventions-genai](https://github.com/open-telemetry/semantic-conventions-genai) - 
 * 【2026-07-17】[HKUDS / OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
@@ -1268,6 +1270,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-07-19】[apache / struts](https://github.com/apache/struts) - Apache Struts is a free, open-source, MVC framework for creating elegant, modern Java web applications
 * 【2026-07-14】[Apicurio / apicurio-registry](https://github.com/Apicurio/apicurio-registry) - An API/Schema registry - stores APIs and Schemas.
 * 【2026-07-06】[SGUDestiny / PenumbraPhantasm](https://github.com/SGUDestiny/PenumbraPhantasm) - 
 * 【2026-07-05】[mateaix / mateclaw](https://github.com/mateaix/mateclaw) - 🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.
@@ -2433,6 +2436,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-07-19】[InterfaceX-co-jp / genshijin](https://github.com/InterfaceX-co-jp/genshijin) - genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。
 * 【2026-07-17】[mm7894215 / TokenTracker](https://github.com/mm7894215/TokenTracker) - Local-first AI token usage & cost tracker for 27 coding tools — with a desktop pet, 4 widgets, achievements, native macOS/Windows apps, and a one-command CLI. Never reads prompts.
 * 【2026-07-15】[rpamis / comet](https://github.com/rpamis/comet) - Comet: agent skill harness for turning ideas into evaluated workflows
 * 【2026-07-13】[venera-app / venera-configs](https://github.com/venera-app/venera-configs) - 
@@ -3506,6 +3510,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-07-19】[elder-plinius / G0DM0D3](https://github.com/elder-plinius/G0DM0D3) - LIBERATED AI CHAT
+* 【2026-07-19】[KnockOutEZ / wigolo](https://github.com/KnockOutEZ/wigolo) - The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.
 * 【2026-07-18】[anthropics / cwc-workshops](https://github.com/anthropics/cwc-workshops) - 
 * 【2026-07-17】[PrismML-Eng / Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) - Bonsai Demo
 * 【2026-07-15】[AIEraDev / Clypra](https://github.com/AIEraDev/Clypra) - A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities
