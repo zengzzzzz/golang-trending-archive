@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-07-21】[open-telemetry / opentelemetry-go-compile-instrumentation](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation) - OpenTelemetry Go Compile Instrumentation
+* 【2026-07-21】[apache / casbin](https://github.com/apache/casbin) - Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC.
 * 【2026-07-19】[github / gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs
 * 【2026-07-18】[agent-substrate / substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
 * 【2026-07-16】[mk6i / open-oscar-server](https://github.com/mk6i/open-oscar-server) - Self-hostable instant messaging server compatible with classic AIM and ICQ clients written in golang. (Independently developed, not affiliated with or endorsed by AOL)
@@ -1270,6 +1272,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-07-21】[Nxer / Twist-Space-Technology-Mod](https://github.com/Nxer/Twist-Space-Technology-Mod) - Modded elements from GTNH players. Mainly about lategame of GTNH.
 * 【2026-07-19】[apache / struts](https://github.com/apache/struts) - Apache Struts is a free, open-source, MVC framework for creating elegant, modern Java web applications
 * 【2026-07-14】[Apicurio / apicurio-registry](https://github.com/Apicurio/apicurio-registry) - An API/Schema registry - stores APIs and Schemas.
 * 【2026-07-06】[SGUDestiny / PenumbraPhantasm](https://github.com/SGUDestiny/PenumbraPhantasm) - 
@@ -1725,6 +1728,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-07-21】[vercel-labs / deepsec](https://github.com/vercel-labs/deepsec) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
+* 【2026-07-21】[microsoft / AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach) - better agentic engineering
 * 【2026-07-18】[foru17 / neko-master](https://github.com/foru17/neko-master) - A modern and elegant dashboard for network traffic visualization and analysis.
 * 【2026-07-17】[callstack / agent-device](https://github.com/callstack/agent-device) - CLI to control iOS and Android devices for AI agents
 * 【2026-07-17】[injaneity / pi-computer-use](https://github.com/injaneity/pi-computer-use) - Let Pi control your apps on MacOS & Windows
@@ -2436,6 +2441,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-07-21】[OpenWhispr / openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
+* 【2026-07-21】[magnusoverli / opencode](https://github.com/magnusoverli/opencode) - 
 * 【2026-07-19】[InterfaceX-co-jp / genshijin](https://github.com/InterfaceX-co-jp/genshijin) - genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。
 * 【2026-07-17】[mm7894215 / TokenTracker](https://github.com/mm7894215/TokenTracker) - Local-first AI token usage & cost tracker for 27 coding tools — with a desktop pet, 4 widgets, achievements, native macOS/Windows apps, and a one-command CLI. Never reads prompts.
 * 【2026-07-15】[rpamis / comet](https://github.com/rpamis/comet) - Comet: agent skill harness for turning ideas into evaluated workflows
@@ -3186,6 +3193,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-07-21】[microsoft / intelligent-terminal](https://github.com/microsoft/intelligent-terminal) - A fork of Windows Terminal with native agent integration, right in your command line.
 * 【2026-07-20】[NVIDIA / DeepStream](https://github.com/NVIDIA/DeepStream) - NVIDIA DeepStream Monorepo: DeepStream SDK and reference apps for building GPU‑accelerated, real-time video and multi‑sensor analytics pipelines with GStreamer, TensorRT, and vision AI models across edge, on‑prem, and cloud deployments.
 * 【2026-07-18】[autowarefoundation / vision_pilot](https://github.com/autowarefoundation/vision_pilot) - Free and fully open-source L2 ADAS stack powered by End-to-End AI technology
 * 【2026-07-18】[CrispStrobe / CrispASR](https://github.com/CrispStrobe/CrispASR) - C++ ggml runtime hub for multilingual ASR and TTS models: Cohere Transcribe, Parakeet TDT, Voxtral, Canary 1B v2, etc, plus universal forced alignment, and more
@@ -3511,6 +3519,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-07-21】[tokio-rs / topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
+* 【2026-07-21】[oblien / openship](https://github.com/oblien/openship) - Self-hosted deployment platform
+* 【2026-07-21】[microsoft / Ontology-Playground](https://github.com/microsoft/Ontology-Playground) - Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.
+* 【2026-07-21】[handy-computer / transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) - ggml speech-to-text inference for 16+ model families
 * 【2026-07-20】[bojieli / ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 * 【2026-07-20】[andrewrabert / jellium-desktop](https://github.com/andrewrabert/jellium-desktop) - An unofficial desktop client for Jellyfin
 * 【2026-07-19】[elder-plinius / G0DM0D3](https://github.com/elder-plinius/G0DM0D3) - LIBERATED AI CHAT
