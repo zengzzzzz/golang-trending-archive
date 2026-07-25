@@ -1276,6 +1276,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-07-25】[Earthcomputer / EnchantmentCracker](https://github.com/Earthcomputer/EnchantmentCracker) - Cracking the XP seed in Minecraft and choosing your enchantments
 * 【2026-07-24】[IAMLZY2018 / XianYuAssistant](https://github.com/IAMLZY2018/XianYuAssistant) - 闲鱼助手(Java版），支持快速发送消息、监听消息、虚拟商品自动发货、自动确认收货等功能；本项目使用 JDK 21、Spring Boot 3.5.7、Vue 3.5 构建，提供完整的 Web 管理界面，手机端UI，请勿商用，仅供学习交流
 * 【2026-07-24】[hiero-ledger / hiero-consensus-node](https://github.com/hiero-ledger/hiero-consensus-node) - Crypto, token, consensus, file, and smart contract services for a Hiero based network
 * 【2026-07-24】[apache / accumulo](https://github.com/apache/accumulo) - Apache Accumulo
@@ -1735,6 +1736,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-07-25】[theopenco / llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
 * 【2026-07-23】[AdventDevInc / kudu](https://github.com/AdventDevInc/kudu) - Free Windows, Mac and Linux cleaner, scanner, and more.
 * 【2026-07-21】[vercel-labs / deepsec](https://github.com/vercel-labs/deepsec) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
 * 【2026-07-21】[microsoft / AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach) - better agentic engineering
@@ -2895,6 +2897,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-07-25】[mkj / dropbear](https://github.com/mkj/dropbear) - Dropbear SSH
 * 【2026-07-24】[mvp / uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
 * 【2026-07-23】[erincatto / box3d](https://github.com/erincatto/box3d) - Box3D is a 3D physics engine for games
 * 【2026-07-18】[floooh / chips](https://github.com/floooh/chips) - 8-bit chip and system emulators in standalone C headers
@@ -3209,6 +3212,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-07-25】[OpenLoco / OpenLoco](https://github.com/OpenLoco/OpenLoco) - An open source re-implementation of Chris Sawyer's Locomotion
+* 【2026-07-25】[xLLM-AI / xllm](https://github.com/xLLM-AI/xllm) - A high-performance inference engine for LLM, VLM, DiT and REC models, optimized for diverse AI accelerators. It is hosted in OpenAtom Foundation.
 * 【2026-07-24】[mobile-shell / mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 * 【2026-07-24】[cristibaluta / Imagin-Raw](https://github.com/cristibaluta/Imagin-Raw) - A lightweight but powerful alternative to Adobe Bridge for Mac
 * 【2026-07-21】[microsoft / intelligent-terminal](https://github.com/microsoft/intelligent-terminal) - A fork of Windows Terminal with native agent integration, right in your command line.
