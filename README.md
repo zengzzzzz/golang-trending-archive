@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-07-29】[alibaba / skill-up](https://github.com/alibaba/skill-up) - An evaluation and evolution tool for Agent Skills.
 * 【2026-07-28】[black-ant / Ant-Browser](https://github.com/black-ant/Ant-Browser) - 指纹浏览器
 * 【2026-07-27】[ikemen-engine / Ikemen-GO](https://github.com/ikemen-engine/Ikemen-GO) - An open-source fighting game engine that supports MUGEN resources.
 * 【2026-07-26】[evolution-foundation / evolution-go](https://github.com/evolution-foundation/evolution-go) - Evolution API / Evolution Go is an open-source WhatsApp integration API
@@ -501,6 +502,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-07-29】[HKUDS / OpenSpace](https://github.com/HKUDS/OpenSpace) - "OpenSpace: The Skill Management Layer for AI Agents" -- https://open-space.cloud/
+* 【2026-07-29】[lightseekorg / tokenspeed](https://github.com/lightseekorg/tokenspeed) - TokenSpeed is a speed-of-light LLM inference engine.
+* 【2026-07-29】[agentscope-ai / QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 * 【2026-07-28】[sickn33 / agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,987+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
 * 【2026-07-27】[sirkirby / unifi-mcp](https://github.com/sirkirby/unifi-mcp) - MCP servers for the UniFi suite of applications, Network, Protect, Access, and Drive
 * 【2026-07-27】[jgravelle / jcodemunch-mcp](https://github.com/jgravelle/jcodemunch-mcp) - Cut AI token costs 95%+ on code exploration. The leading MCP server for precise, symbol-level GitHub code retrieval via tree-sitter AST. Works with Claude Code, Cursor & any MCP client. 313B+ tokens saved.
@@ -1283,6 +1287,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-07-29】[icysymmetra / tiktok-patches-for-morphe](https://github.com/icysymmetra/tiktok-patches-for-morphe) - This repository is a Morphe patch source for TikTok. It continues the work from earlier community TikTok patch sets, including ReVanced, with the patches adapted for Morphe and tested against newer TikTok builds. The current target version is TikTok 43.8.3
 * 【2026-07-26】[jeandle / jeandle-jdk](https://github.com/jeandle/jeandle-jdk) - Jeandle is a Just-in-Time compiler for Java. It is built on OpenJDK and leverages the LLVM compiler infrastructure to generate machine code, aiming to provide powerful compilation optimizations and deliver high-performance code.
 * 【2026-07-26】[objectionary / eo](https://github.com/objectionary/eo) - EOLANG, an Experimental Pure Object-Oriented Programming Language Based on 𝜑-Calculus
 * 【2026-07-25】[Earthcomputer / EnchantmentCracker](https://github.com/Earthcomputer/EnchantmentCracker) - Cracking the XP seed in Minecraft and choosing your enchantments
@@ -1745,6 +1750,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-07-29】[NanmiCoder / cc-haha](https://github.com/NanmiCoder/cc-haha) - Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with WeChat, Feishu, DingTalk, Telegram, WhatsApp and H5 access.
+* 【2026-07-29】[microsoft / flint-chart](https://github.com/microsoft/flint-chart) - 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.
+* 【2026-07-29】[basketikun / infinite-canvas](https://github.com/basketikun/infinite-canvas) - 面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。
 * 【2026-07-28】[lightningpixel / modly](https://github.com/lightningpixel/modly) - Desktop app to generate 3D models from images using local AI — runs entirely on your GPU
 * 【2026-07-27】[EvanZhouDev / openai-oauth](https://github.com/EvanZhouDev/openai-oauth) - Free AI with your ChatGPT account
 * 【2026-07-27】[davepoon / buildwithclaude](https://github.com/davepoon/buildwithclaude) - A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw
@@ -2464,6 +2472,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-07-29】[visualbruno / 3DGenStudio](https://github.com/visualbruno/3DGenStudio) - 
 * 【2026-07-28】[faroukbmiled / RyukGram](https://github.com/faroukbmiled/RyukGram) - RyukGram, The Instagram tweak for iOS power users.
 * 【2026-07-26】[BazedFrog / SongGeneration-Studio](https://github.com/BazedFrog/SongGeneration-Studio) - Clean, polished interface for Tencent’s SongGeneration. Create songs from text prompts or reference audio, with batch processing and smart model selection. Minimum Requirement: 10GB of VRAM
 * 【2026-07-26】[TechyCSR / OpenCluely](https://github.com/TechyCSR/OpenCluely) - OpenCluely is a free, open source Cluely (alternative), built for technical interviews like DSA, OAs, and CP. It offers an invisible overlay, real-time AI help, Smart Image Processing for question capture, and multi-language support : 100% customizable and private.
@@ -2913,6 +2922,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-07-29】[mercedes-benz / ardep](https://github.com/mercedes-benz/ardep) - Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 * 【2026-07-28】[Sor3nt / Flipper-Zero-ESP32-Port](https://github.com/Sor3nt/Flipper-Zero-ESP32-Port) - 
 * 【2026-07-27】[RakuenSoftware / aimee](https://github.com/RakuenSoftware/aimee) - 
 * 【2026-07-27】[torvalds / GuitarPedal](https://github.com/torvalds/GuitarPedal) - Linus learns analog circuits
@@ -3231,6 +3241,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-07-29】[vicinaehq / vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 * 【2026-07-28】[microsoft / foundry-local](https://github.com/microsoft/foundry-local) - 
 * 【2026-07-26】[mosaic-group / openfpm](https://github.com/mosaic-group/openfpm) - OpenFPM: A scalable open framework for particle and particle-mesh codes on parallel computers
 * 【2026-07-25】[OpenLoco / OpenLoco](https://github.com/OpenLoco/OpenLoco) - An open source re-implementation of Chris Sawyer's Locomotion
@@ -3563,6 +3574,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-07-29】[hello245m / free-stockdb](https://github.com/hello245m/free-stockdb) - 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。
 * 【2026-07-28】[opengeos / GeoLibre](https://github.com/opengeos/GeoLibre) - A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
 * 【2026-07-28】[vudovn / ag-kit](https://github.com/vudovn/ag-kit) - 
 * 【2026-07-27】[permissionlesstech / bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
