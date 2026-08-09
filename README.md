@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-08-09】[seriousm4x / UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
+* 【2026-08-09】[alexballas / go2tv](https://github.com/alexballas/go2tv) - Cast media files to Smart TVs and Chromecast devices.
 * 【2026-08-07】[nicholas-fedor / watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 * 【2026-08-03】[Solr159 / JavBoss](https://github.com/Solr159/JavBoss) - 开箱即用的本地 JAV/视频 刮削、管理、播放软件，支持命令行一键安装和 docker 部署。只需简单添加目录，即可打造你的私人 JAV/视频 媒体库，带给你顶级的浏览体验，懒人必备。| Your local JAV/video manager.
 * 【2026-08-01】[versenilvis / IRIS](https://github.com/versenilvis/IRIS) - A shell auto-completion tool for your terminal
@@ -510,6 +512,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-08-09】[google-deepmind / weathernext](https://github.com/google-deepmind/weathernext) - 
+* 【2026-08-09】[superlinked / sie](https://github.com/superlinked/sie) - Open-source inference server and production cluster for all the models your agent needs.
+* 【2026-08-09】[harveyai / harvey-labs](https://github.com/harveyai/harvey-labs) - A benchmark built to evaluate and improve agent capabilities for supporting legal work.
+* 【2026-08-09】[AgriciDaniel / claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, international SEO, Google APIs, and PDF/Excel reporting. Optional DataForSEO, Firecrawl, and Banana extensions.
 * 【2026-08-06】[Comfy-Org / workflow_templates](https://github.com/Comfy-Org/workflow_templates) - ComfyUI template workflows
 * 【2026-08-06】[mpfaffenberger / code_puppy](https://github.com/mpfaffenberger/code_puppy) - Agentic AI for writing code
 * 【2026-08-06】[blader / humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
@@ -1305,6 +1311,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-08-09】[zalexdev / strykerapp](https://github.com/zalexdev/strykerapp) - Magic tool for pentest from your android device!
+* 【2026-08-09】[booklore-app / booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 * 【2026-08-04】[Crystaelix / Create-Simurail](https://github.com/Crystaelix/Create-Simurail) - An experimental train mod using Create and Sable.
 * 【2026-08-04】[Dwinovo / minecraft-numen](https://github.com/Dwinovo/minecraft-numen) - 住在 Minecraft 里的 AI 同伴——召唤它、跟它说话，它自己规划并动手：挖矿、建造、种地、战斗、合成。
 * 【2026-08-03】[ModinMobileSTS / Sts2MobileLauncher](https://github.com/ModinMobileSTS/Sts2MobileLauncher) - an unofficial sts2 mobile launcher that support mods,optimized mobile control
@@ -1773,6 +1781,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-08-09】[jordanrendric / claude-video-vision](https://github.com/jordanrendric/claude-video-vision) - Give Claude the ability to watch and understand videos — Claude Code plugin with frame extraction and multimodal audio analysis
 * 【2026-08-08】[CodebuffAI / freebuff](https://github.com/CodebuffAI/freebuff) - The free coding agent
 * 【2026-08-06】[ln-dev7 / circle](https://github.com/ln-dev7/circle) - UI - Project management interface inspired by Linear. Built with Next.js and shadcn/ui, this application allows tracking of issues, projects and teams.
 * 【2026-08-06】[melgarafael / DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) - Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
@@ -2503,6 +2512,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-08-09】[OpenSenseNova / SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) - Modular SenseNova skills for building AI-powered office assistants and productivity workflows
 * 【2026-08-08】[WorldFlowAI / everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
 * 【2026-08-07】[react / create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
 * 【2026-08-06】[OWASP / threat-dragon](https://github.com/OWASP/threat-dragon) - An open source threat modeling tool from OWASP
@@ -2963,6 +2973,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-08-09】[rexglue / rexglue-sdk](https://github.com/rexglue/rexglue-sdk) - Xbox 360 Recompilation Runtime and Toolkit
 * 【2026-08-07】[srwi / EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 * 【2026-08-06】[daos-stack / daos](https://github.com/daos-stack/daos) - DAOS Storage Stack (client libraries, storage engine, control plane)
 * 【2026-07-29】[mercedes-benz / ardep](https://github.com/mercedes-benz/ardep) - Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
@@ -3620,6 +3631,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-08-09】[litu54 / DevOps-Interview-Guide](https://github.com/litu54/DevOps-Interview-Guide) - DevOps Interview Guide
 * 【2026-08-08】[PrimeIntellect-ai / prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 * 【2026-08-08】[semantica-agi / semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
 * 【2026-08-08】[unclebob / swarm-forge](https://github.com/unclebob/swarm-forge) - A simple tool for coordinating several AI agents.
