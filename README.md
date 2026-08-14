@@ -53,6 +53,10 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-08-14】[compozy / compozy](https://github.com/compozy/compozy) - An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory. You steer everything from the browser.
+* 【2026-08-14】[geekjourneyx / md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) - Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理
+* 【2026-08-14】[astaxie / TokenHub](https://github.com/astaxie/TokenHub) - TokenHub gives enterprises a private gateway to unify AI model access and governance, making every request controllable, traceable, and attributable.
+* 【2026-08-14】[Willxup / cpa-usage-keeper](https://github.com/Willxup/cpa-usage-keeper) - Standalone CliProxyAPI usage tracker with SQLite persistence and built-in dashboard.
 * 【2026-08-13】[Agent-Field / pr-af](https://github.com/Agent-Field/pr-af) - #1 open-source code reviewer on Code-Review-Bench
 * 【2026-08-13】[samber / cc-skills-golang](https://github.com/samber/cc-skills-golang) - 🧑‍🎨 A collection of Golang agentic skills that works
 * 【2026-08-11】[kdlbs / kandev](https://github.com/kdlbs/kandev) - AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry.
@@ -1323,6 +1327,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-08-14】[jdubois / boot-ui](https://github.com/jdubois/boot-ui) - The missing developer UI for Spring Boot and Quarkus!
+* 【2026-08-14】[aurickk / OpSec](https://github.com/aurickk/OpSec) - Minecraft mod for advanced client brand spoofing, tracking exploit protections, and other privacy focused features.
 * 【2026-08-12】[elder-plinius / V3SP3R](https://github.com/elder-plinius/V3SP3R) - AI Flipper control
 * 【2026-08-11】[fish2018 / webhtv](https://github.com/fish2018/webhtv) - WebHomeTV 基于FongMi二次开发，增强了 WebHome 自定义首页、App Native SDK、网盘链接检测 和 Nostr推荐首页。 这个项目的核心目标是让 CSP 站点首页可以变成一个真正可开发的网页应用：开发者可以用 HTML/CSS/JavaScript 定制首页，再通过 App 暴露的 Native 能力完成搜索、播放、跨域请求、资源代理、最近观看、网盘检测和状态同步。
 * 【2026-08-11】[Audiveris / audiveris](https://github.com/Audiveris/audiveris) - Latest generation of Audiveris OMR engine
@@ -1797,6 +1803,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-08-14】[apify / apify-mcp-server](https://github.com/apify/apify-mcp-server) - The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.
+* 【2026-08-14】[golbin / hop](https://github.com/golbin/hop) - 
 * 【2026-08-13】[holaboss-ai / holaOS](https://github.com/holaboss-ai/holaOS) - Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.
 * 【2026-08-11】[joelbqz / writer-computer](https://github.com/joelbqz/writer-computer) - Local-first desktop markdown editor
 * 【2026-08-11】[brightdata / cli](https://github.com/brightdata/cli) - Official Bright Data CLI - scrape, search, and extract structured web data directly from your terminal.
