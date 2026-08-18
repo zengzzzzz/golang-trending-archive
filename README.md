@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-08-18】[strelov1 / freehire](https://github.com/strelov1/freehire) - freehire — the open-source search engine for job seekers
 * 【2026-08-17】[seakee / CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus) - A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health.
 * 【2026-08-17】[Gitlawb / zero](https://github.com/Gitlawb/zero) - The coding agent that answers to you, your model, your machine, your rules.
 * 【2026-08-15】[oseghalep / cloud-cost-optimization-hub](https://github.com/oseghalep/cloud-cost-optimization-hub) - Cloud Cost Optimization Hub is an open-source, self-hosted platform that provides unified cost visibility and actionable recommendations across AWS, GCP, and Azure. Features include multi-cloud cost aggregation, rightsizing recommendations, idle resource detection, cost anomaly alerts, and an intuitive dashboard – all designed to help teams reduce.
@@ -526,6 +527,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-08-18】[anthropics / defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 * 【2026-08-17】[0xSero / ai-data-extraction](https://github.com/0xSero/ai-data-extraction) - extract all your personal data history from cursor, codex, claude-code, windsurf, and trae
 * 【2026-08-16】[sgl-project / sglang-omni](https://github.com/sgl-project/sglang-omni) - SGLang-Omni empowers high-performance serving for TTS, ASR, speech and omni models.
 * 【2026-08-16】[titanwings / colleague-skill](https://github.com/titanwings/colleague-skill) - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
@@ -1335,6 +1337,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-08-18】[aklivity / zilla](https://github.com/aklivity/zilla) - 🦎 A high-performance, multi-protocol gateway for Apache Kafka and AI. Securely connect applications, APIs, agents, and devices to real-time data through Kafka, HTTP, SSE, MQTT, gRPC, and MCP.
 * 【2026-08-17】[OWASP / www-project-api-security-testing-framework](https://github.com/OWASP/www-project-api-security-testing-framework) - OWASP Foundation web repository
 * 【2026-08-17】[7723mod / NPatch](https://github.com/7723mod/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 * 【2026-08-16】[liulangjietou / customer_work](https://github.com/liulangjietou/customer_work) - 
@@ -3027,6 +3030,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-08-18】[NaGaa95 / sphaira](https://github.com/NaGaa95/sphaira) - A homebrew menu for the Nintendo Switch
 * 【2026-08-15】[superturtlee / gbl_root_canoe](https://github.com/superturtlee/gbl_root_canoe) - No TrickyStore on Canoe
 * 【2026-08-12】[memovai / mimiclaw](https://github.com/memovai/mimiclaw) - MimiClaw: Harness on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS.
 * 【2026-08-09】[rexglue / rexglue-sdk](https://github.com/rexglue/rexglue-sdk) - Xbox 360 Recompilation Runtime and Toolkit
@@ -3351,6 +3355,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-08-18】[petercorke / robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python) - Robotics Toolbox for Python
+* 【2026-08-18】[noctalia-dev / noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland.
+* 【2026-08-18】[CalcProgrammer1 / OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS. Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB. Releases can be found on GitLab.
 * 【2026-08-17】[fooyin / fooyin](https://github.com/fooyin/fooyin) - A customisable music player
 * 【2026-08-16】[afritz1 / OpenTESArena](https://github.com/afritz1/OpenTESArena) - Open-source re-implementation of The Elder Scrolls: Arena.
 * 【2026-08-16】[MeisApps / pcbu-desktop](https://github.com/MeisApps/pcbu-desktop) - Desktop app for PC Bio Unlock
@@ -3693,6 +3700,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-08-18】[akitaonrails / ai-memory](https://github.com/akitaonrails/ai-memory) - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
 * 【2026-08-16】[cordiverse / cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
 * 【2026-08-16】[MakazhanAlpamys / Soup](https://github.com/MakazhanAlpamys/Soup) - Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
 * 【2026-08-15】[deepseek-ai / awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent) - 
