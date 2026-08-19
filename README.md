@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-08-19】[Gaurav-Gosain / tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer)
+* 【2026-08-19】[MatinSenPai / SenPaiScanner](https://github.com/MatinSenPai/SenPaiScanner) - A light-weight scanner for Cloudflare IPs, written in Golang
 * 【2026-08-18】[strelov1 / freehire](https://github.com/strelov1/freehire) - freehire — the open-source search engine for job seekers
 * 【2026-08-17】[seakee / CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus) - A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health.
 * 【2026-08-17】[Gitlawb / zero](https://github.com/Gitlawb/zero) - The coding agent that answers to you, your model, your machine, your rules.
@@ -527,6 +529,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-08-19】[jewbetcha / openflight](https://github.com/jewbetcha/openflight) - 
 * 【2026-08-18】[anthropics / defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 * 【2026-08-17】[0xSero / ai-data-extraction](https://github.com/0xSero/ai-data-extraction) - extract all your personal data history from cursor, codex, claude-code, windsurf, and trae
 * 【2026-08-16】[sgl-project / sglang-omni](https://github.com/sgl-project/sglang-omni) - SGLang-Omni empowers high-performance serving for TTS, ASR, speech and omni models.
@@ -3700,6 +3703,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-08-19】[NawfalMotii79 / PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) - Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
 * 【2026-08-18】[akitaonrails / ai-memory](https://github.com/akitaonrails/ai-memory) - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
 * 【2026-08-16】[cordiverse / cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
 * 【2026-08-16】[MakazhanAlpamys / Soup](https://github.com/MakazhanAlpamys/Soup) - Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
