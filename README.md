@@ -1835,6 +1835,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-08-28】[NeoLabHQ / context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) - Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others. Includes CodeRabbit open-source alternative.
+* 【2026-08-28】[tutti-os / tutti](https://github.com/tutti-os/tutti) - Where people and agents build in tune.
+* 【2026-08-28】[1weiho / open-slide](https://github.com/1weiho/open-slide) - A slide framework built for agents.
 * 【2026-08-27】[piratuks / invoice-builder](https://github.com/piratuks/invoice-builder) - Invoice and quotation builder desktop app with PDF export, designed for small businesses and freelancers. Create, manage, and export invoices and quotes easily using a local database in an Electron-based app.
 * 【2026-08-27】[tickernelz / opencode-mem](https://github.com/tickernelz/opencode-mem) - OpenCode plugin that gives coding agents persistent memory using local vector database
 * 【2026-08-26】[cloudflare / cloudflare-os](https://github.com/cloudflare/cloudflare-os) - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
@@ -3067,6 +3070,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-08-28】[sunblaze-ucb / exploitgym](https://github.com/sunblaze-ucb/exploitgym) - ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to evaluate AI agents' ability to develop exploits.
 * 【2026-08-26】[OleksandrChekhovskyi / hax](https://github.com/OleksandrChekhovskyi/hax) - A minimalist, terminal-native coding agent written in C.
 * 【2026-08-25】[tqbf / mdv](https://github.com/tqbf/mdv) - Markdown Viewer
 * 【2026-08-24】[RxNaison / Epson-Waste-Reset](https://github.com/RxNaison/Epson-Waste-Reset) - A free, native, and completely open-source utility to reset the "Waste Ink Pad" counter on Epson printers
@@ -3395,6 +3399,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-08-28】[MatixYo / ESP32-Plane-Radar](https://github.com/MatixYo/ESP32-Plane-Radar) - Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar.
+* 【2026-08-28】[react / yoga](https://github.com/react/yoga) - Yoga is an embeddable layout engine targeting web standards.
 * 【2026-08-25】[edin45 / simple_photogrammetry_gui](https://github.com/edin45/simple_photogrammetry_gui) - 
 * 【2026-08-22】[OpenHD / OpenHD](https://github.com/OpenHD/OpenHD) - OpenHD
 * 【2026-08-22】[charlie12345 / ROCmFPX](https://github.com/charlie12345/ROCmFPX) - ROCmFPX Family for AMD Hardware and Processors. More quants and special agent quants
@@ -3744,6 +3750,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-08-28】[bilawalsidhu / gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+* 【2026-08-28】[JetBrains / go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) - Help AI coding agents write modern Go
+* 【2026-08-28】[tailscale / tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
 * 【2026-08-27】[ConardLi / garden-skills](https://github.com/ConardLi/garden-skills) - ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
 * 【2026-08-21】[modular / modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 * 【2026-08-21】[AprilNEA / OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
