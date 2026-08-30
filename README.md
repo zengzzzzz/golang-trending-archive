@@ -532,6 +532,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-08-30】[warpdotdev / common-skills](https://github.com/warpdotdev/common-skills) - 
+* 【2026-08-30】[alchaincyf / nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
 * 【2026-08-27】[ai-dynamo / aiperf](https://github.com/ai-dynamo/aiperf) - AIPerf is a comprehensive benchmarking tool that measures the performance of generative AI models served by your preferred inference solution.
 * 【2026-08-24】[shy3130 / tick-stock-panel](https://github.com/shy3130/tick-stock-panel) - TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非第三方官方项目
 * 【2026-08-23】[shy3130 / tickflow-stock-panel](https://github.com/shy3130/tickflow-stock-panel) - TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目
@@ -1835,6 +1837,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-08-30】[levy-street / world-of-claudecraft](https://github.com/levy-street/world-of-claudecraft) - 
+* 【2026-08-30】[vercel-labs / vgpu](https://github.com/vercel-labs/vgpu) - Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and math viz
 * 【2026-08-28】[NeoLabHQ / context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) - Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others. Includes CodeRabbit open-source alternative.
 * 【2026-08-28】[tutti-os / tutti](https://github.com/tutti-os/tutti) - Where people and agents build in tune.
 * 【2026-08-28】[1weiho / open-slide](https://github.com/1weiho/open-slide) - A slide framework built for agents.
@@ -3399,6 +3403,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-08-30】[omacom / omawrite](https://github.com/omacom/omawrite) - The essence of writing
+* 【2026-08-30】[Neroued / ninfer](https://github.com/Neroued/ninfer) - High-performance single-GPU inference for selected model checkpoints and GPUs.
 * 【2026-08-28】[MatixYo / ESP32-Plane-Radar](https://github.com/MatixYo/ESP32-Plane-Radar) - Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar.
 * 【2026-08-28】[react / yoga](https://github.com/react/yoga) - Yoga is an embeddable layout engine targeting web standards.
 * 【2026-08-25】[edin45 / simple_photogrammetry_gui](https://github.com/edin45/simple_photogrammetry_gui) - 
