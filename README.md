@@ -532,6 +532,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-08-31】[taoufik123-collab / claude-watch](https://github.com/taoufik123-collab/claude-watch) - Give Claude the ability to watch any video — scene-change frames + transcript + a structured report, with a 0-10s hook microscope and optional Obsidian auto-save.
+* 【2026-08-31】[shootthesound / Fizgig](https://github.com/shootthesound/Fizgig) - Krea 2, MiniMax & Klein 9B LoRA - LoKR Studio — train, profile, repair, and extract Krea 2, Flux 2 Klein 9B & MiniMax LoRAs & LoKRs
+* 【2026-08-31】[agent0ai / agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 * 【2026-08-30】[warpdotdev / common-skills](https://github.com/warpdotdev/common-skills) - 
 * 【2026-08-30】[alchaincyf / nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
 * 【2026-08-27】[ai-dynamo / aiperf](https://github.com/ai-dynamo/aiperf) - AIPerf is a comprehensive benchmarking tool that measures the performance of generative AI models served by your preferred inference solution.
@@ -1355,6 +1358,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-08-31】[uber / NullAway](https://github.com/uber/NullAway) - A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
 * 【2026-08-25】[Keeperorowner / NagramXF](https://github.com/Keeperorowner/NagramXF) - A fork of NagramX with additional features.
 * 【2026-08-21】[langgraph4j / langgraph4j](https://github.com/langgraph4j/langgraph4j) - 🚀 LangGraph for Java. A library for develop AI Agentic Architectures in the Java ecosystem. Designed to work seamlessly with both Langchain4j and Spring AI.
 * 【2026-08-18】[aklivity / zilla](https://github.com/aklivity/zilla) - 🦎 A high-performance, multi-protocol gateway for Apache Kafka and AI. Securely connect applications, APIs, agents, and devices to real-time data through Kafka, HTTP, SSE, MQTT, gRPC, and MCP.
@@ -1837,6 +1841,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-08-31】[Waishnav / devspace](https://github.com/Waishnav/devspace) - Minimal Coding Agent Harness over MCP for ChatGPT, Claude, Hermes, Grok Bot, OpenClaw
+* 【2026-08-31】[mobile-next / mobile-mcp](https://github.com/mobile-next/mobile-mcp) - Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
 * 【2026-08-30】[levy-street / world-of-claudecraft](https://github.com/levy-street/world-of-claudecraft) - 
 * 【2026-08-30】[vercel-labs / vgpu](https://github.com/vercel-labs/vgpu) - Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and math viz
 * 【2026-08-28】[NeoLabHQ / context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) - Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others. Includes CodeRabbit open-source alternative.
@@ -2597,6 +2603,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-08-31】[amElnagdy / delegate-skills](https://github.com/amElnagdy/delegate-skills) - Delegate a coding task to a separate coding agent CLI, review the diff, land the commit yourself — one per implementer.
 * 【2026-08-27】[Javis603 / token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, and limits across 32+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, and OpenClaw—with multi-device sync.
 * 【2026-08-24】[team-codebug / babua-dsa-patterns-course](https://github.com/team-codebug/babua-dsa-patterns-course) - 
 * 【2026-08-23】[dbgate / dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
@@ -3756,6 +3763,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-08-31】[Lakr233 / vphone-cli](https://github.com/Lakr233/vphone-cli) - 
+* 【2026-08-31】[pollen-robotics / microduck_rl](https://github.com/pollen-robotics/microduck_rl) - RL training environments for Microduck (mjlab)
+* 【2026-08-31】[handsomestWei / patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) - 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
 * 【2026-08-29】[swoole / typephp](https://github.com/swoole/typephp) - Compile PHP to Native Binaries
 * 【2026-08-28】[bilawalsidhu / gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 * 【2026-08-28】[JetBrains / go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) - Help AI coding agents write modern Go
