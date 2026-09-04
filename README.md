@@ -533,6 +533,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-09-04】[sngyai / Sequoia-X](https://github.com/sngyai/Sequoia-X) - A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书
+* 【2026-09-04】[netalertx / NetAlertX](https://github.com/netalertx/NetAlertX) - Centralized network visibility and continuous asset discovery. Monitor devices, detect change, and stay aware across distributed networks.
+* 【2026-09-04】[datacurve-ai / deep-swe](https://github.com/datacurve-ai/deep-swe) - Measuring frontier coding agents on original, long-horizon engineering tasks
 * 【2026-09-02】[mujocolab / mjlab](https://github.com/mujocolab/mjlab) - Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research
 * 【2026-09-02】[noonghunna / club-3090](https://github.com/noonghunna/club-3090) - Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, llama.cpp, ik_llama) and model-agnostic. Currently shipping Qwen3.6-27B Qwen3.6 35B Gemma 4 26B Gemma 4 31B configs for 1× and 2× cards.
 * 【2026-09-01】[securo-finance / securo](https://github.com/securo-finance/securo) - Open-source personal finance manager. Self-hosted, privacy-first.
@@ -1363,6 +1366,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-09-04】[Brazzo978 / L.L.E-Legacy-Lockscreen-Effects](https://github.com/Brazzo978/L.L.E-Legacy-Lockscreen-Effects) - 
 * 【2026-08-31】[uber / NullAway](https://github.com/uber/NullAway) - A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
 * 【2026-08-25】[Keeperorowner / NagramXF](https://github.com/Keeperorowner/NagramXF) - A fork of NagramX with additional features.
 * 【2026-08-21】[langgraph4j / langgraph4j](https://github.com/langgraph4j/langgraph4j) - 🚀 LangGraph for Java. A library for develop AI Agentic Architectures in the Java ecosystem. Designed to work seamlessly with both Langchain4j and Spring AI.
@@ -3092,6 +3096,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-09-04】[eunomia-bpf / agentsight](https://github.com/eunomia-bpf/agentsight) - lightweight system-level observability for AI Agents
+* 【2026-09-04】[destan19 / OpenAppFilter](https://github.com/destan19/OpenAppFilter) - OAF(OpenAppFilter) is a parental control software based on OpenWrt. It supports popular applications across gaming, video streaming, instant messaging, such as TikTok, YouTube, Facebook. Currently, it supports hundreds of different applications.
 * 【2026-09-02】[JustVugg / colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 * 【2026-08-28】[sunblaze-ucb / exploitgym](https://github.com/sunblaze-ucb/exploitgym) - ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to evaluate AI agents' ability to develop exploits.
 * 【2026-08-26】[OleksandrChekhovskyi / hax](https://github.com/OleksandrChekhovskyi/hax) - A minimalist, terminal-native coding agent written in C.
@@ -3422,6 +3428,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-09-04】[xoxor4d / gta4-rtx](https://github.com/xoxor4d/gta4-rtx) - GTAIV RTX Remix Compatibility Mod
+* 【2026-09-04】[harry7557558 / spirula-studio](https://github.com/harry7557558/spirula-studio) - Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.
 * 【2026-09-02】[metasequoiaime / MetasequoiaImeTsf](https://github.com/metasequoiaime/MetasequoiaImeTsf) - 水杉输入法。内测：tg: https://t.me/msimegroup QQ Group: 829919142
 * 【2026-09-02】[crosire / reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
 * 【2026-09-01】[zackb / tether](https://github.com/zackb/tether) - Linux + iPhone Continuity / iMessage / SMS
