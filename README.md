@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-09-05】[project-zot / zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
+* 【2026-09-05】[basecamp / hey-cli](https://github.com/basecamp/hey-cli) - HEY CLI and Agent Skills
 * 【2026-09-01】[hoaxisr / awg-manager](https://github.com/hoaxisr/awg-manager) - AmneziaWG tunnel manager with web interface for Keenetic routers
 * 【2026-08-21】[autonomous-ai / autonomous-os](https://github.com/autonomous-ai/autonomous-os) - The open-source operating system for robots — install it and your robot comes alive
 * 【2026-08-20】[google / sam](https://github.com/google/sam) - SAM Sovereign Agent Mesh
@@ -533,6 +535,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-09-05】[jihe520 / MathModelAgent](https://github.com/jihe520/MathModelAgent) - 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.
 * 【2026-09-04】[sngyai / Sequoia-X](https://github.com/sngyai/Sequoia-X) - A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书
 * 【2026-09-04】[netalertx / NetAlertX](https://github.com/netalertx/NetAlertX) - Centralized network visibility and continuous asset discovery. Monitor devices, detect change, and stay aware across distributed networks.
 * 【2026-09-04】[datacurve-ai / deep-swe](https://github.com/datacurve-ai/deep-swe) - Measuring frontier coding agents on original, long-horizon engineering tasks
@@ -1366,6 +1369,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-09-05】[Zoeille / picsou-finance](https://github.com/Zoeille/picsou-finance) - Self-hosted personal finance dashboard Track bank accounts, brokerage, crypto, and net worth — all in one place.
 * 【2026-09-04】[Brazzo978 / L.L.E-Legacy-Lockscreen-Effects](https://github.com/Brazzo978/L.L.E-Legacy-Lockscreen-Effects) - 
 * 【2026-08-31】[uber / NullAway](https://github.com/uber/NullAway) - A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
 * 【2026-08-25】[Keeperorowner / NagramXF](https://github.com/Keeperorowner/NagramXF) - A fork of NagramX with additional features.
@@ -1850,6 +1854,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-09-05】[humanlayer / skills](https://github.com/humanlayer/skills) - 
 * 【2026-09-02】[inkeep / open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown IDE and LLM wiki
 * 【2026-09-02】[dongdongbh / Mindwtr](https://github.com/dongdongbh/Mindwtr) - Get every task and idea out of your head, then see the next thing to do. Getting Things Done (GTD) app for desktop and mobile.
 * 【2026-09-01】[PurpleDoubleD / locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - Plug-and-play local AI studio: uncensored chat, image & video generation, coding agent. Runs abliterated LLMs + ComfyUI 100% offline. One installer, no Docker, no cloud.
@@ -3096,6 +3101,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-09-05】[QwenAudio / SenseVoice](https://github.com/QwenAudio/SenseVoice) - Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, language ID, emotion recognition, and audio event detection.
 * 【2026-09-04】[eunomia-bpf / agentsight](https://github.com/eunomia-bpf/agentsight) - lightweight system-level observability for AI Agents
 * 【2026-09-04】[destan19 / OpenAppFilter](https://github.com/destan19/OpenAppFilter) - OAF(OpenAppFilter) is a parental control software based on OpenWrt. It supports popular applications across gaming, video streaming, instant messaging, such as TikTok, YouTube, Facebook. Currently, it supports hundreds of different applications.
 * 【2026-09-02】[JustVugg / colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
@@ -3787,4 +3793,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-09-05】[bikini / exploitarium](https://github.com/bikini/exploitarium) - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.
+* 【2026-09-05】[radixark / miles](https://github.com/radixark/miles) - Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.
+* 【2026-09-05】[clshortfuse / renodx](https://github.com/clshortfuse/renodx) - Renovation Engine for DirectX Games
 * 【2026-09-02】[averygan / reclip](https://github.com/averygan/reclip) - Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.
