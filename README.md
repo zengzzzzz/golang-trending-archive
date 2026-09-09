@@ -535,6 +535,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-09-09】[neka-nat / freecad-mcp](https://github.com/neka-nat/freecad-mcp) - FreeCAD MCP(Model Context Protocol) server
 * 【2026-09-07】[sooryathejas / METATRON](https://github.com/sooryathejas/METATRON) - AI-powered penetration testing assistant using local LLM on linux (Parrot OS)
 * 【2026-09-07】[experientiallabs / experiential](https://github.com/experientiallabs/experiential) - Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.
 * 【2026-09-06】[k2-fsa / OmniVoice](https://github.com/k2-fsa/OmniVoice) - High-Quality Voice Cloning TTS for 600+ Languages
@@ -1859,6 +1860,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-09-09】[nowork-studio / notfair-plugin](https://github.com/nowork-studio/notfair-plugin) - Open-source SEO, GEO, and marketing skills for AI agents.
+* 【2026-09-09】[Tencent / teamai-cli](https://github.com/Tencent/teamai-cli) - Make Every Team AI Native
+* 【2026-09-09】[advaitpaliwal / feynman](https://github.com/advaitpaliwal/feynman) - The open source AI research agent.
 * 【2026-09-08】[getopenscreen / openscreen](https://github.com/getopenscreen/openscreen) - Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscriptions. Windows, macOS, Linux. Actively maintained.
 * 【2026-09-06】[code-yeongyu / lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
 * 【2026-09-06】[Jakubantalik / Libraries.dev](https://github.com/Jakubantalik/Libraries.dev) - High-crafted UI libraries for AI agents: Border beam, Orbs, Metal, Gooey, Image
@@ -3111,6 +3115,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-09-09】[armory3d / armorpaint](https://github.com/armory3d/armorpaint) - Graphics Creation Tools
+* 【2026-09-09】[doldecomp / melee](https://github.com/doldecomp/melee) - A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.
 * 【2026-09-07】[Yuzhii0718 / bl-mt798x-dhcpd](https://github.com/Yuzhii0718/bl-mt798x-dhcpd) - A variant of hanwckf's u-boot by yuzhii, with support for dhcpd, and advance web ui, support i18n, more functions please see README.
 * 【2026-09-06】[NebuSec / CyberMeowfia](https://github.com/NebuSec/CyberMeowfia) - PoCs and exploits for CVEs discovered by NebuSec.
 * 【2026-09-06】[maxsteeel / nomount](https://github.com/maxsteeel/nomount) - NoMount is a VFS (Virtual File System) path redirection framework for Android kernels.
@@ -3447,6 +3453,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-09-09】[mattias800 / prosper](https://github.com/mattias800/prosper) - A user-space PlayStation 5 to PC compatibility layer for Linux, Windows, and macOS.
 * 【2026-09-07】[Diegiwg / PrismLauncher-Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked) - This project is a Fork of Prism Launcher which aims to 'unblock' the use of Offline Accounts, disabling the restriction of having a functional Online Account.
 * 【2026-09-06】[PlotJuggler / PlotJuggler](https://github.com/PlotJuggler/PlotJuggler) - The Time Series Visualization Tool that you deserve.
 * 【2026-09-04】[xoxor4d / gta4-rtx](https://github.com/xoxor4d/gta4-rtx) - GTAIV RTX Remix Compatibility Mod
