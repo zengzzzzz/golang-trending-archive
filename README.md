@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-09-15】[xob0t / gotohp](https://github.com/xob0t/gotohp) - Unofficial Google Photos Desktop GUI Client
 * 【2026-09-13】[najmuzzaman-mohammad / gawkbot](https://github.com/najmuzzaman-mohammad/gawkbot) - open source grok bot. gawk bots automate your menial work via AI models and build you microapps to manage the outcome, so that you have a false sense of control.
 * 【2026-09-12】[dagucloud / dagu](https://github.com/dagucloud/dagu) - Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.
 * 【2026-09-11】[R-s0n / ars0n-framework-v2](https://github.com/R-s0n/ars0n-framework-v2) - AI Native Bug Bounty Hunting Framework Designed to Help Beginners Compete w/ the Pros
@@ -1869,6 +1870,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-09-15】[Pasta-Devs / Marinara-Engine](https://github.com/Pasta-Devs/Marinara-Engine) - AI frontend
+* 【2026-09-15】[PasarGuard / panel](https://github.com/PasarGuard/panel) - PasarGuard | Unified GUI Censorship Resistant Solution
 * 【2026-09-11】[yilewang / llm-for-zotero](https://github.com/yilewang/llm-for-zotero) - An open-source research agent system for your Zotero library.
 * 【2026-09-09】[nowork-studio / notfair-plugin](https://github.com/nowork-studio/notfair-plugin) - Open-source SEO, GEO, and marketing skills for AI agents.
 * 【2026-09-09】[Tencent / teamai-cli](https://github.com/Tencent/teamai-cli) - Make Every Team AI Native
@@ -2644,6 +2647,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-09-15】[yuliskov / SmartTubeLegacy](https://github.com/yuliskov/SmartTubeLegacy) - Watch YouTube videos on your TV and set-top-box with comfort
 * 【2026-09-14】[plugin87 / ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AAA, 138 design systems, any-framework code, and 38 objective gates that fail the build instead of claiming success. Install as a Claude Code plugin or with npx.
 * 【2026-09-14】[shaun8149 / sdf-js](https://github.com/shaun8149/sdf-js) - Chainable JS SDF library + 基于 SDF 的离散结构生成器层 (form × generator decoupling). Port & extension of fogleman/sdf.
 * 【2026-09-13】[withmarbleapp / os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) - 
@@ -3470,6 +3474,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-09-15】[eden-emulator / mirror](https://github.com/eden-emulator/mirror) - Mirror of Eden. PRs welcome.
 * 【2026-09-12】[0xShug0 / audio.cpp](https://github.com/0xShug0/audio.cpp) - An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.
 * 【2026-09-12】[lkimuk / ReArk](https://github.com/lkimuk/ReArk) - An intelligent reverse engineering analysis tool designed for multiple target platforms, currently supporting HarmonyOS (HAP/APP/ABC) and Android (APK/AAB).
 * 【2026-09-12】[iamaisim / ProjectAirSim](https://github.com/iamaisim/ProjectAirSim) - Project AirSim is Microsoft's evolution of AirSim, an advanced simulation platform for building, training, and testing autonomous systems in high-fidelity virtual environments
@@ -3836,6 +3841,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-09-15】[rlaope / oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages
+* 【2026-09-15】[peetzweg / opendisplay](https://github.com/peetzweg/opendisplay) - Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.
 * 【2026-09-14】[tonhowtf / omniget](https://github.com/tonhowtf/omniget) - Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.
 * 【2026-09-14】[Swordfish90 / cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 * 【2026-09-13】[SnailSploit / Claude-Red](https://github.com/SnailSploit/Claude-Red) - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
