@@ -541,6 +541,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-09-17】[TencentCloud / Octop](https://github.com/TencentCloud/Octop) - A smarter, self-hosted AI assistant — multi-user, multi-agent.
+* 【2026-09-17】[meituan-longcat / LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) - 
 * 【2026-09-13】[petergyang / no-ai-slop](https://github.com/petergyang/no-ai-slop) - Removes 20+ patterns of AI slop from any piece of writing.
 * 【2026-09-13】[google-gemini / gemini-skills](https://github.com/google-gemini/gemini-skills) - Skills for the Gemini API, SDK and model/agent interactions
 * 【2026-09-11】[google-deepmind / alphagenome](https://github.com/google-deepmind/alphagenome) - This API provides programmatic access to the AlphaGenome model developed by Google DeepMind.
@@ -1871,6 +1873,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-09-17】[vercel / eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 * 【2026-09-15】[Pasta-Devs / Marinara-Engine](https://github.com/Pasta-Devs/Marinara-Engine) - AI frontend
 * 【2026-09-15】[PasarGuard / panel](https://github.com/PasarGuard/panel) - PasarGuard | Unified GUI Censorship Resistant Solution
 * 【2026-09-11】[yilewang / llm-for-zotero](https://github.com/yilewang/llm-for-zotero) - An open-source research agent system for your Zotero library.
@@ -3476,6 +3479,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-09-17】[JingMatrix / NeoZygisk](https://github.com/JingMatrix/NeoZygisk) - Zygote injection with ptrace
 * 【2026-09-15】[eden-emulator / mirror](https://github.com/eden-emulator/mirror) - Mirror of Eden. PRs welcome.
 * 【2026-09-12】[0xShug0 / audio.cpp](https://github.com/0xShug0/audio.cpp) - An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.
 * 【2026-09-12】[lkimuk / ReArk](https://github.com/lkimuk/ReArk) - An intelligent reverse engineering analysis tool designed for multiple target platforms, currently supporting HarmonyOS (HAP/APP/ABC) and Android (APK/AAB).
@@ -3843,6 +3847,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-09-17】[abue-ammar / tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
 * 【2026-09-16】[Homebrew / BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew's official macOS GUI
 * 【2026-09-16】[MG1937 / ASC](https://github.com/MG1937/ASC) - ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
 * 【2026-09-15】[rlaope / oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages
