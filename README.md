@@ -53,6 +53,9 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-09-19】[felinics / Memoh](https://github.com/felinics/Memoh) - ✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory. You can bring your own key, or host your coding agent like Claude Code, Codex and so on.
+* 【2026-09-19】[weave-os / router](https://github.com/weave-os/router) - Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.
+* 【2026-09-19】[router-for-me / CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
 * 【2026-09-16】[e2b-dev / runtime](https://github.com/e2b-dev/runtime) - The runtime behind every E2B stack: Cloud, Enterprise, and your own machine.
 * 【2026-09-15】[xob0t / gotohp](https://github.com/xob0t/gotohp) - Unofficial Google Photos Desktop GUI Client
 * 【2026-09-13】[najmuzzaman-mohammad / gawkbot](https://github.com/najmuzzaman-mohammad/gawkbot) - open source grok bot. gawk bots automate your menial work via AI models and build you microapps to manage the outcome, so that you have a false sense of control.
@@ -541,6 +544,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-09-19】[jinchenma94 / bazi-skill](https://github.com/jinchenma94/bazi-skill) - 四柱八字命理分析
 * 【2026-09-18】[arnegiacomo / fugleramme](https://github.com/arnegiacomo/fugleramme) - E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.
 * 【2026-09-18】[strands-agents / harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
 * 【2026-09-18】[wilbowes / EchoMuse](https://github.com/wilbowes/EchoMuse) - Alexa replacement and controller for Echo Dot 2nd Generation device.
@@ -1389,6 +1393,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-09-19】[rstudio / rstudio](https://github.com/rstudio/rstudio) - RStudio is an integrated development environment (IDE) for R
 * 【2026-09-07】[SlimeKnights / TinkersConstruct](https://github.com/SlimeKnights/TinkersConstruct) - Tinker a little, build a little, tinker a little more...
 * 【2026-09-06】[spring-ai-alibaba / DataAgent](https://github.com/spring-ai-alibaba/DataAgent) - Spring AI Alibaba DataAgent
 * 【2026-09-05】[Zoeille / picsou-finance](https://github.com/Zoeille/picsou-finance) - Self-hosted personal finance dashboard Track bank accounts, brokerage, crypto, and net worth — all in one place.
@@ -3143,6 +3148,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-09-19】[i12bp8 / TagTinker](https://github.com/i12bp8/TagTinker) - Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl
 * 【2026-09-18】[SlickAmogus / silent-hill-decomp](https://github.com/SlickAmogus/silent-hill-decomp) - Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude and Psycross. Still in beta and is in active development.
 * 【2026-09-16】[luka-dev / mib2q-carplay-rgi](https://github.com/luka-dev/mib2q-carplay-rgi) - Implementation of Route Guidance from CarPlay for MHI2Q
 * 【2026-09-12】[willfaust / Madeira](https://github.com/willfaust/Madeira) - Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
