@@ -53,6 +53,9 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-09-22】[elvisun / newsjack](https://github.com/elvisun/newsjack) - The open-source skills that turn your agent into a full PR team.
+* 【2026-09-22】[AminMGMT / BackPack](https://github.com/AminMGMT/BackPack) - High Performance reverse tunnel engine in Go, built for edge ⇄ origin server setups
+* 【2026-09-22】[zhoushoujianwork / easyeda-agent](https://github.com/zhoushoujianwork/easyeda-agent) - 嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP.
 * 【2026-09-21】[vshulcz / deja-vu](https://github.com/vshulcz/deja-vu) - One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 28 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary.
 * 【2026-09-21】[superdurable / dex](https://github.com/superdurable/dex) - Durable Execution (D-EX) framework built on Temporal/Cadence
 * 【2026-09-20】[openai / tunnel-client](https://github.com/openai/tunnel-client) - Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.
@@ -548,6 +551,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-09-22】[cv-cat / DouYin_Spider](https://github.com/cv-cat/DouYin_Spider) - 抖音逆向，抖音爬虫，抖音全部api、私信、直播间监听
+* 【2026-09-22】[TNT-Likely / PanWatch](https://github.com/TNT-Likely/PanWatch) - 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送
 * 【2026-09-21】[zhouxiaoka / autoclip](https://github.com/zhouxiaoka/autoclip) - AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具
 * 【2026-09-21】[bbfamily / abu](https://github.com/bbfamily/abu) - 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构
 * 【2026-09-20】[PenglongHuang / chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill) - 🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜AI novel writing skill
@@ -1889,6 +1894,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-09-22】[bendlang / bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh
+* 【2026-09-22】[Jakubantalik / thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) - Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light
 * 【2026-09-21】[krillinai / OpenCreator](https://github.com/krillinai/OpenCreator) - Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, video translation, and edits with Agents in one place.
 * 【2026-09-21】[diffusionstudio / editor](https://github.com/diffusionstudio/editor) - An open-source video editor built for agents. Edits become code, code becomes video.
 * 【2026-09-17】[vercel / eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
@@ -3507,6 +3514,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-09-22】[mg-chao / snow-apps](https://github.com/mg-chao/snow-apps) - Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.
+* 【2026-09-22】[Codensity30 / Strivers-A2Z-DSA-Sheet](https://github.com/Codensity30/Strivers-A2Z-DSA-Sheet) - Contains everything related to Stiver's A2Z sheet along with question, approach and code.
 * 【2026-09-18】[fougue / mayo](https://github.com/fougue/mayo) - 3D CAD viewer and converter based on Qt + OpenCascade
 * 【2026-09-17】[JingMatrix / NeoZygisk](https://github.com/JingMatrix/NeoZygisk) - Zygote injection with ptrace
 * 【2026-09-15】[eden-emulator / mirror](https://github.com/eden-emulator/mirror) - Mirror of Eden. PRs welcome.
