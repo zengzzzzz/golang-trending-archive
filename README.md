@@ -1902,6 +1902,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-09-27】[vercel-labs / scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
+* 【2026-09-27】[zenbu-labs / terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 * 【2026-09-26】[mvschwarz / openrig](https://github.com/mvschwarz/openrig) - Multi-agent harness that runs Claude Code and Codex together as one system
 * 【2026-09-26】[vega-org / vega-app](https://github.com/vega-org/vega-app) - A media streaming app for android.
 * 【2026-09-25】[atomicstrata / llm-wiki-compiler](https://github.com/atomicstrata/llm-wiki-compiler) - The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.
@@ -3189,6 +3191,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-09-27】[matz / spinel](https://github.com/matz/spinel) - Ruby AOT compiler
 * 【2026-09-24】[StuckAtPrototype / AirCube](https://github.com/StuckAtPrototype/AirCube) - 
 * 【2026-09-23】[snesrev / zelda3](https://github.com/snesrev/zelda3) - 
 * 【2026-09-23】[rizonesoft / Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
