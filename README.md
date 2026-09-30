@@ -1419,6 +1419,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-09-30】[jean-voila / FeurStagram](https://github.com/jean-voila/FeurStagram) - Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.
+* 【2026-09-30】[zed-0xff / ZombieBuddy](https://github.com/zed-0xff/ZombieBuddy) - Java agent framework for Project Zomboid that enables runtime bytecode patching using ByteBuddy. Annotation-based API for modding game classes without source code access.
+* 【2026-09-30】[yash-srivastava / Overdrive-release](https://github.com/yash-srivastava/Overdrive-release) - Advanced Sentry Mode for BYD Vehicles
 * 【2026-09-29】[AndroidCSOfficial / android-code-studio](https://github.com/AndroidCSOfficial/android-code-studio) - Android Code Studio is an IDE for Android to develop full featured Android apps.
 * 【2026-09-28】[AbdurazaaqMohammed / MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager) - Dual pane Android file manager with focus on APKs
 * 【2026-09-19】[rstudio / rstudio](https://github.com/rstudio/rstudio) - RStudio is an integrated development environment (IDE) for R
@@ -2706,6 +2709,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-09-30】[QwenAudio / qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) - A realtime voice runtime that keeps Agents talking, working, and present. Real-time Voice Runtime for AI Agents
 * 【2026-09-28】[mlmvpn / mlmvpn_windows](https://github.com/mlmvpn/mlmvpn_windows) - MLMVPN - Ultimate Anti-Filter & IP Scanner
 * 【2026-09-28】[huilang-me / CF-Server-Monitor](https://github.com/huilang-me/CF-Server-Monitor) - 一个基于 Cloudflare Workers + D1 + Durable Objects 的免费多服务器监控探针系统，支持实时监控、离线告警，到期通知，历史数据查看、延迟追踪、地图展示等功能。兼容主流Linux系统，Alpine Linux，OpenWrt，macOS，群晖 DSM、飞牛 fnOS、Windows系统。
 * 【2026-09-28】[ulsklyc / yuvomi](https://github.com/ulsklyc/yuvomi) - Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server.
@@ -3934,6 +3938,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-09-30】[NVIDIA / OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
+* 【2026-09-30】[t8y2 / dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
 * 【2026-09-29】[cs341-illinois / coursebook](https://github.com/cs341-illinois/coursebook) - Open Source Introductory Systems Programming Textbook for the University of Illinois
 * 【2026-09-28】[InfinityLoop1308 / PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube and other services freely.
 * 【2026-09-26】[derv82 / wifit3](https://github.com/derv82/wifit3) - Wifite but USB-only & cross-platform.
