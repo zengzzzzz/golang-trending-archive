@@ -558,6 +558,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-10-01】[ifixai-ai / iFixAi](https://github.com/ifixai-ai/iFixAi) - Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.
+* 【2026-10-01】[Mafifrizi / ARES](https://github.com/Mafifrizi/ARES) - ARES - authorized red-team engagement automation with dashboard, campaign scope, module orchestration, OPSEC controls, encrypted vault, and reporting.
+* 【2026-10-01】[qbittorrent / search-plugins](https://github.com/qbittorrent/search-plugins) - Search plugins for qBittorrent search feature
 * 【2026-09-29】[ashhart / TensorFold](https://github.com/ashhart/TensorFold) - Fast, exact LLM decoding on Apple Silicon (MLX) behind an OpenAI-compatible endpoint
 * 【2026-09-29】[samugit83 / redamon](https://github.com/samugit83/redamon) - An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention.
 * 【2026-09-29】[Rizzo-AI-Academy / rizzo-pii](https://github.com/Rizzo-AI-Academy/rizzo-pii) - Local-first privacy guard: anonymize your documents before sharing with LLMs.
@@ -2709,6 +2712,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-10-01】[WesselKroos / youtube-ambilight](https://github.com/WesselKroos/youtube-ambilight) - This browser extension adds ambient light to YouTube videos
+* 【2026-10-01】[mokshablr / gander](https://github.com/mokshablr/gander) - Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown and code.
+* 【2026-10-01】[xiufengsun / TokenTracker](https://github.com/xiufengsun/TokenTracker) - Local-first AI token usage & cost tracker for 31 coding tools incl. Claude Code, Codex, Cursor, Gemini & DeepSeek Harness—with native apps. Never reads prompts.
+* 【2026-10-01】[Fei-Away / Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) - Codex Dream Skin
 * 【2026-09-30】[QwenAudio / qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) - A realtime voice runtime that keeps Agents talking, working, and present. Real-time Voice Runtime for AI Agents
 * 【2026-09-28】[mlmvpn / mlmvpn_windows](https://github.com/mlmvpn/mlmvpn_windows) - MLMVPN - Ultimate Anti-Filter & IP Scanner
 * 【2026-09-28】[huilang-me / CF-Server-Monitor](https://github.com/huilang-me/CF-Server-Monitor) - 一个基于 Cloudflare Workers + D1 + Durable Objects 的免费多服务器监控探针系统，支持实时监控、离线告警，到期通知，历史数据查看、延迟追踪、地图展示等功能。兼容主流Linux系统，Alpine Linux，OpenWrt，macOS，群晖 DSM、飞牛 fnOS、Windows系统。
@@ -3208,6 +3215,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-10-01】[itsPLK / ps5-payload-manager](https://github.com/itsPLK/ps5-payload-manager) - A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.
 * 【2026-09-29】[YuKongA / ghostlock-app](https://github.com/YuKongA/ghostlock-app) - GhostLock One-Tap Execution App (CVE-2026-43499)
 * 【2026-09-27】[matz / spinel](https://github.com/matz/spinel) - Ruby AOT compiler
 * 【2026-09-24】[StuckAtPrototype / AirCube](https://github.com/StuckAtPrototype/AirCube) - 
