@@ -558,6 +558,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-10-02】[hashgraph-online / awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) - A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Marketplace. See live plugins at: https://hol.org/plugins/best-codex-plugins
 * 【2026-10-01】[ifixai-ai / iFixAi](https://github.com/ifixai-ai/iFixAi) - Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.
 * 【2026-10-01】[Mafifrizi / ARES](https://github.com/Mafifrizi/ARES) - ARES - authorized red-team engagement automation with dashboard, campaign scope, module orchestration, OPSEC controls, encrypted vault, and reporting.
 * 【2026-10-01】[qbittorrent / search-plugins](https://github.com/qbittorrent/search-plugins) - Search plugins for qBittorrent search feature
@@ -1915,6 +1916,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-10-02】[nyakang / nyaterm](https://github.com/nyakang/nyaterm) - A modern remote terminal workspace
 * 【2026-09-29】[HelpCode-ai / anythingmcp](https://github.com/HelpCode-ai/anythingmcp) - Turn any REST, SOAP, GraphQL, OData or SQL API into MCP tools for Claude & ChatGPT. Self-hosted. 265 connectors: SAP S/4HANA & Business One, ERP, e-commerce.
 * 【2026-09-28】[Gimanh / taskview-community](https://github.com/Gimanh/taskview-community) - TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers.
 * 【2026-09-28】[SinaXhpm / Submarine](https://github.com/SinaXhpm/Submarine) - Modern SSH & SFTP client — terminal, SFTP, port forwarding, folder mirror, encrypted sync. Windows · macOS · Linux · Android.
@@ -3215,6 +3217,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-10-02】[FoloToy / ai-passport](https://github.com/FoloToy/ai-passport) - FOLOTOY AI Passport develop resources for Agent
 * 【2026-10-01】[itsPLK / ps5-payload-manager](https://github.com/itsPLK/ps5-payload-manager) - A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.
 * 【2026-09-29】[YuKongA / ghostlock-app](https://github.com/YuKongA/ghostlock-app) - GhostLock One-Tap Execution App (CVE-2026-43499)
 * 【2026-09-27】[matz / spinel](https://github.com/matz/spinel) - Ruby AOT compiler
@@ -3568,6 +3571,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-10-02】[YesterMester / TheSimpsonsGameRecomp](https://github.com/YesterMester/TheSimpsonsGameRecomp) - A work in progress recomp of the The Simpsons Game 2007 from the Xbox 360 using the RexXGlue recomping tool to get the game running
+* 【2026-10-02】[LightningMods / Itemzflow](https://github.com/LightningMods/Itemzflow) - PS4 Game manager and Home menu alternative made using Open Source tools
 * 【2026-09-29】[ammaarreshi / Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) - Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.
 * 【2026-09-29】[ThirteenAG / WidescreenFixesPack](https://github.com/ThirteenAG/WidescreenFixesPack) - Plugins to make or improve widescreen resolutions support in games, add more features and fix bugs.
 * 【2026-09-28】[The412Banner / winlator-contents](https://github.com/The412Banner/winlator-contents) - Component catalog index for BannerHub / Winlator clients. Hosts contents.json (mirror of nightlies_components.json). Component binaries live on The412Banner/Nightlies releases.
@@ -3944,3 +3949,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-08】[UniversalRobots / Universal_Robots_ROS2_Driver](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver) - Universal Robots ROS2 driver supporting CB3 and e-Series
 * 【2024-11-05】[unum-cloud / usearch](https://github.com/unum-cloud/usearch) - Fast Open-Source Search & Clustering engine × for Vectors & 🔜 Strings × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
+## All language
+
+* 【2026-10-02】[pablostanley / yoinks](https://github.com/pablostanley/yoinks) - yoink any video from your terminal. no shady ads.
+* 【2026-10-02】[Friedrich-M / UniMate](https://github.com/Friedrich-M/UniMate) - [SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons
