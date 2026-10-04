@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-10-04】[Autumn-27 / ARTEX](https://github.com/Autumn-27/ARTEX) - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
 * 【2026-09-29】[londek / ipadecrypt](https://github.com/londek/ipadecrypt) - 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention on palera1n and dopamine jailbreaks
 * 【2026-09-28】[YoanWai / agent-manager](https://github.com/YoanWai/agent-manager) - The fastest developer workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI.
 * 【2026-09-25】[getprobo / probo](https://github.com/getprobo/probo) - Open source solutions for SOC2, GDPR, and ISO27001
@@ -1423,6 +1424,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-10-04】[aleixrodriala / newtube](https://github.com/aleixrodriala/newtube) - SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in.
+* 【2026-10-04】[besu-eth / besu](https://github.com/besu-eth/besu) - An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https://github.com/besu-eth/besu/wiki
 * 【2026-09-30】[jean-voila / FeurStagram](https://github.com/jean-voila/FeurStagram) - Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.
 * 【2026-09-30】[zed-0xff / ZombieBuddy](https://github.com/zed-0xff/ZombieBuddy) - Java agent framework for Project Zomboid that enables runtime bytecode patching using ByteBuddy. Annotation-based API for modding game classes without source code access.
 * 【2026-09-30】[yash-srivastava / Overdrive-release](https://github.com/yash-srivastava/Overdrive-release) - Advanced Sentry Mode for BYD Vehicles
@@ -1916,6 +1919,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-10-04】[breferrari / obsidian-mind](https://github.com/breferrari/obsidian-mind) - A self-organizing Obsidian vault that gives AI coding agents persistent memory.
+* 【2026-10-04】[getsentry / toolkit](https://github.com/getsentry/toolkit) - Agentic tooling for Sentry
+* 【2026-10-04】[minghinmatthewlam / pi-gui](https://github.com/minghinmatthewlam/pi-gui) - Electron GUI app for the pi coding agent runtime
 * 【2026-10-03】[mrifqidaffaaditya / WA-AKG](https://github.com/mrifqidaffaaditya/WA-AKG) - A self-hosted WhatsApp Gateway & Dashboard built with Next.js 15, Baileys, and Prisma. Manage multi-session accounts, schedule messages, create auto-replies, and integrate via Webhooks.
 * 【2026-10-03】[LuxAlgo / Vela](https://github.com/LuxAlgo/Vela) - Fast, extensible financial charts for the web. The open-source core of Vela by LuxAlgo.
 * 【2026-10-02】[nyakang / nyaterm](https://github.com/nyakang/nyaterm) - A modern remote terminal workspace
