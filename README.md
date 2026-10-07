@@ -1429,6 +1429,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-10-07】[lishuangqiang / AI-Meeting](https://github.com/lishuangqiang/AI-Meeting) - 基于 Spring Boot 3 + Java 17 + Spring AI + MySQL + MongoDB + Redis + SSE/WebSocket，实现 AI 对话、智能体会话、AI 模拟面试、实时语音转写、长文本语音合成等核心功能。架构清晰、文档完整，支持本地运行与 Docker 一键部署，非常适合作为 Spring Boot AI 应用开发、智能体后端设计与简历展示项目。
 * 【2026-10-04】[aleixrodriala / newtube](https://github.com/aleixrodriala/newtube) - SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in.
 * 【2026-10-04】[besu-eth / besu](https://github.com/besu-eth/besu) - An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https://github.com/besu-eth/besu/wiki
 * 【2026-09-30】[jean-voila / FeurStagram](https://github.com/jean-voila/FeurStagram) - Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.
@@ -1924,6 +1925,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-10-07】[msitarzewski / agency-agents-app](https://github.com/msitarzewski/agency-agents-app) - Agency Agents is a small, native app for browsing, installing, and tracking the agent personas from msitarzewski/agency-agents across the AI coding tools you actually use.
 * 【2026-10-05】[Bennettxai / FounderOS-DEMO](https://github.com/Bennettxai/FounderOS-DEMO) - An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.
 * 【2026-10-04】[breferrari / obsidian-mind](https://github.com/breferrari/obsidian-mind) - A self-organizing Obsidian vault that gives AI coding agents persistent memory.
 * 【2026-10-04】[getsentry / toolkit](https://github.com/getsentry/toolkit) - Agentic tooling for Sentry
@@ -2728,6 +2730,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-10-07】[eolix / photosuite](https://github.com/eolix/photosuite) - A desktop image editor, faithful to classic Adobe Photoshop, with native PSD/PSB compatibility
 * 【2026-10-06】[laoma528 / awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free) - 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。
 * 【2026-10-06】[sebattfg / ZeroScript-Free](https://github.com/sebattfg/ZeroScript-Free) - ZeroScript Free: Turn ChatGPT, DeepSeek, Gemini, Kimi, GLM, Qwen, Arena or Meta AI into a Roblox Studio agent. Browser extension + local bridge. Read/edit scripts, run Luau, generate assets, all from chat. Robust agentic loop. No terminal needed.
 * 【2026-10-01】[WesselKroos / youtube-ambilight](https://github.com/WesselKroos/youtube-ambilight) - This browser extension adds ambient light to YouTube videos
@@ -3971,6 +3974,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-10-07】[morluto / rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 * 【2026-10-06】[boykopovar / AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows
 * 【2026-10-06】[M-Abozaid / esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock) - Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share
 * 【2026-10-05】[tester-army / e2e](https://github.com/tester-army/e2e) - Next generation e2e testing framework for web and mobile apps.
