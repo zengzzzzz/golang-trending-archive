@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-10-14】[rasonyang / ai-native-callcenter](https://github.com/rasonyang/ai-native-callcenter) - Self-hosted, API-first AI call center. Realtime voice bots answer every call, human agents take over without a drop. Full REST + SSE API with OpenAPI spec to embed in your product. FreeSWITCH + OpenAI Realtime / Qwen, one Go binary.
 * 【2026-10-13】[Bennettxai / FounderOS](https://github.com/Bennettxai/FounderOS) - An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.
 * 【2026-10-13】[HEXUXIU / M365-Copilot2API](https://github.com/HEXUXIU/M365-Copilot2API) - Microsoft 365 Copilot → OpenAI / Anthropic 兼容 API 网关。
 * 【2026-10-11】[Autumn-27 / ScopeSentry](https://github.com/Autumn-27/ScopeSentry) - ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes
@@ -566,6 +567,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-10-14】[baidu / Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 * 【2026-10-12】[repowise-dev / repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
 * 【2026-10-11】[BitterSecurity / Decepticon](https://github.com/BitterSecurity/Decepticon) - Autonomous Hacking Agent for Red Team
 * 【2026-10-10】[Tencent-Hunyuan / Hy-MT2](https://github.com/Tencent-Hunyuan/Hy-MT2) - 
@@ -1937,6 +1939,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-10-14】[supabase / agent-skills](https://github.com/supabase/agent-skills) - Agent Skills to help developers using AI agents with Supabase
+* 【2026-10-14】[Twigpine / openclaude](https://github.com/Twigpine/openclaude) - runs anywhere. uses anything
 * 【2026-10-13】[ranxianglei / billion-context](https://github.com/ranxianglei/billion-context) - A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need
 * 【2026-10-12】[CopilotKit / OpenIntelligentUI](https://github.com/CopilotKit/OpenIntelligentUI) - Open-Source Generative UI Framework
 * 【2026-10-10】[VERT-sh / VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
@@ -3259,6 +3263,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-10-14】[rogerbinns / apsw](https://github.com/rogerbinns/apsw) - Another Python SQLite wrapper
 * 【2026-10-13】[mbm110 / MSN-GUARD](https://github.com/mbm110/MSN-GUARD) - High-performance Rust-powered Android VPN — Full-device tunneling via SHARD (Custom Protocol), MASQUE/HTTP-3, WireGuard, WARP-on-WARP, Psiphon, and Tor.
 * 【2026-10-12】[tarwin / tinyjsapp](https://github.com/tarwin/tinyjsapp) - Build native apps in JS. Backend, frontend. ~5Mb.
 * 【2026-10-12】[sp00nznet / xboxrecomp](https://github.com/sp00nznet/xboxrecomp) - Turn any Xbox game binary into a native Windows executable. No emulation. No interpreter. Just raw, recompiled C.
@@ -4005,6 +4010,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-10-14】[xtool-org / xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 * 【2026-10-10】[twostraws / SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) - SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 * 【2026-10-09】[storytold / artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 * 【2026-10-07】[morluto / rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
