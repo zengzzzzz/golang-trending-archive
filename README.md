@@ -53,6 +53,9 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-10-15】[razorpay / slashdocs](https://github.com/razorpay/slashdocs) - Give your agents the power to publish reviewable HTML documents. Self-hosted server + CLI + remote MCP; agents push, humans review with comments and versions.
+* 【2026-10-15】[google / agentmesh](https://github.com/google/agentmesh) - Agent Mesh
+* 【2026-10-15】[Christ9038 / Ydisks-Xianyu-Helper](https://github.com/Christ9038/Ydisks-Xianyu-Helper) - 闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建
 * 【2026-10-14】[rasonyang / ai-native-callcenter](https://github.com/rasonyang/ai-native-callcenter) - Self-hosted, API-first AI call center. Realtime voice bots answer every call, human agents take over without a drop. Full REST + SSE API with OpenAPI spec to embed in your product. FreeSWITCH + OpenAI Realtime / Qwen, one Go binary.
 * 【2026-10-13】[Bennettxai / FounderOS](https://github.com/Bennettxai/FounderOS) - An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.
 * 【2026-10-13】[HEXUXIU / M365-Copilot2API](https://github.com/HEXUXIU/M365-Copilot2API) - Microsoft 365 Copilot → OpenAI / Anthropic 兼容 API 网关。
@@ -567,6 +570,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-10-15】[isair / jarvis](https://github.com/isair/jarvis) - Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or OpenAI-compatible servers on macOS, Windows and Linux.
 * 【2026-10-14】[baidu / Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 * 【2026-10-12】[repowise-dev / repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
 * 【2026-10-11】[BitterSecurity / Decepticon](https://github.com/BitterSecurity/Decepticon) - Autonomous Hacking Agent for Red Team
@@ -1442,6 +1446,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-10-15】[bk138 / droidVNC-NG](https://github.com/bk138/droidVNC-NG) - Android VNC remote desktop server for local networks
 * 【2026-10-10】[Leclowndu93150 / Thaumaturge](https://github.com/Leclowndu93150/Thaumaturge) - 
 * 【2026-10-07】[lishuangqiang / AI-Meeting](https://github.com/lishuangqiang/AI-Meeting) - 基于 Spring Boot 3 + Java 17 + Spring AI + MySQL + MongoDB + Redis + SSE/WebSocket，实现 AI 对话、智能体会话、AI 模拟面试、实时语音转写、长文本语音合成等核心功能。架构清晰、文档完整，支持本地运行与 Docker 一键部署，非常适合作为 Spring Boot AI 应用开发、智能体后端设计与简历展示项目。
 * 【2026-10-04】[aleixrodriala / newtube](https://github.com/aleixrodriala/newtube) - SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in.
@@ -3622,6 +3627,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-10-15】[pichenettes / eurorack](https://github.com/pichenettes/eurorack) - Eurorack modules
 * 【2026-10-13】[vittorioromeo / quakevr](https://github.com/vittorioromeo/quakevr) - Quake VR mod supporting room-scale movement, hand interactions, melee attacks, and much more.
 * 【2026-10-09】[facebook / rebalancer](https://github.com/facebook/rebalancer) - Rebalancer is a domain-specific language and tool for specifying and solving assignment problems (eg, putting balls in boxes with complex rules).
 * 【2026-10-09】[ytsaurus / ytsaurus](https://github.com/ytsaurus/ytsaurus) - YTsaurus is a scalable and fault-tolerant open-source big data platform.
