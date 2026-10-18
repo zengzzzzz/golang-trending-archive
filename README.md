@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-10-18】[ygelfand / echolocal](https://github.com/ygelfand/echolocal) - Turn an Amazon Echo Dot or Echo Show into a fully local Home Assistant voice satellite, media player, display and Bluetooth proxy. No Amazon, no cloud.
 * 【2026-10-17】[tristenlammi / Arrmada](https://github.com/tristenlammi/Arrmada) - arrrrrrrr
 * 【2026-10-17】[jasonxu114514 / opencode2api](https://github.com/jasonxu114514/opencode2api) - A Go-based OpenCode Zen / Zen Go API proxy with OpenAI & Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI.
 * 【2026-10-17】[GoogleCloudPlatform / scion](https://github.com/GoogleCloudPlatform/scion) - 
@@ -573,6 +574,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-10-18】[ScrapeCreators / social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills) - AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, ad libraries & trends across TikTok, Instagram, YouTube, Reddit, X, LinkedIn & more. Powered by ScrapeCreators. Works with Claude Code, Cursor, Codex, Gemini CLI.
 * 【2026-10-17】[elder-plinius / V3R1T4S](https://github.com/elder-plinius/V3R1T4S) - liberating known unknowns
 * 【2026-10-17】[google / artemis](https://github.com/google/artemis) - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark.
 * 【2026-10-16】[ahujasid / mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
@@ -1951,6 +1953,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-10-18】[elie222 / rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
+* 【2026-10-18】[OpenBMB / PilotDeck](https://github.com/OpenBMB/PilotDeck) - Task-oriented AI Agent productivity platform
 * 【2026-10-16】[SegFault42 / HeliosGen](https://github.com/SegFault42/HeliosGen) - 🏆 Self Hosted Gen AI desktop app. Free alternative to Higgsfield, OpenArt, Freepik....
 * 【2026-10-16】[ErTasselli / OpenTerminal](https://github.com/ErTasselli/OpenTerminal) - A Terminal-style trading dashboard built entirely on free public market data. No API keys, no subscriptions.
 * 【2026-10-16】[dimthink / PriceAI](https://github.com/dimthink/PriceAI) - AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。
@@ -3279,6 +3283,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-10-18】[shardulvs / xnotes-android](https://github.com/shardulvs/xnotes-android) - A handwriting notes and sketching app for Android with stylus support
 * 【2026-10-17】[timescale / pg_vectorsearch](https://github.com/timescale/pg_vectorsearch) - High-performance vector search for PostgreSQL
 * 【2026-10-16】[KernelSU-Next / KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) - An advanced Kernel based root solution for Android
 * 【2026-10-14】[rogerbinns / apsw](https://github.com/rogerbinns/apsw) - Another Python SQLite wrapper
