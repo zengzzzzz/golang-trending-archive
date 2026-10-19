@@ -53,6 +53,8 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-10-19】[alvinunreal / lazyskills](https://github.com/alvinunreal/lazyskills) - mission control for agent skills
+* 【2026-10-19】[Mag1cFall / AIStudio2API](https://github.com/Mag1cFall/AIStudio2API) - 将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API
 * 【2026-10-18】[ygelfand / echolocal](https://github.com/ygelfand/echolocal) - Turn an Amazon Echo Dot or Echo Show into a fully local Home Assistant voice satellite, media player, display and Bluetooth proxy. No Amazon, no cloud.
 * 【2026-10-17】[tristenlammi / Arrmada](https://github.com/tristenlammi/Arrmada) - arrrrrrrr
 * 【2026-10-17】[jasonxu114514 / opencode2api](https://github.com/jasonxu114514/opencode2api) - A Go-based OpenCode Zen / Zen Go API proxy with OpenAI & Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI.
@@ -574,6 +576,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-10-19】[NVlabs / ASPIRE](https://github.com/NVlabs/ASPIRE) - ASPIRE: Agentic /Skills Discovery for Robotics
+* 【2026-10-19】[mozilla-ai / otari](https://github.com/mozilla-ai/otari) - Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, and usage tracking.
 * 【2026-10-18】[ScrapeCreators / social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills) - AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, ad libraries & trends across TikTok, Instagram, YouTube, Reddit, X, LinkedIn & more. Powered by ScrapeCreators. Works with Claude Code, Cursor, Codex, Gemini CLI.
 * 【2026-10-17】[elder-plinius / V3R1T4S](https://github.com/elder-plinius/V3R1T4S) - liberating known unknowns
 * 【2026-10-17】[google / artemis](https://github.com/google/artemis) - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark.
@@ -1953,6 +1957,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-10-19】[LibreChat-AI / LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
 * 【2026-10-18】[elie222 / rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
 * 【2026-10-18】[OpenBMB / PilotDeck](https://github.com/OpenBMB/PilotDeck) - Task-oriented AI Agent productivity platform
 * 【2026-10-16】[SegFault42 / HeliosGen](https://github.com/SegFault42/HeliosGen) - 🏆 Self Hosted Gen AI desktop app. Free alternative to Higgsfield, OpenArt, Freepik....
@@ -2773,6 +2778,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-10-19】[guoyue2010 / lxmusic-](https://github.com/guoyue2010/lxmusic-) - lxmusic(洛雪音乐)全网最新最全音源
 * 【2026-10-17】[superdesigndev / superdesign-skill](https://github.com/superdesigndev/superdesign-skill) - The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev
 * 【2026-10-10】[chuspeeism / dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) - 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness
 * 【2026-10-10】[chaolucky18 / xuexitongScript](https://github.com/chaolucky18/xuexitongScript) - 学习通自动刷课脚本
@@ -3645,6 +3651,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-10-19】[mzzvxm / LARecomp](https://github.com/mzzvxm/LARecomp) - 
 * 【2026-10-17】[zeldaret / botw](https://github.com/zeldaret/botw) - Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)
 * 【2026-10-17】[LittleBitUA / DownpourRecomp](https://github.com/LittleBitUA/DownpourRecomp) - Silent Hill: Downpour — native Windows PC port via static recompilation of the Xbox 360 binary. v1.0 stable: 60 FPS unlocked, ROV warm-cache, standalone launcher, DualSense adaptive triggers, portable saves. Tested on USA + Europe X360 dumps.
 * 【2026-10-16】[Flare-Animate / Flare](https://github.com/Flare-Animate/Flare) - Flare - A Familiar, Open Source Animation Suite. Forked from OpenToonz.
@@ -4037,6 +4044,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-10-19】[Kruk2 / jasna](https://github.com/Kruk2/jasna) - Video restoration tool
 * 【2026-10-16】[xerj-org / xerj](https://github.com/xerj-org/xerj) - XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.
 * 【2026-10-14】[xtool-org / xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 * 【2026-10-10】[twostraws / SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) - SwiftUI agent skill for Claude Code, Codex, and other AI tools.
