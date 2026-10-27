@@ -577,6 +577,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-10-27】[eugeniughelbur / obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Persistent memory for Claude Code, Codex and 6 other AI agents, stored as plain markdown in your Obsidian vault. New: Crew, one shared logbook so Claude Code, Codex, Cursor and Grok Bot know what each other did. 48 commands: semantic search, self-rewriting notes, key-less research, scheduled agents.
+* 【2026-10-27】[higgsfield-ai / skills](https://github.com/higgsfield-ai/skills) - 
+* 【2026-10-27】[homeassistant-ai / ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
+* 【2026-10-27】[HarnessRouter / harnessrouter](https://github.com/HarnessRouter/harnessrouter) - HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, and more through one API, with sessions, streaming, files, cancellation, and failure handling. Implements the Unified Harness Protocol (UHP), an open standard. Your keys, your infrastructure.
 * 【2026-10-24】[Mailu / Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
 * 【2026-10-24】[Anil-matcha / open-duet](https://github.com/Anil-matcha/open-duet) - Open-source, self-hosted alternative to Claude Duet: AI coworkers (named agents) with instructions, memory, routines, their own isolated computer, and your approval before they act. Also an alternative to OpenAI Dots, Meta Muse, Grok Bot, Manus Cue and ChatGPT agent.
 * 【2026-10-19】[NVlabs / ASPIRE](https://github.com/NVlabs/ASPIRE) - ASPIRE: Agentic /Skills Discovery for Robotics
@@ -1962,6 +1966,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-10-27】[microsoft / skill-recorder](https://github.com/microsoft/skill-recorder) - Desktop app that records your on-screen work session and uses the GitHub Copilot SDK to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Autopilots like Scout, Microsoft Copilot Cowork, or Copilot Studio.
+* 【2026-10-27】[ed0ard / CS2-Bot-Improver](https://github.com/ed0ard/CS2-Bot-Improver) - CS2-Bot-Improver is a plugin for Counter-Strike 2 that improves bots' aim, movement, nade throwing, personalities, strategies, etc. Aims to enhance your experience when playing against bots offline or with friends. It can be installed on both clients and servers.
 * 【2026-10-26】[mantrakp04 / ardia](https://github.com/mantrakp04/ardia) - A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXrbcA6
 * 【2026-10-26】[MoonshotAI / kimi-code](https://github.com/MoonshotAI/kimi-code) - Kimi Code CLI — The Starting Point for Next-Gen Agents
 * 【2026-10-26】[nightly-labs / openbot](https://github.com/nightly-labs/openbot) - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
@@ -3311,6 +3317,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-10-27】[fifthBro / mh2p-cluster](https://github.com/fifthBro/mh2p-cluster) - Bridge Android Auto and CarPlay navigation from Porsche PCM5 / MH2P to instrument cluster displays.
 * 【2026-10-18】[shardulvs / xnotes-android](https://github.com/shardulvs/xnotes-android) - A handwriting notes and sketching app for Android with stylus support
 * 【2026-10-17】[timescale / pg_vectorsearch](https://github.com/timescale/pg_vectorsearch) - High-performance vector search for PostgreSQL
 * 【2026-10-16】[KernelSU-Next / KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) - An advanced Kernel based root solution for Android
@@ -4073,6 +4080,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-10-27】[alchaincyf / huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent
 * 【2026-10-26】[JetBrains / thinkrail](https://github.com/JetBrains/thinkrail) - Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
 * 【2026-10-25】[pollen-robotics / microduck](https://github.com/pollen-robotics/microduck) - A Tiny biped duck robot 🦆
 * 【2026-10-25】[jbiaojerry / ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) - 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。
