@@ -578,6 +578,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-11-02】[scenario-labs / skills](https://github.com/scenario-labs/skills) - Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.
+* 【2026-11-02】[andreavolpato / spektrafilm](https://github.com/andreavolpato/spektrafilm) - Spectral simulation of analog photography processes
 * 【2026-11-01】[0x0funky / agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge) - Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.
 * 【2026-11-01】[The-PR-Agent / pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 * 【2026-10-31】[kirodotdev / KiroCrew](https://github.com/kirodotdev/KiroCrew) - A persistent workspace for development work that self-improves and continues beyond one session.
@@ -1474,6 +1476,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-11-02】[appdevforall / CodeOnTheGo](https://github.com/appdevforall/CodeOnTheGo) - Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All.
 * 【2026-10-31】[FasterXML / jackson-databind](https://github.com/FasterXML/jackson-databind) - General data-binding package for Jackson: works on streaming API (core) implementation(s)
 * 【2026-10-25】[floci-io / floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative
 * 【2026-10-22】[kksimp / Mac.apk](https://github.com/kksimp/Mac.apk) - Mac.apk: Run Android apps natively on Apple Silicon Macs
@@ -3699,6 +3702,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-11-02】[florinp93 / hells-gate-recomp](https://github.com/florinp93/hells-gate-recomp) - Xbox 360 to PC port of Dante's Inferno using ReXGlue (static recompilation)
+* 【2026-11-02】[guillaumeblanc / ozz-animation](https://github.com/guillaumeblanc/ozz-animation) - Open source c++ skeletal animation library and toolset
 * 【2026-10-30】[hypery11 / flipper-tesla-fsd](https://github.com/hypery11/flipper-tesla-fsd) - Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, CAN capture, steering mode + more. Works via OBD-II or X179 connector.
 * 【2026-10-30】[dji-sdk / Cloud-API-2](https://github.com/dji-sdk/Cloud-API-2) - DJI Cloud API 2 Official Repository — a free PaaS for DJI docks and drones.
 * 【2026-10-29】[meta / rocksdb](https://github.com/meta/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
@@ -4102,4 +4107,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-11-02】[beenuar / AiSOC](https://github.com/beenuar/AiSOC) - Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.
+* 【2026-11-02】[anomalyco / hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
+* 【2026-11-02】[FlashML-org / FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
 * 【2026-11-01】[vorssaint / vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
