@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-11-05】[mcpjungle / MCPJungle](https://github.com/mcpjungle/MCPJungle) - One place to manage & connect to all your MCP servers
 * 【2026-11-03】[egoist / kero](https://github.com/egoist/kero) - A cross-platform native terminal app optimized for agents
 * 【2026-11-03】[warmbly / warmbly](https://github.com/warmbly/warmbly) - The largest open-source B2B cold outreach and email warmup service.
 * 【2026-11-01】[betterleaks / betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere.
@@ -1480,6 +1481,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-11-05】[cyberkaida / reverse-engineering-assistant](https://github.com/cyberkaida/reverse-engineering-assistant) - MCP server for reverse engineering tasks in Ghidra 👩‍💻
+* 【2026-11-05】[dotnetdreamer / open-android-dex](https://github.com/dotnetdreamer/open-android-dex) - Turn any android phone into Desktop class experience including full linux environment without root
 * 【2026-11-04】[floci-io / floci-az](https://github.com/floci-io/floci-az) - Light, fluffy, and always free - Local Azure Emulator
 * 【2026-11-03】[mlmvpn / mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android) - Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی
 * 【2026-11-02】[appdevforall / CodeOnTheGo](https://github.com/appdevforall/CodeOnTheGo) - Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All.
@@ -1984,6 +1987,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-11-05】[jo-duchan / tapflow](https://github.com/jo-duchan/tapflow) - Self-hosted iOS & Android simulator streaming for the whole team
 * 【2026-11-04】[datadrivenconstruction / OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) - Open-source construction ERP - BOQ, PDF/CAD/BIM takeoff, AI cost matching, 293 guided cases. 120,000+ priced positions, 44 languages, 190+ modules, cost data for 40+ markets. AGPL-3.0. pip install openconstructionerp
 * 【2026-11-03】[CNCKitchen / ScanRuler](https://github.com/CNCKitchen/ScanRuler) - 
 * 【2026-11-03】[cheaper-inference / OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors
@@ -3715,6 +3719,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-11-05】[dariulone / cyberpunk-vr-port](https://github.com/dariulone/cyberpunk-vr-port) - 
 * 【2026-11-04】[aardappel / goose](https://github.com/aardappel/goose) - The Goose Programming Language
 * 【2026-11-04】[jimmgreen / pulse](https://github.com/jimmgreen/pulse) - 为 Windows 打造的现代文件管理器，让浏览、搜索和整理文件更顺手。 | QQ Group 1043250162
 * 【2026-11-02】[florinp93 / hells-gate-recomp](https://github.com/florinp93/hells-gate-recomp) - Xbox 360 to PC port of Dante's Inferno using ReXGlue (static recompilation)
@@ -4122,6 +4127,9 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-11-05】[FareedKhan-dev / kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
+* 【2026-11-05】[JiaFeiMiao-K-Cat / DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) - 
+* 【2026-11-05】[Thysrael / Horizon](https://github.com/Thysrael/Horizon) - 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
 * 【2026-11-04】[Usagi-org / ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) - 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
 * 【2026-11-03】[vercel-labs / agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents
 * 【2026-11-02】[beenuar / AiSOC](https://github.com/beenuar/AiSOC) - Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.
