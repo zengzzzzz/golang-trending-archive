@@ -583,6 +583,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-11-07】[antoniaci / blackbird](https://github.com/antoniaci/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
 * 【2026-11-06】[sandbox-quantum / switch](https://github.com/sandbox-quantum/switch) - Open-source AI teammates in Slack, Teams, Discord, Telegram and Mattermost. Self-host it, with any agent harness and any model.
 * 【2026-11-04】[Yuan1z0825 / nature-skills](https://github.com/Yuan1z0825/nature-skills) - 符合nature论文学术表达和科研绘图的Skill
 * 【2026-11-04】[AminBlg / SimpleEnglish](https://github.com/AminBlg/SimpleEnglish) - Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical
@@ -1991,6 +1992,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-11-07】[elder-plinius / T3MP3ST](https://github.com/elder-plinius/T3MP3ST) - autonomous red teaming platform; multi-agent offensive-security meta-harness
+* 【2026-11-07】[meta / astryx](https://github.com/meta/astryx) - An open source design system that's fully customizable and agent ready
 * 【2026-11-06】[KenKaiii / gg-framework](https://github.com/KenKaiii/gg-framework) - The coding agent that gets more out of your AI subscription. Fastest and leanest of 20 agents tested, with unlimited local search of real open-source code.
 * 【2026-11-05】[jo-duchan / tapflow](https://github.com/jo-duchan/tapflow) - Self-hosted iOS & Android simulator streaming for the whole team
 * 【2026-11-04】[datadrivenconstruction / OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) - Open-source construction ERP - BOQ, PDF/CAD/BIM takeoff, AI cost matching, 293 guided cases. 120,000+ priced positions, 44 languages, 190+ modules, cost data for 40+ markets. AGPL-3.0. pip install openconstructionerp
@@ -2837,6 +2840,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-11-07】[HaD0Yun / CozyClay](https://github.com/HaD0Yun/CozyClay) - Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.
 * 【2026-11-06】[HunYiSage / dsh-purge](https://github.com/HunYiSage/dsh-purge) - DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分
 * 【2026-11-04】[csyangwen / dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) - 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。
 * 【2026-11-03】[DeanChensj / jiangshan-map](https://github.com/DeanChensj/jiangshan-map) - 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-modern place genealogy & classical poetry routes
@@ -3725,6 +3729,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-11-07】[synfig / synfig](https://github.com/synfig/synfig) - This is the Official source code repository of Synfig Studio animation software
 * 【2026-11-05】[dariulone / cyberpunk-vr-port](https://github.com/dariulone/cyberpunk-vr-port) - 
 * 【2026-11-04】[aardappel / goose](https://github.com/aardappel/goose) - The Goose Programming Language
 * 【2026-11-04】[jimmgreen / pulse](https://github.com/jimmgreen/pulse) - 为 Windows 打造的现代文件管理器，让浏览、搜索和整理文件更顺手。 | QQ Group 1043250162
