@@ -53,6 +53,7 @@ To get started with the Golang Trending Archive, follow these steps:
 
 ## Go
 
+* 【2026-11-08】[google-gemini / gemini-api-cli](https://github.com/google-gemini/gemini-api-cli) - An (experimental) CLI for the Gemini API
 * 【2026-11-06】[openchoreo / openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is an internal developer platform for Kubernetes
 * 【2026-11-06】[dsx-ai-factory / nvke](https://github.com/dsx-ai-factory/nvke) - NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.
 * 【2026-11-05】[mcpjungle / MCPJungle](https://github.com/mcpjungle/MCPJungle) - One place to manage & connect to all your MCP servers
@@ -2840,6 +2841,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-11-08】[babygoton / WorkDaddy](https://github.com/babygoton/WorkDaddy) - WorkBuddy、CodeBuddy 桌面端增强助手：签到猫猫旅行成长计划查询、多账号独立备份、点切即用；免打扰模式让 AI 无人值守跑长任务；跨账号会话迁移、异常中断自动续接；暂存/快捷提示词；毛玻璃主题与更多实用功能。
+* 【2026-11-08】[cobusgreyling / grok-bot-templates](https://github.com/cobusgreyling/grok-bot-templates) - The engineering kit for Grok Bot templates. Spec, Bot Ready score, teams, skills, routines, and a catalog you can paste into Grok Bot today.
 * 【2026-11-07】[HaD0Yun / CozyClay](https://github.com/HaD0Yun/CozyClay) - Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.
 * 【2026-11-06】[HunYiSage / dsh-purge](https://github.com/HunYiSage/dsh-purge) - DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分
 * 【2026-11-04】[csyangwen / dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) - 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。
@@ -3729,6 +3732,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 ## C++
 
+* 【2026-11-08】[dashdogy / MFG-Unlocker](https://github.com/dashdogy/MFG-Unlocker) - Experimental DLSS Multi Frame Generation controls for any supported MFG title on RTX 40 series GPUs
+* 【2026-11-08】[komaruworld / mocktail](https://github.com/komaruworld/mocktail) - Experimental Roblox compatibility runtime for Linux and FreeBSD
 * 【2026-11-07】[synfig / synfig](https://github.com/synfig/synfig) - This is the Official source code repository of Synfig Studio animation software
 * 【2026-11-05】[dariulone / cyberpunk-vr-port](https://github.com/dariulone/cyberpunk-vr-port) - 
 * 【2026-11-04】[aardappel / goose](https://github.com/aardappel/goose) - The Goose Programming Language
@@ -4138,6 +4143,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 ## All language
 
+* 【2026-11-08】[mbillow / localthings](https://github.com/mbillow/localthings) - Control your Samsung appliances from Home Assistant over your home network, with no cloud account.
 * 【2026-11-06】[vercel-labs / agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 * 【2026-11-05】[FareedKhan-dev / kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
 * 【2026-11-05】[JiaFeiMiao-K-Cat / DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) - 
