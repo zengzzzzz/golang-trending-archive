@@ -589,6 +589,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-11-18】[Dodaios / Dodaios](https://github.com/Dodaios/Dodaios) - One workspace for everything you do with AI: Claude Code, Codex and seven more coding agents side by side, one assistant that runs them, voice, and docs. Open source, on your computer, on your own plans and keys. Formerly Personal Jarvis.
+* 【2026-11-18】[ethanplusai / sellbird](https://github.com/ethanplusai/sellbird) - Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies.
 * 【2026-11-17】[NVIDIA / SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) - Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
 * 【2026-11-17】[tradermonty / claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) - Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.
 * 【2026-11-17】[kajisho5 / ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.
@@ -1499,6 +1501,10 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 ## Java
 
+* 【2026-11-18】[TelegramMessenger / Telegram-Android](https://github.com/TelegramMessenger/Telegram-Android) - Telegram for Android source
+* 【2026-11-18】[microsoft / copilot-sdk](https://github.com/microsoft/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+* 【2026-11-18】[Aizistral-Studios / No-Chat-Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) - Disable Player Chat Reporting and make user messages untrackable.
+* 【2026-11-18】[Aizistral-Studios / No-Chat-Restrictions](https://github.com/Aizistral-Studios/No-Chat-Restrictions) - A Minecraft mod dedicated to removing restrictions around the use of multiplayer features, including in-game chat.
 * 【2026-11-06】[openremote / core](https://github.com/openremote/core) - 100% open-source IoT Platform - Integrate your devices, add intelligence, build custom apps
 * 【2026-11-05】[cyberkaida / reverse-engineering-assistant](https://github.com/cyberkaida/reverse-engineering-assistant) - MCP server for reverse engineering tasks in Ghidra 👩‍💻
 * 【2026-11-05】[dotnetdreamer / open-android-dex](https://github.com/dotnetdreamer/open-android-dex) - Turn any android phone into Desktop class experience including full linux environment without root
@@ -2006,6 +2012,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-11-18】[esengine / estella](https://github.com/esengine/estella) - A fast 2D and 3D game engine — TypeScript SDK, C++/WebAssembly core, visual editor. Ship one project to web, desktop, WeChat MiniGames, playable ads, and native Android / iOS.
 * 【2026-11-17】[lnkiai / m3e-canvas](https://github.com/lnkiai/m3e-canvas) - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 * 【2026-11-11】[WhiteTowerAI / ohmygame](https://github.com/WhiteTowerAI/ohmygame) - The open-source studio for making games with AI. Your own one-person game studio. Everything you need to make games with AI, in one app. Game canvas. Bring your own key.
 * 【2026-11-10】[kortix-ai / CompanyOS](https://github.com/kortix-ai/CompanyOS) - Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours.
@@ -2857,6 +2864,8 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 ## Javascript
 
+* 【2026-11-18】[qwdwqfwq / topconf-paper-figure-gallery](https://github.com/qwdwqfwq/topconf-paper-figure-gallery) - 3,516 curated Figure 1 / teasers from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2026), with tier badges and FigureForge retrieval-augmented figure drafting
+* 【2026-11-18】[pugarte7 / spanish-top-tech-companies](https://github.com/pugarte7/spanish-top-tech-companies) - MCP con las mejores ofertas tech de España, para que tus agentes puedan aplicar por ti de forma automática.
 * 【2026-11-17】[Minglink / dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5) - DeepSeek v4.1 flash 最强逆向工具（无限五代） 求 Star 收藏 ⭐欢迎大家提交项目的改进
 * 【2026-11-17】[aliyun / ai-agent-handbook](https://github.com/aliyun/ai-agent-handbook) - A practical guide to building enterprise AI agents across their full lifecycle.
 * 【2026-11-08】[babygoton / WorkDaddy](https://github.com/babygoton/WorkDaddy) - WorkBuddy、CodeBuddy 桌面端增强助手：签到猫猫旅行成长计划查询、多账号独立备份、点切即用；免打扰模式让 AI 无人值守跑长任务；跨账号会话迁移、异常中断自动续接；暂存/快捷提示词；毛玻璃主题与更多实用功能。
