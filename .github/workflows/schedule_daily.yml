@@ -34,22 +34,12 @@ jobs:
         run: |
           python scraper.py
 
-      - name: Check for changes
-        id: git-status
-        run: |
-          git add -A
-          if git diff --cached --quiet; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-          else
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-          fi
-
       - name: Push changes
-        if: steps.git-status.outputs.changed == 'true'
         run: |
           echo start push
           git config user.name "zengzzzzz"
           git config user.email "mrzengzzzz@gmail.com"
 
-          git commit -m "$(date '+%Y-%m-%d')"
+          git add -A
+          git commit --allow-empty -m "$(date '+%Y-%m-%d')"
           git push
