@@ -590,6 +590,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 ## Python
 
+* 【2026-11-26】[samuelgursky / davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) - MCP server integration for DaVinci Resolve Studio
 * 【2026-11-20】[awslabs / cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) - Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions
 * 【2026-11-20】[FlashML-org / FreeVideo](https://github.com/FlashML-org/FreeVideo) - Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB of RAM, and adapts its acceleration path to your hardware.
 * 【2026-11-20】[phone-harness / phone-harness](https://github.com/phone-harness/phone-harness) - let your agent control your phone
@@ -3401,6 +3402,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-11-01】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 ## C
 
+* 【2026-11-26】[CroqueMr / libreelec-CB1](https://github.com/CroqueMr/libreelec-CB1) - LibreELEC with High Quality Dolby Vision & HDR10+ support for Intel, AMD, Nvidia, and more
 * 【2026-11-20】[LiberNT / LiberNT](https://github.com/LiberNT/LiberNT) - A free Windows-compatible Operating System
 * 【2026-11-04】[YizhengWw / HachimoDock](https://github.com/YizhengWw/HachimoDock) - A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing, juggling, sleeping, and more.
 * 【2026-10-31】[meta / zstd](https://github.com/meta/zstd) - Zstandard - Fast real-time compression algorithm
