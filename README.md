@@ -2018,6 +2018,7 @@ To get started with the Golang Trending Archive, follow these steps:
 * 【2024-09-01】[alibaba / fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON library with excellent performance.
 ## Typescript
 
+* 【2026-11-28】[NYLLON-SOFTWARE / SignuDoc](https://github.com/NYLLON-SOFTWARE/SignuDoc) - Open-source document signature platform. Not affiliated with DocuSign.
 * 【2026-11-20】[tianma-if / edgeever](https://github.com/tianma-if/edgeever) - AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.
 * 【2026-11-18】[esengine / estella](https://github.com/esengine/estella) - A fast 2D and 3D game engine — TypeScript SDK, C++/WebAssembly core, visual editor. Ship one project to web, desktop, WeChat MiniGames, playable ads, and native Android / iOS.
 * 【2026-11-17】[lnkiai / m3e-canvas](https://github.com/lnkiai/m3e-canvas) - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
